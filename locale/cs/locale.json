@@ -1,0 +1,13 @@
+{
+    "id": "dsw:cs:0.1.0",
+    "organizationId": "dsw",
+    "localeId": "cs",
+    "version": "0.1.0",
+    "code": "wizard",
+    "recommendedAppVersion": "3.17.1",
+    "name": "Czech",
+    "description": "",
+    "license": "CC-BY-4.0",
+    "readme": "xdfghuj",
+    "createdAt": "2022-11-23T13:36:09.399736Z"
+}

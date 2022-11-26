@@ -1,0 +1,4669 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wizard-client:3.17.1\n"
+"POT-Creation-Date: 2022-11-14T14:17:48.494Z \n"
+"Language: en\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+
+#: engine-shared/elm/Shared/Auth/Role.elm:29
+msgid "Admin"
+msgstr ""
+
+#: engine-shared/elm/Shared/Auth/Role.elm:34
+msgid "Data Steward"
+msgstr ""
+
+#: engine-shared/elm/Shared/Auth/Role.elm:39
+msgid "Researcher"
+msgstr ""
+
+#: engine-shared/elm/Shared/Common/TimeUtils.elm:156
+msgid "January"
+msgstr ""
+
+#: engine-shared/elm/Shared/Common/TimeUtils.elm:159
+msgid "February"
+msgstr ""
+
+#: engine-shared/elm/Shared/Common/TimeUtils.elm:162
+msgid "March"
+msgstr ""
+
+#: engine-shared/elm/Shared/Common/TimeUtils.elm:165
+msgid "April"
+msgstr ""
+
+#: engine-shared/elm/Shared/Common/TimeUtils.elm:168
+msgid "May"
+msgstr ""
+
+#: engine-shared/elm/Shared/Common/TimeUtils.elm:171
+msgid "June"
+msgstr ""
+
+#: engine-shared/elm/Shared/Common/TimeUtils.elm:174
+msgid "July"
+msgstr ""
+
+#: engine-shared/elm/Shared/Common/TimeUtils.elm:177
+msgid "August"
+msgstr ""
+
+#: engine-shared/elm/Shared/Common/TimeUtils.elm:180
+msgid "September"
+msgstr ""
+
+#: engine-shared/elm/Shared/Common/TimeUtils.elm:183
+msgid "October"
+msgstr ""
+
+#: engine-shared/elm/Shared/Common/TimeUtils.elm:186
+msgid "November"
+msgstr ""
+
+#: engine-shared/elm/Shared/Common/TimeUtils.elm:189
+msgid "December"
+msgstr ""
+
+#: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireCreation.elm:116
+msgid "Templates & Custom"
+msgstr ""
+
+#: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireCreation.elm:117
+msgid "Projects can be created from project templates or with custom settings."
+msgstr ""
+
+#: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireCreation.elm:120
+#: engine-wizard/elm/Wizard/Projects/Index/View.elm:89
+msgid "Templates only"
+msgstr ""
+
+#: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireCreation.elm:121
+msgid "Only project templates can be used for creating new projects."
+msgstr ""
+
+#: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireCreation.elm:124
+msgid "Custom only"
+msgstr ""
+
+#: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireCreation.elm:125
+msgid "Project templates feature is disabled, researchers have to choose knowledge model and set up everything."
+msgstr ""
+
+#: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireSharing.elm:135
+msgid "Restricted"
+msgstr ""
+
+#: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireSharing.elm:136
+msgid "Only logged-in users can access the project depending on the project visibility."
+msgstr ""
+
+#: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireSharing.elm:139
+msgid "View with the link"
+msgstr ""
+
+#: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireSharing.elm:140
+msgid "Anyone on the internet with the link can view."
+msgstr ""
+
+#: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireSharing.elm:143
+msgid "Comment with the link"
+msgstr ""
+
+#: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireSharing.elm:144
+msgid "Anyone on the internet with the link can view and comment."
+msgstr ""
+
+#: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireSharing.elm:147
+msgid "Edit with the link"
+msgstr ""
+
+#: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireSharing.elm:148
+msgid "Anyone on the internet with the link can edit."
+msgstr ""
+
+#: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireVisibility.elm:145
+msgid "Private"
+msgstr ""
+
+#: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireVisibility.elm:146
+msgid "Visible only to the owner."
+msgstr ""
+
+#: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireVisibility.elm:149
+msgid "Visible - View"
+msgstr ""
+
+#: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireVisibility.elm:150
+#: engine-wizard/elm/Wizard/Projects/Common/View.elm:25
+msgid "Other logged-in users can view the project."
+msgstr ""
+
+#: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireVisibility.elm:153
+msgid "Visible - Comment"
+msgstr ""
+
+#: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireVisibility.elm:154
+msgid "Other logged-in users can view and comment the project."
+msgstr ""
+
+#: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireVisibility.elm:157
+msgid "Visible - Edit"
+msgstr ""
+
+#: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireVisibility.elm:158
+#: engine-wizard/elm/Wizard/Projects/Common/View.elm:22
+msgid "Other logged-in users can edit the project."
+msgstr ""
+
+#: engine-shared/elm/Shared/Data/QuestionnairePermission.elm:60
+msgid "view"
+msgstr ""
+
+#: engine-shared/elm/Shared/Data/QuestionnairePermission.elm:61
+msgid "comment"
+msgstr ""
+
+#: engine-shared/elm/Shared/Data/QuestionnairePermission.elm:62
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:349
+msgid "edit"
+msgstr ""
+
+#: engine-shared/elm/Shared/Error/ServerError.elm:101
+msgid "You do not have permission to view this page."
+msgstr ""
+
+#: engine-shared/elm/Shared/Error/ServerError.elm:109
+msgid "Knowledge Model ID is already used."
+msgstr ""
+
+#: engine-shared/elm/Shared/Error/ServerError.elm:112
+msgid "Knowledge Model already exists."
+msgstr ""
+
+#: engine-shared/elm/Shared/Error/ServerError.elm:115
+msgid "Template already exists."
+msgstr ""
+
+#: engine-shared/elm/Shared/Error/ServerError.elm:118
+#: engine-shared/elm/Shared/Error/ServerError.elm:134
+msgid "Email is already used."
+msgstr ""
+
+#: engine-shared/elm/Shared/Error/ServerError.elm:121
+msgid "New version has to be higher than the previous one."
+msgstr ""
+
+#: engine-shared/elm/Shared/Error/ServerError.elm:124
+msgid "\"template.json\" was not found in archive."
+msgstr ""
+
+#: engine-shared/elm/Shared/Error/ServerError.elm:127
+msgid "Error while parsing template.json: \"%s\"."
+msgstr ""
+
+#: engine-shared/elm/Shared/Error/ServerError.elm:130
+msgid "Asset \"%s\" was not found in archive."
+msgstr ""
+
+#: engine-shared/elm/Shared/Error/ServerError.elm:137
+msgid "Link is not valid."
+msgstr ""
+
+#: engine-shared/elm/Shared/Error/ServerError.elm:140
+msgid "This email is not connected to any organization."
+msgstr ""
+
+#: engine-shared/elm/Shared/Error/ServerError.elm:143
+msgid "Organization email is already used."
+msgstr ""
+
+#: engine-shared/elm/Shared/Error/ServerError.elm:146
+msgid "Organization ID is already used."
+msgstr ""
+
+#: engine-shared/elm/Shared/Error/ServerError.elm:149
+#: engine-shared/elm/Shared/Error/ServerError.elm:189
+#: engine-shared/elm/Shared/Error/ServerError.elm:192
+msgid "A hash query param has to be provided."
+msgstr ""
+
+#: engine-shared/elm/Shared/Error/ServerError.elm:153
+msgid "App ID is already used."
+msgstr ""
+
+#: engine-shared/elm/Shared/Error/ServerError.elm:156
+msgid "Authentication Code is not provided."
+msgstr ""
+
+#: engine-shared/elm/Shared/Error/ServerError.elm:159
+msgid "Profile Information from OpenID service is missing."
+msgstr ""
+
+#: engine-shared/elm/Shared/Error/ServerError.elm:162
+msgid "Template cannot be deleted because it is used in some Projects or documents."
+msgstr ""
+
+#: engine-shared/elm/Shared/Error/ServerError.elm:165
+msgid "Template version is not supported."
+msgstr ""
+
+#: engine-shared/elm/Shared/Error/ServerError.elm:168
+msgid "Limit of %s reached (current: %s, limit: %s)"
+msgstr ""
+
+#: engine-shared/elm/Shared/Error/ServerError.elm:171
+msgid "Knowledge Model cannot be deleted because it is used in some Projects or Knowledge Model Editors."
+msgstr ""
+
+#: engine-shared/elm/Shared/Error/ServerError.elm:174
+msgid "The Knowledge Model was not found in the Registry."
+msgstr ""
+
+#: engine-shared/elm/Shared/Error/ServerError.elm:177
+msgid "Project cannot be deleted because it is used in some project migration."
+msgstr ""
+
+#: engine-shared/elm/Shared/Error/ServerError.elm:180
+msgid "The template was not found in the Registry."
+msgstr ""
+
+#: engine-shared/elm/Shared/Error/ServerError.elm:183
+msgid "Incorrect email or password"
+msgstr ""
+
+#: engine-shared/elm/Shared/Error/ServerError.elm:186
+msgid "The account is not activated."
+msgstr ""
+
+#: engine-shared/elm/Shared/Form.elm:21
+#: engine-shared/elm/Shared/Form.elm:24
+msgid "%s cannot be empty."
+msgstr ""
+
+#: engine-shared/elm/Shared/Form.elm:27
+msgid "This is not a valid email."
+msgstr ""
+
+#: engine-shared/elm/Shared/Form.elm:30
+msgid "This is not a valid number."
+msgstr ""
+
+#: engine-shared/elm/Shared/Form.elm:33
+msgid "This should not be less than %s."
+msgstr ""
+
+#: engine-shared/elm/Shared/Form.elm:36
+msgid "This should not be more than %s."
+msgstr ""
+
+#: engine-shared/elm/Shared/Form.elm:41
+msgid "Passwords do not match!"
+msgstr ""
+
+#: engine-shared/elm/Shared/Form.elm:44
+msgid "This is not a valid UUID."
+msgstr ""
+
+#: engine-shared/elm/Shared/Form.elm:53
+msgid "Invalid value."
+msgstr ""
+
+#: engine-shared/elm/Shared/Form/Validate.elm:53
+msgid "This is a very weak password."
+msgstr ""
+
+#: engine-shared/elm/Shared/Form/Validate.elm:56
+msgid "This is a weak password."
+msgstr ""
+
+#: engine-shared/elm/Shared/Form/Validate.elm:129
+#: engine-shared/elm/Shared/Form/Validate.elm:134
+msgid "Comma (,) is not allowed in project tags."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Apps/Create/Update.elm:59
+msgid "App could not be created."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Apps/Create/View.elm:24
+msgid "Create app"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Apps/Create/View.elm:29
+#: engine-wizard/elm/Wizard/Apps/Index/View.elm:102
+#: engine-wizard/elm/Wizard/Dashboard/Widgets/CreateKnowledgeModelWidget.elm:17
+#: engine-wizard/elm/Wizard/Dashboard/Widgets/CreateProjectTemplateWidget.elm:17
+#: engine-wizard/elm/Wizard/Dashboard/Widgets/CreateProjectWidget.elm:17
+#: engine-wizard/elm/Wizard/KMEditor/Common/UpgradeModal.elm:167
+#: engine-wizard/elm/Wizard/KMEditor/Create/View.elm:46
+#: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:48
+#: engine-wizard/elm/Wizard/Projects/CreateMigration/View.elm:103
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/NewDocument.elm:263
+#: engine-wizard/elm/Wizard/Projects/Index/View.elm:79
+#: engine-wizard/elm/Wizard/Users/Index/View.elm:43
+msgid "Create"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Apps/Create/View.elm:36
+#: engine-wizard/elm/Wizard/Apps/Detail/View.elm:112
+#: engine-wizard/elm/Wizard/Apps/Detail/View.elm:157
+#: engine-wizard/elm/Wizard/Apps/Index/View.elm:57
+msgid "App ID"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Apps/Create/View.elm:37
+#: engine-wizard/elm/Wizard/Apps/Detail/View.elm:158
+#: engine-wizard/elm/Wizard/Apps/Detail/View.elm:185
+#: engine-wizard/elm/Wizard/Apps/Detail/View.elm:216
+#: engine-wizard/elm/Wizard/Apps/Index/View.elm:56
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire/VersionModal.elm:156
+#: engine-wizard/elm/Wizard/Documents/Index/View.elm:116
+#: engine-wizard/elm/Wizard/KMEditor/Create/View.elm:74
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1243
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1382
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1887
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/Settings.elm:149
+#: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:68
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:572
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:594
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:619
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:641
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:696
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:769
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1976
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1995
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:2017
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:2036
+#: engine-wizard/elm/Wizard/KnowledgeModels/Import/OwlImport/View.elm:43
+#: engine-wizard/elm/Wizard/KnowledgeModels/Index/View.elm:68
+#: engine-wizard/elm/Wizard/ProjectImporters/Index/View.elm:44
+#: engine-wizard/elm/Wizard/Projects/Create/CustomCreate/View.elm:70
+#: engine-wizard/elm/Wizard/Projects/Create/TemplateCreate/View.elm:73
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/NewDocument.elm:280
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:370
+#: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:103
+#: engine-wizard/elm/Wizard/Projects/Index/View.elm:129
+#: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:171
+#: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:207
+#: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:228
+#: engine-wizard/elm/Wizard/Settings/Organization/View.elm:34
+#: engine-wizard/elm/Wizard/Settings/Submission/View.elm:104
+#: engine-wizard/elm/Wizard/Templates/Index/View.elm:68
+msgid "Name"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Apps/Create/View.elm:38
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:975
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1895
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1977
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1996
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:2018
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:2037
+#: engine-wizard/elm/Wizard/Public/ForgottenPassword/View.elm:52
+#: engine-wizard/elm/Wizard/Public/Login/View.elm:55
+#: engine-wizard/elm/Wizard/Public/Signup/View.elm:129
+#: engine-wizard/elm/Wizard/Settings/Registry/View.elm:140
+#: engine-wizard/elm/Wizard/Users/Create/View.elm:37
+#: engine-wizard/elm/Wizard/Users/Edit/View.elm:167
+#: engine-wizard/elm/Wizard/Users/Index/View.elm:61
+msgid "Email"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Apps/Create/View.elm:39
+#: engine-wizard/elm/Wizard/Public/Signup/View.elm:130
+#: engine-wizard/elm/Wizard/Users/Create/View.elm:38
+#: engine-wizard/elm/Wizard/Users/Edit/View.elm:169
+#: engine-wizard/elm/Wizard/Users/Index/View.elm:59
+msgid "First name"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Apps/Create/View.elm:40
+#: engine-wizard/elm/Wizard/Public/Signup/View.elm:131
+#: engine-wizard/elm/Wizard/Users/Create/View.elm:39
+#: engine-wizard/elm/Wizard/Users/Edit/View.elm:170
+#: engine-wizard/elm/Wizard/Users/Index/View.elm:60
+msgid "Last name"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Apps/Detail/Update.elm:36
+msgid "Unable to get app."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Apps/Detail/Update.elm:125
+msgid "App could not be saved."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Apps/Detail/Update.elm:167
+msgid "Plan could not be created."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Apps/Detail/Update.elm:209
+msgid "Plan could not be saved."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Apps/Detail/Update.elm:239
+msgid "Plan could not be deleted."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Apps/Detail/View.elm:55
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1698
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1756
+#: engine-wizard/elm/Wizard/Users/Index/View.elm:146
+msgid "Edit"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Apps/Detail/View.elm:77
+#: engine-wizard/elm/Wizard/Dashboard/Widgets/UsageWidget.elm:27
+#: engine-wizard/elm/Wizard/Settings/Usage/View.elm:22
+#: engine-wizard/elm/Wizard/Settings/View.elm:141
+msgid "Usage"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Apps/Detail/View.elm:80
+#: engine-wizard/elm/Wizard/Settings/Plans/View.elm:22
+#: engine-wizard/elm/Wizard/Settings/View.elm:145
+msgid "Plans"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Apps/Detail/View.elm:83
+#: engine-wizard/elm/Wizard/Apps/Detail/View.elm:196
+msgid "Add plan"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Apps/Detail/View.elm:106
+#: engine-wizard/elm/Wizard/Apps/Detail/View.elm:113
+#: engine-wizard/elm/Wizard/Apps/Index/View.elm:34
+#: engine-wizard/elm/Wizard/Settings/Registry/View.elm:88
+#: engine-wizard/elm/Wizard/Settings/Submission/View.elm:62
+msgid "Enabled"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Apps/Detail/View.elm:109
+#: engine-wizard/elm/Wizard/Apps/Index/View.elm:74
+msgid "Disabled"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Apps/Detail/View.elm:114
+#: engine-wizard/elm/Wizard/Apps/Index/View.elm:58
+msgid "Created at"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Apps/Detail/View.elm:115
+#: engine-wizard/elm/Wizard/Apps/Index/View.elm:59
+msgid "Updated at"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Apps/Detail/View.elm:118
+#: engine-wizard/elm/Wizard/Settings/View.elm:98
+msgid "Info"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Apps/Detail/View.elm:125
+msgid "Client URL"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Apps/Detail/View.elm:126
+msgid "Server URL"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Apps/Detail/View.elm:129
+msgid "URLs"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Apps/Detail/View.elm:141
+msgid "Admins"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Apps/Detail/View.elm:165
+msgid "Edit app"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Apps/Detail/View.elm:169
+#: engine-wizard/elm/Wizard/Apps/Detail/View.elm:231
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire/VersionModal.elm:173
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/Settings.elm:152
+#: engine-wizard/elm/Wizard/Projects/Create/CustomCreate/View.elm:27
+#: engine-wizard/elm/Wizard/Projects/Create/TemplateCreate/View.elm:42
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:379
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:265
+#: engine-wizard/elm/Wizard/Public/ForgottenPasswordConfirmation/View.elm:45
+#: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:40
+#: engine-wizard/elm/Wizard/Settings/Dashboard/View.elm:26
+#: engine-wizard/elm/Wizard/Settings/KnowledgeModels/View.elm:29
+#: engine-wizard/elm/Wizard/Settings/LookAndFeel/LogoUploadModal.elm:141
+#: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:45
+#: engine-wizard/elm/Wizard/Settings/Organization/View.elm:25
+#: engine-wizard/elm/Wizard/Settings/PrivacyAndSupport/View.elm:26
+#: engine-wizard/elm/Wizard/Settings/Projects/View.elm:30
+#: engine-wizard/elm/Wizard/Settings/Registry/View.elm:41
+#: engine-wizard/elm/Wizard/Settings/Submission/View.elm:41
+#: engine-wizard/elm/Wizard/Settings/Template/View.elm:34
+#: engine-wizard/elm/Wizard/Users/Create/View.elm:30
+#: engine-wizard/elm/Wizard/Users/Edit/View.elm:81
+#: engine-wizard/elm/Wizard/Users/Edit/View.elm:189
+msgid "Save"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Apps/Detail/View.elm:186
+#: engine-wizard/elm/Wizard/Apps/Detail/View.elm:217
+#: engine-wizard/elm/Wizard/Common/Components/PlansList.elm:97
+#: engine-wizard/elm/Wizard/Common/Components/UsageTable.elm:16
+#: engine-wizard/elm/Wizard/Common/Menu/View.elm:76
+#: engine-wizard/elm/Wizard/Projects/Index/View.elm:480
+#: engine-wizard/elm/Wizard/Users/Index/View.elm:29
+msgid "Users"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Apps/Detail/View.elm:187
+#: engine-wizard/elm/Wizard/Apps/Detail/View.elm:218
+#: engine-wizard/elm/Wizard/Common/Components/PlansList.elm:98
+msgid "From"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Apps/Detail/View.elm:188
+#: engine-wizard/elm/Wizard/Apps/Detail/View.elm:219
+#: engine-wizard/elm/Wizard/Common/Components/PlansList.elm:99
+msgid "To"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Apps/Detail/View.elm:189
+#: engine-wizard/elm/Wizard/Apps/Detail/View.elm:220
+#: engine-wizard/elm/Wizard/Common/Components/PlansList.elm:28
+msgid "Trial"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Apps/Detail/View.elm:200
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2300
+#: engine-wizard/elm/Wizard/Common/View/FormGroup.elm:311
+#: engine-wizard/elm/Wizard/Common/View/FormGroup.elm:333
+#: engine-wizard/elm/Wizard/Common/View/FormGroup.elm:356
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:635
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:716
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:467
+msgid "Add"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Apps/Detail/View.elm:227
+msgid "Edit plan"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Apps/Detail/View.elm:247
+msgid "Are you sure you want to delete plan **%s**?"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Apps/Detail/View.elm:256
+msgid "Delete plan"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Apps/Detail/View.elm:260
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1766
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1910
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2341
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire/DeleteVersionModal.elm:131
+#: engine-wizard/elm/Wizard/Documents/Index/View.elm:228
+#: engine-wizard/elm/Wizard/Documents/Index/View.elm:337
+#: engine-wizard/elm/Wizard/KMEditor/Common/DeleteModal.elm:104
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1978
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2091
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/Settings.elm:208
+#: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:232
+#: engine-wizard/elm/Wizard/KnowledgeModels/Detail/View.elm:115
+#: engine-wizard/elm/Wizard/KnowledgeModels/Detail/View.elm:289
+#: engine-wizard/elm/Wizard/KnowledgeModels/Index/View.elm:201
+#: engine-wizard/elm/Wizard/KnowledgeModels/Index/View.elm:244
+#: engine-wizard/elm/Wizard/Projects/Common/DeleteProjectModal/View.elm:36
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings/DeleteModal.elm:123
+#: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:240
+#: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:353
+#: engine-wizard/elm/Wizard/Projects/Index/View.elm:665
+#: engine-wizard/elm/Wizard/Templates/Detail/View.elm:60
+#: engine-wizard/elm/Wizard/Templates/Detail/View.elm:306
+#: engine-wizard/elm/Wizard/Templates/Index/View.elm:174
+#: engine-wizard/elm/Wizard/Templates/Index/View.elm:213
+#: engine-wizard/elm/Wizard/Users/Index/View.elm:154
+#: engine-wizard/elm/Wizard/Users/Index/View.elm:183
+msgid "Delete"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Apps/Index/Update.elm:49
+msgid "Unable to get apps."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Apps/Index/View.elm:24
+#: engine-wizard/elm/Wizard/Common/Menu/View.elm:68
+msgid "Apps"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Apps/Index/View.elm:36
+msgid "Enabled only"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Apps/Index/View.elm:37
+msgid "Disabled only"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Apps/Index/View.elm:46
+msgid "Click \"Create\" button to add a new App."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Apps/Index/View.elm:54
+msgid "Search apps..."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Auth/Update.elm:67
+msgid "Loading the profile info failed."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Listing/View.elm:152
+msgid "Filter by name..."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Listing/View.elm:201
+msgid "Order by"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Listing/View.elm:367
+msgid "Clear selection"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Listing/View.elm:445
+msgid "Last"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Listing/View.elm:458
+msgid "Next"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Listing/View.elm:472
+msgid "Prev"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Listing/View.elm:480
+msgid "First"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Listing/View.elm:503
+msgid "There are no results matching your search and filters."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Listing/View.elm:510
+msgid "No data"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Listing/View.elm:572
+msgid "Updated %s"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:44
+#: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:54
+msgid "Anonymous Cat"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:55
+msgid "Anonymous Crow"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:56
+msgid "Anonymous Dog"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:57
+msgid "Anonymous Dove"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:58
+msgid "Anonymous Dragon"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:59
+msgid "Anonymous Fish"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:60
+msgid "Anonymous Frog"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:61
+msgid "Anonymous Hippo"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:62
+msgid "Anonymous Horse"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:63
+msgid "Anonymous Kiwi"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:64
+msgid "Anonymous Otter"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:65
+msgid "Anonymous Spider"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:66
+msgid "Anonymous Pig"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:67
+msgid "Anonymous Bug"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:68
+msgid "Anonymous Wizard"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:69
+msgid "Anonymous Ghost"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:70
+msgid "Anonymous Robot"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:71
+msgid "Anonymous Snowman"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:72
+msgid "Anonymous Tree"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:73
+msgid "Anonymous Cowboy"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/PlansList.elm:50
+#: engine-wizard/elm/Wizard/Users/Edit/View.elm:111
+msgid "Active"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/PlansList.elm:82
+msgid "There are no plans for this instance."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/PlansList.elm:96
+msgid "Plan"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:617
+msgid "Unable to get version history."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:914
+msgid "Unable to get type hints."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1029
+msgid "project migration"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1032
+msgid "There is an ongoing %s. Finish it before you can continue editing this project."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1089
+msgid "View"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1093
+msgid "Show all"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1096
+msgid "Hide all"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1100
+msgid "Answered by"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1105
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:523
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:397
+msgid "Phases"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1110
+msgid "Question tags"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1191
+msgid "TODOs"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1212
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1615
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1616
+msgid "Comments"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1223
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:304
+msgid "Warnings"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1237
+msgid "Version history"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1296
+msgid "Current Phase"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1415
+msgid "All TODOs have been completed."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1446
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:345
+msgid "There are no more warnings."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1503
+msgid "Click the %s icon to add new comments to a question."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1535
+msgid "Editor notes are only visible to project Editors and Owners."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1551
+msgid "View resolved comments"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1567
+msgid "Comment"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1568
+msgid "Create a new comment..."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1627
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1628
+msgid "Editor notes"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1642
+msgid "Delete this comment thread?"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1655
+msgid "Reply"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1656
+msgid "Reply..."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1703
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1884
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1911
+#: engine-wizard/elm/Wizard/Common/View/FormActions.elm:26
+#: engine-wizard/elm/Wizard/Common/View/FormActions.elm:34
+#: engine-wizard/elm/Wizard/Common/View/FormActions.elm:42
+#: engine-wizard/elm/Wizard/Common/View/Modal.elm:76
+#: engine-wizard/elm/Wizard/Documents/Index/View.elm:377
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2097
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2174
+#: engine-wizard/elm/Wizard/KnowledgeModels/Import/FileImport/View.elm:55
+#: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:393
+#: engine-wizard/elm/Wizard/Settings/LookAndFeel/LogoUploadModal.elm:150
+#: engine-wizard/elm/Wizard/Settings/Registry/View.elm:120
+#: engine-wizard/elm/Wizard/Templates/Import/FileImport/View.elm:55
+msgid "Cancel"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1714
+msgid "Delete this comment?"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1738
+msgid "Resolve comment thread"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1748
+msgid "Reopen"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1803
+msgid "edited"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1824
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire/History.elm:505
+msgid "Anonymous user"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2007
+msgid "Previous Chapter"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2012
+msgid "Next Chapter"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2098
+msgid "anonymous user"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2110
+msgid "Answered %s by %s."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2219
+msgid "Clear answer"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2277
+msgid "There are no answers yet."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2354
+msgid "Move Up"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2367
+msgid "Move Down"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2376
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire/NavigationTree.elm:249
+msgid "Item %s"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2467
+msgid "This is not a valid email address."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2472
+msgid "This is not a valid URL."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2480
+msgid "This is not a valid color."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2521
+msgid "Select"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2592
+msgid "There are no results for your search."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2601
+#: engine-wizard/elm/Wizard/Common/Components/TypeHintInput.elm:275
+#: engine-wizard/elm/Wizard/Common/View/Flash.elm:41
+#: engine-wizard/elm/Wizard/Common/View/Page.elm:40
+msgid "Loading..."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2717
+msgid "This option leads to some follow up questions."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2774
+msgid "1 comment"
+msgid_plural "%s comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2804
+msgid "TODO"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2807
+msgid "Remove TODO"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2818
+msgid "Add TODO"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2851
+msgid "Remove Item"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2852
+msgid "Are you sure you want to remove this item?"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2855
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:331
+#: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:147
+#: engine-wizard/elm/Wizard/Settings/Submission/View.elm:100
+msgid "Remove"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire/DefaultQuestionnaireRenderer.elm:190
+msgid "Desirable"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire/DefaultQuestionnaireRenderer.elm:241
+msgid "External links"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire/DefaultQuestionnaireRenderer.elm:256
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:866
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1154
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1262
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1359
+msgid "Experts"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire/DeleteVersionModal.elm:116
+msgid "Are you sure you want to delete version %s?"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire/DeleteVersionModal.elm:120
+msgid "(Your answers will remain unchanged)"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire/DeleteVersionModal.elm:127
+#: engine-wizard/elm/Wizard/KnowledgeModels/Detail/View.elm:285
+#: engine-wizard/elm/Wizard/Templates/Detail/View.elm:302
+msgid "Delete version"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire/FeedbackModal.elm:82
+msgid "Unable to get feedback."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire/FeedbackModal.elm:95
+msgid "Feedback could not be sent."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire/FeedbackModal.elm:129
+msgid "Issue %s"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire/FeedbackModal.elm:132
+msgid "You can follow the GitHub %s."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire/FeedbackModal.elm:141
+#: engine-wizard/elm/Wizard/Documents/Index/View.elm:361
+#: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:377
+#: engine-wizard/elm/Wizard/Settings/Registry/View.elm:100
+msgid "Done"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire/FeedbackModal.elm:144
+msgid "Send"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire/FeedbackModal.elm:147
+#: engine-wizard/elm/Wizard/Settings/Projects/View.elm:98
+msgid "Feedback"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire/FeedbackModal.elm:150
+msgid "Your feedback has been sent."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire/FeedbackModal.elm:170
+msgid "There are already some issues reported with this question."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire/FeedbackModal.elm:181
+msgid "If you found something wrong with the question, you can send us your recommendation on how to improve it."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire/FeedbackModal.elm:183
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:617
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:813
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1126
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1189
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:445
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:466
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:491
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:512
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:531
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:553
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:823
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:842
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:879
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:907
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:982
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1185
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1282
+#: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:277
+msgid "Title"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire/FeedbackModal.elm:184
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire/VersionModal.elm:157
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1142
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1197
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1251
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:447
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:468
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:493
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:513
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:532
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:554
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:573
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:595
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:620
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1674
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1740
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1819
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1888
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1957
+#: engine-wizard/elm/Wizard/KMEditor/Publish/View.elm:76
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:371
+#: engine-wizard/elm/Wizard/Settings/Organization/View.elm:36
+#: engine-wizard/elm/Wizard/Settings/Submission/View.elm:105
+msgid "Description"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire/History.elm:168
+msgid "Named versions only"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire/History.elm:294
+msgid "Rename this version"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire/History.elm:298
+msgid "Delete this version"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire/History.elm:305
+msgid "Name this version"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire/History.elm:319
+#: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:211
+msgid "View questionnaire"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire/History.elm:334
+msgid "Create document"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire/History.elm:355
+msgid "Revert to this version"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire/History.elm:480
+msgid "Cleared reply of"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire/History.elm:493
+msgid "Set phase to %s"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire/NavigationTree.elm:81
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:489
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:370
+msgid "Chapters"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire/VersionModal.elm:163
+msgid "Rename version"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire/VersionModal.elm:166
+#: engine-wizard/elm/Wizard/KMEditor/Publish/View.elm:127
+#: engine-wizard/elm/Wizard/Projects/CreateMigration/View.elm:97
+msgid "New version"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/QuestionnaireVersionTag.elm:20
+msgid "Current"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/SummaryReport.elm:81
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/NewDocument.elm:148
+msgid "Unable to get the summary report."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/SummaryReport.elm:104
+#: engine-wizard/elm/Wizard/Settings/Projects/View.elm:96
+msgid "Summary Report"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/SummaryReport.elm:189
+msgid "Answered: %s/%s"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/SummaryReport.elm:192
+msgid "Answered (current phase): %s/%s"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/SummaryReport.elm:222
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:506
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:516
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:382
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1396
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1447
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1485
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1523
+#: engine-wizard/elm/Wizard/Projects/Detail/View.elm:226
+msgid "Metrics"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/SummaryReport.elm:223
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:511
+msgid "Measure"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/SummaryReport.elm:278
+msgid "Metrics explanation"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/TypeHintInput.elm:267
+msgid "No results matching your search were found."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/TypeHintInput/TypeHintItem.elm:78
+msgid "recommended"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/UsageTable.elm:17
+msgid "Active Users"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/UsageTable.elm:18
+#: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:33
+msgid "Knowledge Model Editors"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/UsageTable.elm:19
+#: engine-wizard/elm/Wizard/Common/Menu/View.elm:84
+#: engine-wizard/elm/Wizard/KnowledgeModels/Index/View.elm:30
+#: engine-wizard/elm/Wizard/Projects/Index/View.elm:351
+#: engine-wizard/elm/Wizard/Settings/KnowledgeModels/View.elm:28
+#: engine-wizard/elm/Wizard/Settings/View.elm:130
+msgid "Knowledge Models"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/UsageTable.elm:20
+#: engine-wizard/elm/Wizard/Common/Menu/View.elm:152
+#: engine-wizard/elm/Wizard/Settings/Template/View.elm:33
+#: engine-wizard/elm/Wizard/Settings/View.elm:133
+#: engine-wizard/elm/Wizard/Templates/Index/View.elm:30
+msgid "Document Templates"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/UsageTable.elm:21
+#: engine-wizard/elm/Wizard/Common/Menu/View.elm:104
+#: engine-wizard/elm/Wizard/Common/Menu/View.elm:112
+#: engine-wizard/elm/Wizard/Projects/Index/View.elm:63
+#: engine-wizard/elm/Wizard/Settings/Projects/View.elm:29
+#: engine-wizard/elm/Wizard/Settings/View.elm:131
+msgid "Projects"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/UsageTable.elm:22
+#: engine-wizard/elm/Wizard/Common/Menu/View.elm:132
+#: engine-wizard/elm/Wizard/Documents/Index/View.elm:75
+#: engine-wizard/elm/Wizard/Projects/Detail/View.elm:244
+msgid "Documents"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/UsageTable.elm:23
+msgid "Storage"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Menu/Update.elm:39
+msgid "Unable to get the build info"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Menu/View.elm:91
+#: engine-wizard/elm/Wizard/Common/Menu/View.elm:119
+#: engine-wizard/elm/Wizard/Common/Menu/View.elm:139
+msgid "List"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Menu/View.elm:96
+msgid "Editors"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Menu/View.elm:124
+msgid "Importers"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Menu/View.elm:144
+msgid "Templates"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Menu/View.elm:160
+msgid "Dev"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Menu/View.elm:167
+msgid "Operations"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Menu/View.elm:172
+msgid "Persistent Commands"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Menu/View.elm:180
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/Settings.elm:146
+#: engine-wizard/elm/Wizard/KMEditor/Editor/View.elm:189
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:368
+#: engine-wizard/elm/Wizard/Projects/Detail/View.elm:253
+#: engine-wizard/elm/Wizard/Registry/RegistrySignupConfirmation/View.elm:32
+msgid "Settings"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Menu/View.elm:425
+msgid "Edit profile"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Menu/View.elm:434
+msgid "Log out"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Menu/View.elm:443
+#: engine-wizard/elm/Wizard/Common/Menu/View.elm:521
+msgid "About"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Menu/View.elm:452
+#: engine-wizard/elm/Wizard/Common/Menu/View.elm:500
+msgid "Report issue"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Menu/View.elm:469
+msgid "Collapse sidebar"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Menu/View.elm:484
+msgid "If you find any problem, the best way to report it is to open an issue in our GitHub repository."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Menu/View.elm:496
+msgid "You can also write us an email to %s."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Menu/View.elm:504
+#: engine-wizard/elm/Wizard/Common/Menu/View.elm:525
+#: engine-wizard/elm/Wizard/Common/View/Modal.elm:122
+msgid "OK"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Menu/View.elm:542
+msgid "Style Version"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Menu/View.elm:546
+msgid "API URL"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Menu/View.elm:547
+msgid "API Docs"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Menu/View.elm:551
+msgid "Client"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Menu/View.elm:552
+msgid "Server"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Menu/View.elm:572
+#: engine-wizard/elm/Wizard/KnowledgeModels/Detail/View.elm:197
+#: engine-wizard/elm/Wizard/KnowledgeModels/Import/OwlImport/View.elm:46
+#: engine-wizard/elm/Wizard/Templates/Detail/View.elm:189
+msgid "Version"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Menu/View.elm:576
+msgid "Built at"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/TimeDistance.elm:18
+msgid "%s ago"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/TimeDistance.elm:21
+msgid "in %s"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/TimeDistance.elm:27
+msgid "less than a minute"
+msgid_plural "less than %s minutes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: engine-wizard/elm/Wizard/Common/TimeDistance.elm:41
+msgid "1 minute"
+msgid_plural "%s minutes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: engine-wizard/elm/Wizard/Common/TimeDistance.elm:44
+msgid "about 1 hour"
+msgid_plural "about %s hours"
+msgstr[0] ""
+msgstr[1] ""
+
+#: engine-wizard/elm/Wizard/Common/TimeDistance.elm:47
+msgid "1 day"
+msgid_plural "%s days"
+msgstr[0] ""
+msgstr[1] ""
+
+#: engine-wizard/elm/Wizard/Common/TimeDistance.elm:50
+msgid "about 1 month"
+msgid_plural "about %s months"
+msgstr[0] ""
+msgstr[1] ""
+
+#: engine-wizard/elm/Wizard/Common/TimeDistance.elm:53
+msgid "1 month"
+msgid_plural "%s months"
+msgstr[0] ""
+msgstr[1] ""
+
+#: engine-wizard/elm/Wizard/Common/TimeDistance.elm:56
+msgid "about 1 year"
+msgid_plural "about %s years"
+msgstr[0] ""
+msgstr[1] ""
+
+#: engine-wizard/elm/Wizard/Common/TimeDistance.elm:59
+msgid "over 1 year"
+msgid_plural "over %s years"
+msgstr[0] ""
+msgstr[1] ""
+
+#: engine-wizard/elm/Wizard/Common/TimeDistance.elm:62
+msgid "almost 1 year"
+msgid_plural "almost %s years"
+msgstr[0] ""
+msgstr[1] ""
+
+#: engine-wizard/elm/Wizard/Common/View/FormGroup.elm:52
+msgid "(optional)"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/View/FormGroup.elm:210
+msgid "Only PDF documents are enabled in this instance."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/View/FormGroup.elm:439
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:208
+#: engine-wizard/elm/Wizard/Projects/Common/QuestionnaireEditFormMemberPerms.elm:63
+msgid "Editor"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/View/FormGroup.elm:447
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:216
+#: engine-wizard/elm/Wizard/KMEditor/Editor/View.elm:180
+#: engine-wizard/elm/Wizard/KnowledgeModels/Detail/View.elm:53
+#: engine-wizard/elm/Wizard/Projects/Detail/View.elm:235
+msgid "Preview"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/View/FormGroup.elm:455
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:222
+msgid "You can use markdown and see the result in the preview tab."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/View/Layout.elm:32
+#: engine-wizard/elm/Wizard/Common/View/Layout.elm:40
+msgid "Configuration Error"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/View/Layout.elm:34
+msgid "Application is not configured correctly and cannot run."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/View/Layout.elm:35
+msgid "Please, contact the administrator."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/View/Layout.elm:94
+msgid "Go to App"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/View/Layout.elm:106
+#: engine-wizard/elm/Wizard/Public/Signup/View.elm:44
+#: engine-wizard/elm/Wizard/Public/Signup/View.elm:47
+#: engine-wizard/elm/Wizard/Settings/Registry/View.elm:76
+#: engine-wizard/elm/Wizard/Settings/Registry/View.elm:104
+#: engine-wizard/elm/Wizard/Settings/Registry/View.elm:108
+msgid "Sign Up"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/View/Layout.elm:116
+#: engine-wizard/elm/Wizard/Public/Login/View.elm:63
+#: engine-wizard/elm/Wizard/Public/Login/View.elm:78
+msgid "Log In"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/View/Page.elm:48
+#: engine-wizard/elm/Wizard/Documents/Index/View.elm:261
+#: engine-wizard/elm/Wizard/Documents/Index/View.elm:279
+#: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:274
+#: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:292
+msgid "Error"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/View/Tag.elm:33
+msgid "There are no question tags configured for the Knowledge Model."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/View/Tag.elm:53
+msgid "Untitled question tag"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/View/Tag.elm:82
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:540
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:840
+#: engine-wizard/elm/Wizard/KMEditor/Editor/View.elm:171
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:412
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:954
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1067
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1215
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1312
+msgid "Question Tags"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/View/Tag.elm:108
+msgid "You can filter questions in the questionnaire by question tags. If no question tags are selected, all questions will be used."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/View/Tag.elm:114
+msgid "There are no question tags for this knowledge model."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/View/Tag.elm:126
+msgid "No question tags"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Dashboard/Dashboards/AdminDashboard.elm:81
+#: engine-wizard/elm/Wizard/Settings/Usage/Update.elm:24
+msgid "Unable to get usage."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Dashboard/Dashboards/AdminDashboard.elm:89
+#: engine-wizard/elm/Wizard/Dashboard/Dashboards/DataStewardDashboard.elm:62
+#: engine-wizard/elm/Wizard/KMEditor/Create/Update.elm:132
+#: engine-wizard/elm/Wizard/KnowledgeModels/Index/Update.elm:94
+#: engine-wizard/elm/Wizard/KnowledgeModels/Preview/Update.elm:64
+#: engine-wizard/elm/Wizard/Projects/Create/CustomCreate/Update.elm:154
+#: engine-wizard/elm/Wizard/Projects/Create/TemplateCreate/Update.elm:107
+#: engine-wizard/elm/Wizard/Projects/CreateMigration/Update.elm:178
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/NewDocument.elm:198
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:217
+#: engine-wizard/elm/Wizard/Projects/Index/Update.elm:206
+#: engine-wizard/elm/Wizard/Projects/Index/Update.elm:236
+msgid "Unable to get Knowledge Models."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Dashboard/Dashboards/AdminDashboard.elm:97
+#: engine-wizard/elm/Wizard/Dashboard/Dashboards/DataStewardDashboard.elm:70
+#: engine-wizard/elm/Wizard/Settings/Submission/Update.elm:40
+#: engine-wizard/elm/Wizard/Settings/Template/Update.elm:46
+#: engine-wizard/elm/Wizard/Templates/Index/Update.elm:94
+msgid "Unable to get document templates."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Dashboard/Dashboards/ResearcherDashboard.elm:72
+#: engine-wizard/elm/Wizard/Projects/Index/Update.elm:337
+msgid "Unable to get projects."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Dashboard/Dashboards/WelcomeDashboard.elm:18
+msgid "Welcome to the %s!"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Dashboard/Widgets/AddOpenIDWidget.elm:13
+msgid "Add OpenID Service"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Dashboard/Widgets/AddOpenIDWidget.elm:14
+msgid "OpenID is an open standard for authentication that allows using existing accounts to login to other services without creating a new password. Configure your organization's OpenID to make it easier for your users to log in."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Dashboard/Widgets/AddOpenIDWidget.elm:17
+msgid "Add OpenID"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Dashboard/Widgets/ConfigureLookAndFeelWidget.elm:15
+msgid "You can configure the application name and easily change the logo and colors to match your organization's style. You can also add additional menu links, for example, to your guidelines or documentation."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Dashboard/Widgets/ConfigureLookAndFeelWidget.elm:18
+msgid "You can configure the application name, or add additional menu links, for example, to your guidelines or documentation."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Dashboard/Widgets/ConfigureLookAndFeelWidget.elm:21
+msgid "Configure Look & Feel"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Dashboard/Widgets/ConfigureLookAndFeelWidget.elm:25
+#: engine-wizard/elm/Wizard/Dashboard/Widgets/ConfigureOrganizationWidget.elm:17
+msgid "Configure"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Dashboard/Widgets/ConfigureOrganizationWidget.elm:13
+msgid "Configure Organization Info"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Dashboard/Widgets/ConfigureOrganizationWidget.elm:14
+msgid "Fill in your organization name and organization ID. For example, these values will be used with knowledge models created in this instance."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Dashboard/Widgets/ConnectRegistryWidget.elm:13
+msgid "Connect to DSW Registry"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Dashboard/Widgets/ConnectRegistryWidget.elm:14
+msgid "[DSW Registry](https://registry.ds-wizard.org) is a place for published knowledge models and document templates. When you connect your instance, data stewards can easily import them."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Dashboard/Widgets/ConnectRegistryWidget.elm:17
+msgid "Connect"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Dashboard/Widgets/CreateKnowledgeModelWidget.elm:13
+#: engine-wizard/elm/Wizard/KMEditor/Create/View.elm:40
+msgid "Create Knowledge Model"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Dashboard/Widgets/CreateKnowledgeModelWidget.elm:14
+msgid "Knowledge model is a tree-like structure containing the knowledge about what should be asked and how. It is used as a template for questionnaires in projects. You can create new ones from scratch or by modifying existing ones."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Dashboard/Widgets/CreateProjectTemplateWidget.elm:13
+msgid "Create Project Template"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Dashboard/Widgets/CreateProjectTemplateWidget.elm:14
+msgid "Project template is a special type of project that can be used as a starting point for new projects. You can select a knowledge model, set up a document template and format, or prefill some answers to make it easier to start for researchers."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Dashboard/Widgets/CreateProjectWidget.elm:13
+#: engine-wizard/elm/Wizard/Projects/Create/View.elm:48
+msgid "Create Project"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Dashboard/Widgets/CreateProjectWidget.elm:14
+msgid "Project is a workspace where you create your DMP. It is based on a knowledge model, which contains knowledge about what should be asked and how based on the research field or organization's needs. You can use document templates to transform the answers into a document. This document can be anything, from PDF to machine-actionable JSON.\n\nYou can create a new project from a project template that data stewards prepare for you to have an easier start or from scratch where you set up everything yourself."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Dashboard/Widgets/ImportDocumentTemplateWidget.elm:13
+#: engine-wizard/elm/Wizard/Templates/Import/View.elm:44
+msgid "Import Document Template"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Dashboard/Widgets/ImportDocumentTemplateWidget.elm:14
+msgid "Document templates transform answers from a questionnaire into a document. This document can be anything, from PDF to machine-actionable JSON. You can import existing document templates from [DSW Registry](https://registry.ds-wizard.org/templates) or create new ones using [DSW TDK](https://guide.ds-wizard.org/miscellaneous/development/template-development)."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Dashboard/Widgets/ImportDocumentTemplateWidget.elm:17
+#: engine-wizard/elm/Wizard/Dashboard/Widgets/ImportKnowledgeModelWidget.elm:17
+#: engine-wizard/elm/Wizard/KnowledgeModels/Detail/View.elm:169
+#: engine-wizard/elm/Wizard/KnowledgeModels/Import/RegistryImport/View.elm:51
+#: engine-wizard/elm/Wizard/KnowledgeModels/Index/View.elm:44
+#: engine-wizard/elm/Wizard/Projects/Import/View.elm:99
+#: engine-wizard/elm/Wizard/Templates/Detail/View.elm:111
+#: engine-wizard/elm/Wizard/Templates/Detail/View.elm:148
+#: engine-wizard/elm/Wizard/Templates/Import/RegistryImport/View.elm:51
+#: engine-wizard/elm/Wizard/Templates/Index/View.elm:44
+msgid "Import"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Dashboard/Widgets/ImportKnowledgeModelWidget.elm:13
+#: engine-wizard/elm/Wizard/KnowledgeModels/Import/View.elm:83
+msgid "Import Knowledge Model"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Dashboard/Widgets/ImportKnowledgeModelWidget.elm:14
+msgid "Knowledge models are published in [DSW Registry](https://registry.ds-wizard.org). You can easily import them into your instance to make them available for researchers. You can also import other knowledge models exported from different instances."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Dashboard/Widgets/OutdatedPackagesWidget.elm:35
+msgid "Update Knowledge Models"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Dashboard/Widgets/OutdatedPackagesWidget.elm:36
+msgid "There are updates available for some knowledge models."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Dashboard/Widgets/OutdatedPackagesWidget.elm:52
+#: engine-wizard/elm/Wizard/Dashboard/Widgets/OutdatedTemplatesWidget.elm:52
+#: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:131
+#: engine-wizard/elm/Wizard/KnowledgeModels/Index/View.elm:98
+#: engine-wizard/elm/Wizard/Projects/Index/View.elm:699
+#: engine-wizard/elm/Wizard/Templates/Index/View.elm:98
+msgid "update available"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Dashboard/Widgets/OutdatedTemplatesWidget.elm:35
+msgid "Update Document Templates"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Dashboard/Widgets/OutdatedTemplatesWidget.elm:36
+msgid "There are updates available for some document templates."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Dashboard/Widgets/RecentProjectsWidget.elm:42
+msgid "Recent Projects"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Dashboard/Widgets/RecentProjectsWidget.elm:45
+msgid "View all"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Dashboard/Widgets/RecentProjectsWidget.elm:82
+msgid "You have no projects yet, start by creating some."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Dashboard/Widgets/WelcomeWidget.elm:19
+msgid "Welcome, %s!"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Dashboard/Widgets/WelcomeWidget.elm:22
+msgid "Welcome!"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Dashboard/Widgets/WelcomeWidget.elm:26
+msgid "As an admin, you configure the instance and manage user accounts."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Dashboard/Widgets/WelcomeWidget.elm:27
+msgid "As a data steward, you prepare knowledge models, document templates, and project templates for researchers."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Dashboard/Widgets/WelcomeWidget.elm:28
+msgid "As a researcher, you create and collaborate on data management plans."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Documents/Index/Update.elm:95
+#: engine-wizard/elm/Wizard/Documents/Index/Update.elm:240
+#: engine-wizard/elm/Wizard/Projects/Detail/Documents/Update.elm:220
+msgid "Unable to get documents."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Documents/Index/Update.elm:135
+#: engine-wizard/elm/Wizard/Projects/Detail/Documents/Update.elm:115
+msgid "Document could not be deleted."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Documents/Index/Update.elm:190
+#: engine-wizard/elm/Wizard/Projects/Detail/Documents/Update.elm:170
+msgid "Unable to get submission services for the document."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Documents/Index/Update.elm:227
+#: engine-wizard/elm/Wizard/Projects/Detail/Documents/Update.elm:207
+msgid "Unable to submit the document."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Documents/Index/View.elm:94
+#: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:76
+msgid "Submissions"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Documents/Index/View.elm:106
+msgid "Click \"Create\" button to add a new document."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Documents/Index/View.elm:114
+msgid "Search documents..."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Documents/Index/View.elm:117
+#: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:69
+#: engine-wizard/elm/Wizard/KnowledgeModels/Index/View.elm:69
+#: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:104
+#: engine-wizard/elm/Wizard/Projects/Index/View.elm:130
+#: engine-wizard/elm/Wizard/Users/Index/View.elm:62
+msgid "Created"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Documents/Index/View.elm:133
+#: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:129
+msgid "Click to download the document"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Documents/Index/View.elm:192
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/Preview.elm:171
+#: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:188
+msgid "Download"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Documents/Index/View.elm:204
+#: engine-wizard/elm/Wizard/Documents/Index/View.elm:365
+#: engine-wizard/elm/Wizard/Documents/Index/View.elm:373
+#: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:200
+#: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:381
+#: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:389
+msgid "Submit"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Documents/Index/View.elm:216
+#: engine-wizard/elm/Wizard/Documents/Index/View.elm:297
+#: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:310
+msgid "View error"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Documents/Index/View.elm:247
+#: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:261
+msgid "Queued"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Documents/Index/View.elm:253
+#: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:267
+msgid "In Progress"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Documents/Index/View.elm:272
+#: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:285
+msgid "Submitting"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Documents/Index/View.elm:276
+#: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:289
+msgid "Submitted"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Documents/Index/View.elm:291
+#: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:304
+msgid "View submission"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Documents/Index/View.elm:329
+#: engine-wizard/elm/Wizard/KMEditor/Common/DeleteModal.elm:96
+#: engine-wizard/elm/Wizard/KnowledgeModels/Detail/View.elm:279
+#: engine-wizard/elm/Wizard/Projects/Common/DeleteProjectModal/View.elm:26
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings/DeleteModal.elm:113
+#: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:343
+#: engine-wizard/elm/Wizard/Templates/Detail/View.elm:296
+msgid "Are you sure you want to permanently delete %s?"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Documents/Index/View.elm:333
+#: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:349
+msgid "Delete document"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Documents/Index/View.elm:402
+#: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:418
+msgid "There are no submission services configured for this type of document."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Documents/Index/View.elm:418
+#: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:434
+msgid "You can find it here: "
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Documents/Index/View.elm:428
+#: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:444
+msgid "The document was successfully submitted."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Documents/Index/View.elm:435
+#: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:451
+msgid "The document submission failed."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Documents/Index/View.elm:450
+#: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:466
+msgid "Submit %s"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Documents/Index/View.elm:482
+#: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:498
+msgid "Document error"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Documents/Index/View.elm:504
+#: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:520
+msgid "Submission error"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Common/DeleteModal.elm:75
+msgid "Knowledge model could not be deleted."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Common/DeleteModal.elm:100
+msgid "Delete knowledge model editor"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Common/UpgradeModal.elm:106
+msgid "Migration could not be created."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Common/UpgradeModal.elm:116
+#: engine-wizard/elm/Wizard/KMEditor/Create/Update.elm:65
+#: engine-wizard/elm/Wizard/KnowledgeModels/Detail/Update.elm:32
+#: engine-wizard/elm/Wizard/KnowledgeModels/Preview/Update.elm:55
+msgid "Unable to get the Knowledge Model."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Common/UpgradeModal.elm:151
+msgid "- select parent package -"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Common/UpgradeModal.elm:157
+msgid "Select the new parent knowledge model for %s."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Common/UpgradeModal.elm:158
+msgid "New parent package"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Common/UpgradeModal.elm:163
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:495
+#: engine-wizard/elm/Wizard/Projects/Index/View.elm:629
+msgid "Create migration"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Create/Update.elm:117
+msgid "Knowledge Model could not be created."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Create/View.elm:75
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/Settings.elm:150
+#: engine-wizard/elm/Wizard/KMEditor/Publish/View.elm:66
+#: engine-wizard/elm/Wizard/KnowledgeModels/Import/OwlImport/View.elm:45
+#: engine-wizard/elm/Wizard/KnowledgeModels/Import/RegistryImport/View.elm:47
+#: engine-wizard/elm/Wizard/Settings/KnowledgeModels/View.elm:47
+msgid "Knowledge Model ID"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Create/View.elm:76
+msgid "Knowledge Model ID can contain alphanumeric characters and dashes but cannot start or end with a dash."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Create/View.elm:77
+msgid "Based on"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Create/View.elm:78
+msgid "You can create a new Knowledge Model based on the existing one or start from scratch."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:242
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:497
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:116
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/TreeInput.elm:161
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/TagEditor.elm:310
+msgid "Untitled chapter"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:245
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:644
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:944
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1669
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:214
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/TreeInput.elm:208
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/TagEditor.elm:255
+msgid "Untitled question"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:248
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:514
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:130
+msgid "Untitled metric"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:251
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:531
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:144
+msgid "Untitled phase"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:254
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:548
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:158
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/TagEditor.elm:168
+msgid "Untitled tag"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:257
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:565
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1002
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:172
+msgid "Untitled integration"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:260
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:912
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:233
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/TreeInput.elm:239
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/TagEditor.elm:320
+msgid "Untitled answer"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:263
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1077
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:247
+msgid "Untitled choice"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:266
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:857
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:261
+msgid "Untitled reference"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:269
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:874
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:275
+msgid "Untitled expert"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:760
+msgid "Empty title for chapter"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:789
+msgid "Empty title for question"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:798
+msgid "No answers for options question"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:807
+msgid "No item questions for list question"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:816
+msgid "No integration selected for integration question"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:823
+msgid "No choices for multi-choice question"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:852
+msgid "Empty label for answer"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:871
+msgid "Empty label for choice"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:891
+msgid "Empty short UUID for page reference"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:898
+msgid "Empty URL for URL reference"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:901
+msgid "Invalid URL for URL reference"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:920
+msgid "Empty email for expert"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:923
+msgid "Invalid email for expert"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:933
+msgid "Empty title for metric"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:945
+msgid "Empty title for phase"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:957
+msgid "Empty name for tag"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:976
+msgid "Empty ID for integration"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:983
+msgid "Empty item URL for integration"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:994
+msgid "Empty request URL for integration"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:1001
+msgid "Empty request HTTP method for integration"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:1008
+msgid "Empty response item ID for integration"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:1015
+msgid "Empty response item template for integration"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:1024
+msgid "Empty widget URL for integration"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:453
+#: engine-wizard/elm/Wizard/KMEditor/Editor/View.elm:162
+#: engine-wizard/elm/Wizard/KMEditor/Publish/View.elm:65
+#: engine-wizard/elm/Wizard/KnowledgeModels/Detail/View.elm:214
+#: engine-wizard/elm/Wizard/Projects/Create/CustomCreate/View.elm:71
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:485
+#: engine-wizard/elm/Wizard/Projects/Index/View.elm:566
+msgid "Knowledge Model"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:498
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:219
+msgid "Add chapter"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:515
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:155
+msgid "Add metric"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:532
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:171
+msgid "Add phase"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:549
+msgid "Add tag"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:557
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:427
+msgid "Integrations"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:566
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:203
+msgid "Add integration"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:607
+msgid "Chapter"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:625
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:821
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:974
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:824
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:843
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:880
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:908
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:983
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1186
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1283
+msgid "Text"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:636
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:936
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:862
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:893
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1119
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1243
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1340
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1434
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1479
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1517
+msgid "Questions"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:645
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:945
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1670
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:235
+msgid "Add question"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:744
+msgid "Options"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:745
+msgid "List of Items"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:746
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:364
+#: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:208
+#: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:231
+#: engine-wizard/elm/Wizard/Settings/Submission/View.elm:253
+#: engine-wizard/elm/Wizard/Settings/Submission/View.elm:257
+msgid "Value"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:747
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1043
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1355
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:921
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1028
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1199
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1296
+msgid "Integration"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:748
+msgid "Multi-Choice"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:755
+msgid "Never"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:759
+msgid "Question"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:769
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1365
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:639
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:694
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:767
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:906
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:981
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1184
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1281
+msgid "Type"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:784
+msgid "Changing a question type will remove all answers."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:794
+msgid "Changing a question type will remove all item questions."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:804
+msgid "Changing a question type will remove all choices."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:832
+msgid "When does this question become desirable?"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:849
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1138
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1255
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1352
+msgid "References"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:858
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:283
+msgid "Add reference"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:875
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:299
+msgid "Add expert"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:904
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1086
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1221
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1318
+msgid "Answers"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:913
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:251
+msgid "Add answer"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:953
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/TagEditor.elm:329
+msgid "Item Template"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:969
+msgid "String"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:970
+msgid "Number"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:971
+msgid "Date"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:972
+msgid "Date Time"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:973
+msgid "Time"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:976
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1770
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1828
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1652
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1655
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1716
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1719
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1723
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1797
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1800
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1866
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1869
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1935
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1938
+#: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:157
+#: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:279
+#: engine-wizard/elm/Wizard/Settings/Submission/View.elm:228
+msgid "URL"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:977
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1259
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:574
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:596
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:621
+#: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:179
+msgid "Color"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:983
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:918
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1009
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1196
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1293
+msgid "Value Type"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1003
+msgid "- select integration -"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1031
+msgid "Integration Configuration"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1069
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1098
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1232
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1329
+msgid "Choices"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1078
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:267
+msgid "Add choice"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1116
+msgid "Metric"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1134
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:446
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:467
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:492
+msgid "Abbreviation"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1179
+msgid "Phase"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1233
+msgid "Tag"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1349
+msgid "API"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1350
+msgid "Widget"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1374
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:640
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:695
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:768
+#: engine-wizard/elm/Wizard/KnowledgeModels/Detail/View.elm:196
+#: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:138
+#: engine-wizard/elm/Wizard/Settings/Submission/View.elm:96
+#: engine-wizard/elm/Wizard/Templates/Detail/View.elm:188
+msgid "ID"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1390
+msgid "Logo URL"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1397
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:642
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:697
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:770
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:936
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1051
+msgid "Props"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1405
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:643
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:698
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:771
+msgid "Item URL"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1429
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:657
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:718
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:785
+msgid "Request URL"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1437
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:656
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:717
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:784
+msgid "Request HTTP Method"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1445
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:658
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:719
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:786
+msgid "Request HTTP Headers"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1453
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:659
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:720
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:787
+msgid "Request HTTP Body"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1461
+msgid "Allow Empty Search"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1469
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:661
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:722
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:789
+msgid "Response Item ID"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1477
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:660
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:721
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:788
+msgid "Response List Field"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1485
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:662
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:723
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:790
+msgid "Response Item Template"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1491
+#: engine-wizard/elm/Wizard/Settings/Submission/View.elm:225
+msgid "Request"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1493
+msgid "Use this section to configure the search request. The service you want to integrate has to provide a search HTTP API where you send a search string and it returns a JSON with found items."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1495
+msgid "A URL of the integrated service API that supports the search. Use `${q}` for the actual string that will be filled when users search for items, such as *ht&#8203;tps://example.com/search?q=${q}*."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1500
+msgid "Turn this off if the API cannot handle empty search requests. In that case, the requests will be made only after users type something."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1504
+msgid "Response"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1506
+msgid "Use this section to configure how to process the response returned from the search API."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1508
+msgid "If the returned JSON is not an array of items directly but the items are nested, use this to define the name or path to the field in the response that contains the list of items. Keep empty otherwise."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1510
+msgid "Use this to define an identifier for the item. This will be used in **Item URL** as `${id}` to compose a URL to the found item. You can use properties from the returned item in Jinja2 notation. For example, if the item has a field `id` use `{{item.id}}` here. You can also compose multiple fields together, e.g., `{{item.field1}}-{{item.field2}}`."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1512
+msgid "This defines how the found items will be displayed for the user. You can use properties from the returned item in Jinja2 notation, you can also use Markdown for some formatting. For example, if the returned item has a field called name, you can use `**{{item.name}}**` to display the name in bold."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1516
+msgid "Defines the URL to the selected item. Use `${id}` to get the value defined in **Response Item ID** field, for example `https://example.com/${id}`."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1530
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:675
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:744
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:803
+msgid "Widget URL"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1536
+msgid "The URL of the widget implemented using [DSW Integration Widget SDK](https://github.com/ds-wizard/dsw-integration-widget-sdk)."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1538
+msgid "Defines the URL to the selected item. Use `${id}` value returned from the widget, for example `https://example.com/${id}`."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1551
+msgid "No questions"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1586
+#: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:126
+msgid "Quick setup"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1598
+msgid "A string that identifies the integration. It has to be unique for each integration."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1600
+msgid "A name visible everywhere else in the KM Editor, such as when choosing the integration for a question."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1602
+msgid "Logo is displayed next to the link to the selected item in questionnaires. It can be either URL or base64 image."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1604
+msgid "Props can be used to parametrize the integration for each question. Use this to define the props whose value can be filled on the questions using this integration. The props can then be used in the URL configuration. For example, if you define prop named *type*, you can use it as `${type}`, such as *ht&#8203;tps://example.com/${type}*."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1608
+msgid "Questions using this integration"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1632
+msgid "Answer"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1642
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1730
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1836
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1388
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1414
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1465
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1503
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1554
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1571
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1590
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1607
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1653
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1717
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1798
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1867
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1936
+msgid "Label"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1650
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1389
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1415
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1466
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1504
+msgid "Advice"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1661
+msgid "Follow-Up Questions"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1720
+msgid "Choice"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1769
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1635
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1698
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1701
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1780
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1849
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1918
+msgid "Resource Page"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1775
+msgid "Reference"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1785
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1632
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1651
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1672
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1695
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1715
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1738
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1777
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1796
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1817
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1846
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1865
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1886
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1915
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1934
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1955
+msgid "Reference Type"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1804
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1633
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1696
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1778
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1847
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1916
+msgid "Short UUID"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1877
+msgid "Expert"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1917
+msgid "The knowledge model entity you are trying to open does not exist."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1948
+msgid "Click to copy UUID"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1963
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2155
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2168
+msgid "Move"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2009
+msgid "Are you sure you want to delete this chapter?"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2016
+msgid "Are you sure you want to delete this question?"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2023
+msgid "Are you sure you want to delete this metric?"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2030
+msgid "Are you sure you want to delete this phase?"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2037
+msgid "Are you sure you want to delete this question tag?"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2044
+msgid "Are you sure you want to delete this integration?"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2051
+msgid "Are you sure you want to delete this answer?"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2058
+msgid "Are you sure you want to delete this choice?"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2065
+msgid "Are you sure you want to delete this reference?"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2072
+msgid "Are you sure you want to delete this expert?"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2081
+msgid "Heads up!"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2158
+msgid "Select a new parent"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:356
+msgid "Key"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:388
+msgid "Add annotation"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:392
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:2282
+msgid "Annotations"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:510
+msgid "Weight"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:686
+msgid "Header Name"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:695
+msgid "Header Value"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:45
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/TreeInput.elm:99
+msgid "Expand all"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:49
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/TreeInput.elm:106
+msgid "Collapse all"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/Preview.elm:207
+msgid "Tags"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/Preview.elm:208
+msgid "Select all"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/Preview.elm:209
+msgid "Select none"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/Settings.elm:102
+msgid "Knowledge Model could not be saved."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/Settings.elm:172
+msgid "This is not the latest version of the parent knowledge model."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/Settings.elm:177
+#: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:205
+msgid "Upgrade"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/Settings.elm:184
+#: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:166
+msgid "Parent Knowledge Model"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/Settings.elm:196
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:503
+msgid "Danger Zone"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/Settings.elm:200
+msgid "Delete this knowledge model editor"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/Settings.elm:202
+msgid "Deleted knowledge model editors cannot be recovered."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/TagEditor.elm:109
+msgid "There are no question tags, create them first."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/TagEditor.elm:112
+msgid "There are no questions create them first."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Update.elm:79
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Update.elm:250
+#: engine-wizard/elm/Wizard/Projects/Detail/Update.elm:109
+#: engine-wizard/elm/Wizard/Projects/Detail/Update.elm:188
+msgid "Some changes are still saving."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Update.elm:139
+#: engine-wizard/elm/Wizard/KMEditor/Publish/Update.elm:74
+msgid "Unable to get the knowledge model editor."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/View.elm:48
+#: engine-wizard/elm/Wizard/Projects/Detail/View.elm:62
+msgid "Disconnected"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/View.elm:50
+#: engine-wizard/elm/Wizard/Projects/Detail/View.elm:64
+msgid "You have been disconnected, try to refresh the page."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/View.elm:51
+#: engine-wizard/elm/Wizard/KMEditor/Editor/View.elm:64
+#: engine-wizard/elm/Wizard/Projects/Detail/View.elm:65
+#: engine-wizard/elm/Wizard/Projects/Detail/View.elm:78
+msgid "Refresh"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/View.elm:61
+#: engine-wizard/elm/Wizard/Projects/Detail/View.elm:75
+msgid "Oops!"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/View.elm:63
+#: engine-wizard/elm/Wizard/Projects/Detail/View.elm:77
+msgid "Something went wrong, try to refresh the page."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Editor/View.elm:122
+#: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:196
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:2349
+#: engine-wizard/elm/Wizard/KMEditor/Publish/View.elm:47
+msgid "Publish"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Index/Update.elm:68
+msgid "Migration was successfully canceled."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Index/Update.elm:75
+msgid "Migration could not be deleted."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Index/Update.elm:126
+msgid "Unable to get knowledge model editors."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:58
+msgid "Click \"Create\" button to add a new Knowledge Model Editor."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:66
+msgid "Search KM editors..."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:70
+#: engine-wizard/elm/Wizard/Projects/Index/View.elm:131
+msgid "Updated"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:112
+msgid "Last published version"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:129
+msgid "There is a new version of parent Knowledge Model."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:135
+msgid "This Editor is in the process of migration to a new parent Knowledge Model."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:136
+#: engine-wizard/elm/Wizard/Projects/Index/View.elm:693
+msgid "migrating"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:140
+msgid "This Editor has been migrated to a new parent Knowledge Model, you can publish it now."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:141
+msgid "migrated"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:144
+msgid "This Editor contains unpublished changes."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:187
+msgid "Open Editor"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:214
+#: engine-wizard/elm/Wizard/Projects/Index/View.elm:641
+msgid "Continue migration"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:223
+#: engine-wizard/elm/Wizard/Projects/Index/View.elm:653
+msgid "Cancel migration"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Migration/Update.elm:54
+msgid "Unable to get migration."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Migration/Update.elm:91
+msgid "Unable to resolve conflict."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:82
+msgid "Migration state is corrupted."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:111
+msgid "Migration is still running, try again later."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:117
+msgid "Migration"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:127
+msgid "Migration of %s from %s to %s."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:141
+msgid "The event is not connected to any entity in the Knowledge Model."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:151
+msgid "Edit Knowledge Model"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:160
+msgid "Edit metric"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:166
+msgid "Delete metric"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:176
+msgid "Edit phase"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:182
+msgid "Delete phase"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:187
+msgid "Add question tag"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:192
+msgid "Edit question tag"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:198
+msgid "Delete question tag"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:208
+msgid "Edit integration"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:214
+msgid "Delete integration"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:224
+msgid "Edit chapter"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:230
+msgid "Delete chapter"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:240
+msgid "Edit question"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:246
+msgid "Delete question"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:256
+msgid "Edit answer"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:262
+msgid "Delete answer"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:272
+msgid "Edit choice"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:278
+msgid "Delete choice"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:288
+msgid "Edit reference"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:294
+msgid "Delete reference"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:304
+msgid "Edit expert"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:310
+msgid "Delete expert"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:316
+msgid "Move question"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:322
+msgid "Move answer"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:328
+msgid "Move choice"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:334
+msgid "Move reference"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:340
+msgid "Move expert"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1673
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1739
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1818
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1887
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1956
+msgid "Target UUID"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1676
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1742
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1746
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1821
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1890
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1959
+msgid "Cross Reference"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:2292
+msgid "Reject"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:2295
+msgid "Apply"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:2298
+msgid "Apply all"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:2340
+msgid "Migration successfully completed."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:2342
+msgid "You can publish the new version now."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Publish/Update.elm:145
+msgid "Publishing the new version failed."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Publish/View.elm:40
+msgid "Publish new version"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Publish/View.elm:69
+#: engine-wizard/elm/Wizard/KnowledgeModels/Detail/View.elm:199
+#: engine-wizard/elm/Wizard/Templates/Detail/View.elm:191
+msgid "License"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Publish/View.elm:72
+msgid "Choose a %s so others can use your Knowledge Model."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Publish/View.elm:74
+msgid "license"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Publish/View.elm:77
+msgid "Short description of the Knowledge Model."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Publish/View.elm:78
+msgid "Readme"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Publish/View.elm:79
+msgid "Describe the Knowledge Model, you can use markdown."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Publish/View.elm:87
+msgid "No version of this package has been published yet."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Publish/View.elm:88
+msgid "Last version"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Publish/View.elm:136
+msgid "Suggestions: "
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KMEditor/Publish/View.elm:141
+msgid "The version number is in format X.Y.Z. Increasing number Z indicates only some fixes, number Y minor changes, and number X indicates a major change."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KnowledgeModels/Detail/Update.elm:69
+#: engine-wizard/elm/Wizard/KnowledgeModels/Index/Update.elm:71
+msgid "Knowledge Model could not be deleted."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KnowledgeModels/Detail/View.elm:65
+#: engine-wizard/elm/Wizard/KnowledgeModels/Index/View.elm:165
+msgid "Create KM editor"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KnowledgeModels/Detail/View.elm:77
+#: engine-wizard/elm/Wizard/KnowledgeModels/Index/View.elm:177
+msgid "Fork KM"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KnowledgeModels/Detail/View.elm:90
+#: engine-wizard/elm/Wizard/KnowledgeModels/Index/View.elm:189
+#: engine-wizard/elm/Wizard/KnowledgeModels/Preview/View.elm:58
+msgid "Create project"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KnowledgeModels/Detail/View.elm:102
+#: engine-wizard/elm/Wizard/KnowledgeModels/Index/View.elm:153
+#: engine-wizard/elm/Wizard/Templates/Detail/View.elm:51
+#: engine-wizard/elm/Wizard/Templates/Index/View.elm:162
+msgid "Export"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KnowledgeModels/Detail/View.elm:142
+msgid "This is not the latest available version of this Knowledge Model."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KnowledgeModels/Detail/View.elm:163
+#: engine-wizard/elm/Wizard/Templates/Detail/View.elm:120
+#: engine-wizard/elm/Wizard/Templates/Detail/View.elm:143
+msgid "There is a newer version (%s) available."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KnowledgeModels/Detail/View.elm:198
+#: engine-wizard/elm/Wizard/Templates/Detail/View.elm:190
+msgid "Metamodel"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KnowledgeModels/Detail/View.elm:205
+msgid "Fork of"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KnowledgeModels/Detail/View.elm:236
+#: engine-wizard/elm/Wizard/Templates/Detail/View.elm:234
+msgid "Other versions"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KnowledgeModels/Detail/View.elm:246
+#: engine-wizard/elm/Wizard/KnowledgeModels/Index/View.elm:119
+#: engine-wizard/elm/Wizard/Templates/Detail/View.elm:242
+#: engine-wizard/elm/Wizard/Templates/Index/View.elm:128
+msgid "Published by"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KnowledgeModels/Detail/View.elm:255
+msgid "Registry Link"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KnowledgeModels/Detail/View.elm:259
+#: engine-wizard/elm/Wizard/Templates/Detail/View.elm:253
+msgid "View in registry"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KnowledgeModels/Import/FileImport/Update.elm:71
+#: engine-wizard/elm/Wizard/KnowledgeModels/Import/OwlImport/Update.elm:85
+msgid "Importing the package failed."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KnowledgeModels/Import/FileImport/View.elm:56
+#: engine-wizard/elm/Wizard/KnowledgeModels/Import/OwlImport/View.elm:54
+#: engine-wizard/elm/Wizard/Templates/Import/FileImport/View.elm:56
+msgid "Upload"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KnowledgeModels/Import/FileImport/View.elm:65
+#: engine-wizard/elm/Wizard/KnowledgeModels/Import/OwlImport/View.elm:91
+#: engine-wizard/elm/Wizard/Templates/Import/FileImport/View.elm:65
+msgid "Choose a file"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KnowledgeModels/Import/FileImport/View.elm:68
+#: engine-wizard/elm/Wizard/KnowledgeModels/Import/OwlImport/View.elm:94
+#: engine-wizard/elm/Wizard/Settings/LookAndFeel/LogoUploadModal.elm:180
+#: engine-wizard/elm/Wizard/Templates/Import/FileImport/View.elm:68
+msgid "Or just drop it here"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KnowledgeModels/Import/OwlImport/View.elm:36
+msgid "File"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KnowledgeModels/Import/OwlImport/View.elm:44
+#: engine-wizard/elm/Wizard/Settings/KnowledgeModels/View.elm:46
+#: engine-wizard/elm/Wizard/Settings/Organization/View.elm:37
+#: engine-wizard/elm/Wizard/Settings/Registry/View.elm:137
+msgid "Organization ID"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KnowledgeModels/Import/OwlImport/View.elm:47
+msgid "Previous Package ID"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KnowledgeModels/Import/OwlImport/View.elm:48
+msgid "Root Element"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KnowledgeModels/Import/RegistryImport/Update.elm:32
+msgid "Unable to import the package."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KnowledgeModels/Import/RegistryImport/View.elm:67
+msgid "You can find Knowledge Models in %s."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KnowledgeModels/Import/RegistryImport/View.elm:69
+#: engine-wizard/elm/Wizard/Settings/Registry/View.elm:35
+#: engine-wizard/elm/Wizard/Settings/View.elm:129
+#: engine-wizard/elm/Wizard/Templates/Import/RegistryImport/View.elm:68
+msgid "DSW Registry"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KnowledgeModels/Import/RegistryImport/View.elm:83
+msgid "Knowledge Model %s has been imported!"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KnowledgeModels/Import/RegistryImport/View.elm:90
+#: engine-wizard/elm/Wizard/KnowledgeModels/Index/View.elm:141
+#: engine-wizard/elm/Wizard/Templates/Import/RegistryImport/View.elm:89
+#: engine-wizard/elm/Wizard/Templates/Index/View.elm:150
+msgid "View detail"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KnowledgeModels/Import/View.elm:25
+msgid "From OWL"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KnowledgeModels/Import/View.elm:33
+#: engine-wizard/elm/Wizard/Templates/Import/View.elm:61
+msgid "From DSW Registry"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KnowledgeModels/Import/View.elm:41
+#: engine-wizard/elm/Wizard/Templates/Import/View.elm:72
+msgid "From file"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KnowledgeModels/Index/View.elm:58
+msgid "Click \"Import\" button to import a new Knowledge Model."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KnowledgeModels/Index/View.elm:66
+msgid "Search KMs..."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KnowledgeModels/Index/View.elm:82
+#: engine-wizard/elm/Wizard/Templates/Index/View.elm:81
+msgid "Latest version"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KnowledgeModels/Index/View.elm:234
+#: engine-wizard/elm/Wizard/Templates/Index/View.elm:203
+msgid "Are you sure you want to permanently delete %s and all its versions?"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KnowledgeModels/Index/View.elm:240
+msgid "Delete package"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KnowledgeModels/Preview/Update.elm:134
+#: engine-wizard/elm/Wizard/Projects/Create/CustomCreate/Update.elm:140
+#: engine-wizard/elm/Wizard/Projects/Create/TemplateCreate/Update.elm:83
+msgid "Questionnaire could not be created."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/KnowledgeModels/Preview/Update.elm:145
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:189
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:233
+#: engine-wizard/elm/Wizard/Projects/Detail/Update.elm:652
+msgid "Questionnaire could not be saved."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/ProjectImporters/Index/Update.elm:44
+msgid "Unable to change project importer."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/ProjectImporters/Index/Update.elm:47
+msgid "Project importer was changed successfully."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/ProjectImporters/Index/Update.elm:70
+msgid "Unable to get project importers."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/ProjectImporters/Index/View.elm:25
+msgid "Project Importers"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/ProjectImporters/Index/View.elm:38
+msgid "There are no project importers available."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/ProjectImporters/Index/View.elm:42
+msgid "Search importers..."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/ProjectImporters/Index/View.elm:63
+msgid "enabled"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/ProjectImporters/Index/View.elm:66
+msgid "disabled"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/ProjectImporters/Index/View.elm:82
+msgid "Disable"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/ProjectImporters/Index/View.elm:87
+msgid "Enable"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Common/CloneProjectModal/Update.elm:68
+msgid "%s has been created."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Common/CloneProjectModal/Update.elm:75
+msgid "Unable to clone Questionnaire."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Common/CloneProjectModal/View.elm:27
+msgid "Do you want to create a copy of %s?"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Common/CloneProjectModal/View.elm:31
+msgid "The original Project will remain unchanged."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Common/CloneProjectModal/View.elm:35
+msgid "Clone Project"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Common/CloneProjectModal/View.elm:39
+#: engine-wizard/elm/Wizard/Projects/Index/View.elm:612
+msgid "Clone"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Common/DeleteProjectModal/Update.elm:67
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings/DeleteModal.elm:87
+msgid "Questionnaire was successfully deleted."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Common/DeleteProjectModal/Update.elm:74
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings/DeleteModal.elm:94
+msgid "Questionnaire could not be deleted."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Common/DeleteProjectModal/View.elm:32
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings/DeleteModal.elm:119
+msgid "Delete Project"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Common/QuestionnaireEditFormMemberPerms.elm:61
+msgid "Viewer"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Common/QuestionnaireEditFormMemberPerms.elm:62
+msgid "Commenter"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Common/QuestionnaireEditFormMemberPerms.elm:64
+msgid "Owner"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Common/View.elm:33
+msgid "Anyone with the link can edit the project."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Common/View.elm:36
+msgid "Anyone with the link can view the project."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Create/CustomCreate/Update.elm:85
+#: engine-wizard/elm/Wizard/Projects/CreateMigration/Update.elm:164
+msgid "Unable to get question tags for the Knowledge Model."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Create/TemplateCreate/Update.elm:47
+#: engine-wizard/elm/Wizard/Projects/CreateMigration/Update.elm:83
+#: engine-wizard/elm/Wizard/Projects/Detail/Update.elm:483
+#: engine-wizard/elm/Wizard/Projects/Import/Update.elm:41
+msgid "Unable to get the project."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Create/TemplateCreate/View.elm:56
+#: engine-wizard/elm/Wizard/Projects/Create/TemplateCreate/View.elm:70
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:353
+#: engine-wizard/elm/Wizard/Projects/Index/View.elm:87
+msgid "Project Template"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Create/View.elm:64
+msgid "From Project Template"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Create/View.elm:74
+msgid "Custom"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/CreateMigration/Update.elm:150
+msgid "Questionnaire migration could not be created."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/CreateMigration/View.elm:56
+msgid "Original question tags"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/CreateMigration/View.elm:76
+msgid "Select Knowledge Model first"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/CreateMigration/View.elm:79
+msgid "Create Migration"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/CreateMigration/View.elm:80
+msgid "A new Project is created for the migration. The original will remain unchanged until the migration is finished."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/CreateMigration/View.elm:82
+msgid "Project"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/CreateMigration/View.elm:87
+msgid "Original Knowledge Model"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/CreateMigration/View.elm:88
+msgid "Original version"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/CreateMigration/View.elm:94
+msgid "New Knowledge Model"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/NewDocument.elm:162
+msgid "Unable to get questionnaire event."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/NewDocument.elm:230
+msgid "Document could not be created."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/NewDocument.elm:257
+msgid "New Document"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/NewDocument.elm:288
+#: engine-wizard/elm/Wizard/Settings/Submission/View.elm:140
+msgid "Format"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/NewDocument.elm:305
+msgid "Create for current version"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/NewDocument.elm:310
+msgid "You are creating a document for a project version from %s"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/NewDocument.elm:322
+#: engine-wizard/elm/Wizard/Settings/Submission/View.elm:137
+#: engine-wizard/elm/Wizard/Templates/Detail/View.elm:194
+msgid "Document Template"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/Preview.elm:103
+msgid "Unable to get the document preview."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/Preview.elm:165
+msgid "Download preview"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/Preview.elm:167
+msgid "The document format cannot be displayed in the web browser. You can still download and view it."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/Preview.elm:184
+msgid "Log in to set a default document template and format."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/Preview.elm:188
+msgid "Before you can use preview you need to set a default document template and format."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/Preview.elm:193
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/Preview.elm:225
+msgid "Go to settings"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/Preview.elm:200
+msgid "Ask the Project owner to set a default document template and format."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/Preview.elm:205
+msgid "Default document template is not set."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/Preview.elm:216
+msgid "Log in to update the default document template."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/Preview.elm:220
+msgid "Before you can use preview you need to update the default document template."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/Preview.elm:232
+msgid "Ask the Project owner to update the default document template."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/Preview.elm:237
+msgid "Default document template is no longer supported."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/ProjectSaving.elm:113
+msgid "Saving..."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/ProjectSaving.elm:118
+msgid "Saved"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/ProjectSaving.elm:123
+msgid "All changes have been saved"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/RevertModal.elm:109
+msgid "Heads up! This action cannot be undone."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/RevertModal.elm:112
+msgid "Are you sure you want to revert the projects to its state from %s?"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/RevertModal.elm:118
+msgid "Revert questionnaire"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/RevertModal.elm:122
+msgid "Revert"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:260
+#: engine-wizard/elm/Wizard/Projects/Index/Update.elm:161
+msgid "Unable to get project tags."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:332
+msgid "This document template is no longer supported."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:345
+msgid "Default document format"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:354
+msgid "Project templates can be used by other users so they don't have to start their new projects from scratch."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:374
+msgid "Default document template"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:393
+#: engine-wizard/elm/Wizard/Projects/Index/View.elm:250
+msgid "Project Tags"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:507
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:515
+msgid "Delete this project"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:509
+msgid "Deleted projects cannot be recovered."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:153
+#: engine-wizard/elm/Wizard/Projects/Index/Update.elm:168
+#: engine-wizard/elm/Wizard/Projects/Index/Update.elm:198
+#: engine-wizard/elm/Wizard/Users/Index/Update.elm:89
+msgid "Unable to get users."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:261
+msgid "Share Project"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:281
+msgid "Add users"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:363
+msgid "Other logged-in users can %s the project."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:368
+msgid "Visible by all other logged-in users"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:393
+msgid "Copy link"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:406
+msgid "Anyone with the link can %s the project."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:411
+msgid "Public link"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Detail/Documents/Update.elm:107
+msgid "Document was successfully deleted."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:90
+msgid "Click \"New document\" button to add a new document."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:93
+msgid "Log in to add a new document."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:114
+msgid "New document"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Detail/View.elm:147
+#: engine-wizard/elm/Wizard/Projects/Index/View.elm:708
+msgid "Template"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Detail/View.elm:167
+msgid "Add to my projects"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Detail/View.elm:183
+msgid "Share"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Detail/View.elm:217
+msgid "Questionnaire"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Detail/View.elm:285
+msgid "You are not allowed to view this page."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Import/Update.elm:56
+msgid "Unable to get importer."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Import/Update.elm:96
+msgid "Questionnaire changes could not be saved."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Import/View.elm:43
+msgid "Follow the instructions in the importer window."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Import/View.elm:46
+msgid "Import answers"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Import/View.elm:62
+msgid "%s questionnaire changes will be imported."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Import/View.elm:80
+msgid "%s errors encountered:"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Import/View.elm:94
+msgid "Import status"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Index/Update.elm:274
+msgid "Questionnaire migration was successfully canceled."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Index/Update.elm:281
+msgid "Questionnaire migration could not be deleted."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Index/View.elm:90
+msgid "Projects only"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Index/View.elm:119
+msgid "Click \"Create\" button to add a new project."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Index/View.elm:127
+msgid "Search projects..."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Index/View.elm:196
+msgid "Search project tags..."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Index/View.elm:212
+#: engine-wizard/elm/Wizard/Projects/Index/View.elm:442
+msgid "OR"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Index/View.elm:219
+#: engine-wizard/elm/Wizard/Projects/Index/View.elm:449
+msgid "AND"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Index/View.elm:238
+msgid "No project tags found"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Index/View.elm:315
+msgid "Search knowledge models..."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Index/View.elm:339
+msgid "No knowledge models found"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Index/View.elm:426
+#: engine-wizard/elm/Wizard/Users/Index/View.elm:57
+msgid "Search users..."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Index/View.elm:468
+msgid "No users found"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Index/View.elm:600
+msgid "Open project"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Migration/Update.elm:83
+msgid "Unable to get the Questionnaire migration."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Migration/Update.elm:98
+msgid "Unable to save migration."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Migration/View.elm:36
+msgid "Finalize migration"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Migration/View.elm:46
+msgid "No changes to review"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Migration/View.elm:48
+msgid "There are no changes affecting your answers."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Migration/View.elm:49
+msgid "You can safely finalize the migration."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Migration/View.elm:86
+msgid "Source KM"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Migration/View.elm:90
+msgid "Target KM"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Migration/View.elm:122
+msgid "Change already resolved"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Migration/View.elm:124
+msgid "Undo"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Migration/View.elm:129
+msgid "Resolve"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Migration/View.elm:137
+msgid "Resolve all"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Migration/View.elm:141
+msgid "Resolved changes %s/%s"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Migration/View.elm:187
+msgid "New Question"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Migration/View.elm:190
+msgid "Question Changed"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Migration/View.elm:193
+msgid "Moved Question"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Migration/View.elm:197
+msgid "Resolved"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Public/Auth/Update.elm:28
+#: engine-wizard/elm/Wizard/Public/Login/Update.elm:52
+msgid "Login failed."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Public/BookReference/Update.elm:27
+msgid "Unable to get a book reference."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Public/BookReference/View.elm:37
+msgid "Data Stewardship for Open Science"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Public/BookReference/View.elm:39
+msgid "Chapter %s"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Public/BookReference/View.elm:42
+msgid "With kind permission of"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Public/ForgottenPassword/Update.elm:60
+#: engine-wizard/elm/Wizard/Public/ForgottenPasswordConfirmation/Update.elm:60
+msgid "Forgotten password recovery failed."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Public/ForgottenPassword/View.elm:25
+msgid "We've sent you a recover link. Follow the instructions in your email."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Public/ForgottenPassword/View.elm:38
+msgid "Forgotten Password"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Public/ForgottenPassword/View.elm:41
+msgid "Recover"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Public/ForgottenPassword/View.elm:53
+msgid "Enter the email you use to log in and we will send you a recover link."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Public/ForgottenPasswordConfirmation/View.elm:42
+msgid "Password Recovery"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Public/ForgottenPasswordConfirmation/View.elm:56
+msgid "Enter a new password you want to use to log in."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Public/ForgottenPasswordConfirmation/View.elm:57
+#: engine-wizard/elm/Wizard/Users/Edit/View.elm:196
+msgid "New password"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Public/ForgottenPasswordConfirmation/View.elm:58
+#: engine-wizard/elm/Wizard/Users/Edit/View.elm:197
+msgid "New password again"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Public/ForgottenPasswordConfirmation/View.elm:68
+msgid "Your password has been changed. You can now %s."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Public/ForgottenPasswordConfirmation/View.elm:72
+#: engine-wizard/elm/Wizard/Public/SignupConfirmation/View.elm:33
+msgid "log in"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Public/Login/View.elm:59
+#: engine-wizard/elm/Wizard/Public/Signup/View.elm:135
+#: engine-wizard/elm/Wizard/Users/Create/View.elm:42
+#: engine-wizard/elm/Wizard/Users/Edit/View.elm:63
+#: engine-wizard/elm/Wizard/Users/Edit/View.elm:185
+msgid "Password"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Public/Login/View.elm:62
+msgid "Forgot your password?"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Public/Login/View.elm:70
+msgid "Or connect with"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Public/Signup/Update.elm:64
+#: engine-wizard/elm/Wizard/Public/SignupConfirmation/Update.elm:32
+msgid "Sign up process failed."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Public/Signup/View.elm:31
+msgid "Sign up was successful. Check your email for the activation link."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Public/Signup/View.elm:49
+msgid "I already have an account"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Public/Signup/View.elm:83
+msgid "Privacy"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Public/Signup/View.elm:87
+msgid "Terms of Service"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Public/Signup/View.elm:94
+msgid "I have read %s and %s."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Public/Signup/View.elm:99
+msgid "You have to read Privacy and Terms of Service first"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Public/Signup/View.elm:104
+#: engine-wizard/elm/Wizard/Public/Signup/View.elm:112
+msgid "I have read %s."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Public/Signup/View.elm:107
+msgid "You have to read Privacy first"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Public/Signup/View.elm:115
+msgid "You have to read Terms of Service first"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Public/Signup/View.elm:134
+#: engine-wizard/elm/Wizard/Users/Create/View.elm:40
+#: engine-wizard/elm/Wizard/Users/Edit/View.elm:171
+msgid "Affiliation"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Public/Signup/View.elm:136
+msgid "Password again"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Public/SignupConfirmation/View.elm:29
+msgid "Your email was successfully confirmed. You can now %s."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Registry/RegistrySignupConfirmation/Update.elm:35
+msgid "Unable to confirm the registry account."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Registry/RegistrySignupConfirmation/View.elm:28
+msgid "Your email was successfuly confirmed, you can go back to %s."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:39
+#: engine-wizard/elm/Wizard/Settings/View.elm:115
+msgid "Authentication"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:49
+msgid "Default role"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:50
+msgid "Define the role that is assigned to new users."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:51
+msgid "Internal"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:52
+msgid "Registration"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:53
+msgid "If enabled, users can create new internal accounts directly in the instance."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:54
+msgid "External"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:55
+msgid "OpenID Services"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:151
+msgid "Callback URL"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:152
+msgid "Logout URL"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:154
+msgid "Client ID"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:155
+msgid "Client Secret"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:159
+msgid "Parameters"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:168
+#: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:275
+msgid "Icon"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:176
+msgid "Background"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:185
+msgid "Button Preview"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/Dashboard/View.elm:25
+#: engine-wizard/elm/Wizard/Settings/View.elm:122
+msgid "Dashboard"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/Dashboard/View.elm:38
+msgid "Welcome"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/Dashboard/View.elm:39
+msgid "Standard welcome screen."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/Dashboard/View.elm:45
+msgid "Role-Based"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/Dashboard/View.elm:46
+msgid "Relevant content based on user's role."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/Dashboard/View.elm:53
+msgid "Dashboard Style"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/Dashboard/View.elm:56
+msgid "Welcome Info"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/Dashboard/View.elm:60
+msgid "Welcome info is visible at the dashboard after login as a blue box."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/Dashboard/View.elm:68
+msgid "Welcome Warning"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/Dashboard/View.elm:72
+msgid "Welcome warning is visible at the dashboard after login as a yellow box."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/Generic/Update.elm:68
+msgid "Unable to load settings."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/Generic/Update.elm:92
+msgid "Settings could not be saved."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/KnowledgeModels/View.elm:48
+msgid "Min Version"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/KnowledgeModels/View.elm:49
+msgid "Max Version"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/KnowledgeModels/View.elm:53
+msgid "Allowed Packages"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/KnowledgeModels/View.elm:60
+msgid "Public Knowledge Models"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/KnowledgeModels/View.elm:61
+msgid "If enabled you can define knowledge models that are publicly available for reading."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/KnowledgeModels/View.elm:64
+msgid "Integration Config"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/LookAndFeel/LogoUploadModal.elm:123
+msgid "Unable to upload logo."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/LookAndFeel/LogoUploadModal.elm:168
+msgid "Change logo"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/LookAndFeel/LogoUploadModal.elm:179
+msgid "Choose logo"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/LookAndFeel/LogoUploadModal.elm:184
+msgid "Use default logo"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:39
+#: engine-wizard/elm/Wizard/Settings/View.elm:123
+msgid "Look & Feel"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:152
+msgid "Application Title"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:153
+msgid "Full name of the DSW instance (displayed, for example, in the browser tab title or before login)."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:162
+msgid "Short Application Title"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:163
+msgid "Short name of the DSW instance (displayed, for example, on top of the navigation bar). Short title can be the same as the application title if it is short enough."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:175
+msgid "Custom Menu Links"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:176
+msgid "Configure additional links in the menu. Choose any free icon from the [Font Awesome](https://fontawesome.com/icons?d=gallery&m=free), e.g. *fas fa-magic*. Check *New window* if you want to open the link in a new window."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:191
+msgid "Login Info"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:194
+msgid "Additional information displayed at the login screen."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:281
+msgid "New window"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/Organization/View.elm:24
+#: engine-wizard/elm/Wizard/Settings/View.elm:114
+msgid "Organization"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/Organization/View.elm:35
+msgid "Name of the organization running this instance."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/Organization/View.elm:38
+msgid "Organization ID is used to identify Knowledge Models created in this instance. It can contain alphanumeric characters and dots but cannot start or end with a dot."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/Organization/View.elm:39
+msgid "Affiliations"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/Organization/View.elm:40
+msgid "Affiliation options will be used to help users choose their affiliation while signing up or editing their profile. Write one affiliation option per line."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/Plans/Update.elm:24
+msgid "Unable to get plans."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/PrivacyAndSupport/View.elm:25
+#: engine-wizard/elm/Wizard/Settings/View.elm:116
+msgid "Privacy & Support"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/PrivacyAndSupport/View.elm:35
+msgid "Privacy URL"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/PrivacyAndSupport/View.elm:36
+msgid "URL to page with the privacy policy of the service."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/PrivacyAndSupport/View.elm:37
+msgid "Terms of Service URL"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/PrivacyAndSupport/View.elm:38
+msgid "URL to page with the terms of the service."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/PrivacyAndSupport/View.elm:39
+msgid "Support"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/PrivacyAndSupport/View.elm:40
+msgid "Support Email"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/PrivacyAndSupport/View.elm:41
+msgid "Support email displayed in the help modal."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/PrivacyAndSupport/View.elm:42
+msgid "Support Repository Name"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/PrivacyAndSupport/View.elm:43
+msgid "Name of the repository where users can report issues related to the service."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/PrivacyAndSupport/View.elm:44
+msgid "Support Repository URL"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/PrivacyAndSupport/View.elm:45
+msgid "URL of the repository where users can report issues related to the service."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/Projects/View.elm:44
+msgid "Anonymous Projects"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/Projects/View.elm:45
+msgid "If enabled, users that are not logged in are allowed to create projects from public knowledge models."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/Projects/View.elm:57
+msgid "GitHub Repository Owner"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/Projects/View.elm:58
+msgid "ht&#8203;tps://github.com/**exampleOwner**/exampleRepository"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/Projects/View.elm:59
+msgid "GitHub Repository Name"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/Projects/View.elm:60
+msgid "ht&#8203;tps://github.com/exampleOwner/**exampleRepository**"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/Projects/View.elm:61
+msgid "Access Token"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/Projects/View.elm:62
+msgid "[Personal Access Token](https://help.github.com/en/github/authenticating-to-github/creating-a-personal-access-token-for-the-command-line) for GitHub account creating the issues. Make sure to select **public_repo** scope if the repository is public or **repo** if it is private. We recommend creating a bot account with the access to the feedback repository instead of using your own GitHub account."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/Projects/View.elm:74
+msgid "Default Project Tags"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/Projects/View.elm:75
+msgid "Default projects tags can be provided to users so they don't have to come up with them on their own. Write one tag per line."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/Projects/View.elm:82
+msgid "Project Visibility"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/Projects/View.elm:83
+msgid "If enabled, project visibility can be set for each project. Otherwise, all projects use the *Default Project Visibility*."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/Projects/View.elm:84
+msgid "Default Project Visibility"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/Projects/View.elm:85
+msgid "If *Project Visibility* is enabled, this value is pre-selected when creating a new project. If *Project Visibility* is disabled, this value is used implicitly for new projects."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/Projects/View.elm:87
+msgid "Project Sharing"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/Projects/View.elm:88
+msgid "If enabled, users can choose if project can be shared with people outside of DSW or not. Otherwise, all projects use the *Default Project Sharing*."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/Projects/View.elm:89
+msgid "Default Project Sharing"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/Projects/View.elm:90
+msgid "If *Project Sharing* is enabled, this value is pre-selected when creating a new project. If *Project Sharing* is disabled, this value is used implicitly for new projects."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/Projects/View.elm:94
+msgid "Project Creation"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/Projects/View.elm:97
+msgid "If enabled, users can view a summary report showing various metrics for the questionnaire."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/Projects/View.elm:99
+msgid "If enabled, users can submit a feedback to questions to the specified GitHub repository."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/Projects/View.elm:101
+msgid "Project Tagging"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/Projects/View.elm:102
+msgid "If enabled, users can tag their projects and use these tags to filter them."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/Registry/Update.elm:103
+msgid "You have signed up for the Registry, you should receive a confirmation email soon."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/Registry/Update.elm:109
+msgid "Sign up request failed."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/Registry/View.elm:79
+msgid "Token"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/Registry/View.elm:80
+msgid "Fill in your DSW Registry token. If you don't have one, you need sign up first."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/Registry/View.elm:89
+msgid "If enabled, you can import Knowledge Models and Document Templates directly from [DSW Registry](https://registry.ds-wizard.org)."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/Registry/View.elm:138
+msgid "Organization Name"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/Registry/View.elm:139
+msgid "Organization Description"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/Registry/View.elm:141
+msgid "The email will be used for a confirmation link and an eventual token recovery."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/Registry/View.elm:146
+msgid "Registry Sign Up"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/Submission/View.elm:40
+#: engine-wizard/elm/Wizard/Settings/View.elm:132
+msgid "Document Submission"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/Submission/View.elm:55
+msgid "Services"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/Submission/View.elm:63
+msgid "If enabled, you can configure external services for uploading documents from the instance."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/Submission/View.elm:107
+msgid "Supported Formats"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/Submission/View.elm:108
+msgid "Select document templates and formats that can be submitted using this submission service."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/Submission/View.elm:112
+msgid "User Properties"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/Submission/View.elm:113
+msgid "You can create properties that can be set by each user in their profile. Then, you can use these properties in the request settings. For example, if you want each user to use their own authorization token, you can create a property called `Token` and use it in request headers as `${Token}`. Users will be able to set the token in their profile settings."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/Submission/View.elm:218
+msgid "Multipart File Name"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/Submission/View.elm:227
+msgid "Method"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/Submission/View.elm:229
+msgid "Headers"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/Submission/View.elm:230
+msgid "Multipart"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/Submission/View.elm:231
+msgid "If enabled, file will be sent using multipart request. Otherwise, it will be directly in the request body."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/Submission/View.elm:250
+#: engine-wizard/elm/Wizard/Settings/Submission/View.elm:256
+msgid "Header"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/Template/View.elm:66
+msgid "Recommended Template"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/View.elm:89
+msgid "System Settings"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/View.elm:92
+msgid "User Interface Settings"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/View.elm:95
+msgid "Content Settings"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Templates/Detail/Update.elm:32
+msgid "Unable to get the document template."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Templates/Detail/Update.elm:69
+#: engine-wizard/elm/Wizard/Templates/Index/Update.elm:71
+msgid "Document template could not be deleted."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Templates/Detail/View.elm:84
+msgid "This is not the latest available version of this document template."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Templates/Detail/View.elm:159
+msgid "This document template is not supported in this version of DSW."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Templates/Detail/View.elm:209
+msgid "Formats"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Templates/Detail/View.elm:249
+msgid "Registry link"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Templates/Detail/View.elm:277
+msgid "Usable with"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Templates/Import/FileImport/Update.elm:71
+msgid "Importing the document template failed."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Templates/Import/RegistryImport/Update.elm:32
+msgid "Unable to import the document template."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Templates/Import/RegistryImport/View.elm:47
+msgid "Document Template ID"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Templates/Import/RegistryImport/View.elm:67
+msgid "You can find document templates in %s."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Templates/Import/RegistryImport/View.elm:82
+msgid "Document template %s has been imported!"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Templates/Index/View.elm:58
+msgid "Click \"Import\" button to import a new document template."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Templates/Index/View.elm:66
+msgid "Search..."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Templates/Index/View.elm:107
+msgid "unsupported metamodel"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Templates/Index/View.elm:209
+msgid "Delete document template"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Users/Create/Update.elm:63
+msgid "User could not be created."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Users/Create/View.elm:25
+msgid "Create user"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Users/Create/View.elm:41
+#: engine-wizard/elm/Wizard/Users/Edit/View.elm:104
+msgid "Role"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Users/Edit/Update.elm:83
+msgid "Unable to get the user."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Users/Edit/Update.elm:117
+msgid "Profile was successfully updated."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Users/Edit/Update.elm:123
+msgid "Profile could not be saved."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Users/Edit/Update.elm:139
+msgid "Password was successfully changed."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Users/Edit/Update.elm:142
+msgid "Password could not be changed."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Users/Edit/View.elm:55
+#: engine-wizard/elm/Wizard/Users/Edit/View.elm:75
+msgid "Profile"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Users/Edit/View.elm:85
+msgid "User Image"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Users/Edit/View.elm:89
+msgid "Image is taken from OpenID profile or [Gravatar](https://gravatar.com)."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Users/Edit/View.elm:119
+msgid "Submission Settings"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Users/Edit/View.elm:143
+msgid "There is no settings for %s."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Users/Index/Update.elm:66
+msgid "User could not be deleted."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Users/Index/View.elm:53
+msgid "Click \"Create\" button to add a new User."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Users/Index/View.elm:63
+msgid "Last online"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Users/Index/View.elm:92
+msgid "inactive"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Users/Index/View.elm:174
+msgid "Are you sure you want to permanently delete the following user?"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Users/Index/View.elm:179
+msgid "Delete user"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/View.elm:122
+msgid "Not Found"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/View.elm:123
+msgid "The page you are looking for was not found."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/View.elm:132
+msgid "Not Allowed"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/View.elm:133
+msgid "You don't have a permission to view this page."
+msgstr ""
