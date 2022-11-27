@@ -2,70 +2,75 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wizard-client:3.17.1\n"
 "POT-Creation-Date: 2022-11-14T14:17:48.494Z\n"
+"PO-Revision-Date: 2022-11-28 14:34+0000\n"
+"Last-Translator: Marek Suchánek <marek.suchanek@ds-wizard.org>\n"
+"Language-Team: Czech <https://localize.ds-wizard.org/projects/wizard-client/"
+"wizard-client-3-17-1/cs/>\n"
 "Language: cs\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Weblate 4.14.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
-msgstr ""
+msgstr "Administrátor"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:34
 msgid "Data Steward"
-msgstr ""
+msgstr "Data Steward"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:39
 msgid "Researcher"
-msgstr ""
+msgstr "Výzkumník"
 
 #: engine-shared/elm/Shared/Common/TimeUtils.elm:156
 msgid "January"
-msgstr ""
+msgstr "leden"
 
 #: engine-shared/elm/Shared/Common/TimeUtils.elm:159
 msgid "February"
-msgstr ""
+msgstr "únor"
 
 #: engine-shared/elm/Shared/Common/TimeUtils.elm:162
 msgid "March"
-msgstr ""
+msgstr "březen"
 
 #: engine-shared/elm/Shared/Common/TimeUtils.elm:165
 msgid "April"
-msgstr ""
+msgstr "duben"
 
 #: engine-shared/elm/Shared/Common/TimeUtils.elm:168
 msgid "May"
-msgstr ""
+msgstr "květen"
 
 #: engine-shared/elm/Shared/Common/TimeUtils.elm:171
 msgid "June"
-msgstr ""
+msgstr "červen"
 
 #: engine-shared/elm/Shared/Common/TimeUtils.elm:174
 msgid "July"
-msgstr ""
+msgstr "červenec"
 
 #: engine-shared/elm/Shared/Common/TimeUtils.elm:177
 msgid "August"
-msgstr ""
+msgstr "srpen"
 
 #: engine-shared/elm/Shared/Common/TimeUtils.elm:180
 msgid "September"
-msgstr ""
+msgstr "září"
 
 #: engine-shared/elm/Shared/Common/TimeUtils.elm:183
 msgid "October"
-msgstr ""
+msgstr "říjen"
 
 #: engine-shared/elm/Shared/Common/TimeUtils.elm:186
 msgid "November"
-msgstr ""
+msgstr "listopad"
 
 #: engine-shared/elm/Shared/Common/TimeUtils.elm:189
 msgid "December"
-msgstr ""
+msgstr "prosinec"
 
 #: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireCreation.elm:116
 msgid "Templates & Custom"
