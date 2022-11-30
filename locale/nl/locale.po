@@ -2,335 +2,356 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wizard-client:3.17.1\n"
 "POT-Creation-Date: 2022-11-14T14:17:48.494Z\n"
+"PO-Revision-Date: 2022-11-30 20:09+0000\n"
+"Last-Translator: Rob Hooft <rob.hooft@health-ri.nl>\n"
+"Language-Team: Dutch <https://localize.ds-wizard.org/projects/wizard-client/"
+"wizard-client-3-17-1/nl/>\n"
 "Language: nl\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.14.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
-msgstr ""
+msgstr "Beheer"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:34
 msgid "Data Steward"
-msgstr ""
+msgstr "Datasteward"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:39
 msgid "Researcher"
-msgstr ""
+msgstr "Onderzoeker"
 
 #: engine-shared/elm/Shared/Common/TimeUtils.elm:156
 msgid "January"
-msgstr ""
+msgstr "januari"
 
 #: engine-shared/elm/Shared/Common/TimeUtils.elm:159
 msgid "February"
-msgstr ""
+msgstr "februari"
 
 #: engine-shared/elm/Shared/Common/TimeUtils.elm:162
 msgid "March"
-msgstr ""
+msgstr "maart"
 
 #: engine-shared/elm/Shared/Common/TimeUtils.elm:165
 msgid "April"
-msgstr ""
+msgstr "april"
 
 #: engine-shared/elm/Shared/Common/TimeUtils.elm:168
 msgid "May"
-msgstr ""
+msgstr "mei"
 
 #: engine-shared/elm/Shared/Common/TimeUtils.elm:171
 msgid "June"
-msgstr ""
+msgstr "juni"
 
 #: engine-shared/elm/Shared/Common/TimeUtils.elm:174
 msgid "July"
-msgstr ""
+msgstr "juli"
 
 #: engine-shared/elm/Shared/Common/TimeUtils.elm:177
 msgid "August"
-msgstr ""
+msgstr "augustus"
 
 #: engine-shared/elm/Shared/Common/TimeUtils.elm:180
 msgid "September"
-msgstr ""
+msgstr "september"
 
 #: engine-shared/elm/Shared/Common/TimeUtils.elm:183
 msgid "October"
-msgstr ""
+msgstr "oktober"
 
 #: engine-shared/elm/Shared/Common/TimeUtils.elm:186
 msgid "November"
-msgstr ""
+msgstr "november"
 
 #: engine-shared/elm/Shared/Common/TimeUtils.elm:189
 msgid "December"
-msgstr ""
+msgstr "december"
 
 #: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireCreation.elm:116
 msgid "Templates & Custom"
-msgstr ""
+msgstr "Sjablonen & Aanpassing"
 
 #: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireCreation.elm:117
 msgid "Projects can be created from project templates or with custom settings."
 msgstr ""
+"Projecten kunnen worden gemaakt vanuit sjablonen of met aangepaste "
+"instellingen."
 
 #: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireCreation.elm:120
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:89
 msgid "Templates only"
-msgstr ""
+msgstr "Alleen sjablonen"
 
 #: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireCreation.elm:121
 msgid "Only project templates can be used for creating new projects."
 msgstr ""
+"Alleen projectsjablonen kunnen worden gebruikt voor het opzetten van nieuwe "
+"projecten."
 
 #: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireCreation.elm:124
 msgid "Custom only"
-msgstr ""
+msgstr "Alleen aangepast"
 
 #: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireCreation.elm:125
 msgid "Project templates feature is disabled, researchers have to choose knowledge model and set up everything."
 msgstr ""
+"Projectsjablonen zijn gedeactiveerd, onderzoekers moeten een kennismodel "
+"kiezen en alles regelen."
 
 #: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireSharing.elm:135
 msgid "Restricted"
-msgstr ""
+msgstr "Beperkt"
 
 #: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireSharing.elm:136
 msgid "Only logged-in users can access the project depending on the project visibility."
 msgstr ""
+"Alleen gebruikers die zijn aangemeld kunnen toegang krijgen tot het project, "
+"afhankelijk van de zichtbaarheid."
 
 #: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireSharing.elm:139
 msgid "View with the link"
-msgstr ""
+msgstr "Bezoek met een link"
 
 #: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireSharing.elm:140
 msgid "Anyone on the internet with the link can view."
-msgstr ""
+msgstr "Iedereen op het internet met de link kan meekijken."
 
 #: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireSharing.elm:143
 msgid "Comment with the link"
-msgstr ""
+msgstr "Becommentariëren met de link"
 
 #: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireSharing.elm:144
 msgid "Anyone on the internet with the link can view and comment."
-msgstr ""
+msgstr "Iedereen op het internet met de link kan becommentariëren."
 
 #: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireSharing.elm:147
 msgid "Edit with the link"
-msgstr ""
+msgstr "Bewerken met de link"
 
 #: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireSharing.elm:148
 msgid "Anyone on the internet with the link can edit."
-msgstr ""
+msgstr "Iedereen op het internet met de link kan bewerken."
 
 #: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireVisibility.elm:145
 msgid "Private"
-msgstr ""
+msgstr "Privé"
 
 #: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireVisibility.elm:146
 msgid "Visible only to the owner."
-msgstr ""
+msgstr "Alleen zichtbaar voor de eigenaar."
 
 #: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireVisibility.elm:149
 msgid "Visible - View"
-msgstr ""
+msgstr "Zichtbaar - meekijken"
 
 #: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireVisibility.elm:150
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:25
 msgid "Other logged-in users can view the project."
-msgstr ""
+msgstr "Andere gebruikers die zijn aangemeld kunnen het project zien."
 
 #: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireVisibility.elm:153
 msgid "Visible - Comment"
-msgstr ""
+msgstr "Zichtbaar - Becommentariëren"
 
 #: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireVisibility.elm:154
 msgid "Other logged-in users can view and comment the project."
 msgstr ""
+"Andere gebruikers die zijn aangemeld kunnen het project zien en "
+"becommentariëren."
 
 #: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireVisibility.elm:157
 msgid "Visible - Edit"
-msgstr ""
+msgstr "Zichtbaar - Bewerken"
 
 #: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireVisibility.elm:158
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:22
 msgid "Other logged-in users can edit the project."
-msgstr ""
+msgstr "Andere gebruikers die zijn aangemeld kunnen het project bewerken."
 
 #: engine-shared/elm/Shared/Data/QuestionnairePermission.elm:60
 msgid "view"
-msgstr ""
+msgstr "bekijken"
 
 #: engine-shared/elm/Shared/Data/QuestionnairePermission.elm:61
 msgid "comment"
-msgstr ""
+msgstr "becommentariëer"
 
 #: engine-shared/elm/Shared/Data/QuestionnairePermission.elm:62
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:349
 msgid "edit"
-msgstr ""
+msgstr "bewerk"
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:101
 msgid "You do not have permission to view this page."
-msgstr ""
+msgstr "Je hebt geen toestemming deze pagina te bekijken."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:109
 msgid "Knowledge Model ID is already used."
-msgstr ""
+msgstr "Deze ID is al in gebruik voor een kennismodel."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:112
 msgid "Knowledge Model already exists."
-msgstr ""
+msgstr "Kennismodel bestaat al."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:115
 msgid "Template already exists."
-msgstr ""
+msgstr "Sjabloon bestaat al."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:118
 #: engine-shared/elm/Shared/Error/ServerError.elm:134
 msgid "Email is already used."
-msgstr ""
+msgstr "Email-adres is al in gebruik."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:121
 msgid "New version has to be higher than the previous one."
-msgstr ""
+msgstr "Nieuwe versienummer moet hoger zijn dan het vorige."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:124
 msgid "\"template.json\" was not found in archive."
-msgstr ""
+msgstr "“template.json” kon niet in het archief gevonden worden."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:127
 msgid "Error while parsing template.json: \"%s\"."
-msgstr ""
+msgstr "Fout bij het analyseren van template.json: “%s”."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:130
 msgid "Asset \"%s\" was not found in archive."
-msgstr ""
+msgstr "Onderdeel “%s” kon niet in het archief gevonden worden."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:137
 msgid "Link is not valid."
-msgstr ""
+msgstr "Link is niet geldig."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:140
 msgid "This email is not connected to any organization."
-msgstr ""
+msgstr "Dit Emailadres is niet verbonden aan een organisatie."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:143
 msgid "Organization email is already used."
-msgstr ""
+msgstr "Organisatie-emailadres al in gebruik."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:146
 msgid "Organization ID is already used."
-msgstr ""
+msgstr "Organisatie-ID al in gebruik."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:149
 #: engine-shared/elm/Shared/Error/ServerError.elm:189
 #: engine-shared/elm/Shared/Error/ServerError.elm:192
 msgid "A hash query param has to be provided."
-msgstr ""
+msgstr "Er moet een hash-queryparameter worden opgegeven."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:153
 msgid "App ID is already used."
-msgstr ""
+msgstr "App ID is al gebruikt."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:156
 msgid "Authentication Code is not provided."
-msgstr ""
+msgstr "Autorisatiecode is niet opgegeven."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:159
 msgid "Profile Information from OpenID service is missing."
-msgstr ""
+msgstr "Profielinformatie mist van de OpenID service."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:162
 msgid "Template cannot be deleted because it is used in some Projects or documents."
 msgstr ""
+"Sjabloon kan niet worden verwijderd omdat het in gebruik is in projecten of "
+"documenten."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:165
 msgid "Template version is not supported."
-msgstr ""
+msgstr "Deze sjabloonversie wordt niet ondersteund."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:168
 msgid "Limit of %s reached (current: %s, limit: %s)"
-msgstr ""
+msgstr "Limiet van %s bereikt (nu: %s, limiet: %s)"
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:171
 msgid "Knowledge Model cannot be deleted because it is used in some Projects or Knowledge Model Editors."
 msgstr ""
+"Kennismodel kan niet worden verwijderd omdat het in gebruik is in projecten "
+"of kennismodel-editor."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:174
 msgid "The Knowledge Model was not found in the Registry."
-msgstr ""
+msgstr "Het kennismodel is niet in het register gevonden."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:177
 msgid "Project cannot be deleted because it is used in some project migration."
 msgstr ""
+"Het project kan niet verwijderd worden omdat het in een projectmigratie "
+"wordt gebruikt."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:180
 msgid "The template was not found in the Registry."
-msgstr ""
+msgstr "Het sjabloon is niet in het register gevonden."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:183
 msgid "Incorrect email or password"
-msgstr ""
+msgstr "Incorrect e-mail of wachtwoord"
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:186
 msgid "The account is not activated."
-msgstr ""
+msgstr "Het account is niet geactiveerd."
 
 #: engine-shared/elm/Shared/Form.elm:21
 #: engine-shared/elm/Shared/Form.elm:24
 msgid "%s cannot be empty."
-msgstr ""
+msgstr "%s kan niet leeg zijn."
 
 #: engine-shared/elm/Shared/Form.elm:27
 msgid "This is not a valid email."
-msgstr ""
+msgstr "Dit is geen geldig e-mailadres."
 
 #: engine-shared/elm/Shared/Form.elm:30
 msgid "This is not a valid number."
-msgstr ""
+msgstr "Dit is geen geldig getal."
 
 #: engine-shared/elm/Shared/Form.elm:33
 msgid "This should not be less than %s."
-msgstr ""
+msgstr "Dit kan niet minder zijn dan %s."
 
 #: engine-shared/elm/Shared/Form.elm:36
 msgid "This should not be more than %s."
-msgstr ""
+msgstr "Dit kan niet meer zijn dan %s."
 
 #: engine-shared/elm/Shared/Form.elm:41
 msgid "Passwords do not match!"
-msgstr ""
+msgstr "Wachtwoorden zijn niet gelijk!"
 
 #: engine-shared/elm/Shared/Form.elm:44
 msgid "This is not a valid UUID."
-msgstr ""
+msgstr "Dit is geen geldig UUID."
 
 #: engine-shared/elm/Shared/Form.elm:53
 msgid "Invalid value."
-msgstr ""
+msgstr "Ongeldige waarde."
 
 #: engine-shared/elm/Shared/Form/Validate.elm:53
 msgid "This is a very weak password."
-msgstr ""
+msgstr "Dit is een heel zwak wachtwoord."
 
 #: engine-shared/elm/Shared/Form/Validate.elm:56
 msgid "This is a weak password."
-msgstr ""
+msgstr "Dit is een zwak wachtwoord."
 
 #: engine-shared/elm/Shared/Form/Validate.elm:129
 #: engine-shared/elm/Shared/Form/Validate.elm:134
 msgid "Comma (,) is not allowed in project tags."
-msgstr ""
+msgstr "Er kan geen komma (,) worden gebruikt in een project-tag."
 
 #: engine-wizard/elm/Wizard/Apps/Create/Update.elm:59
 msgid "App could not be created."
-msgstr ""
+msgstr "De App kon niet worden gemaakt."
 
 #: engine-wizard/elm/Wizard/Apps/Create/View.elm:24
 msgid "Create app"
-msgstr ""
+msgstr "Maak app"
 
 #: engine-wizard/elm/Wizard/Apps/Create/View.elm:29
 #: engine-wizard/elm/Wizard/Apps/Index/View.elm:102
@@ -345,14 +366,14 @@ msgstr ""
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:79
 #: engine-wizard/elm/Wizard/Users/Index/View.elm:43
 msgid "Create"
-msgstr ""
+msgstr "Aanmaken"
 
 #: engine-wizard/elm/Wizard/Apps/Create/View.elm:36
 #: engine-wizard/elm/Wizard/Apps/Detail/View.elm:112
 #: engine-wizard/elm/Wizard/Apps/Detail/View.elm:157
 #: engine-wizard/elm/Wizard/Apps/Index/View.elm:57
 msgid "App ID"
-msgstr ""
+msgstr "App ID"
 
 #: engine-wizard/elm/Wizard/Apps/Create/View.elm:37
 #: engine-wizard/elm/Wizard/Apps/Detail/View.elm:158
@@ -393,7 +414,7 @@ msgstr ""
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:104
 #: engine-wizard/elm/Wizard/Templates/Index/View.elm:68
 msgid "Name"
-msgstr ""
+msgstr "Naam"
 
 #: engine-wizard/elm/Wizard/Apps/Create/View.elm:38
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:975
@@ -410,7 +431,7 @@ msgstr ""
 #: engine-wizard/elm/Wizard/Users/Edit/View.elm:167
 #: engine-wizard/elm/Wizard/Users/Index/View.elm:61
 msgid "Email"
-msgstr ""
+msgstr "e-mailadres"
 
 #: engine-wizard/elm/Wizard/Apps/Create/View.elm:39
 #: engine-wizard/elm/Wizard/Public/Signup/View.elm:130
@@ -418,7 +439,7 @@ msgstr ""
 #: engine-wizard/elm/Wizard/Users/Edit/View.elm:169
 #: engine-wizard/elm/Wizard/Users/Index/View.elm:59
 msgid "First name"
-msgstr ""
+msgstr "Voornaam"
 
 #: engine-wizard/elm/Wizard/Apps/Create/View.elm:40
 #: engine-wizard/elm/Wizard/Public/Signup/View.elm:131
@@ -426,52 +447,52 @@ msgstr ""
 #: engine-wizard/elm/Wizard/Users/Edit/View.elm:170
 #: engine-wizard/elm/Wizard/Users/Index/View.elm:60
 msgid "Last name"
-msgstr ""
+msgstr "Achternaam"
 
 #: engine-wizard/elm/Wizard/Apps/Detail/Update.elm:36
 msgid "Unable to get app."
-msgstr ""
+msgstr "Kan app niet verkrijgen."
 
 #: engine-wizard/elm/Wizard/Apps/Detail/Update.elm:125
 msgid "App could not be saved."
-msgstr ""
+msgstr "App kan niet worden opgeslagen."
 
 #: engine-wizard/elm/Wizard/Apps/Detail/Update.elm:167
 msgid "Plan could not be created."
-msgstr ""
+msgstr "Plan kan niet aangemaakt worden."
 
 #: engine-wizard/elm/Wizard/Apps/Detail/Update.elm:209
 msgid "Plan could not be saved."
-msgstr ""
+msgstr "Plan kan niet opgeslagen worden."
 
 #: engine-wizard/elm/Wizard/Apps/Detail/Update.elm:239
 msgid "Plan could not be deleted."
-msgstr ""
+msgstr "Plan kan niet verwijderd worden."
 
 #: engine-wizard/elm/Wizard/Apps/Detail/View.elm:55
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1698
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1756
 #: engine-wizard/elm/Wizard/Users/Index/View.elm:146
 msgid "Edit"
-msgstr ""
+msgstr "Wijzig"
 
 #: engine-wizard/elm/Wizard/Apps/Detail/View.elm:77
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/UsageWidget.elm:27
 #: engine-wizard/elm/Wizard/Settings/Usage/View.elm:22
 #: engine-wizard/elm/Wizard/Settings/View.elm:141
 msgid "Usage"
-msgstr ""
+msgstr "Gebruik"
 
 #: engine-wizard/elm/Wizard/Apps/Detail/View.elm:80
 #: engine-wizard/elm/Wizard/Settings/Plans/View.elm:22
 #: engine-wizard/elm/Wizard/Settings/View.elm:145
 msgid "Plans"
-msgstr ""
+msgstr "Plannen"
 
 #: engine-wizard/elm/Wizard/Apps/Detail/View.elm:83
 #: engine-wizard/elm/Wizard/Apps/Detail/View.elm:196
 msgid "Add plan"
-msgstr ""
+msgstr "Voeg plan toe"
 
 #: engine-wizard/elm/Wizard/Apps/Detail/View.elm:106
 #: engine-wizard/elm/Wizard/Apps/Detail/View.elm:113
@@ -479,47 +500,47 @@ msgstr ""
 #: engine-wizard/elm/Wizard/Settings/Registry/View.elm:88
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:62
 msgid "Enabled"
-msgstr ""
+msgstr "Ingeschakeld"
 
 #: engine-wizard/elm/Wizard/Apps/Detail/View.elm:109
 #: engine-wizard/elm/Wizard/Apps/Index/View.elm:74
 msgid "Disabled"
-msgstr ""
+msgstr "Uitgeschakeld"
 
 #: engine-wizard/elm/Wizard/Apps/Detail/View.elm:114
 #: engine-wizard/elm/Wizard/Apps/Index/View.elm:58
 msgid "Created at"
-msgstr ""
+msgstr "Gemaakt om"
 
 #: engine-wizard/elm/Wizard/Apps/Detail/View.elm:115
 #: engine-wizard/elm/Wizard/Apps/Index/View.elm:59
 msgid "Updated at"
-msgstr ""
+msgstr "Aangepast om"
 
 #: engine-wizard/elm/Wizard/Apps/Detail/View.elm:118
 #: engine-wizard/elm/Wizard/Settings/View.elm:98
 msgid "Info"
-msgstr ""
+msgstr "Info"
 
 #: engine-wizard/elm/Wizard/Apps/Detail/View.elm:125
 msgid "Client URL"
-msgstr ""
+msgstr "Client URL"
 
 #: engine-wizard/elm/Wizard/Apps/Detail/View.elm:126
 msgid "Server URL"
-msgstr ""
+msgstr "Server URL"
 
 #: engine-wizard/elm/Wizard/Apps/Detail/View.elm:129
 msgid "URLs"
-msgstr ""
+msgstr "URLs"
 
 #: engine-wizard/elm/Wizard/Apps/Detail/View.elm:141
 msgid "Admins"
-msgstr ""
+msgstr "Beheerders"
 
 #: engine-wizard/elm/Wizard/Apps/Detail/View.elm:165
 msgid "Edit app"
-msgstr ""
+msgstr "Wijzig app"
 
 #: engine-wizard/elm/Wizard/Apps/Detail/View.elm:169
 #: engine-wizard/elm/Wizard/Apps/Detail/View.elm:231
@@ -545,7 +566,7 @@ msgstr ""
 #: engine-wizard/elm/Wizard/Users/Edit/View.elm:81
 #: engine-wizard/elm/Wizard/Users/Edit/View.elm:189
 msgid "Save"
-msgstr ""
+msgstr "Opslaan"
 
 #: engine-wizard/elm/Wizard/Apps/Detail/View.elm:186
 #: engine-wizard/elm/Wizard/Apps/Detail/View.elm:217
@@ -555,25 +576,25 @@ msgstr ""
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:480
 #: engine-wizard/elm/Wizard/Users/Index/View.elm:29
 msgid "Users"
-msgstr ""
+msgstr "Gebruikers"
 
 #: engine-wizard/elm/Wizard/Apps/Detail/View.elm:187
 #: engine-wizard/elm/Wizard/Apps/Detail/View.elm:218
 #: engine-wizard/elm/Wizard/Common/Components/PlansList.elm:98
 msgid "From"
-msgstr ""
+msgstr "Van"
 
 #: engine-wizard/elm/Wizard/Apps/Detail/View.elm:188
 #: engine-wizard/elm/Wizard/Apps/Detail/View.elm:219
 #: engine-wizard/elm/Wizard/Common/Components/PlansList.elm:99
 msgid "To"
-msgstr ""
+msgstr "Naar"
 
 #: engine-wizard/elm/Wizard/Apps/Detail/View.elm:189
 #: engine-wizard/elm/Wizard/Apps/Detail/View.elm:220
 #: engine-wizard/elm/Wizard/Common/Components/PlansList.elm:28
 msgid "Trial"
-msgstr ""
+msgstr "Proef"
 
 #: engine-wizard/elm/Wizard/Apps/Detail/View.elm:200
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2300
@@ -584,19 +605,19 @@ msgstr ""
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:716
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:467
 msgid "Add"
-msgstr ""
+msgstr "Toevoegen"
 
 #: engine-wizard/elm/Wizard/Apps/Detail/View.elm:227
 msgid "Edit plan"
-msgstr ""
+msgstr "Wijzig plan"
 
 #: engine-wizard/elm/Wizard/Apps/Detail/View.elm:247
 msgid "Are you sure you want to delete plan **%s**?"
-msgstr ""
+msgstr "Weet je zeker dat je plan **%s** wilt verwijderen?"
 
 #: engine-wizard/elm/Wizard/Apps/Detail/View.elm:256
 msgid "Delete plan"
-msgstr ""
+msgstr "Verwijder plan"
 
 #: engine-wizard/elm/Wizard/Apps/Detail/View.elm:260
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1766
@@ -626,281 +647,284 @@ msgstr ""
 #: engine-wizard/elm/Wizard/Users/Index/View.elm:154
 #: engine-wizard/elm/Wizard/Users/Index/View.elm:183
 msgid "Delete"
-msgstr ""
+msgstr "Verwijderen"
 
 #: engine-wizard/elm/Wizard/Apps/Index/Update.elm:49
 msgid "Unable to get apps."
-msgstr ""
+msgstr "Kan apps niet verkrijgen."
 
 #: engine-wizard/elm/Wizard/Apps/Index/View.elm:24
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:68
 msgid "Apps"
-msgstr ""
+msgstr "Apps"
 
 #: engine-wizard/elm/Wizard/Apps/Index/View.elm:36
 msgid "Enabled only"
-msgstr ""
+msgstr "Alleen ingeschakelde"
 
 #: engine-wizard/elm/Wizard/Apps/Index/View.elm:37
 msgid "Disabled only"
-msgstr ""
+msgstr "Alleen uitgeschakelde"
 
 #: engine-wizard/elm/Wizard/Apps/Index/View.elm:46
 msgid "Click \"Create\" button to add a new App."
-msgstr ""
+msgstr "Druk op “Aanmaken” om een nieuwe App toe te voegen."
 
 #: engine-wizard/elm/Wizard/Apps/Index/View.elm:54
 msgid "Search apps..."
-msgstr ""
+msgstr "Zoek naar apps…"
 
 #: engine-wizard/elm/Wizard/Auth/Update.elm:67
 msgid "Loading the profile info failed."
-msgstr ""
+msgstr "Het laden van de profielinformatie is mislukt."
 
 #: engine-wizard/elm/Wizard/Common/Components/Listing/View.elm:152
 msgid "Filter by name..."
-msgstr ""
+msgstr "Filter op naam…"
 
 #: engine-wizard/elm/Wizard/Common/Components/Listing/View.elm:201
 msgid "Order by"
-msgstr ""
+msgstr "Sorteer op"
 
 #: engine-wizard/elm/Wizard/Common/Components/Listing/View.elm:367
 msgid "Clear selection"
-msgstr ""
+msgstr "Maak selectie leeg"
 
 #: engine-wizard/elm/Wizard/Common/Components/Listing/View.elm:445
 msgid "Last"
-msgstr ""
+msgstr "Laatste"
 
 #: engine-wizard/elm/Wizard/Common/Components/Listing/View.elm:458
 msgid "Next"
-msgstr ""
+msgstr "Volgende"
 
 #: engine-wizard/elm/Wizard/Common/Components/Listing/View.elm:472
 msgid "Prev"
-msgstr ""
+msgstr "Vorige"
 
 #: engine-wizard/elm/Wizard/Common/Components/Listing/View.elm:480
 msgid "First"
-msgstr ""
+msgstr "Eerste"
 
 #: engine-wizard/elm/Wizard/Common/Components/Listing/View.elm:503
 msgid "There are no results matching your search and filters."
-msgstr ""
+msgstr "Er zijn geen resultaten die overeenkomen met de zoektermen en filters."
 
 #: engine-wizard/elm/Wizard/Common/Components/Listing/View.elm:510
 msgid "No data"
-msgstr ""
+msgstr "Geen gegevens"
 
 #: engine-wizard/elm/Wizard/Common/Components/Listing/View.elm:572
 msgid "Updated %s"
-msgstr ""
+msgstr "%s gewijzigd"
 
 #: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:44
 #: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:54
 msgid "Anonymous Cat"
-msgstr ""
+msgstr "Anonieme kat"
 
 #: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:55
 msgid "Anonymous Crow"
-msgstr ""
+msgstr "Anonieme kraai"
 
 #: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:56
 msgid "Anonymous Dog"
-msgstr ""
+msgstr "Anonieme hond"
 
 #: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:57
 msgid "Anonymous Dove"
-msgstr ""
+msgstr "Anonieme duif"
 
 #: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:58
 msgid "Anonymous Dragon"
-msgstr ""
+msgstr "Anonieme draak"
 
 #: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:59
 msgid "Anonymous Fish"
-msgstr ""
+msgstr "Anonieme vis"
 
 #: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:60
 msgid "Anonymous Frog"
-msgstr ""
+msgstr "Anonieme kikker"
 
 #: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:61
 msgid "Anonymous Hippo"
-msgstr ""
+msgstr "Anoniem nijlpaard"
 
 #: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:62
 msgid "Anonymous Horse"
-msgstr ""
+msgstr "Anoniem paard"
 
 #: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:63
 msgid "Anonymous Kiwi"
-msgstr ""
+msgstr "Anonieme kiwi"
 
 #: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:64
 msgid "Anonymous Otter"
-msgstr ""
+msgstr "Anonieme otter"
 
 #: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:65
 msgid "Anonymous Spider"
-msgstr ""
+msgstr "Anonieme spin"
 
 #: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:66
 msgid "Anonymous Pig"
-msgstr ""
+msgstr "Anoniem varken"
 
 #: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:67
 msgid "Anonymous Bug"
-msgstr ""
+msgstr "Anoniem insect"
 
 #: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:68
 msgid "Anonymous Wizard"
-msgstr ""
+msgstr "Anonieme tovenaar"
 
 #: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:69
 msgid "Anonymous Ghost"
-msgstr ""
+msgstr "Anoniem spook"
 
 #: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:70
 msgid "Anonymous Robot"
-msgstr ""
+msgstr "Anonieme robot"
 
 #: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:71
 msgid "Anonymous Snowman"
-msgstr ""
+msgstr "Anonieme sneeuwpop"
 
 #: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:72
 msgid "Anonymous Tree"
-msgstr ""
+msgstr "Anonieme boom"
 
 #: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:73
 msgid "Anonymous Cowboy"
-msgstr ""
+msgstr "Anonieme cowboy"
 
 #: engine-wizard/elm/Wizard/Common/Components/PlansList.elm:50
 #: engine-wizard/elm/Wizard/Users/Edit/View.elm:111
 msgid "Active"
-msgstr ""
+msgstr "Aktief"
 
 #: engine-wizard/elm/Wizard/Common/Components/PlansList.elm:82
 msgid "There are no plans for this instance."
-msgstr ""
+msgstr "Er zijn geen plannen voor deze instantie."
 
 #: engine-wizard/elm/Wizard/Common/Components/PlansList.elm:96
 msgid "Plan"
-msgstr ""
+msgstr "Plan"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:617
 msgid "Unable to get version history."
-msgstr ""
+msgstr "Kan versiehistorie niet ophalen."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:914
 msgid "Unable to get type hints."
-msgstr ""
+msgstr "Kan hints niet ophalen."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1029
 msgid "project migration"
-msgstr ""
+msgstr "projectmigratie"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1032
 msgid "There is an ongoing %s. Finish it before you can continue editing this project."
 msgstr ""
+"Er is een %s onderweg. Pas als dat is afgemaakt kan dit project gewijzigd "
+"worden."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1089
 msgid "View"
-msgstr ""
+msgstr "Bekijk"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1093
 msgid "Show all"
-msgstr ""
+msgstr "Alles bekijken"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1096
 msgid "Hide all"
-msgstr ""
+msgstr "Alles verbergen"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1100
 msgid "Answered by"
-msgstr ""
+msgstr "Beantwoord door"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1105
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:523
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:397
 msgid "Phases"
-msgstr ""
+msgstr "Fasen"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1110
 msgid "Question tags"
-msgstr ""
+msgstr "Vraag-tags"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1191
 msgid "TODOs"
-msgstr ""
+msgstr "TODOs"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1212
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1615
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1616
 msgid "Comments"
-msgstr ""
+msgstr "Commentaren"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1223
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:304
 msgid "Warnings"
-msgstr ""
+msgstr "Waarschuwingen"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1237
 msgid "Version history"
-msgstr ""
+msgstr "Versiehistorie"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1296
 msgid "Current Phase"
-msgstr ""
+msgstr "Huidige fase"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1415
 msgid "All TODOs have been completed."
-msgstr ""
+msgstr "Alle TODOs zijn klaar."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1446
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:345
 msgid "There are no more warnings."
-msgstr ""
+msgstr "Er zijn geen waarschuwingen meer."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1503
 msgid "Click the %s icon to add new comments to a question."
-msgstr ""
+msgstr "Klik op het %s ikoon om nieuwe commentaren toe te voegen aan een vraag."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1535
 msgid "Editor notes are only visible to project Editors and Owners."
 msgstr ""
+"Redactienotities zijn alleen zichtbaar voor projecteigenaren en editors."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1551
 msgid "View resolved comments"
-msgstr ""
+msgstr "Bekijk opgeloste commentaren"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1567
 msgid "Comment"
-msgstr ""
+msgstr "Commentaar"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1568
 msgid "Create a new comment..."
-msgstr ""
+msgstr "Maak een nieuw commentaar…"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1627
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1628
 msgid "Editor notes"
-msgstr ""
+msgstr "Redactienotities"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1642
 msgid "Delete this comment thread?"
-msgstr ""
+msgstr "Verwijder deze commentaarconversatie?"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1655
 msgid "Reply"
-msgstr ""
+msgstr "Antwoord"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1656
 msgid "Reply..."
-msgstr ""
+msgstr "Antwoord…"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1703
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1884
@@ -918,137 +942,137 @@ msgstr ""
 #: engine-wizard/elm/Wizard/Settings/Registry/View.elm:120
 #: engine-wizard/elm/Wizard/Templates/Import/FileImport/View.elm:55
 msgid "Cancel"
-msgstr ""
+msgstr "Annuleer"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1714
 msgid "Delete this comment?"
-msgstr ""
+msgstr "Verwijder dit commentaar?"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1738
 msgid "Resolve comment thread"
-msgstr ""
+msgstr "Markeer commentaarconversatie als opgelost"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1748
 msgid "Reopen"
-msgstr ""
+msgstr "Heropen"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1803
 msgid "edited"
-msgstr ""
+msgstr "gewijzigd"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1824
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire/History.elm:505
 msgid "Anonymous user"
-msgstr ""
+msgstr "Anonieme gebruiker"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2007
 msgid "Previous Chapter"
-msgstr ""
+msgstr "Vorig Hoofdstuk"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2012
 msgid "Next Chapter"
-msgstr ""
+msgstr "Volgend Hoofdstuk"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2098
 msgid "anonymous user"
-msgstr ""
+msgstr "anonieme gebruiker"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2110
 msgid "Answered %s by %s."
-msgstr ""
+msgstr "Beantwoord %s door %s."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2219
 msgid "Clear answer"
-msgstr ""
+msgstr "Antwoord leegmaken"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2277
 msgid "There are no answers yet."
-msgstr ""
+msgstr "Er zijn nog geen antwoorden."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2354
 msgid "Move Up"
-msgstr ""
+msgstr "Verplaats Omhoog"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2367
 msgid "Move Down"
-msgstr ""
+msgstr "Verplaats Omlaag"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2376
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire/NavigationTree.elm:249
 msgid "Item %s"
-msgstr ""
+msgstr "Item %s"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2467
 msgid "This is not a valid email address."
-msgstr ""
+msgstr "Dit is geen geldig e-mailadres."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2472
 msgid "This is not a valid URL."
-msgstr ""
+msgstr "Dit is geen geldige URL."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2480
 msgid "This is not a valid color."
-msgstr ""
+msgstr "Dit is geen geldige kleur."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2521
 msgid "Select"
-msgstr ""
+msgstr "Kies"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2592
 msgid "There are no results for your search."
-msgstr ""
+msgstr "Er zijn geen resultaten voor uw zoekopdracht."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2601
 #: engine-wizard/elm/Wizard/Common/Components/TypeHintInput.elm:275
 #: engine-wizard/elm/Wizard/Common/View/Flash.elm:41
 #: engine-wizard/elm/Wizard/Common/View/Page.elm:40
 msgid "Loading..."
-msgstr ""
+msgstr "Laden…"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2717
 msgid "This option leads to some follow up questions."
-msgstr ""
+msgstr "Deze optie leidt naar enkele vervolgvragen."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2774
 msgid "1 comment"
 msgid_plural "%s comments"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "1 commentaar"
+msgstr[1] "%s commentaren"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2804
 msgid "TODO"
-msgstr ""
+msgstr "TODO"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2807
 msgid "Remove TODO"
-msgstr ""
+msgstr "Verwijder TODO"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2818
 msgid "Add TODO"
-msgstr ""
+msgstr "Voeg TODO toe"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2851
 msgid "Remove Item"
-msgstr ""
+msgstr "Verwijder Item"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2852
 msgid "Are you sure you want to remove this item?"
-msgstr ""
+msgstr "Weet je zeker dat je dit item wilt verwijderen?"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2855
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:331
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:147
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:100
 msgid "Remove"
-msgstr ""
+msgstr "Verwijder"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire/DefaultQuestionnaireRenderer.elm:190
 msgid "Desirable"
-msgstr ""
+msgstr "Gewenst"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire/DefaultQuestionnaireRenderer.elm:241
 msgid "External links"
-msgstr ""
+msgstr "Externe links"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire/DefaultQuestionnaireRenderer.elm:256
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:866
@@ -1056,65 +1080,67 @@ msgstr ""
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1262
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1359
 msgid "Experts"
-msgstr ""
+msgstr "Experts"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire/DeleteVersionModal.elm:116
 msgid "Are you sure you want to delete version %s?"
-msgstr ""
+msgstr "Weet je zeker dat je versie %s wilt verwijderen?"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire/DeleteVersionModal.elm:120
 msgid "(Your answers will remain unchanged)"
-msgstr ""
+msgstr "(De antwoorden zullen ongewijzigd blijven)"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire/DeleteVersionModal.elm:127
 #: engine-wizard/elm/Wizard/KnowledgeModels/Detail/View.elm:285
 #: engine-wizard/elm/Wizard/Templates/Detail/View.elm:302
 msgid "Delete version"
-msgstr ""
+msgstr "Verwijder versie"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire/FeedbackModal.elm:82
 msgid "Unable to get feedback."
-msgstr ""
+msgstr "Kan geen feedback krijgen."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire/FeedbackModal.elm:95
 msgid "Feedback could not be sent."
-msgstr ""
+msgstr "Kon feedback niet versturen."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire/FeedbackModal.elm:129
 msgid "Issue %s"
-msgstr ""
+msgstr "Issue %s"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire/FeedbackModal.elm:132
 msgid "You can follow the GitHub %s."
-msgstr ""
+msgstr "Je kunt de GitHub %s volgen."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire/FeedbackModal.elm:141
 #: engine-wizard/elm/Wizard/Documents/Index/View.elm:361
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:377
 #: engine-wizard/elm/Wizard/Settings/Registry/View.elm:100
 msgid "Done"
-msgstr ""
+msgstr "Klaar"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire/FeedbackModal.elm:144
 msgid "Send"
-msgstr ""
+msgstr "Stuur"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire/FeedbackModal.elm:147
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:98
 msgid "Feedback"
-msgstr ""
+msgstr "Feedback"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire/FeedbackModal.elm:150
 msgid "Your feedback has been sent."
-msgstr ""
+msgstr "Je feedback is verstuurd."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire/FeedbackModal.elm:170
 msgid "There are already some issues reported with this question."
-msgstr ""
+msgstr "Er is al eerder iets over deze vraag gerapporteerd."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire/FeedbackModal.elm:181
 msgid "If you found something wrong with the question, you can send us your recommendation on how to improve it."
 msgstr ""
+"Als je een probleem hebt gevonden met de vraag, kun je ons een aanbeveling "
+"sturen hoe die kan worden verbeterd."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire/FeedbackModal.elm:183
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:617
@@ -1136,7 +1162,7 @@ msgstr ""
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1282
 #: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:277
 msgid "Title"
-msgstr ""
+msgstr "Titel"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire/FeedbackModal.elm:184
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire/VersionModal.elm:157
@@ -1162,82 +1188,82 @@ msgstr ""
 #: engine-wizard/elm/Wizard/Settings/Organization/View.elm:36
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:105
 msgid "Description"
-msgstr ""
+msgstr "Beschrijving"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire/History.elm:168
 msgid "Named versions only"
-msgstr ""
+msgstr "Alleen versies met naam"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire/History.elm:294
 msgid "Rename this version"
-msgstr ""
+msgstr "Geef deze versie een andere naam"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire/History.elm:298
 msgid "Delete this version"
-msgstr ""
+msgstr "Verwijder deze versie"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire/History.elm:305
 msgid "Name this version"
-msgstr ""
+msgstr "Geef deze versie een naam"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire/History.elm:319
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:211
 msgid "View questionnaire"
-msgstr ""
+msgstr "Laat vragenlijst zien"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire/History.elm:334
 msgid "Create document"
-msgstr ""
+msgstr "Maak een document"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire/History.elm:355
 msgid "Revert to this version"
-msgstr ""
+msgstr "Ga terug naar deze versie"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire/History.elm:480
 msgid "Cleared reply of"
-msgstr ""
+msgstr "Antwoord leeggemaakt van"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire/History.elm:493
 msgid "Set phase to %s"
-msgstr ""
+msgstr "Verander fase in %s"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire/NavigationTree.elm:81
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:489
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:370
 msgid "Chapters"
-msgstr ""
+msgstr "Hoofdstukken"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire/VersionModal.elm:163
 msgid "Rename version"
-msgstr ""
+msgstr "Geef versie andere naam"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire/VersionModal.elm:166
 #: engine-wizard/elm/Wizard/KMEditor/Publish/View.elm:127
 #: engine-wizard/elm/Wizard/Projects/CreateMigration/View.elm:97
 msgid "New version"
-msgstr ""
+msgstr "Nieuwe versie"
 
 #: engine-wizard/elm/Wizard/Common/Components/QuestionnaireVersionTag.elm:20
 msgid "Current"
-msgstr ""
+msgstr "Huidige"
 
 #: engine-wizard/elm/Wizard/Common/Components/SummaryReport.elm:81
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/NewDocument.elm:148
 msgid "Unable to get the summary report."
-msgstr ""
+msgstr "Kan de samenvattende rapportage niet ophalen."
 
 #: engine-wizard/elm/Wizard/Common/Components/SummaryReport.elm:104
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:96
 msgid "Summary Report"
-msgstr ""
+msgstr "Samenvattende rapportage"
 
 #: engine-wizard/elm/Wizard/Common/Components/SummaryReport.elm:189
 msgid "Answered: %s/%s"
-msgstr ""
+msgstr "Beantwoord: %s/%s"
 
 #: engine-wizard/elm/Wizard/Common/Components/SummaryReport.elm:192
 msgid "Answered (current phase): %s/%s"
-msgstr ""
+msgstr "Beantwoord (in huidige fase): %s/%s"
 
 #: engine-wizard/elm/Wizard/Common/Components/SummaryReport.elm:222
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:506
@@ -1249,33 +1275,33 @@ msgstr ""
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1523
 #: engine-wizard/elm/Wizard/Projects/Detail/View.elm:226
 msgid "Metrics"
-msgstr ""
+msgstr "Statistieken"
 
 #: engine-wizard/elm/Wizard/Common/Components/SummaryReport.elm:223
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:511
 msgid "Measure"
-msgstr ""
+msgstr "Meting"
 
 #: engine-wizard/elm/Wizard/Common/Components/SummaryReport.elm:278
 msgid "Metrics explanation"
-msgstr ""
+msgstr "Uitleg van de statistieken"
 
 #: engine-wizard/elm/Wizard/Common/Components/TypeHintInput.elm:267
 msgid "No results matching your search were found."
-msgstr ""
+msgstr "Geen resultaten gevonden voor de zoekopdracht."
 
 #: engine-wizard/elm/Wizard/Common/Components/TypeHintInput/TypeHintItem.elm:78
 msgid "recommended"
-msgstr ""
+msgstr "aanbevolen"
 
 #: engine-wizard/elm/Wizard/Common/Components/UsageTable.elm:17
 msgid "Active Users"
-msgstr ""
+msgstr "Actieve gebruikers"
 
 #: engine-wizard/elm/Wizard/Common/Components/UsageTable.elm:18
 #: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:33
 msgid "Knowledge Model Editors"
-msgstr ""
+msgstr "Kennismodel Editors"
 
 #: engine-wizard/elm/Wizard/Common/Components/UsageTable.elm:19
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:84
@@ -1284,7 +1310,7 @@ msgstr ""
 #: engine-wizard/elm/Wizard/Settings/KnowledgeModels/View.elm:28
 #: engine-wizard/elm/Wizard/Settings/View.elm:130
 msgid "Knowledge Models"
-msgstr ""
+msgstr "Kennismodellen"
 
 #: engine-wizard/elm/Wizard/Common/Components/UsageTable.elm:20
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:152
@@ -1292,7 +1318,7 @@ msgstr ""
 #: engine-wizard/elm/Wizard/Settings/View.elm:133
 #: engine-wizard/elm/Wizard/Templates/Index/View.elm:30
 msgid "Document Templates"
-msgstr ""
+msgstr "Documentsjablonen"
 
 #: engine-wizard/elm/Wizard/Common/Components/UsageTable.elm:21
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:104
@@ -1301,52 +1327,52 @@ msgstr ""
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:29
 #: engine-wizard/elm/Wizard/Settings/View.elm:131
 msgid "Projects"
-msgstr ""
+msgstr "Projecten"
 
 #: engine-wizard/elm/Wizard/Common/Components/UsageTable.elm:22
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:132
 #: engine-wizard/elm/Wizard/Documents/Index/View.elm:75
 #: engine-wizard/elm/Wizard/Projects/Detail/View.elm:244
 msgid "Documents"
-msgstr ""
+msgstr "Documenten"
 
 #: engine-wizard/elm/Wizard/Common/Components/UsageTable.elm:23
 msgid "Storage"
-msgstr ""
+msgstr "Opslag"
 
 #: engine-wizard/elm/Wizard/Common/Menu/Update.elm:39
 msgid "Unable to get the build info"
-msgstr ""
+msgstr "Kan build-informatie niet ophalen"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:91
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:119
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:139
 msgid "List"
-msgstr ""
+msgstr "Lijst"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:96
 msgid "Editors"
-msgstr ""
+msgstr "Editors"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:124
 msgid "Importers"
-msgstr ""
+msgstr "Importeurs"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:144
 msgid "Templates"
-msgstr ""
+msgstr "Sjablonen"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:160
 msgid "Dev"
-msgstr ""
+msgstr "Dev"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:167
 msgid "Operations"
-msgstr ""
+msgstr "Operaties"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:172
 msgid "Persistent Commands"
-msgstr ""
+msgstr "Blijvende Opdrachten"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:180
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/Settings.elm:146
@@ -1355,150 +1381,152 @@ msgstr ""
 #: engine-wizard/elm/Wizard/Projects/Detail/View.elm:253
 #: engine-wizard/elm/Wizard/Registry/RegistrySignupConfirmation/View.elm:32
 msgid "Settings"
-msgstr ""
+msgstr "Instellingen"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:425
 msgid "Edit profile"
-msgstr ""
+msgstr "Wijzig profielinformatie"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:434
 msgid "Log out"
-msgstr ""
+msgstr "Log uit"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:443
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:521
 msgid "About"
-msgstr ""
+msgstr "Over"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:452
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:500
 msgid "Report issue"
-msgstr ""
+msgstr "Rapporteer een issue"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:469
 msgid "Collapse sidebar"
-msgstr ""
+msgstr "Zijbalk inklappen"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:484
 msgid "If you find any problem, the best way to report it is to open an issue in our GitHub repository."
 msgstr ""
+"Als je een probleem vindt is de beste manier om dat te rapporteren het "
+"openen van een issue in ons GitHub repository."
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:496
 msgid "You can also write us an email to %s."
-msgstr ""
+msgstr "Je kunt ons ook een e-mail sturen aan %s."
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:504
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:525
 #: engine-wizard/elm/Wizard/Common/View/Modal.elm:122
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:542
 msgid "Style Version"
-msgstr ""
+msgstr "Style Versie"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:546
 msgid "API URL"
-msgstr ""
+msgstr "API URL"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:547
 msgid "API Docs"
-msgstr ""
+msgstr "API Documentatie"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:551
 msgid "Client"
-msgstr ""
+msgstr "Client"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:552
 msgid "Server"
-msgstr ""
+msgstr "Server"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:572
 #: engine-wizard/elm/Wizard/KnowledgeModels/Detail/View.elm:197
 #: engine-wizard/elm/Wizard/KnowledgeModels/Import/OwlImport/View.elm:46
 #: engine-wizard/elm/Wizard/Templates/Detail/View.elm:189
 msgid "Version"
-msgstr ""
+msgstr "Versie"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:576
 msgid "Built at"
-msgstr ""
+msgstr "Gebouwd om"
 
 #: engine-wizard/elm/Wizard/Common/TimeDistance.elm:18
 msgid "%s ago"
-msgstr ""
+msgstr "%s geleden"
 
 #: engine-wizard/elm/Wizard/Common/TimeDistance.elm:21
 msgid "in %s"
-msgstr ""
+msgstr "in %s"
 
 #: engine-wizard/elm/Wizard/Common/TimeDistance.elm:27
 msgid "less than a minute"
 msgid_plural "less than %s minutes"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "minder dan een minuut"
+msgstr[1] "minder dan %s minuten"
 
 #: engine-wizard/elm/Wizard/Common/TimeDistance.elm:41
 msgid "1 minute"
 msgid_plural "%s minutes"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "1 minuut"
+msgstr[1] "%s minuten"
 
 #: engine-wizard/elm/Wizard/Common/TimeDistance.elm:44
 msgid "about 1 hour"
 msgid_plural "about %s hours"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "ongeveer 1 uur"
+msgstr[1] "ongeveer %s uren"
 
 #: engine-wizard/elm/Wizard/Common/TimeDistance.elm:47
 msgid "1 day"
 msgid_plural "%s days"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "1 dag"
+msgstr[1] "%s dagen"
 
 #: engine-wizard/elm/Wizard/Common/TimeDistance.elm:50
 msgid "about 1 month"
 msgid_plural "about %s months"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "ongeveer 1 maand"
+msgstr[1] "ongeveer %s maanden"
 
 #: engine-wizard/elm/Wizard/Common/TimeDistance.elm:53
 msgid "1 month"
 msgid_plural "%s months"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "1 maand"
+msgstr[1] "%s maanden"
 
 #: engine-wizard/elm/Wizard/Common/TimeDistance.elm:56
 msgid "about 1 year"
 msgid_plural "about %s years"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "ongeveer 1 jaar"
+msgstr[1] "ongeveer %s jaar"
 
 #: engine-wizard/elm/Wizard/Common/TimeDistance.elm:59
 msgid "over 1 year"
 msgid_plural "over %s years"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "meer dan 1 jaar"
+msgstr[1] "meer dan %s jaar"
 
 #: engine-wizard/elm/Wizard/Common/TimeDistance.elm:62
 msgid "almost 1 year"
 msgid_plural "almost %s years"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "bijna 1 jaar"
+msgstr[1] "bijna %s jaar"
 
 #: engine-wizard/elm/Wizard/Common/View/FormGroup.elm:52
 msgid "(optional)"
-msgstr ""
+msgstr "(optioneel)"
 
 #: engine-wizard/elm/Wizard/Common/View/FormGroup.elm:210
 msgid "Only PDF documents are enabled in this instance."
-msgstr ""
+msgstr "In deze instantie kunnen alleen PDF documenten."
 
 #: engine-wizard/elm/Wizard/Common/View/FormGroup.elm:439
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:208
 #: engine-wizard/elm/Wizard/Projects/Common/QuestionnaireEditFormMemberPerms.elm:63
 msgid "Editor"
-msgstr ""
+msgstr "Editor"
 
 #: engine-wizard/elm/Wizard/Common/View/FormGroup.elm:447
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:216
@@ -1506,29 +1534,30 @@ msgstr ""
 #: engine-wizard/elm/Wizard/KnowledgeModels/Detail/View.elm:53
 #: engine-wizard/elm/Wizard/Projects/Detail/View.elm:235
 msgid "Preview"
-msgstr ""
+msgstr "Voorbeeld"
 
 #: engine-wizard/elm/Wizard/Common/View/FormGroup.elm:455
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:222
 msgid "You can use markdown and see the result in the preview tab."
 msgstr ""
+"Je kunt markdown gebruiken en het resultaat in de voorbeeld-tab bekijken."
 
 #: engine-wizard/elm/Wizard/Common/View/Layout.elm:32
 #: engine-wizard/elm/Wizard/Common/View/Layout.elm:40
 msgid "Configuration Error"
-msgstr ""
+msgstr "Configuratiefout"
 
 #: engine-wizard/elm/Wizard/Common/View/Layout.elm:34
 msgid "Application is not configured correctly and cannot run."
-msgstr ""
+msgstr "De applicatie is niet correct geconfigureerd en werkt niet."
 
 #: engine-wizard/elm/Wizard/Common/View/Layout.elm:35
 msgid "Please, contact the administrator."
-msgstr ""
+msgstr "Neem alstublieft contact op met de beheerder."
 
 #: engine-wizard/elm/Wizard/Common/View/Layout.elm:94
 msgid "Go to App"
-msgstr ""
+msgstr "Ga naar App"
 
 #: engine-wizard/elm/Wizard/Common/View/Layout.elm:106
 #: engine-wizard/elm/Wizard/Public/Signup/View.elm:44
@@ -1537,13 +1566,13 @@ msgstr ""
 #: engine-wizard/elm/Wizard/Settings/Registry/View.elm:104
 #: engine-wizard/elm/Wizard/Settings/Registry/View.elm:108
 msgid "Sign Up"
-msgstr ""
+msgstr "Registreer"
 
 #: engine-wizard/elm/Wizard/Common/View/Layout.elm:116
 #: engine-wizard/elm/Wizard/Public/Login/View.elm:63
 #: engine-wizard/elm/Wizard/Public/Login/View.elm:78
 msgid "Log In"
-msgstr ""
+msgstr "Meld aan"
 
 #: engine-wizard/elm/Wizard/Common/View/Page.elm:48
 #: engine-wizard/elm/Wizard/Documents/Index/View.elm:261
@@ -1551,15 +1580,15 @@ msgstr ""
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:274
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:292
 msgid "Error"
-msgstr ""
+msgstr "Fout"
 
 #: engine-wizard/elm/Wizard/Common/View/Tag.elm:33
 msgid "There are no question tags configured for the Knowledge Model."
-msgstr ""
+msgstr "Er zijn geen tags voor de vragen geconfigureerd in dit kennismodel."
 
 #: engine-wizard/elm/Wizard/Common/View/Tag.elm:53
 msgid "Untitled question tag"
-msgstr ""
+msgstr "Vraag-tag zonder titel"
 
 #: engine-wizard/elm/Wizard/Common/View/Tag.elm:82
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:540
@@ -1571,24 +1600,26 @@ msgstr ""
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1215
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1312
 msgid "Question Tags"
-msgstr ""
+msgstr "Vraag-tags"
 
 #: engine-wizard/elm/Wizard/Common/View/Tag.elm:108
 msgid "You can filter questions in the questionnaire by question tags. If no question tags are selected, all questions will be used."
 msgstr ""
+"U kunt vragen in de vragenlijst filteren op vraagtags. Als er geen vraagtags "
+"zijn geselecteerd, worden alle vragen gebruikt."
 
 #: engine-wizard/elm/Wizard/Common/View/Tag.elm:114
 msgid "There are no question tags for this knowledge model."
-msgstr ""
+msgstr "Er zijn geen tags voor de vragen in dit kennismodel."
 
 #: engine-wizard/elm/Wizard/Common/View/Tag.elm:126
 msgid "No question tags"
-msgstr ""
+msgstr "Geen vraagtags"
 
 #: engine-wizard/elm/Wizard/Dashboard/Dashboards/AdminDashboard.elm:81
 #: engine-wizard/elm/Wizard/Settings/Usage/Update.elm:24
 msgid "Unable to get usage."
-msgstr ""
+msgstr "Kan gebruik niet ophalen."
 
 #: engine-wizard/elm/Wizard/Dashboard/Dashboards/AdminDashboard.elm:89
 #: engine-wizard/elm/Wizard/Dashboard/Dashboards/DataStewardDashboard.elm:62
@@ -1603,7 +1634,7 @@ msgstr ""
 #: engine-wizard/elm/Wizard/Projects/Index/Update.elm:206
 #: engine-wizard/elm/Wizard/Projects/Index/Update.elm:236
 msgid "Unable to get Knowledge Models."
-msgstr ""
+msgstr "Kan kennismodellen niet ophalen."
 
 #: engine-wizard/elm/Wizard/Dashboard/Dashboards/AdminDashboard.elm:97
 #: engine-wizard/elm/Wizard/Dashboard/Dashboards/DataStewardDashboard.elm:70
@@ -1611,100 +1642,141 @@ msgstr ""
 #: engine-wizard/elm/Wizard/Settings/Template/Update.elm:46
 #: engine-wizard/elm/Wizard/Templates/Index/Update.elm:94
 msgid "Unable to get document templates."
-msgstr ""
+msgstr "Kan documentsjablonen niet ophalen."
 
 #: engine-wizard/elm/Wizard/Dashboard/Dashboards/ResearcherDashboard.elm:72
 #: engine-wizard/elm/Wizard/Projects/Index/Update.elm:337
 msgid "Unable to get projects."
-msgstr ""
+msgstr "Kan projecten niet ophalen."
 
 #: engine-wizard/elm/Wizard/Dashboard/Dashboards/WelcomeDashboard.elm:18
 msgid "Welcome to the %s!"
-msgstr ""
+msgstr "Welkom bij de %s!"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/AddOpenIDWidget.elm:13
 msgid "Add OpenID Service"
-msgstr ""
+msgstr "Voeg een OpenID service toe"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/AddOpenIDWidget.elm:14
 msgid "OpenID is an open standard for authentication that allows using existing accounts to login to other services without creating a new password. Configure your organization's OpenID to make it easier for your users to log in."
 msgstr ""
+"OpenID is een open standaard voor authenticatie die het mogelijk maakt om "
+"met een bestaand account in te loggen bij een andere service zonder een "
+"nieuw password op te zetten. Configureer OpenID bij uw organisatie om het "
+"eenvoudiger te maken voor uw gebruikers om in te loggen."
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/AddOpenIDWidget.elm:17
 msgid "Add OpenID"
-msgstr ""
+msgstr "Voeg OpenID toe"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ConfigureLookAndFeelWidget.elm:15
 msgid "You can configure the application name and easily change the logo and colors to match your organization's style. You can also add additional menu links, for example, to your guidelines or documentation."
 msgstr ""
+"De applicatienaam kan worden geconfigureerd en het logo en de kleur kunnen "
+"worden aangepast aan de organisatiestijl. Er kunnen ook extra menu-items "
+"worden toegevoegd, bijvoorbeeld verwijzingen naar eigen richtlijnen en "
+"documentatie."
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ConfigureLookAndFeelWidget.elm:18
 msgid "You can configure the application name, or add additional menu links, for example, to your guidelines or documentation."
 msgstr ""
+"De applicatienaam kan worden geconfigureerd en ook kunnen extra menu-items "
+"worden toegevoegd, bijvoorbeeld verwijzingen naar eigen richtlijnen en "
+"documentatie."
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ConfigureLookAndFeelWidget.elm:21
 msgid "Configure Look & Feel"
-msgstr ""
+msgstr "Configureer de look-en-feel"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ConfigureLookAndFeelWidget.elm:25
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ConfigureOrganizationWidget.elm:17
 msgid "Configure"
-msgstr ""
+msgstr "Configureer"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ConfigureOrganizationWidget.elm:13
 msgid "Configure Organization Info"
-msgstr ""
+msgstr "Configureer de organisatie-informatie"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ConfigureOrganizationWidget.elm:14
 msgid "Fill in your organization name and organization ID. For example, these values will be used with knowledge models created in this instance."
 msgstr ""
+"Vul de organisatienaam in het de organisatie-ID. Deze zullen bijvoorbeeld "
+"worden gebruikt bij kennismodellen die in deze instantie worden gemaakt."
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ConnectRegistryWidget.elm:13
 msgid "Connect to DSW Registry"
-msgstr ""
+msgstr "Verbind met het DSW-register"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ConnectRegistryWidget.elm:14
 msgid "[DSW Registry](https://registry.ds-wizard.org) is a place for published knowledge models and document templates. When you connect your instance, data stewards can easily import them."
 msgstr ""
+"Het [DSW Register](https://registry.ds-wizard.org) is een plek waar "
+"kennismodellen en documentsjablonen kunnen worden gepubliceerd. Als de "
+"instance daarmee wordt gekoppeld kunnen datastewards modellen en sjablonen "
+"eenvoudig importeren."
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ConnectRegistryWidget.elm:17
 msgid "Connect"
-msgstr ""
+msgstr "Verbinden"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/CreateKnowledgeModelWidget.elm:13
 #: engine-wizard/elm/Wizard/KMEditor/Create/View.elm:40
 msgid "Create Knowledge Model"
-msgstr ""
+msgstr "Maak kennismodel"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/CreateKnowledgeModelWidget.elm:14
 msgid "Knowledge model is a tree-like structure containing the knowledge about what should be asked and how. It is used as a template for questionnaires in projects. You can create new ones from scratch or by modifying existing ones."
 msgstr ""
+"Een kennismodel is een boomstructuur met de kennis over wanneer vragen "
+"gesteld moeten worden en hoe. Het kennismodel wordt gebruikt als sjabloon "
+"voor vragenlijsten in projecten. Een kennismodel kan vanuit het niets worden "
+"opgebouwd, of door een bestaand model aan te passen."
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/CreateProjectTemplateWidget.elm:13
 msgid "Create Project Template"
-msgstr ""
+msgstr "Maak een projectsjabloon"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/CreateProjectTemplateWidget.elm:14
 msgid "Project template is a special type of project that can be used as a starting point for new projects. You can select a knowledge model, set up a document template and format, or prefill some answers to make it easier to start for researchers."
 msgstr ""
+"Een projectsjabloon is een speciaal project dat kan worden gebruikt als "
+"startpunt voor nieuwe projecten. Er kan gekozen worden voor een kennismodel "
+"en een documentsjabloon, en er kunnen vragen worden voor-ingevuld om het "
+"begin eenvoudiger te maken voor onderzoekers."
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/CreateProjectWidget.elm:13
 #: engine-wizard/elm/Wizard/Projects/Create/View.elm:48
 msgid "Create Project"
-msgstr ""
+msgstr "Maak project"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/CreateProjectWidget.elm:14
 msgid "Project is a workspace where you create your DMP. It is based on a knowledge model, which contains knowledge about what should be asked and how based on the research field or organization's needs. You can use document templates to transform the answers into a document. This document can be anything, from PDF to machine-actionable JSON.\n\nYou can create a new project from a project template that data stewards prepare for you to have an easier start or from scratch where you set up everything yourself."
 msgstr ""
+"Een Project is een werkplek waar het DMP wordt gemaakt. Een project is "
+"gebaseerd op een kennismodel met de kennis over wanneer vragen gesteld "
+"moeten worden en hoe, gebaseerd op het onderzoeksveld of de wensen van de "
+"organisatie. Documentsjablonen kunnen worden gebruikt om de antwoorden om te "
+"zetten in een document. Zo’n document kan van alles zijn, van een PDF tot "
+"een JSON file die door een machine kan worden verwerkt.\n"
+"\n"
+"Een nieuw project kan worden gemaakt vanuit een sjabloon dat door een "
+"datasteward is voorbereid voor een snelle start, of helemaal leeg zodat "
+"alles nog moet worden gedaan."
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ImportDocumentTemplateWidget.elm:13
 #: engine-wizard/elm/Wizard/Templates/Import/View.elm:44
 msgid "Import Document Template"
-msgstr ""
+msgstr "Importeer een documentsjabloon"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ImportDocumentTemplateWidget.elm:14
 msgid "Document templates transform answers from a questionnaire into a document. This document can be anything, from PDF to machine-actionable JSON. You can import existing document templates from [DSW Registry](https://registry.ds-wizard.org/templates) or create new ones using [DSW TDK](https://guide.ds-wizard.org/miscellaneous/development/template-development)."
 msgstr ""
+"Documentsjablonen zetten antwoorden van een vragenlijst om in een document. "
+"Dit document kan van alles zijn, van PDF tot JSON dat door een machine kan "
+"worden verwerkt. U kunt bestaande documentsjablonen importeren uit het [DSW "
+"Register](https://registry.ds-wizard.org/templates) of een nieuwe maken met ["
+"DSW TDK](https://guide.ds-wizard.org/miscellaneous/development/template-"
+"development)."
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ImportDocumentTemplateWidget.elm:17
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ImportKnowledgeModelWidget.elm:17
@@ -1717,24 +1789,28 @@ msgstr ""
 #: engine-wizard/elm/Wizard/Templates/Import/RegistryImport/View.elm:51
 #: engine-wizard/elm/Wizard/Templates/Index/View.elm:44
 msgid "Import"
-msgstr ""
+msgstr "Importeer"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ImportKnowledgeModelWidget.elm:13
 #: engine-wizard/elm/Wizard/KnowledgeModels/Import/View.elm:83
 msgid "Import Knowledge Model"
-msgstr ""
+msgstr "Importeer kennismodel"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ImportKnowledgeModelWidget.elm:14
 msgid "Knowledge models are published in [DSW Registry](https://registry.ds-wizard.org). You can easily import them into your instance to make them available for researchers. You can also import other knowledge models exported from different instances."
 msgstr ""
+"Kennismodellen worden gepubliceerd in het [DSW Register](https://registry.ds-"
+"wizard.org). Ze kunnen eenvoudig in uw instantie worden geïmporteerd om ze "
+"beschikbaar te maken voor onderzoekers. U kunt ook andere kennismodellen "
+"importeren die door anderen elders zijn geëxporteerd."
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/OutdatedPackagesWidget.elm:35
 msgid "Update Knowledge Models"
-msgstr ""
+msgstr "Werk kennismodellen bij"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/OutdatedPackagesWidget.elm:36
 msgid "There are updates available for some knowledge models."
-msgstr ""
+msgstr "Voor sommige kennismodellen zijn updates beschikbaar."
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/OutdatedPackagesWidget.elm:52
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/OutdatedTemplatesWidget.elm:52
@@ -1743,81 +1819,84 @@ msgstr ""
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:699
 #: engine-wizard/elm/Wizard/Templates/Index/View.elm:98
 msgid "update available"
-msgstr ""
+msgstr "updates beschikbaar"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/OutdatedTemplatesWidget.elm:35
 msgid "Update Document Templates"
-msgstr ""
+msgstr "Werk documentsjablonen bij"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/OutdatedTemplatesWidget.elm:36
 msgid "There are updates available for some document templates."
-msgstr ""
+msgstr "Voor sommige documentsjablonen zijn updates beschikbaar."
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/RecentProjectsWidget.elm:42
 msgid "Recent Projects"
-msgstr ""
+msgstr "Recente projecten"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/RecentProjectsWidget.elm:45
 msgid "View all"
-msgstr ""
+msgstr "Alles bekijken"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/RecentProjectsWidget.elm:82
 msgid "You have no projects yet, start by creating some."
-msgstr ""
+msgstr "Je hebt nog geen projecten, begin door er enkele te maken."
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/WelcomeWidget.elm:19
 msgid "Welcome, %s!"
-msgstr ""
+msgstr "Welkom, %s!"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/WelcomeWidget.elm:22
 msgid "Welcome!"
-msgstr ""
+msgstr "Welkom!"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/WelcomeWidget.elm:26
 msgid "As an admin, you configure the instance and manage user accounts."
 msgstr ""
+"Als beheerder configureer je de instantie en beheer je de gebruikersaccounts."
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/WelcomeWidget.elm:27
 msgid "As a data steward, you prepare knowledge models, document templates, and project templates for researchers."
 msgstr ""
+"Als datasteward prepareer je kennismodellen, documentsjablonen en "
+"projectsjablonen voor de onderzoekers."
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/WelcomeWidget.elm:28
 msgid "As a researcher, you create and collaborate on data management plans."
-msgstr ""
+msgstr "Als een onderzoeker maak je samen met anderen datamanagementplannen."
 
 #: engine-wizard/elm/Wizard/Documents/Index/Update.elm:95
 #: engine-wizard/elm/Wizard/Documents/Index/Update.elm:240
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/Update.elm:220
 msgid "Unable to get documents."
-msgstr ""
+msgstr "Kan documenten niet ophalen."
 
 #: engine-wizard/elm/Wizard/Documents/Index/Update.elm:135
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/Update.elm:115
 msgid "Document could not be deleted."
-msgstr ""
+msgstr "Het document kon niet verwijderd worden."
 
 #: engine-wizard/elm/Wizard/Documents/Index/Update.elm:190
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/Update.elm:170
 msgid "Unable to get submission services for the document."
-msgstr ""
+msgstr "Kon de indieningsservices voor het document niet ophalen."
 
 #: engine-wizard/elm/Wizard/Documents/Index/Update.elm:227
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/Update.elm:207
 msgid "Unable to submit the document."
-msgstr ""
+msgstr "Kan het document niet indienen."
 
 #: engine-wizard/elm/Wizard/Documents/Index/View.elm:94
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:76
 msgid "Submissions"
-msgstr ""
+msgstr "Indieningen"
 
 #: engine-wizard/elm/Wizard/Documents/Index/View.elm:106
 msgid "Click \"Create\" button to add a new document."
-msgstr ""
+msgstr "Klik op “Aanmaken” om een nieuw document te maken."
 
 #: engine-wizard/elm/Wizard/Documents/Index/View.elm:114
 msgid "Search documents..."
-msgstr ""
+msgstr "Doorzoek documenten…"
 
 #: engine-wizard/elm/Wizard/Documents/Index/View.elm:117
 #: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:69
@@ -1826,18 +1905,18 @@ msgstr ""
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:130
 #: engine-wizard/elm/Wizard/Users/Index/View.elm:62
 msgid "Created"
-msgstr ""
+msgstr "Gemaakt"
 
 #: engine-wizard/elm/Wizard/Documents/Index/View.elm:133
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:129
 msgid "Click to download the document"
-msgstr ""
+msgstr "Klik om het document te downloaden"
 
 #: engine-wizard/elm/Wizard/Documents/Index/View.elm:192
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Preview.elm:171
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:188
 msgid "Download"
-msgstr ""
+msgstr "Downloaden"
 
 #: engine-wizard/elm/Wizard/Documents/Index/View.elm:204
 #: engine-wizard/elm/Wizard/Documents/Index/View.elm:365
@@ -1846,38 +1925,38 @@ msgstr ""
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:381
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:389
 msgid "Submit"
-msgstr ""
+msgstr "Indienen"
 
 #: engine-wizard/elm/Wizard/Documents/Index/View.elm:216
 #: engine-wizard/elm/Wizard/Documents/Index/View.elm:297
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:310
 msgid "View error"
-msgstr ""
+msgstr "Fout bij bekijken"
 
 #: engine-wizard/elm/Wizard/Documents/Index/View.elm:247
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:261
 msgid "Queued"
-msgstr ""
+msgstr "In de wachtrij"
 
 #: engine-wizard/elm/Wizard/Documents/Index/View.elm:253
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:267
 msgid "In Progress"
-msgstr ""
+msgstr "Bezig"
 
 #: engine-wizard/elm/Wizard/Documents/Index/View.elm:272
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:285
 msgid "Submitting"
-msgstr ""
+msgstr "Aan het indienen"
 
 #: engine-wizard/elm/Wizard/Documents/Index/View.elm:276
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:289
 msgid "Submitted"
-msgstr ""
+msgstr "Ingediend"
 
 #: engine-wizard/elm/Wizard/Documents/Index/View.elm:291
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:304
 msgid "View submission"
-msgstr ""
+msgstr "Indiening inzien"
 
 #: engine-wizard/elm/Wizard/Documents/Index/View.elm:329
 #: engine-wizard/elm/Wizard/KMEditor/Common/DeleteModal.elm:96
@@ -1887,88 +1966,88 @@ msgstr ""
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:343
 #: engine-wizard/elm/Wizard/Templates/Detail/View.elm:296
 msgid "Are you sure you want to permanently delete %s?"
-msgstr ""
+msgstr "Weet je zeker dat je %s definitief wilt verwijderen?"
 
 #: engine-wizard/elm/Wizard/Documents/Index/View.elm:333
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:349
 msgid "Delete document"
-msgstr ""
+msgstr "Verwijder document"
 
 #: engine-wizard/elm/Wizard/Documents/Index/View.elm:402
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:418
 msgid "There are no submission services configured for this type of document."
-msgstr ""
+msgstr "Er zijn geen indieningsservices voor dit type document geconfigureerd."
 
 #: engine-wizard/elm/Wizard/Documents/Index/View.elm:418
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:434
 msgid "You can find it here: "
-msgstr ""
+msgstr "Je kunt het hier vinden: "
 
 #: engine-wizard/elm/Wizard/Documents/Index/View.elm:428
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:444
 msgid "The document was successfully submitted."
-msgstr ""
+msgstr "Het document is succesvol ingediend."
 
 #: engine-wizard/elm/Wizard/Documents/Index/View.elm:435
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:451
 msgid "The document submission failed."
-msgstr ""
+msgstr "De indiening is mislukt."
 
 #: engine-wizard/elm/Wizard/Documents/Index/View.elm:450
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:466
 msgid "Submit %s"
-msgstr ""
+msgstr "Dien %s in"
 
 #: engine-wizard/elm/Wizard/Documents/Index/View.elm:482
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:498
 msgid "Document error"
-msgstr ""
+msgstr "Documentfout"
 
 #: engine-wizard/elm/Wizard/Documents/Index/View.elm:504
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:520
 msgid "Submission error"
-msgstr ""
+msgstr "Indieningsfout"
 
 #: engine-wizard/elm/Wizard/KMEditor/Common/DeleteModal.elm:75
 msgid "Knowledge model could not be deleted."
-msgstr ""
+msgstr "Kennismodel kon niet worden verwijderd."
 
 #: engine-wizard/elm/Wizard/KMEditor/Common/DeleteModal.elm:100
 msgid "Delete knowledge model editor"
-msgstr ""
+msgstr "Verwijder kennismodel-editor"
 
 #: engine-wizard/elm/Wizard/KMEditor/Common/UpgradeModal.elm:106
 msgid "Migration could not be created."
-msgstr ""
+msgstr "Kon de migratie niet aanmaken."
 
 #: engine-wizard/elm/Wizard/KMEditor/Common/UpgradeModal.elm:116
 #: engine-wizard/elm/Wizard/KMEditor/Create/Update.elm:65
 #: engine-wizard/elm/Wizard/KnowledgeModels/Detail/Update.elm:32
 #: engine-wizard/elm/Wizard/KnowledgeModels/Preview/Update.elm:55
 msgid "Unable to get the Knowledge Model."
-msgstr ""
+msgstr "Kennismodel kon niet opgehaald worden."
 
 #: engine-wizard/elm/Wizard/KMEditor/Common/UpgradeModal.elm:151
 msgid "- select parent package -"
-msgstr ""
+msgstr "- selecteer het moederpakket -"
 
 #: engine-wizard/elm/Wizard/KMEditor/Common/UpgradeModal.elm:157
 msgid "Select the new parent knowledge model for %s."
-msgstr ""
+msgstr "Selecteer het kennismodel waar %s van afgeleid wordt."
 
 #: engine-wizard/elm/Wizard/KMEditor/Common/UpgradeModal.elm:158
 msgid "New parent package"
-msgstr ""
+msgstr "Nieuw moederpakket"
 
 #: engine-wizard/elm/Wizard/KMEditor/Common/UpgradeModal.elm:163
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:495
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:629
 msgid "Create migration"
-msgstr ""
+msgstr "Migratie aanmaken"
 
 #: engine-wizard/elm/Wizard/KMEditor/Create/Update.elm:117
 msgid "Knowledge Model could not be created."
-msgstr ""
+msgstr "Kennismodel kon niet worden aangemaakt."
 
 #: engine-wizard/elm/Wizard/KMEditor/Create/View.elm:75
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/Settings.elm:150
@@ -1977,19 +2056,23 @@ msgstr ""
 #: engine-wizard/elm/Wizard/KnowledgeModels/Import/RegistryImport/View.elm:47
 #: engine-wizard/elm/Wizard/Settings/KnowledgeModels/View.elm:47
 msgid "Knowledge Model ID"
-msgstr ""
+msgstr "Kennismodel-ID"
 
 #: engine-wizard/elm/Wizard/KMEditor/Create/View.elm:76
 msgid "Knowledge Model ID can contain alphanumeric characters and dashes but cannot start or end with a dash."
 msgstr ""
+"Het kennismodel-ID kan alfanumerieke karakters en liggende streepjes "
+"bevatten, maar kan niet beginnen of eindigen met een liggend streepje."
 
 #: engine-wizard/elm/Wizard/KMEditor/Create/View.elm:77
 msgid "Based on"
-msgstr ""
+msgstr "Gebaseerd op"
 
 #: engine-wizard/elm/Wizard/KMEditor/Create/View.elm:78
 msgid "You can create a new Knowledge Model based on the existing one or start from scratch."
 msgstr ""
+"Een nieuw kennismodel kan worden afgeleid van een bestaand kennismodel, of "
+"van leeg af opgebouwd worden."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:242
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:497
@@ -1997,7 +2080,7 @@ msgstr ""
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/TreeInput.elm:161
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/TagEditor.elm:310
 msgid "Untitled chapter"
-msgstr ""
+msgstr "Hoofdstuk zonder naam"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:245
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:644
@@ -2007,33 +2090,33 @@ msgstr ""
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/TreeInput.elm:208
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/TagEditor.elm:255
 msgid "Untitled question"
-msgstr ""
+msgstr "Vraag zonder titel"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:248
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:514
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:130
 msgid "Untitled metric"
-msgstr ""
+msgstr "Statistiek zonder naam"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:251
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:531
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:144
 msgid "Untitled phase"
-msgstr ""
+msgstr "Fase zonder naam"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:254
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:548
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:158
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/TagEditor.elm:168
 msgid "Untitled tag"
-msgstr ""
+msgstr "Tag zonder naam"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:257
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:565
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1002
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:172
 msgid "Untitled integration"
-msgstr ""
+msgstr "Naamloze integratie"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:260
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:912
@@ -2041,117 +2124,117 @@ msgstr ""
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/TreeInput.elm:239
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/TagEditor.elm:320
 msgid "Untitled answer"
-msgstr ""
+msgstr "Antwoord zonder naam"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:263
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1077
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:247
 msgid "Untitled choice"
-msgstr ""
+msgstr "Naamloze keuze"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:266
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:857
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:261
 msgid "Untitled reference"
-msgstr ""
+msgstr "Naamloze referentie"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:269
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:874
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:275
 msgid "Untitled expert"
-msgstr ""
+msgstr "Expert zonder naam"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:760
 msgid "Empty title for chapter"
-msgstr ""
+msgstr "Lege hoofdstuktitel"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:789
 msgid "Empty title for question"
-msgstr ""
+msgstr "Lege vraagtitel"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:798
 msgid "No answers for options question"
-msgstr ""
+msgstr "Geen antwoorden voor een vraag van type “opties”"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:807
 msgid "No item questions for list question"
-msgstr ""
+msgstr "Lijst-vraag zonder onderliggende vragen"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:816
 msgid "No integration selected for integration question"
-msgstr ""
+msgstr "Geen integratie geselecteerd voor een integratievraag"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:823
 msgid "No choices for multi-choice question"
-msgstr ""
+msgstr "Geen keuzes voor een meer-selectie vraag"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:852
 msgid "Empty label for answer"
-msgstr ""
+msgstr "Antwoord zonder label"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:871
 msgid "Empty label for choice"
-msgstr ""
+msgstr "Keuze zonder label"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:891
 msgid "Empty short UUID for page reference"
-msgstr ""
+msgstr "Lege korte UUID als paginareferentie"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:898
 msgid "Empty URL for URL reference"
-msgstr ""
+msgstr "Lege URL voor een URL-referentie"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:901
 msgid "Invalid URL for URL reference"
-msgstr ""
+msgstr "Ongeldige URL in een URL-referentie"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:920
 msgid "Empty email for expert"
-msgstr ""
+msgstr "Leeg e-mail adres voor een expert"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:923
 msgid "Invalid email for expert"
-msgstr ""
+msgstr "Ongeldig e-mail adres voor een expert"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:933
 msgid "Empty title for metric"
-msgstr ""
+msgstr "Lege titel voor een statistiek"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:945
 msgid "Empty title for phase"
-msgstr ""
+msgstr "Lege titel voor een fase"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:957
 msgid "Empty name for tag"
-msgstr ""
+msgstr "Lege naam voor een tag"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:976
 msgid "Empty ID for integration"
-msgstr ""
+msgstr "ID voor integratie is leeg"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:983
 msgid "Empty item URL for integration"
-msgstr ""
+msgstr "Item-URL voor integratie is leeg"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:994
 msgid "Empty request URL for integration"
-msgstr ""
+msgstr "Request-URL voor integratie is leeg"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:1001
 msgid "Empty request HTTP method for integration"
-msgstr ""
+msgstr "Lege HTTP methode voor een integratie"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:1008
 msgid "Empty response item ID for integration"
-msgstr ""
+msgstr "Lege antwoord-item-ID voor een integratie"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:1015
 msgid "Empty response item template for integration"
-msgstr ""
+msgstr "Lege antwoord-item sjabloon voor integratie"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:1024
 msgid "Empty widget URL for integration"
-msgstr ""
+msgstr "Lege widget-URL voor integratie"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:453
 #: engine-wizard/elm/Wizard/KMEditor/Editor/View.elm:162
@@ -2161,40 +2244,40 @@ msgstr ""
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:485
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:566
 msgid "Knowledge Model"
-msgstr ""
+msgstr "Kennismodel"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:498
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:219
 msgid "Add chapter"
-msgstr ""
+msgstr "Voeg hoofdstuk toe"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:515
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:155
 msgid "Add metric"
-msgstr ""
+msgstr "Voeg statistiek toe"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:532
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:171
 msgid "Add phase"
-msgstr ""
+msgstr "Voeg fase toe"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:549
 msgid "Add tag"
-msgstr ""
+msgstr "Voeg tag toe"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:557
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:427
 msgid "Integrations"
-msgstr ""
+msgstr "Integraties"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:566
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:203
 msgid "Add integration"
-msgstr ""
+msgstr "Voeg integratie toe"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:607
 msgid "Chapter"
-msgstr ""
+msgstr "Hoofdstuk"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:625
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:821
@@ -2207,7 +2290,7 @@ msgstr ""
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1186
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1283
 msgid "Text"
-msgstr ""
+msgstr "Tekst"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:636
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:936
@@ -2220,22 +2303,22 @@ msgstr ""
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1479
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1517
 msgid "Questions"
-msgstr ""
+msgstr "Vragen"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:645
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:945
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1670
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:235
 msgid "Add question"
-msgstr ""
+msgstr "Voeg vraag toe"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:744
 msgid "Options"
-msgstr ""
+msgstr "Opties"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:745
 msgid "List of Items"
-msgstr ""
+msgstr "Lijst van items"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:746
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:364
@@ -2244,7 +2327,7 @@ msgstr ""
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:253
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:257
 msgid "Value"
-msgstr ""
+msgstr "Waarde"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:747
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1043
@@ -2254,19 +2337,19 @@ msgstr ""
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1199
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1296
 msgid "Integration"
-msgstr ""
+msgstr "Integratie"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:748
 msgid "Multi-Choice"
-msgstr ""
+msgstr "Meer-selecties"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:755
 msgid "Never"
-msgstr ""
+msgstr "Nooit"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:759
 msgid "Question"
-msgstr ""
+msgstr "Vraag"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:769
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1365
@@ -2278,77 +2361,78 @@ msgstr ""
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1184
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1281
 msgid "Type"
-msgstr ""
+msgstr "Type"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:784
 msgid "Changing a question type will remove all answers."
-msgstr ""
+msgstr "Veranderen van het type van een vraag verwijdert alle antwoorden."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:794
 msgid "Changing a question type will remove all item questions."
 msgstr ""
+"Veranderen van het type van een vraag verwijdert alle opvolgende vragen."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:804
 msgid "Changing a question type will remove all choices."
-msgstr ""
+msgstr "Veranderen van het type van een vraag verwijdert alle keuzes."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:832
 msgid "When does this question become desirable?"
-msgstr ""
+msgstr "Wanneer zou deze vraag beantwoord moeten worden?"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:849
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1138
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1255
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1352
 msgid "References"
-msgstr ""
+msgstr "Verwijzingen"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:858
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:283
 msgid "Add reference"
-msgstr ""
+msgstr "Voeg verwijzing toe"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:875
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:299
 msgid "Add expert"
-msgstr ""
+msgstr "Voeg expert toe"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:904
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1086
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1221
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1318
 msgid "Answers"
-msgstr ""
+msgstr "Antwoorden"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:913
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:251
 msgid "Add answer"
-msgstr ""
+msgstr "Voeg antwoord toe"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:953
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/TagEditor.elm:329
 msgid "Item Template"
-msgstr ""
+msgstr "Item-sjabloon"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:969
 msgid "String"
-msgstr ""
+msgstr "String"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:970
 msgid "Number"
-msgstr ""
+msgstr "Getal"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:971
 msgid "Date"
-msgstr ""
+msgstr "Datum"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:972
 msgid "Date Time"
-msgstr ""
+msgstr "Datum/Tijd"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:973
 msgid "Time"
-msgstr ""
+msgstr "Tijd"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:976
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1770
@@ -2368,7 +2452,7 @@ msgstr ""
 #: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:279
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:228
 msgid "URL"
-msgstr ""
+msgstr "URL"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:977
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1259
@@ -2377,7 +2461,7 @@ msgstr ""
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:621
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:179
 msgid "Color"
-msgstr ""
+msgstr "Kleur"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:983
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:918
@@ -2385,54 +2469,54 @@ msgstr ""
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1196
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1293
 msgid "Value Type"
-msgstr ""
+msgstr "Type van de waarde"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1003
 msgid "- select integration -"
-msgstr ""
+msgstr "- selecteer de integratie -"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1031
 msgid "Integration Configuration"
-msgstr ""
+msgstr "Configuratie van de integratie"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1069
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1098
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1232
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1329
 msgid "Choices"
-msgstr ""
+msgstr "Keuzes"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1078
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:267
 msgid "Add choice"
-msgstr ""
+msgstr "Voeg keuze toe"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1116
 msgid "Metric"
-msgstr ""
+msgstr "Statistiek"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1134
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:446
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:467
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:492
 msgid "Abbreviation"
-msgstr ""
+msgstr "Afkorting"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1179
 msgid "Phase"
-msgstr ""
+msgstr "Fase"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1233
 msgid "Tag"
-msgstr ""
+msgstr "Tag"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1349
 msgid "API"
-msgstr ""
+msgstr "API"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1350
 msgid "Widget"
-msgstr ""
+msgstr "Widget"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1374
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:640
@@ -2443,11 +2527,11 @@ msgstr ""
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:96
 #: engine-wizard/elm/Wizard/Templates/Detail/View.elm:188
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1390
 msgid "Logo URL"
-msgstr ""
+msgstr "Logo-URL"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1397
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:642
@@ -2456,156 +2540,201 @@ msgstr ""
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:936
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1051
 msgid "Props"
-msgstr ""
+msgstr "Eigenschappen"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1405
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:643
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:698
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:771
 msgid "Item URL"
-msgstr ""
+msgstr "Item-URL"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1429
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:657
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:718
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:785
 msgid "Request URL"
-msgstr ""
+msgstr "Request-URL"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1437
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:656
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:717
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:784
 msgid "Request HTTP Method"
-msgstr ""
+msgstr "Request HTTP-methode"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1445
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:658
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:719
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:786
 msgid "Request HTTP Headers"
-msgstr ""
+msgstr "Request HTTP-headers"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1453
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:659
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:720
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:787
 msgid "Request HTTP Body"
-msgstr ""
+msgstr "Request HTTP-body"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1461
 msgid "Allow Empty Search"
-msgstr ""
+msgstr "Sta lege zoekterm toe"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1469
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:661
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:722
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:789
 msgid "Response Item ID"
-msgstr ""
+msgstr "Antwoord item-ID"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1477
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:660
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:721
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:788
 msgid "Response List Field"
-msgstr ""
+msgstr "Antwoord lijst-veld"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1485
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:662
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:723
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:790
 msgid "Response Item Template"
-msgstr ""
+msgstr "Antwoord item-sjabloon"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1491
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:225
 msgid "Request"
-msgstr ""
+msgstr "Request"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1493
 msgid "Use this section to configure the search request. The service you want to integrate has to provide a search HTTP API where you send a search string and it returns a JSON with found items."
 msgstr ""
+"Gebruik deze sectie om het zoekrequest te configureren. De service die wordt "
+"geintegreerd moet een HTTP zoek-API bieden waar een zoekstring naartoe wordt "
+"gestuurd, en een JSON terugsturen met de items die worden gevonden."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1495
 msgid "A URL of the integrated service API that supports the search. Use `${q}` for the actual string that will be filled when users search for items, such as *ht&#8203;tps://example.com/search?q=${q}*."
 msgstr ""
+"Een URL van de geintegreerde service-API die de zoekvraag ondersteunt. "
+"Gebruik `${q}` op de plaats waar de string moet komen die de gebruiker heeft "
+"ingetypt, bijvoorbeeld *ht&#8203;tps://example.com/search?q=${q}*."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1500
 msgid "Turn this off if the API cannot handle empty search requests. In that case, the requests will be made only after users type something."
 msgstr ""
+"Schakel dit uit als de API geen lege zoekvragen accepteert. In dat geval "
+"zullen alleen requests worden gestuurd nadat gebruikers begonnen zijn te "
+"typen."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1504
 msgid "Response"
-msgstr ""
+msgstr "Antwoord"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1506
 msgid "Use this section to configure how to process the response returned from the search API."
 msgstr ""
+"Gebruik deze sectie om te configureren hoe het antwoord van de zoek-API moet "
+"worden verwerkt."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1508
 msgid "If the returned JSON is not an array of items directly but the items are nested, use this to define the name or path to the field in the response that contains the list of items. Keep empty otherwise."
 msgstr ""
+"Als de JSON die wordt teruggegeven geen directe lijst van items is, maar de "
+"items ergens onderdeel van uitmaken, gebruik dan dit om de naam of het pad "
+"te definieren naar het veld in het antwoord dat de lijst van items bevat. In "
+"andere gevallen leeg laten."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1510
 msgid "Use this to define an identifier for the item. This will be used in **Item URL** as `${id}` to compose a URL to the found item. You can use properties from the returned item in Jinja2 notation. For example, if the item has a field `id` use `{{item.id}}` here. You can also compose multiple fields together, e.g., `{{item.field1}}-{{item.field2}}`."
 msgstr ""
+"Gebruik dit om een identificatie voor het item te definiëren. Dit wordt in "
+"**Item-URL** gebruikt als `${id}` om een URL naar het gevonden item op te "
+"bouwen. U kunt eigenschappen van het geretourneerde item gebruiken in de "
+"Jinja2-notatie. Als het item bijvoorbeeld een veld `id` heeft, gebruik dan "
+"`{{item.id}}` hier. U kunt ook meerdere velden samen samenstellen, "
+"bijvoorbeeld `{{item.field1}}-{{item.field2}}`."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1512
 msgid "This defines how the found items will be displayed for the user. You can use properties from the returned item in Jinja2 notation, you can also use Markdown for some formatting. For example, if the returned item has a field called name, you can use `**{{item.name}}**` to display the name in bold."
 msgstr ""
+"Dit definieert hoe de gevonden items weergegeven worden voor de gebruiker. "
+"Eigenschappen van het geretourneerde item kunnen in Jinja2-notatie worden "
+"gebruikt; ook Markdown kan voor formatteren worden ingezet. Als bijvoorbeeld "
+"het item een veld “name” heeft, kun je `**{{item.name}}**` gebruiken om die "
+"naam vetgedrukt weer te geven."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1516
 msgid "Defines the URL to the selected item. Use `${id}` to get the value defined in **Response Item ID** field, for example `https://example.com/${id}`."
 msgstr ""
+"Definieert de URL die wijst naar het geselecteerde item. Gebruik `${id}` om "
+"de waarde op te halen die is gedefinieerd in het **Response Item ID** veld, "
+"bijvoorbeeld `https://example.com/${id}`."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1530
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:675
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:744
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:803
 msgid "Widget URL"
-msgstr ""
+msgstr "Widget-URL"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1536
 msgid "The URL of the widget implemented using [DSW Integration Widget SDK](https://github.com/ds-wizard/dsw-integration-widget-sdk)."
 msgstr ""
+"De URL van het widget dat is geïmplementeerd met de [DSW Integration Widget "
+"SDK](https://github.com/ds-wizard/dsw-integration-widget-sdk)."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1538
 msgid "Defines the URL to the selected item. Use `${id}` value returned from the widget, for example `https://example.com/${id}`."
 msgstr ""
+"Definieert de URL die wijst naar het geselecteerde item. Gebruik `${id}` om "
+"de waarde op te halen van het widget, bijvoorbeeld `https://example.com/"
+"${id}`."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1551
 msgid "No questions"
-msgstr ""
+msgstr "Geen vragen"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1586
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:126
 msgid "Quick setup"
-msgstr ""
+msgstr "Snelle setup"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1598
 msgid "A string that identifies the integration. It has to be unique for each integration."
 msgstr ""
+"Een string die de integratie definieert. Deze moet uniek zijn voor elke "
+"integratie."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1600
 msgid "A name visible everywhere else in the KM Editor, such as when choosing the integration for a question."
 msgstr ""
+"Een naam die overal elders in de kennismodel-editor zichtbaar is, zoals "
+"wanneer je een integratie kiest voor een vraag."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1602
 msgid "Logo is displayed next to the link to the selected item in questionnaires. It can be either URL or base64 image."
 msgstr ""
+"Logo wordt getoond naast de link in het geselecteerde item in vragenlijsten. "
+"Het kan een URL zijn of een base64-gecodeerd plaatje."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1604
 msgid "Props can be used to parametrize the integration for each question. Use this to define the props whose value can be filled on the questions using this integration. The props can then be used in the URL configuration. For example, if you define prop named *type*, you can use it as `${type}`, such as *ht&#8203;tps://example.com/${type}*."
 msgstr ""
+"Props kunnen worden gebruikt om de integratie voor elke vraag te "
+"parameteriseren. Gebruik dit om de props te definiëren die ingevuld kunnen "
+"worden wanneer vragen deze integratie gebruiken. Bijvoorbeeld, als je een "
+"prop definieert met als naam *type* dan kun je het als `${type}` gebruiken, "
+"zoals in *ht&#8203;tps://example.com/${type}*."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1608
 msgid "Questions using this integration"
-msgstr ""
+msgstr "Vragen die deze integratie gebruiken"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1632
 msgid "Answer"
-msgstr ""
+msgstr "Antwoord"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1642
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1730
@@ -2624,7 +2753,7 @@ msgstr ""
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1867
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1936
 msgid "Label"
-msgstr ""
+msgstr "Label"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1650
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1389
@@ -2632,15 +2761,15 @@ msgstr ""
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1466
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1504
 msgid "Advice"
-msgstr ""
+msgstr "Advies"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1661
 msgid "Follow-Up Questions"
-msgstr ""
+msgstr "Vervolgvragen"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1720
 msgid "Choice"
-msgstr ""
+msgstr "Keuze"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1769
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1635
@@ -2650,11 +2779,11 @@ msgstr ""
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1849
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1918
 msgid "Resource Page"
-msgstr ""
+msgstr "Resourcepagina"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1775
 msgid "Reference"
-msgstr ""
+msgstr "Referentie"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1785
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1632
@@ -2673,7 +2802,7 @@ msgstr ""
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1934
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1955
 msgid "Reference Type"
-msgstr ""
+msgstr "Referentietype"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1804
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1633
@@ -2682,409 +2811,413 @@ msgstr ""
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1847
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1916
 msgid "Short UUID"
-msgstr ""
+msgstr "Korte UUID"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1877
 msgid "Expert"
-msgstr ""
+msgstr "Expert"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1917
 msgid "The knowledge model entity you are trying to open does not exist."
-msgstr ""
+msgstr "De kennismodelentiteit die je probeert te openen bestaat niet."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1948
 msgid "Click to copy UUID"
-msgstr ""
+msgstr "Klik om de UUID te kopiëren"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1963
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2155
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2168
 msgid "Move"
-msgstr ""
+msgstr "Verplaats"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2009
 msgid "Are you sure you want to delete this chapter?"
-msgstr ""
+msgstr "Weet je zeker dat je dit hoofdstuk wilt verwijderen?"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2016
 msgid "Are you sure you want to delete this question?"
-msgstr ""
+msgstr "Weet je zeker dat je deze vraag wilt verwijderen?"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2023
 msgid "Are you sure you want to delete this metric?"
-msgstr ""
+msgstr "Weet je zeker dat je deze statistiek wilt verwijderen?"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2030
 msgid "Are you sure you want to delete this phase?"
-msgstr ""
+msgstr "Weet je zeker dat je deze fase wilt verwijderen?"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2037
 msgid "Are you sure you want to delete this question tag?"
-msgstr ""
+msgstr "Weet je zeker dat je deze vraagtag wilt verwijderen?"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2044
 msgid "Are you sure you want to delete this integration?"
-msgstr ""
+msgstr "Weet je zeker dat je deze integratie wilt verwijderen?"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2051
 msgid "Are you sure you want to delete this answer?"
-msgstr ""
+msgstr "Weet je zeker dat je dit antwoord wilt verwijderen?"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2058
 msgid "Are you sure you want to delete this choice?"
-msgstr ""
+msgstr "Weet je zeker dat je deze keuze wilt verwijderen?"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2065
 msgid "Are you sure you want to delete this reference?"
-msgstr ""
+msgstr "Weet je zeker dat je deze referentie wilt verwijderen?"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2072
 msgid "Are you sure you want to delete this expert?"
-msgstr ""
+msgstr "Weet je zeker dat je deze expert wilt verwijderen?"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2081
 msgid "Heads up!"
-msgstr ""
+msgstr "Let op!"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2158
 msgid "Select a new parent"
-msgstr ""
+msgstr "Kies een nieuwe ouder"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:356
 msgid "Key"
-msgstr ""
+msgstr "Sleutel"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:388
 msgid "Add annotation"
-msgstr ""
+msgstr "Voeg annotatie toe"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:392
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:2282
 msgid "Annotations"
-msgstr ""
+msgstr "Annotaties"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:510
 msgid "Weight"
-msgstr ""
+msgstr "Gewicht"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:686
 msgid "Header Name"
-msgstr ""
+msgstr "Kopnaam"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:695
 msgid "Header Value"
-msgstr ""
+msgstr "Headerwaarde"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:45
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/TreeInput.elm:99
 msgid "Expand all"
-msgstr ""
+msgstr "Expandeer alles"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:49
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/TreeInput.elm:106
 msgid "Collapse all"
-msgstr ""
+msgstr "Vouw alles samen"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/Preview.elm:207
 msgid "Tags"
-msgstr ""
+msgstr "Tags"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/Preview.elm:208
 msgid "Select all"
-msgstr ""
+msgstr "Selecteer alles"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/Preview.elm:209
 msgid "Select none"
-msgstr ""
+msgstr "Selecteer niets"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/Settings.elm:102
 msgid "Knowledge Model could not be saved."
-msgstr ""
+msgstr "Kennismodel kon niet worden opgeslagen."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/Settings.elm:172
 msgid "This is not the latest version of the parent knowledge model."
-msgstr ""
+msgstr "Dit is niet de nieuwste versie van het basiskennismodel."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/Settings.elm:177
 #: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:205
 msgid "Upgrade"
-msgstr ""
+msgstr "Upgrade"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/Settings.elm:184
 #: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:166
 msgid "Parent Knowledge Model"
-msgstr ""
+msgstr "Basiskennismodel"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/Settings.elm:196
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:503
 msgid "Danger Zone"
-msgstr ""
+msgstr "Gevarenzone"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/Settings.elm:200
 msgid "Delete this knowledge model editor"
-msgstr ""
+msgstr "Verwijder deze kennismodeleditor"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/Settings.elm:202
 msgid "Deleted knowledge model editors cannot be recovered."
-msgstr ""
+msgstr "Verwijderde kennismodeleditors kunnen niet meer worden hersteld."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/TagEditor.elm:109
 msgid "There are no question tags, create them first."
-msgstr ""
+msgstr "Er zijn nog geen vraagtags, maak ze eerst."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/TagEditor.elm:112
 msgid "There are no questions create them first."
-msgstr ""
+msgstr "Er zijn nog geen vragen, maak ze eerst."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Update.elm:79
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Update.elm:250
 #: engine-wizard/elm/Wizard/Projects/Detail/Update.elm:109
 #: engine-wizard/elm/Wizard/Projects/Detail/Update.elm:188
 msgid "Some changes are still saving."
-msgstr ""
+msgstr "Nog bezig met opslaan veranderingen."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Update.elm:139
 #: engine-wizard/elm/Wizard/KMEditor/Publish/Update.elm:74
 msgid "Unable to get the knowledge model editor."
-msgstr ""
+msgstr "Kan geen kennismodeleditor ophalen."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/View.elm:48
 #: engine-wizard/elm/Wizard/Projects/Detail/View.elm:62
 msgid "Disconnected"
-msgstr ""
+msgstr "Verbinding verbroken"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/View.elm:50
 #: engine-wizard/elm/Wizard/Projects/Detail/View.elm:64
 msgid "You have been disconnected, try to refresh the page."
-msgstr ""
+msgstr "De verbinding is verbroken, probeer de pagina opnieuw te laden."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/View.elm:51
 #: engine-wizard/elm/Wizard/KMEditor/Editor/View.elm:64
 #: engine-wizard/elm/Wizard/Projects/Detail/View.elm:65
 #: engine-wizard/elm/Wizard/Projects/Detail/View.elm:78
 msgid "Refresh"
-msgstr ""
+msgstr "Verversen"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/View.elm:61
 #: engine-wizard/elm/Wizard/Projects/Detail/View.elm:75
 msgid "Oops!"
-msgstr ""
+msgstr "Oeps!"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/View.elm:63
 #: engine-wizard/elm/Wizard/Projects/Detail/View.elm:77
 msgid "Something went wrong, try to refresh the page."
-msgstr ""
+msgstr "Er is iets misgegaan, probeer de pagina te verversen."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/View.elm:122
 #: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:196
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:2349
 #: engine-wizard/elm/Wizard/KMEditor/Publish/View.elm:47
 msgid "Publish"
-msgstr ""
+msgstr "Publiceer"
 
 #: engine-wizard/elm/Wizard/KMEditor/Index/Update.elm:68
 msgid "Migration was successfully canceled."
-msgstr ""
+msgstr "De migratie is afgebroken."
 
 #: engine-wizard/elm/Wizard/KMEditor/Index/Update.elm:75
 msgid "Migration could not be deleted."
-msgstr ""
+msgstr "De migratie kon niet verwijderd worden."
 
 #: engine-wizard/elm/Wizard/KMEditor/Index/Update.elm:126
 msgid "Unable to get knowledge model editors."
-msgstr ""
+msgstr "Kan geen kennismodeleditors ophalen."
 
 #: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:58
 msgid "Click \"Create\" button to add a new Knowledge Model Editor."
-msgstr ""
+msgstr "Klik “Aanmaken” om een nieuwe kennismodeleditor te maken."
 
 #: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:66
 msgid "Search KM editors..."
-msgstr ""
+msgstr "Doorzoek kennismodeleditors…"
 
 #: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:70
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:131
 msgid "Updated"
-msgstr ""
+msgstr "Gewijzigd"
 
 #: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:112
 msgid "Last published version"
-msgstr ""
+msgstr "Laatste gepubliceerde versie"
 
 #: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:129
 msgid "There is a new version of parent Knowledge Model."
-msgstr ""
+msgstr "Er is een nieuwe versie van het basiskennismodel."
 
 #: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:135
 msgid "This Editor is in the process of migration to a new parent Knowledge Model."
 msgstr ""
+"Deze editor wordt op dit moment gemigreerd naar een nieuwe versie van het "
+"basiskennismodel."
 
 #: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:136
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:693
 msgid "migrating"
-msgstr ""
+msgstr "aan het migreren"
 
 #: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:140
 msgid "This Editor has been migrated to a new parent Knowledge Model, you can publish it now."
 msgstr ""
+"Deze editor is nu gemigreerd naar een nieuwe versie van het basiskennismodel "
+"en kan nu gepubliceerd worden."
 
 #: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:141
 msgid "migrated"
-msgstr ""
+msgstr "gemigreerd"
 
 #: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:144
 msgid "This Editor contains unpublished changes."
-msgstr ""
+msgstr "Deze editor bevat ongepubliceerde veranderingen."
 
 #: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:187
 msgid "Open Editor"
-msgstr ""
+msgstr "Open editor"
 
 #: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:214
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:641
 msgid "Continue migration"
-msgstr ""
+msgstr "Ga door met de migratie"
 
 #: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:223
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:653
 msgid "Cancel migration"
-msgstr ""
+msgstr "Annuleer migratie"
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/Update.elm:54
 msgid "Unable to get migration."
-msgstr ""
+msgstr "Kan migratie niet ophalen."
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/Update.elm:91
 msgid "Unable to resolve conflict."
-msgstr ""
+msgstr "Kan het conflict niet oplossen."
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:82
 msgid "Migration state is corrupted."
-msgstr ""
+msgstr "De registratie van de migratie is incorrect opgeslagen."
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:111
 msgid "Migration is still running, try again later."
-msgstr ""
+msgstr "Er wordt gewerkt aan een migratie. Probeer het later nog eens."
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:117
 msgid "Migration"
-msgstr ""
+msgstr "Migratie"
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:127
 msgid "Migration of %s from %s to %s."
-msgstr ""
+msgstr "Migratie van %s van %s naar %s."
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:141
 msgid "The event is not connected to any entity in the Knowledge Model."
-msgstr ""
+msgstr "Dit event is niet verbonden met enige entiteit in het kennismodel."
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:151
 msgid "Edit Knowledge Model"
-msgstr ""
+msgstr "Wijzig het kennismodel"
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:160
 msgid "Edit metric"
-msgstr ""
+msgstr "Wijzig de statistiek"
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:166
 msgid "Delete metric"
-msgstr ""
+msgstr "Verwijder statistiek"
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:176
 msgid "Edit phase"
-msgstr ""
+msgstr "Wijzig fase"
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:182
 msgid "Delete phase"
-msgstr ""
+msgstr "Verwijder fase"
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:187
 msgid "Add question tag"
-msgstr ""
+msgstr "Voeg vraagtag toe"
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:192
 msgid "Edit question tag"
-msgstr ""
+msgstr "Wijzig vraagtag"
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:198
 msgid "Delete question tag"
-msgstr ""
+msgstr "Verwijder vraagtag"
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:208
 msgid "Edit integration"
-msgstr ""
+msgstr "Wijzig integratie"
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:214
 msgid "Delete integration"
-msgstr ""
+msgstr "Verwijder integratie"
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:224
 msgid "Edit chapter"
-msgstr ""
+msgstr "Wijzig hoofdstuk"
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:230
 msgid "Delete chapter"
-msgstr ""
+msgstr "Verwijder hoofdstuk"
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:240
 msgid "Edit question"
-msgstr ""
+msgstr "Wijzig vraag"
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:246
 msgid "Delete question"
-msgstr ""
+msgstr "Verwijder vraag"
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:256
 msgid "Edit answer"
-msgstr ""
+msgstr "Wijzig antwoord"
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:262
 msgid "Delete answer"
-msgstr ""
+msgstr "Verwijder antwoord"
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:272
 msgid "Edit choice"
-msgstr ""
+msgstr "Wijzig keuze"
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:278
 msgid "Delete choice"
-msgstr ""
+msgstr "Verwijder keuze"
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:288
 msgid "Edit reference"
-msgstr ""
+msgstr "Wijzig referentie"
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:294
 msgid "Delete reference"
-msgstr ""
+msgstr "Verwijder referentie"
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:304
 msgid "Edit expert"
-msgstr ""
+msgstr "Wijzig expert"
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:310
 msgid "Delete expert"
-msgstr ""
+msgstr "Verwijder expert"
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:316
 msgid "Move question"
-msgstr ""
+msgstr "Verplaats vraag"
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:322
 msgid "Move answer"
-msgstr ""
+msgstr "Verplaats antwoord"
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:328
 msgid "Move choice"
-msgstr ""
+msgstr "Verplaats keuze"
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:334
 msgid "Move reference"
-msgstr ""
+msgstr "Verplaats referentie"
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:340
 msgid "Move expert"
-msgstr ""
+msgstr "Verplaats expert"
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1673
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1739
@@ -3092,7 +3225,7 @@ msgstr ""
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1887
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1956
 msgid "Target UUID"
-msgstr ""
+msgstr "Doel-UUID"
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1676
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1742
@@ -3101,865 +3234,882 @@ msgstr ""
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1890
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1959
 msgid "Cross Reference"
-msgstr ""
+msgstr "Kruisverwijzing"
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:2292
 msgid "Reject"
-msgstr ""
+msgstr "Verwerpen"
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:2295
 msgid "Apply"
-msgstr ""
+msgstr "Toepassen"
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:2298
 msgid "Apply all"
-msgstr ""
+msgstr "Alles toepassen"
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:2340
 msgid "Migration successfully completed."
-msgstr ""
+msgstr "Migratie compleet."
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:2342
 msgid "You can publish the new version now."
-msgstr ""
+msgstr "De nieuwe versie is nu klaar om te publiceren."
 
 #: engine-wizard/elm/Wizard/KMEditor/Publish/Update.elm:145
 msgid "Publishing the new version failed."
-msgstr ""
+msgstr "Publiceren van de nieuwe versie is mislukt."
 
 #: engine-wizard/elm/Wizard/KMEditor/Publish/View.elm:40
 msgid "Publish new version"
-msgstr ""
+msgstr "Publiceer nieuwe versie"
 
 #: engine-wizard/elm/Wizard/KMEditor/Publish/View.elm:69
 #: engine-wizard/elm/Wizard/KnowledgeModels/Detail/View.elm:199
 #: engine-wizard/elm/Wizard/Templates/Detail/View.elm:191
 msgid "License"
-msgstr ""
+msgstr "Licentie"
 
 #: engine-wizard/elm/Wizard/KMEditor/Publish/View.elm:72
 msgid "Choose a %s so others can use your Knowledge Model."
-msgstr ""
+msgstr "Kies een %s zodat anderen het kennismodel kunnen gebruiken."
 
 #: engine-wizard/elm/Wizard/KMEditor/Publish/View.elm:74
 msgid "license"
-msgstr ""
+msgstr "licentie"
 
 #: engine-wizard/elm/Wizard/KMEditor/Publish/View.elm:77
 msgid "Short description of the Knowledge Model."
-msgstr ""
+msgstr "Korte beschrijving van het kennismodel."
 
 #: engine-wizard/elm/Wizard/KMEditor/Publish/View.elm:78
 msgid "Readme"
-msgstr ""
+msgstr "Readme"
 
 #: engine-wizard/elm/Wizard/KMEditor/Publish/View.elm:79
 msgid "Describe the Knowledge Model, you can use markdown."
-msgstr ""
+msgstr "Beschrijf het kennismodel; markdown-opmaak is beschikbaar."
 
 #: engine-wizard/elm/Wizard/KMEditor/Publish/View.elm:87
 msgid "No version of this package has been published yet."
-msgstr ""
+msgstr "Er is nog geen gepubliceerde versie van dit pakket."
 
 #: engine-wizard/elm/Wizard/KMEditor/Publish/View.elm:88
 msgid "Last version"
-msgstr ""
+msgstr "Nieuwste versie"
 
 #: engine-wizard/elm/Wizard/KMEditor/Publish/View.elm:136
 msgid "Suggestions: "
-msgstr ""
+msgstr "Suggesties: "
 
 #: engine-wizard/elm/Wizard/KMEditor/Publish/View.elm:141
 msgid "The version number is in format X.Y.Z. Increasing number Z indicates only some fixes, number Y minor changes, and number X indicates a major change."
 msgstr ""
+"Het versienummer heeft de vorm X.Y.Z. Voor kleine correcties verhoog Z, voor "
+"kleine veranderingen verhoog Y, en voor grote veranderingen verhoog X."
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Detail/Update.elm:69
 #: engine-wizard/elm/Wizard/KnowledgeModels/Index/Update.elm:71
 msgid "Knowledge Model could not be deleted."
-msgstr ""
+msgstr "Het kennismodel kon niet verwijderd worden."
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Detail/View.elm:65
 #: engine-wizard/elm/Wizard/KnowledgeModels/Index/View.elm:165
 msgid "Create KM editor"
-msgstr ""
+msgstr "Maak een kennismodeleditor"
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Detail/View.elm:77
 #: engine-wizard/elm/Wizard/KnowledgeModels/Index/View.elm:177
 msgid "Fork KM"
-msgstr ""
+msgstr "Fork het kennismodel"
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Detail/View.elm:90
 #: engine-wizard/elm/Wizard/KnowledgeModels/Index/View.elm:189
 #: engine-wizard/elm/Wizard/KnowledgeModels/Preview/View.elm:58
 msgid "Create project"
-msgstr ""
+msgstr "Maak een project"
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Detail/View.elm:102
 #: engine-wizard/elm/Wizard/KnowledgeModels/Index/View.elm:153
 #: engine-wizard/elm/Wizard/Templates/Detail/View.elm:51
 #: engine-wizard/elm/Wizard/Templates/Index/View.elm:162
 msgid "Export"
-msgstr ""
+msgstr "Exporteer"
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Detail/View.elm:142
 msgid "This is not the latest available version of this Knowledge Model."
-msgstr ""
+msgstr "Dit is niet de nieuwste versie van dit kennismodel."
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Detail/View.elm:163
 #: engine-wizard/elm/Wizard/Templates/Detail/View.elm:120
 #: engine-wizard/elm/Wizard/Templates/Detail/View.elm:143
 msgid "There is a newer version (%s) available."
-msgstr ""
+msgstr "Er is een nieuwere versie (%s) beschikbaar."
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Detail/View.elm:198
 #: engine-wizard/elm/Wizard/Templates/Detail/View.elm:190
 msgid "Metamodel"
-msgstr ""
+msgstr "Metamodel"
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Detail/View.elm:205
 msgid "Fork of"
-msgstr ""
+msgstr "Vork van"
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Detail/View.elm:236
 #: engine-wizard/elm/Wizard/Templates/Detail/View.elm:234
 msgid "Other versions"
-msgstr ""
+msgstr "Andere versies"
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Detail/View.elm:246
 #: engine-wizard/elm/Wizard/KnowledgeModels/Index/View.elm:119
 #: engine-wizard/elm/Wizard/Templates/Detail/View.elm:242
 #: engine-wizard/elm/Wizard/Templates/Index/View.elm:128
 msgid "Published by"
-msgstr ""
+msgstr "Gepubliceerd door"
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Detail/View.elm:255
 msgid "Registry Link"
-msgstr ""
+msgstr "Verwijzing naar het register"
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Detail/View.elm:259
 #: engine-wizard/elm/Wizard/Templates/Detail/View.elm:253
 msgid "View in registry"
-msgstr ""
+msgstr "In het register bekijken"
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Import/FileImport/Update.elm:71
 #: engine-wizard/elm/Wizard/KnowledgeModels/Import/OwlImport/Update.elm:85
 msgid "Importing the package failed."
-msgstr ""
+msgstr "Importeren van het pakket is mislukt."
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Import/FileImport/View.elm:56
 #: engine-wizard/elm/Wizard/KnowledgeModels/Import/OwlImport/View.elm:54
 #: engine-wizard/elm/Wizard/Templates/Import/FileImport/View.elm:56
 msgid "Upload"
-msgstr ""
+msgstr "Upload"
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Import/FileImport/View.elm:65
 #: engine-wizard/elm/Wizard/KnowledgeModels/Import/OwlImport/View.elm:91
 #: engine-wizard/elm/Wizard/Templates/Import/FileImport/View.elm:65
 msgid "Choose a file"
-msgstr ""
+msgstr "Kies een bestand"
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Import/FileImport/View.elm:68
 #: engine-wizard/elm/Wizard/KnowledgeModels/Import/OwlImport/View.elm:94
 #: engine-wizard/elm/Wizard/Settings/LookAndFeel/LogoUploadModal.elm:180
 #: engine-wizard/elm/Wizard/Templates/Import/FileImport/View.elm:68
 msgid "Or just drop it here"
-msgstr ""
+msgstr "Of plaats het hier"
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Import/OwlImport/View.elm:36
 msgid "File"
-msgstr ""
+msgstr "Bestand"
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Import/OwlImport/View.elm:44
 #: engine-wizard/elm/Wizard/Settings/KnowledgeModels/View.elm:46
 #: engine-wizard/elm/Wizard/Settings/Organization/View.elm:37
 #: engine-wizard/elm/Wizard/Settings/Registry/View.elm:137
 msgid "Organization ID"
-msgstr ""
+msgstr "Organisatie-ID"
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Import/OwlImport/View.elm:47
 msgid "Previous Package ID"
-msgstr ""
+msgstr "ID van het vorige pakket"
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Import/OwlImport/View.elm:48
 msgid "Root Element"
-msgstr ""
+msgstr "Root-element"
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Import/RegistryImport/Update.elm:32
 msgid "Unable to import the package."
-msgstr ""
+msgstr "Kan het pakket niet importeren."
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Import/RegistryImport/View.elm:67
 msgid "You can find Knowledge Models in %s."
-msgstr ""
+msgstr "Kennismodellen kunne worden gevonden in %s."
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Import/RegistryImport/View.elm:69
 #: engine-wizard/elm/Wizard/Settings/Registry/View.elm:35
 #: engine-wizard/elm/Wizard/Settings/View.elm:129
 #: engine-wizard/elm/Wizard/Templates/Import/RegistryImport/View.elm:68
 msgid "DSW Registry"
-msgstr ""
+msgstr "DSW Register"
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Import/RegistryImport/View.elm:83
 msgid "Knowledge Model %s has been imported!"
-msgstr ""
+msgstr "Kennismodel %s is geïmporteerd!"
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Import/RegistryImport/View.elm:90
 #: engine-wizard/elm/Wizard/KnowledgeModels/Index/View.elm:141
 #: engine-wizard/elm/Wizard/Templates/Import/RegistryImport/View.elm:89
 #: engine-wizard/elm/Wizard/Templates/Index/View.elm:150
 msgid "View detail"
-msgstr ""
+msgstr "Bekijk details"
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Import/View.elm:25
 msgid "From OWL"
-msgstr ""
+msgstr "Vanuit OWL"
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Import/View.elm:33
 #: engine-wizard/elm/Wizard/Templates/Import/View.elm:61
 msgid "From DSW Registry"
-msgstr ""
+msgstr "Vanuit het DSW register"
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Import/View.elm:41
 #: engine-wizard/elm/Wizard/Templates/Import/View.elm:72
 msgid "From file"
-msgstr ""
+msgstr "Vanuit een bestand"
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Index/View.elm:58
 msgid "Click \"Import\" button to import a new Knowledge Model."
-msgstr ""
+msgstr "Klik “importeer” om een nieuw kennismodel te importeren."
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Index/View.elm:66
 msgid "Search KMs..."
-msgstr ""
+msgstr "Zoek kennismodellen…"
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Index/View.elm:82
 #: engine-wizard/elm/Wizard/Templates/Index/View.elm:81
 msgid "Latest version"
-msgstr ""
+msgstr "Nieuwste versie"
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Index/View.elm:234
 #: engine-wizard/elm/Wizard/Templates/Index/View.elm:203
 msgid "Are you sure you want to permanently delete %s and all its versions?"
-msgstr ""
+msgstr "Weet je zeker dat %s en alle versies daarvan moeten worden verwijderd?"
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Index/View.elm:240
 msgid "Delete package"
-msgstr ""
+msgstr "Verwijder pakket"
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Preview/Update.elm:134
 #: engine-wizard/elm/Wizard/Projects/Create/CustomCreate/Update.elm:140
 #: engine-wizard/elm/Wizard/Projects/Create/TemplateCreate/Update.elm:83
 msgid "Questionnaire could not be created."
-msgstr ""
+msgstr "Vragenlijst kon niet worden gemaakt."
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Preview/Update.elm:145
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:189
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:233
 #: engine-wizard/elm/Wizard/Projects/Detail/Update.elm:652
 msgid "Questionnaire could not be saved."
-msgstr ""
+msgstr "Vragenlijst kon niet worden opgeslagen."
 
 #: engine-wizard/elm/Wizard/ProjectImporters/Index/Update.elm:44
 msgid "Unable to change project importer."
-msgstr ""
+msgstr "Kan project-importeur niet veranderen."
 
 #: engine-wizard/elm/Wizard/ProjectImporters/Index/Update.elm:47
 msgid "Project importer was changed successfully."
-msgstr ""
+msgstr "Projectimporteur succesvol gewijzigd."
 
 #: engine-wizard/elm/Wizard/ProjectImporters/Index/Update.elm:70
 msgid "Unable to get project importers."
-msgstr ""
+msgstr "Kan projectimporteurs niet laden."
 
 #: engine-wizard/elm/Wizard/ProjectImporters/Index/View.elm:25
 msgid "Project Importers"
-msgstr ""
+msgstr "Projectimporteurs"
 
 #: engine-wizard/elm/Wizard/ProjectImporters/Index/View.elm:38
 msgid "There are no project importers available."
-msgstr ""
+msgstr "Er zijn geen projectimporteurs beschikbaar."
 
 #: engine-wizard/elm/Wizard/ProjectImporters/Index/View.elm:42
 msgid "Search importers..."
-msgstr ""
+msgstr "Zoek naar importeurs…"
 
 #: engine-wizard/elm/Wizard/ProjectImporters/Index/View.elm:63
 msgid "enabled"
-msgstr ""
+msgstr "ingeschakeld"
 
 #: engine-wizard/elm/Wizard/ProjectImporters/Index/View.elm:66
 msgid "disabled"
-msgstr ""
+msgstr "uitgeschakeld"
 
 #: engine-wizard/elm/Wizard/ProjectImporters/Index/View.elm:82
 msgid "Disable"
-msgstr ""
+msgstr "Uitschakelen"
 
 #: engine-wizard/elm/Wizard/ProjectImporters/Index/View.elm:87
 msgid "Enable"
-msgstr ""
+msgstr "Inschakelen"
 
 #: engine-wizard/elm/Wizard/Projects/Common/CloneProjectModal/Update.elm:68
 msgid "%s has been created."
-msgstr ""
+msgstr "%s is gemaakt."
 
 #: engine-wizard/elm/Wizard/Projects/Common/CloneProjectModal/Update.elm:75
 msgid "Unable to clone Questionnaire."
-msgstr ""
+msgstr "Kan vragenlijst niet klonen."
 
 #: engine-wizard/elm/Wizard/Projects/Common/CloneProjectModal/View.elm:27
 msgid "Do you want to create a copy of %s?"
-msgstr ""
+msgstr "Wil je een kopie maken van %s?"
 
 #: engine-wizard/elm/Wizard/Projects/Common/CloneProjectModal/View.elm:31
 msgid "The original Project will remain unchanged."
-msgstr ""
+msgstr "Het originele project blijft ongewijzigd."
 
 #: engine-wizard/elm/Wizard/Projects/Common/CloneProjectModal/View.elm:35
 msgid "Clone Project"
-msgstr ""
+msgstr "Maak kloon van project"
 
 #: engine-wizard/elm/Wizard/Projects/Common/CloneProjectModal/View.elm:39
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:612
 msgid "Clone"
-msgstr ""
+msgstr "Maak kloon"
 
 #: engine-wizard/elm/Wizard/Projects/Common/DeleteProjectModal/Update.elm:67
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings/DeleteModal.elm:87
 msgid "Questionnaire was successfully deleted."
-msgstr ""
+msgstr "Vragenlijst is succesvol verwijderd."
 
 #: engine-wizard/elm/Wizard/Projects/Common/DeleteProjectModal/Update.elm:74
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings/DeleteModal.elm:94
 msgid "Questionnaire could not be deleted."
-msgstr ""
+msgstr "De vragenlijst kon niet worden verwijderd."
 
 #: engine-wizard/elm/Wizard/Projects/Common/DeleteProjectModal/View.elm:32
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings/DeleteModal.elm:119
 msgid "Delete Project"
-msgstr ""
+msgstr "Verwijder project"
 
 #: engine-wizard/elm/Wizard/Projects/Common/QuestionnaireEditFormMemberPerms.elm:61
 msgid "Viewer"
-msgstr ""
+msgstr "Kijker"
 
 #: engine-wizard/elm/Wizard/Projects/Common/QuestionnaireEditFormMemberPerms.elm:62
 msgid "Commenter"
-msgstr ""
+msgstr "Commentator"
 
 #: engine-wizard/elm/Wizard/Projects/Common/QuestionnaireEditFormMemberPerms.elm:64
 msgid "Owner"
-msgstr ""
+msgstr "Eigenaar"
 
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:33
 msgid "Anyone with the link can edit the project."
-msgstr ""
+msgstr "Iedereen met de link kan het project wijzigen."
 
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:36
 msgid "Anyone with the link can view the project."
-msgstr ""
+msgstr "Iedereen met de link kan het project bekijken."
 
 #: engine-wizard/elm/Wizard/Projects/Create/CustomCreate/Update.elm:85
 #: engine-wizard/elm/Wizard/Projects/CreateMigration/Update.elm:164
 msgid "Unable to get question tags for the Knowledge Model."
-msgstr ""
+msgstr "Kan de vraagtags voor het kennismodel niet laden."
 
 #: engine-wizard/elm/Wizard/Projects/Create/TemplateCreate/Update.elm:47
 #: engine-wizard/elm/Wizard/Projects/CreateMigration/Update.elm:83
 #: engine-wizard/elm/Wizard/Projects/Detail/Update.elm:483
 #: engine-wizard/elm/Wizard/Projects/Import/Update.elm:41
 msgid "Unable to get the project."
-msgstr ""
+msgstr "Kan het project niet laden."
 
 #: engine-wizard/elm/Wizard/Projects/Create/TemplateCreate/View.elm:56
 #: engine-wizard/elm/Wizard/Projects/Create/TemplateCreate/View.elm:70
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:353
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:87
 msgid "Project Template"
-msgstr ""
+msgstr "Projectsjabloon"
 
 #: engine-wizard/elm/Wizard/Projects/Create/View.elm:64
 msgid "From Project Template"
-msgstr ""
+msgstr "Uit projectsjabloon"
 
 #: engine-wizard/elm/Wizard/Projects/Create/View.elm:74
 msgid "Custom"
-msgstr ""
+msgstr "Aangepast"
 
 #: engine-wizard/elm/Wizard/Projects/CreateMigration/Update.elm:150
 msgid "Questionnaire migration could not be created."
-msgstr ""
+msgstr "Kan migratie voor vragenlijst niet aanmaken."
 
 #: engine-wizard/elm/Wizard/Projects/CreateMigration/View.elm:56
 msgid "Original question tags"
-msgstr ""
+msgstr "Originele vraagtags"
 
 #: engine-wizard/elm/Wizard/Projects/CreateMigration/View.elm:76
 msgid "Select Knowledge Model first"
-msgstr ""
+msgstr "Selecteer eerst een kennismodel"
 
 #: engine-wizard/elm/Wizard/Projects/CreateMigration/View.elm:79
 msgid "Create Migration"
-msgstr ""
+msgstr "Maak een migratie"
 
 #: engine-wizard/elm/Wizard/Projects/CreateMigration/View.elm:80
 msgid "A new Project is created for the migration. The original will remain unchanged until the migration is finished."
 msgstr ""
+"Voor de migratie wordt een nieuw project aangemaakt. Het origineel blijft "
+"ongewijzigd totdat de migratie is afgerond."
 
 #: engine-wizard/elm/Wizard/Projects/CreateMigration/View.elm:82
 msgid "Project"
-msgstr ""
+msgstr "Project"
 
 #: engine-wizard/elm/Wizard/Projects/CreateMigration/View.elm:87
 msgid "Original Knowledge Model"
-msgstr ""
+msgstr "Origineel kennismodel"
 
 #: engine-wizard/elm/Wizard/Projects/CreateMigration/View.elm:88
 msgid "Original version"
-msgstr ""
+msgstr "Originele versie"
 
 #: engine-wizard/elm/Wizard/Projects/CreateMigration/View.elm:94
 msgid "New Knowledge Model"
-msgstr ""
+msgstr "Nieuw kennismodel"
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/NewDocument.elm:162
 msgid "Unable to get questionnaire event."
-msgstr ""
+msgstr "Kan event voor vragenlijst niet laden."
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/NewDocument.elm:230
 msgid "Document could not be created."
-msgstr ""
+msgstr "Kan het document niet maken."
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/NewDocument.elm:257
 msgid "New Document"
-msgstr ""
+msgstr "Nieuw document"
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/NewDocument.elm:288
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:140
 msgid "Format"
-msgstr ""
+msgstr "Vorm"
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/NewDocument.elm:305
 msgid "Create for current version"
-msgstr ""
+msgstr "Maak voor de huidige versie"
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/NewDocument.elm:310
 msgid "You are creating a document for a project version from %s"
-msgstr ""
+msgstr "Je maakt een document voor ene projectversie van %s"
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/NewDocument.elm:322
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:137
 #: engine-wizard/elm/Wizard/Templates/Detail/View.elm:194
 msgid "Document Template"
-msgstr ""
+msgstr "Documentsjabloon"
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Preview.elm:103
 msgid "Unable to get the document preview."
-msgstr ""
+msgstr "Kan de voorvertoning van het document niet ophalen."
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Preview.elm:165
 msgid "Download preview"
-msgstr ""
+msgstr "Download voorvertoning"
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Preview.elm:167
 msgid "The document format cannot be displayed in the web browser. You can still download and view it."
 msgstr ""
+"Dit documentformaat kan niet in de webbrowser worden weergegeven. Je kunt "
+"het wel downloaden om het te bekijken."
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Preview.elm:184
 msgid "Log in to set a default document template and format."
-msgstr ""
+msgstr "Log in om een standaard documentsjabloon en formaat te kiezen."
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Preview.elm:188
 msgid "Before you can use preview you need to set a default document template and format."
 msgstr ""
+"Voordat je de voorvertoning kunt gebruiken moet eerst een standaard "
+"documentsjabloon en formaat worden gekozen."
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Preview.elm:193
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Preview.elm:225
 msgid "Go to settings"
-msgstr ""
+msgstr "Ga naar instellingen"
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Preview.elm:200
 msgid "Ask the Project owner to set a default document template and format."
 msgstr ""
+"Vraag de eigenaar van het project om een standaard documentsjabloon en "
+"formaat in te stellen."
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Preview.elm:205
 msgid "Default document template is not set."
-msgstr ""
+msgstr "Standaard documentsjabloon is niet ingesteld."
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Preview.elm:216
 msgid "Log in to update the default document template."
-msgstr ""
+msgstr "Log in om het ingestelde documentsjabloon te wijzigen."
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Preview.elm:220
 msgid "Before you can use preview you need to update the default document template."
 msgstr ""
+"Voordat je de voorvertoning kunt gebruiken moet eerst een ander standaard "
+"documentsjabloon worden ingesteld."
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Preview.elm:232
 msgid "Ask the Project owner to update the default document template."
-msgstr ""
+msgstr "Vraag de projecteigenaar om het standaard documentsjabloon te wijzigen."
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Preview.elm:237
 msgid "Default document template is no longer supported."
-msgstr ""
+msgstr "Ingestelde documentsjabloon wordt niet langer ondersteund."
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/ProjectSaving.elm:113
 msgid "Saving..."
-msgstr ""
+msgstr "Aan het opslaan…"
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/ProjectSaving.elm:118
 msgid "Saved"
-msgstr ""
+msgstr "Opgeslagen"
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/ProjectSaving.elm:123
 msgid "All changes have been saved"
-msgstr ""
+msgstr "Alle wijzigingen zijn opgeslagen"
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/RevertModal.elm:109
 msgid "Heads up! This action cannot be undone."
-msgstr ""
+msgstr "Pas op! Deze actie kan niet ongedaan gemaakt worden."
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/RevertModal.elm:112
 msgid "Are you sure you want to revert the projects to its state from %s?"
 msgstr ""
+"Weet je zeker dat je de projecten terug wilt zetten naar de status van %s?"
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/RevertModal.elm:118
 msgid "Revert questionnaire"
-msgstr ""
+msgstr "Vragenlijst terugzetten"
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/RevertModal.elm:122
 msgid "Revert"
-msgstr ""
+msgstr "Terugzetten"
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:260
 #: engine-wizard/elm/Wizard/Projects/Index/Update.elm:161
 msgid "Unable to get project tags."
-msgstr ""
+msgstr "Kan projecttags niet ophalen."
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:332
 msgid "This document template is no longer supported."
-msgstr ""
+msgstr "Dit documentsjabloon wordt niet langer ondersteund."
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:345
 msgid "Default document format"
-msgstr ""
+msgstr "Standaard documentsjabloon"
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:354
 msgid "Project templates can be used by other users so they don't have to start their new projects from scratch."
 msgstr ""
+"Projectsjablonen kunnen door andere gebruikers worden ingezet zodat ze hun "
+"eigen projecten niet van nul af hoeven te beginnen."
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:374
 msgid "Default document template"
-msgstr ""
+msgstr "Standaard documentsjabloon"
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:393
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:250
 msgid "Project Tags"
-msgstr ""
+msgstr "Projecttags"
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:507
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:515
 msgid "Delete this project"
-msgstr ""
+msgstr "Verwijder dit project"
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:509
 msgid "Deleted projects cannot be recovered."
-msgstr ""
+msgstr "Verwijderde projecten kunnen niet worden hersteld."
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:153
 #: engine-wizard/elm/Wizard/Projects/Index/Update.elm:168
 #: engine-wizard/elm/Wizard/Projects/Index/Update.elm:198
 #: engine-wizard/elm/Wizard/Users/Index/Update.elm:89
 msgid "Unable to get users."
-msgstr ""
+msgstr "Kan gebruikers niet ophalen."
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:261
 msgid "Share Project"
-msgstr ""
+msgstr "Deel project"
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:281
 msgid "Add users"
-msgstr ""
+msgstr "Voeg gebruikers toe"
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:363
 msgid "Other logged-in users can %s the project."
-msgstr ""
+msgstr "Andere ingelogde gebruikers kunnen het project %s."
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:368
 msgid "Visible by all other logged-in users"
-msgstr ""
+msgstr "Zichtbaar voor alle andere ingelogde gebruikers"
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:393
 msgid "Copy link"
-msgstr ""
+msgstr "Kopieer link"
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:406
 msgid "Anyone with the link can %s the project."
-msgstr ""
+msgstr "Iedereen met de link kan het project %s."
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:411
 msgid "Public link"
-msgstr ""
+msgstr "Publieke link"
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/Update.elm:107
 msgid "Document was successfully deleted."
-msgstr ""
+msgstr "Het project is succesvol verwijderd."
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:90
 msgid "Click \"New document\" button to add a new document."
-msgstr ""
+msgstr "Klik op “nieuw document” om een nieuw document toe te voegen."
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:93
 msgid "Log in to add a new document."
-msgstr ""
+msgstr "Log in om een nieuw document toe te voegen."
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:114
 msgid "New document"
-msgstr ""
+msgstr "Nieuw document"
 
 #: engine-wizard/elm/Wizard/Projects/Detail/View.elm:147
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:708
 msgid "Template"
-msgstr ""
+msgstr "Sjabloon"
 
 #: engine-wizard/elm/Wizard/Projects/Detail/View.elm:167
 msgid "Add to my projects"
-msgstr ""
+msgstr "Voeg toe aan mijn projecten"
 
 #: engine-wizard/elm/Wizard/Projects/Detail/View.elm:183
 msgid "Share"
-msgstr ""
+msgstr "Deel"
 
 #: engine-wizard/elm/Wizard/Projects/Detail/View.elm:217
 msgid "Questionnaire"
-msgstr ""
+msgstr "Vragenlijst"
 
 #: engine-wizard/elm/Wizard/Projects/Detail/View.elm:285
 msgid "You are not allowed to view this page."
-msgstr ""
+msgstr "Deze pagina mag je niet bekijken."
 
 #: engine-wizard/elm/Wizard/Projects/Import/Update.elm:56
 msgid "Unable to get importer."
-msgstr ""
+msgstr "Kan importeur niet laden."
 
 #: engine-wizard/elm/Wizard/Projects/Import/Update.elm:96
 msgid "Questionnaire changes could not be saved."
-msgstr ""
+msgstr "Wijzigingen in de vragenlijst konden niet worden opgeslagen."
 
 #: engine-wizard/elm/Wizard/Projects/Import/View.elm:43
 msgid "Follow the instructions in the importer window."
-msgstr ""
+msgstr "Volg de instructies in het venster van de importeur."
 
 #: engine-wizard/elm/Wizard/Projects/Import/View.elm:46
 msgid "Import answers"
-msgstr ""
+msgstr "Importeer antwoorden"
 
 #: engine-wizard/elm/Wizard/Projects/Import/View.elm:62
 msgid "%s questionnaire changes will be imported."
-msgstr ""
+msgstr "%s wijzigingen zullen worden geïmporteerd in de vragenlijst."
 
 #: engine-wizard/elm/Wizard/Projects/Import/View.elm:80
 msgid "%s errors encountered:"
-msgstr ""
+msgstr "%s fouten geconstateerd:"
 
 #: engine-wizard/elm/Wizard/Projects/Import/View.elm:94
 msgid "Import status"
-msgstr ""
+msgstr "Import status"
 
 #: engine-wizard/elm/Wizard/Projects/Index/Update.elm:274
 msgid "Questionnaire migration was successfully canceled."
-msgstr ""
+msgstr "Migratie van het kennismodel was succesvol geannuleerd."
 
 #: engine-wizard/elm/Wizard/Projects/Index/Update.elm:281
 msgid "Questionnaire migration could not be deleted."
-msgstr ""
+msgstr "Migratie van het kennismodel kan niet worden verwijderd."
 
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:90
 msgid "Projects only"
-msgstr ""
+msgstr "Alleen projecten"
 
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:119
 msgid "Click \"Create\" button to add a new project."
-msgstr ""
+msgstr "Klik “Aanmaken” om een nieuw project toe te voegen."
 
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:127
 msgid "Search projects..."
-msgstr ""
+msgstr "Doorzoek projecten…"
 
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:196
 msgid "Search project tags..."
-msgstr ""
+msgstr "Doorzoek projecttags…"
 
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:212
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:442
 msgid "OR"
-msgstr ""
+msgstr "OR"
 
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:219
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:449
 msgid "AND"
-msgstr ""
+msgstr "AND"
 
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:238
 msgid "No project tags found"
-msgstr ""
+msgstr "Geen projecttags gevonden"
 
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:315
 msgid "Search knowledge models..."
-msgstr ""
+msgstr "Zoek kennismodellen…"
 
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:339
 msgid "No knowledge models found"
-msgstr ""
+msgstr "Geen kennismodellen gevonden"
 
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:426
 #: engine-wizard/elm/Wizard/Users/Index/View.elm:57
 msgid "Search users..."
-msgstr ""
+msgstr "Doorzoek gebruikers…"
 
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:468
 msgid "No users found"
-msgstr ""
+msgstr "Geen gebruikers gevonden"
 
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:600
 msgid "Open project"
-msgstr ""
+msgstr "Open project"
 
 #: engine-wizard/elm/Wizard/Projects/Migration/Update.elm:83
 msgid "Unable to get the Questionnaire migration."
-msgstr ""
+msgstr "Kon migratie van de vragenlijst niet laden."
 
 #: engine-wizard/elm/Wizard/Projects/Migration/Update.elm:98
 msgid "Unable to save migration."
-msgstr ""
+msgstr "Kan migratie niet opslaan."
 
 #: engine-wizard/elm/Wizard/Projects/Migration/View.elm:36
 msgid "Finalize migration"
-msgstr ""
+msgstr "Migratie afmaken"
 
 #: engine-wizard/elm/Wizard/Projects/Migration/View.elm:46
 msgid "No changes to review"
-msgstr ""
+msgstr "Geen wijzigingen te beoordelen"
 
 #: engine-wizard/elm/Wizard/Projects/Migration/View.elm:48
 msgid "There are no changes affecting your answers."
-msgstr ""
+msgstr "Er zijn geen wijzigingen die je antwoorden beinvloeden."
 
 #: engine-wizard/elm/Wizard/Projects/Migration/View.elm:49
 msgid "You can safely finalize the migration."
-msgstr ""
+msgstr "De migratie kan veilig worden afgerond."
 
 #: engine-wizard/elm/Wizard/Projects/Migration/View.elm:86
 msgid "Source KM"
-msgstr ""
+msgstr "Bron-kennismodel"
 
 #: engine-wizard/elm/Wizard/Projects/Migration/View.elm:90
 msgid "Target KM"
-msgstr ""
+msgstr "Doel-kennismodel"
 
 #: engine-wizard/elm/Wizard/Projects/Migration/View.elm:122
 msgid "Change already resolved"
-msgstr ""
+msgstr "Wijziging is al doorgevoerd"
 
 #: engine-wizard/elm/Wizard/Projects/Migration/View.elm:124
 msgid "Undo"
-msgstr ""
+msgstr "Ongedaan maken"
 
 #: engine-wizard/elm/Wizard/Projects/Migration/View.elm:129
 msgid "Resolve"
-msgstr ""
+msgstr "Toepassen"
 
 #: engine-wizard/elm/Wizard/Projects/Migration/View.elm:137
 msgid "Resolve all"
-msgstr ""
+msgstr "Alles toepassen"
 
 #: engine-wizard/elm/Wizard/Projects/Migration/View.elm:141
 msgid "Resolved changes %s/%s"
-msgstr ""
+msgstr "Doorgevoerde veranderingen %s/%s"
 
 #: engine-wizard/elm/Wizard/Projects/Migration/View.elm:187
 msgid "New Question"
-msgstr ""
+msgstr "Nieuwe vraag"
 
 #: engine-wizard/elm/Wizard/Projects/Migration/View.elm:190
 msgid "Question Changed"
-msgstr ""
+msgstr "Vraag gewijzigd"
 
 #: engine-wizard/elm/Wizard/Projects/Migration/View.elm:193
 msgid "Moved Question"
-msgstr ""
+msgstr "Vraag verplaatst"
 
 #: engine-wizard/elm/Wizard/Projects/Migration/View.elm:197
 msgid "Resolved"
-msgstr ""
+msgstr "Opgelost"
 
 #: engine-wizard/elm/Wizard/Public/Auth/Update.elm:28
 #: engine-wizard/elm/Wizard/Public/Login/Update.elm:52
 msgid "Login failed."
-msgstr ""
+msgstr "Login mislukt."
 
 #: engine-wizard/elm/Wizard/Public/BookReference/Update.elm:27
 msgid "Unable to get a book reference."
-msgstr ""
+msgstr "Kan boekreferentie niet ophalen."
 
 #: engine-wizard/elm/Wizard/Public/BookReference/View.elm:37
 msgid "Data Stewardship for Open Science"
-msgstr ""
+msgstr "“Data Stewardship for Open Science”"
 
 #: engine-wizard/elm/Wizard/Public/BookReference/View.elm:39
 msgid "Chapter %s"
-msgstr ""
+msgstr "Hoofdstuk %s"
 
 #: engine-wizard/elm/Wizard/Public/BookReference/View.elm:42
 msgid "With kind permission of"
-msgstr ""
+msgstr "Met toestemming van"
 
 #: engine-wizard/elm/Wizard/Public/ForgottenPassword/Update.elm:60
 #: engine-wizard/elm/Wizard/Public/ForgottenPasswordConfirmation/Update.elm:60
 msgid "Forgotten password recovery failed."
-msgstr ""
+msgstr "Herstellen van vergeten wachtwoord niet gelukt."
 
 #: engine-wizard/elm/Wizard/Public/ForgottenPassword/View.elm:25
 msgid "We've sent you a recover link. Follow the instructions in your email."
-msgstr ""
+msgstr "Er is een herstel-link gestuurd. Volg de instructies in de email."
 
 #: engine-wizard/elm/Wizard/Public/ForgottenPassword/View.elm:38
 msgid "Forgotten Password"
-msgstr ""
+msgstr "Wachtwoord vergeten"
 
 #: engine-wizard/elm/Wizard/Public/ForgottenPassword/View.elm:41
 msgid "Recover"
-msgstr ""
+msgstr "Herstellen"
 
 #: engine-wizard/elm/Wizard/Public/ForgottenPassword/View.elm:53
 msgid "Enter the email you use to log in and we will send you a recover link."
 msgstr ""
+"Voer het emailadres in dat je gebruikt om in te loggen, dan sturen we je een "
+"link om een nieuw wachtwoord in te stellen."
 
 #: engine-wizard/elm/Wizard/Public/ForgottenPasswordConfirmation/View.elm:42
 msgid "Password Recovery"
-msgstr ""
+msgstr "Wachtwoord herstellen"
 
 #: engine-wizard/elm/Wizard/Public/ForgottenPasswordConfirmation/View.elm:56
 msgid "Enter a new password you want to use to log in."
-msgstr ""
+msgstr "Voer een nieuw wachtwoord in dat je wilt gebruiken voor het inloggen."
 
 #: engine-wizard/elm/Wizard/Public/ForgottenPasswordConfirmation/View.elm:57
 #: engine-wizard/elm/Wizard/Users/Edit/View.elm:196
 msgid "New password"
-msgstr ""
+msgstr "Nieuw wachtwoord"
 
 #: engine-wizard/elm/Wizard/Public/ForgottenPasswordConfirmation/View.elm:58
 #: engine-wizard/elm/Wizard/Users/Edit/View.elm:197
 msgid "New password again"
-msgstr ""
+msgstr "Nieuw wachtwoord nog eens"
 
 #: engine-wizard/elm/Wizard/Public/ForgottenPasswordConfirmation/View.elm:68
 msgid "Your password has been changed. You can now %s."
-msgstr ""
+msgstr "Het wachtwoord is veranderd. Je kunt nu %s."
 
 #: engine-wizard/elm/Wizard/Public/ForgottenPasswordConfirmation/View.elm:72
 #: engine-wizard/elm/Wizard/Public/SignupConfirmation/View.elm:33
 msgid "log in"
-msgstr ""
+msgstr "inloggen"
 
 #: engine-wizard/elm/Wizard/Public/Login/View.elm:59
 #: engine-wizard/elm/Wizard/Public/Signup/View.elm:135
@@ -3967,703 +4117,781 @@ msgstr ""
 #: engine-wizard/elm/Wizard/Users/Edit/View.elm:63
 #: engine-wizard/elm/Wizard/Users/Edit/View.elm:185
 msgid "Password"
-msgstr ""
+msgstr "Wachtwoord"
 
 #: engine-wizard/elm/Wizard/Public/Login/View.elm:62
 msgid "Forgot your password?"
-msgstr ""
+msgstr "Wachtwoord vergeten?"
 
 #: engine-wizard/elm/Wizard/Public/Login/View.elm:70
 msgid "Or connect with"
-msgstr ""
+msgstr "Of verbinden met"
 
 #: engine-wizard/elm/Wizard/Public/Signup/Update.elm:64
 #: engine-wizard/elm/Wizard/Public/SignupConfirmation/Update.elm:32
 msgid "Sign up process failed."
-msgstr ""
+msgstr "Inschrijven mislukt."
 
 #: engine-wizard/elm/Wizard/Public/Signup/View.elm:31
 msgid "Sign up was successful. Check your email for the activation link."
-msgstr ""
+msgstr "Inschrijven gelukt. Zoek in je email naar de activatielink."
 
 #: engine-wizard/elm/Wizard/Public/Signup/View.elm:49
 msgid "I already have an account"
-msgstr ""
+msgstr "Ik heb al een account"
 
 #: engine-wizard/elm/Wizard/Public/Signup/View.elm:83
 msgid "Privacy"
-msgstr ""
+msgstr "Privacy"
 
 #: engine-wizard/elm/Wizard/Public/Signup/View.elm:87
 msgid "Terms of Service"
-msgstr ""
+msgstr "Gebruiksvoorwaarden"
 
 #: engine-wizard/elm/Wizard/Public/Signup/View.elm:94
 msgid "I have read %s and %s."
-msgstr ""
+msgstr "Ik heb %s en %s gelezen."
 
 #: engine-wizard/elm/Wizard/Public/Signup/View.elm:99
 msgid "You have to read Privacy and Terms of Service first"
-msgstr ""
+msgstr "Je moet eerst de privacy en gebruiksvoorwaarden lezen"
 
 #: engine-wizard/elm/Wizard/Public/Signup/View.elm:104
 #: engine-wizard/elm/Wizard/Public/Signup/View.elm:112
 msgid "I have read %s."
-msgstr ""
+msgstr "Ik heb %s gelezen."
 
 #: engine-wizard/elm/Wizard/Public/Signup/View.elm:107
 msgid "You have to read Privacy first"
-msgstr ""
+msgstr "Je moet eerst de privacy lezen"
 
 #: engine-wizard/elm/Wizard/Public/Signup/View.elm:115
 msgid "You have to read Terms of Service first"
-msgstr ""
+msgstr "Je moet eerst de gebruiksvoorwaarden lezen"
 
 #: engine-wizard/elm/Wizard/Public/Signup/View.elm:134
 #: engine-wizard/elm/Wizard/Users/Create/View.elm:40
 #: engine-wizard/elm/Wizard/Users/Edit/View.elm:171
 msgid "Affiliation"
-msgstr ""
+msgstr "Affiliatie"
 
 #: engine-wizard/elm/Wizard/Public/Signup/View.elm:136
 msgid "Password again"
-msgstr ""
+msgstr "Nogmaals het wachtwoord"
 
 #: engine-wizard/elm/Wizard/Public/SignupConfirmation/View.elm:29
 msgid "Your email was successfully confirmed. You can now %s."
-msgstr ""
+msgstr "Je email is bevestigd. Je kunt nu %s."
 
 #: engine-wizard/elm/Wizard/Registry/RegistrySignupConfirmation/Update.elm:35
 msgid "Unable to confirm the registry account."
-msgstr ""
+msgstr "Kan het account in het register niet bevestigen."
 
 #: engine-wizard/elm/Wizard/Registry/RegistrySignupConfirmation/View.elm:28
 msgid "Your email was successfuly confirmed, you can go back to %s."
-msgstr ""
+msgstr "Je email is bevestigd. Je kunt nu terug naar %s."
 
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:39
 #: engine-wizard/elm/Wizard/Settings/View.elm:115
 msgid "Authentication"
-msgstr ""
+msgstr "Authenticatie"
 
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:49
 msgid "Default role"
-msgstr ""
+msgstr "Standaardrol"
 
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:50
 msgid "Define the role that is assigned to new users."
-msgstr ""
+msgstr "Definieer de rol die wordt toegekend aan nieuwe gebruikers."
 
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:51
 msgid "Internal"
-msgstr ""
+msgstr "Intern"
 
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:52
 msgid "Registration"
-msgstr ""
+msgstr "Registratie"
 
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:53
 msgid "If enabled, users can create new internal accounts directly in the instance."
 msgstr ""
+"Als dit is ingeschakeld, kunnen gebruikers nieuwe interne accounts maken "
+"direct in de instantie."
 
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:54
 msgid "External"
-msgstr ""
+msgstr "Extern"
 
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:55
 msgid "OpenID Services"
-msgstr ""
+msgstr "OpenID services"
 
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:151
 msgid "Callback URL"
-msgstr ""
+msgstr "Callback-URL"
 
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:152
 msgid "Logout URL"
-msgstr ""
+msgstr "Logout-URL"
 
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:154
 msgid "Client ID"
-msgstr ""
+msgstr "Client ID"
 
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:155
 msgid "Client Secret"
-msgstr ""
+msgstr "Client secret"
 
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:159
 msgid "Parameters"
-msgstr ""
+msgstr "Parameters"
 
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:168
 #: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:275
 msgid "Icon"
-msgstr ""
+msgstr "Ikoon"
 
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:176
 msgid "Background"
-msgstr ""
+msgstr "Achtergrond"
 
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:185
 msgid "Button Preview"
-msgstr ""
+msgstr "Knop voorvertoning"
 
 #: engine-wizard/elm/Wizard/Settings/Dashboard/View.elm:25
 #: engine-wizard/elm/Wizard/Settings/View.elm:122
 msgid "Dashboard"
-msgstr ""
+msgstr "Dashboard"
 
 #: engine-wizard/elm/Wizard/Settings/Dashboard/View.elm:38
 msgid "Welcome"
-msgstr ""
+msgstr "Welkom"
 
 #: engine-wizard/elm/Wizard/Settings/Dashboard/View.elm:39
 msgid "Standard welcome screen."
-msgstr ""
+msgstr "Standaard welkomstscherm."
 
 #: engine-wizard/elm/Wizard/Settings/Dashboard/View.elm:45
 msgid "Role-Based"
-msgstr ""
+msgstr "Rol-gebaseerd"
 
 #: engine-wizard/elm/Wizard/Settings/Dashboard/View.elm:46
 msgid "Relevant content based on user's role."
-msgstr ""
+msgstr "Relevante inhoud gegeven de rol van de gebruiker."
 
 #: engine-wizard/elm/Wizard/Settings/Dashboard/View.elm:53
 msgid "Dashboard Style"
-msgstr ""
+msgstr "Stijl van het dashboard"
 
 #: engine-wizard/elm/Wizard/Settings/Dashboard/View.elm:56
 msgid "Welcome Info"
-msgstr ""
+msgstr "Welkomstinformatie"
 
 #: engine-wizard/elm/Wizard/Settings/Dashboard/View.elm:60
 msgid "Welcome info is visible at the dashboard after login as a blue box."
 msgstr ""
+"Welkomstinformatie is zichtbaar op het dashboard na inloggen in een blauw "
+"vlak."
 
 #: engine-wizard/elm/Wizard/Settings/Dashboard/View.elm:68
 msgid "Welcome Warning"
-msgstr ""
+msgstr "Welkomstwaarschuwing"
 
 #: engine-wizard/elm/Wizard/Settings/Dashboard/View.elm:72
 msgid "Welcome warning is visible at the dashboard after login as a yellow box."
 msgstr ""
+"Welkomstwaarschuwing is zichtbaar op het dashboard na inloggen in een geel "
+"vlak."
 
 #: engine-wizard/elm/Wizard/Settings/Generic/Update.elm:68
 msgid "Unable to load settings."
-msgstr ""
+msgstr "Kan instellingen niet laden."
 
 #: engine-wizard/elm/Wizard/Settings/Generic/Update.elm:92
 msgid "Settings could not be saved."
-msgstr ""
+msgstr "Instellingen konden niet worden opgeslagen."
 
 #: engine-wizard/elm/Wizard/Settings/KnowledgeModels/View.elm:48
 msgid "Min Version"
-msgstr ""
+msgstr "Oudste toegestane versie"
 
 #: engine-wizard/elm/Wizard/Settings/KnowledgeModels/View.elm:49
 msgid "Max Version"
-msgstr ""
+msgstr "Laatste toegestane versie"
 
 #: engine-wizard/elm/Wizard/Settings/KnowledgeModels/View.elm:53
 msgid "Allowed Packages"
-msgstr ""
+msgstr "Toegestane pakketten"
 
 #: engine-wizard/elm/Wizard/Settings/KnowledgeModels/View.elm:60
 msgid "Public Knowledge Models"
-msgstr ""
+msgstr "Publieke kennismodellen"
 
 #: engine-wizard/elm/Wizard/Settings/KnowledgeModels/View.elm:61
 msgid "If enabled you can define knowledge models that are publicly available for reading."
 msgstr ""
+"Als dit is ingeschakeld kunnen kennismodellen worden gedefinieerd die "
+"publiek leesbaar zijn."
 
 #: engine-wizard/elm/Wizard/Settings/KnowledgeModels/View.elm:64
 msgid "Integration Config"
-msgstr ""
+msgstr "Integratieconfiguratie"
 
 #: engine-wizard/elm/Wizard/Settings/LookAndFeel/LogoUploadModal.elm:123
 msgid "Unable to upload logo."
-msgstr ""
+msgstr "Kan logo niet uploaden."
 
 #: engine-wizard/elm/Wizard/Settings/LookAndFeel/LogoUploadModal.elm:168
 msgid "Change logo"
-msgstr ""
+msgstr "Wijzig het logo"
 
 #: engine-wizard/elm/Wizard/Settings/LookAndFeel/LogoUploadModal.elm:179
 msgid "Choose logo"
-msgstr ""
+msgstr "Kies logo"
 
 #: engine-wizard/elm/Wizard/Settings/LookAndFeel/LogoUploadModal.elm:184
 msgid "Use default logo"
-msgstr ""
+msgstr "Gebruik standaardlogo"
 
 #: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:39
 #: engine-wizard/elm/Wizard/Settings/View.elm:123
 msgid "Look & Feel"
-msgstr ""
+msgstr "Look & Feel"
 
 #: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:152
 msgid "Application Title"
-msgstr ""
+msgstr "Applicatietitel"
 
 #: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:153
 msgid "Full name of the DSW instance (displayed, for example, in the browser tab title or before login)."
 msgstr ""
+"Volledige naam van de DSW-instantie (die bijvoorbeeld in de browser-tab-"
+"titel wordt weergegeven, of voor het inloggen)."
 
 #: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:162
 msgid "Short Application Title"
-msgstr ""
+msgstr "Korte applicatietitel"
 
 #: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:163
 msgid "Short name of the DSW instance (displayed, for example, on top of the navigation bar). Short title can be the same as the application title if it is short enough."
 msgstr ""
+"Korte naam van de DSW-instantie (die bijvoorbeeld boven de navigatiebalk "
+"wordt getoond). De korte titel kan dezelfde zijn als de applicatietitel als "
+"die kort genoeg is."
 
 #: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:175
 msgid "Custom Menu Links"
-msgstr ""
+msgstr "Aangepaste menukoppelingen"
 
 #: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:176
 msgid "Configure additional links in the menu. Choose any free icon from the [Font Awesome](https://fontawesome.com/icons?d=gallery&m=free), e.g. *fas fa-magic*. Check *New window* if you want to open the link in a new window."
 msgstr ""
+"Configureer extra koppelingen in het menu. Kies een gratis ikoon uit [Font "
+"Awesome](https://fontawesome.com/icons?d=gallery&m=free), bijvoorbeeld *fas "
+"fa-magic*. Kies *Nieuw venster* als je de koppeling wilt openen in een nieuw "
+"venster."
 
 #: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:191
 msgid "Login Info"
-msgstr ""
+msgstr "Logininformatie"
 
 #: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:194
 msgid "Additional information displayed at the login screen."
-msgstr ""
+msgstr "Extra informatie die op het loginscherm wordt getoond."
 
 #: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:281
 msgid "New window"
-msgstr ""
+msgstr "Nieuw venster"
 
 #: engine-wizard/elm/Wizard/Settings/Organization/View.elm:24
 #: engine-wizard/elm/Wizard/Settings/View.elm:114
 msgid "Organization"
-msgstr ""
+msgstr "Organisatie"
 
 #: engine-wizard/elm/Wizard/Settings/Organization/View.elm:35
 msgid "Name of the organization running this instance."
-msgstr ""
+msgstr "De naam van de organisatie die deze instantie draait."
 
 #: engine-wizard/elm/Wizard/Settings/Organization/View.elm:38
 msgid "Organization ID is used to identify Knowledge Models created in this instance. It can contain alphanumeric characters and dots but cannot start or end with a dot."
 msgstr ""
+"Organisatie-ID wordt gebruikt om kennismodellen die in deze instantie worden "
+"gemaakt te herkennen. Dit kan bestaan uit alfanumerieke karakters en punten, "
+"maar niet beginnen of eindigen met een punt."
 
 #: engine-wizard/elm/Wizard/Settings/Organization/View.elm:39
 msgid "Affiliations"
-msgstr ""
+msgstr "Affiliaties"
 
 #: engine-wizard/elm/Wizard/Settings/Organization/View.elm:40
 msgid "Affiliation options will be used to help users choose their affiliation while signing up or editing their profile. Write one affiliation option per line."
 msgstr ""
+"Affiliatie-opties worden gebruikt om gebruikers te helpen bij het kiezen van "
+"hun affiliatie tijdens het aanmelden of het bewerken van hun profiel. Geef "
+"één affiliatie-optie per regel."
 
 #: engine-wizard/elm/Wizard/Settings/Plans/Update.elm:24
 msgid "Unable to get plans."
-msgstr ""
+msgstr "Kan plannen niet ophalen."
 
 #: engine-wizard/elm/Wizard/Settings/PrivacyAndSupport/View.elm:25
 #: engine-wizard/elm/Wizard/Settings/View.elm:116
 msgid "Privacy & Support"
-msgstr ""
+msgstr "Privacy en ondersteuning"
 
 #: engine-wizard/elm/Wizard/Settings/PrivacyAndSupport/View.elm:35
 msgid "Privacy URL"
-msgstr ""
+msgstr "Privacy URL"
 
 #: engine-wizard/elm/Wizard/Settings/PrivacyAndSupport/View.elm:36
 msgid "URL to page with the privacy policy of the service."
 msgstr ""
+"URL van de pagina waarop de privacy-policy van de instantie te vinden is."
 
 #: engine-wizard/elm/Wizard/Settings/PrivacyAndSupport/View.elm:37
 msgid "Terms of Service URL"
-msgstr ""
+msgstr "URL van Servicevoorwaarden"
 
 #: engine-wizard/elm/Wizard/Settings/PrivacyAndSupport/View.elm:38
 msgid "URL to page with the terms of the service."
-msgstr ""
+msgstr "URL van de pagina waar de servicevoorwaarden te vinden zijn."
 
 #: engine-wizard/elm/Wizard/Settings/PrivacyAndSupport/View.elm:39
 msgid "Support"
-msgstr ""
+msgstr "Ondersteuning"
 
 #: engine-wizard/elm/Wizard/Settings/PrivacyAndSupport/View.elm:40
 msgid "Support Email"
-msgstr ""
+msgstr "Ondersteunings-email"
 
 #: engine-wizard/elm/Wizard/Settings/PrivacyAndSupport/View.elm:41
 msgid "Support email displayed in the help modal."
-msgstr ""
+msgstr "Het ondersteuningsemail-adres dat wordt getoond in de help-popup."
 
 #: engine-wizard/elm/Wizard/Settings/PrivacyAndSupport/View.elm:42
 msgid "Support Repository Name"
-msgstr ""
+msgstr "Naam van het ondersteunings-repository"
 
 #: engine-wizard/elm/Wizard/Settings/PrivacyAndSupport/View.elm:43
 msgid "Name of the repository where users can report issues related to the service."
 msgstr ""
+"Nam van het github-repository waar gebruikers issues over de dienst kunnen "
+"rapporteren."
 
 #: engine-wizard/elm/Wizard/Settings/PrivacyAndSupport/View.elm:44
 msgid "Support Repository URL"
-msgstr ""
+msgstr "URL van het ondersteunings-repository"
 
 #: engine-wizard/elm/Wizard/Settings/PrivacyAndSupport/View.elm:45
 msgid "URL of the repository where users can report issues related to the service."
 msgstr ""
+"URL van het github-repository waar gebruikers issues over de dienst kunnen "
+"rapporteren."
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:44
 msgid "Anonymous Projects"
-msgstr ""
+msgstr "Anonieme projecten"
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:45
 msgid "If enabled, users that are not logged in are allowed to create projects from public knowledge models."
 msgstr ""
+"Wanneer dit is ingeschakeld kunnen gebruikers die niet zijn ingelogd "
+"projecten maken gebaseerd op publieke kennismodellen."
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:57
 msgid "GitHub Repository Owner"
-msgstr ""
+msgstr "Eigenaar van het GitHub repository"
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:58
 msgid "ht&#8203;tps://github.com/**exampleOwner**/exampleRepository"
-msgstr ""
+msgstr "ht&#8203;tps://github.com/**exampleOwner**/exampleRepository"
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:59
 msgid "GitHub Repository Name"
-msgstr ""
+msgstr "Naam van het GitHub repository"
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:60
 msgid "ht&#8203;tps://github.com/exampleOwner/**exampleRepository**"
-msgstr ""
+msgstr "ht&#8203;tps://github.com/**exampleOwner**/exampleRepository"
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:61
 msgid "Access Token"
-msgstr ""
+msgstr "Access Token"
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:62
 msgid "[Personal Access Token](https://help.github.com/en/github/authenticating-to-github/creating-a-personal-access-token-for-the-command-line) for GitHub account creating the issues. Make sure to select **public_repo** scope if the repository is public or **repo** if it is private. We recommend creating a bot account with the access to the feedback repository instead of using your own GitHub account."
 msgstr ""
+"[Persoonlijk Access Token](https://help.github.com/en/github/"
+"authenticating-to-github/creating-a-personal-access-token-for-the-command-"
+"line) for GitHub account creating the issues. Make sure to select "
+"**public_repo** scope if the repository is public or **repo** if it is "
+"private. We recommend creating a bot account with the access to the feedback "
+"repository instead of using your own GitHub account."
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:74
 msgid "Default Project Tags"
-msgstr ""
+msgstr "Standaard projecttags"
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:75
 msgid "Default projects tags can be provided to users so they don't have to come up with them on their own. Write one tag per line."
 msgstr ""
+"Standaard projecttags kunnen worden opgegeven aan gebruikers zodat ze die "
+"zelf niet hoeven verzinnen. Geef een tag per regel."
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:82
 msgid "Project Visibility"
-msgstr ""
+msgstr "Projectzichtbaarheid"
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:83
 msgid "If enabled, project visibility can be set for each project. Otherwise, all projects use the *Default Project Visibility*."
 msgstr ""
+"Als dit is ingeschakeld kan voor elk project een zichtbaarheid worden "
+"gekozen. Als het is uitgeschakeld geldt voor alle projecten de *Standaard "
+"projectzichtbaarheid*."
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:84
 msgid "Default Project Visibility"
-msgstr ""
+msgstr "Standaard projectzichtbaarheid"
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:85
 msgid "If *Project Visibility* is enabled, this value is pre-selected when creating a new project. If *Project Visibility* is disabled, this value is used implicitly for new projects."
 msgstr ""
+"Als *Projectzichtbaarheid* is ingeschakeld, dan is dit de voorgeselecteerde "
+"optie wanneer een nieuw project wordt aangemaakt. Als *Projectzichtbaarheid* "
+"is uitgeschakeld geldt deze waarde impliciet voor alle nieuwe projecten."
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:87
 msgid "Project Sharing"
-msgstr ""
+msgstr "Projectdelen"
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:88
 msgid "If enabled, users can choose if project can be shared with people outside of DSW or not. Otherwise, all projects use the *Default Project Sharing*."
 msgstr ""
+"Als dit is ingeschakeld kunnen gebruikers kiezen of ze een project willen "
+"delen met mensen buiten DSW of niet. Als het is uitgeschakeld geldt voor "
+"alle projecten de *Default Project Sharing*."
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:89
 msgid "Default Project Sharing"
-msgstr ""
+msgstr "Standaard projectdelen"
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:90
 msgid "If *Project Sharing* is enabled, this value is pre-selected when creating a new project. If *Project Sharing* is disabled, this value is used implicitly for new projects."
 msgstr ""
+"Als *Projectdelen* is ingeschakeld, dan is deze waarde voorgeselecteerd "
+"wanneer een nieuw project wordt aangemaakt. Als *Projectdelen* is "
+"uitgeschakeld wordt deze waarde impliciet gebruikt voor nieuwe projecten."
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:94
 msgid "Project Creation"
-msgstr ""
+msgstr "Project-creatie"
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:97
 msgid "If enabled, users can view a summary report showing various metrics for the questionnaire."
 msgstr ""
+"Als dit is ingeschakeld kunnen gebruikers een samenvatting zien met "
+"statistieken over de invulling van de vragenlijst."
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:99
 msgid "If enabled, users can submit a feedback to questions to the specified GitHub repository."
 msgstr ""
+"Als dit is ingeschakeld kunnen gebruikers feedback geven op vragen naar het "
+"opgegeven GitHub repository."
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:101
 msgid "Project Tagging"
-msgstr ""
+msgstr "Projecttags"
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:102
 msgid "If enabled, users can tag their projects and use these tags to filter them."
 msgstr ""
+"Als dit is ingeschakeld kunnen gebruikers hun projecten taggen en deze tags "
+"gebruiken om te zoeken."
 
 #: engine-wizard/elm/Wizard/Settings/Registry/Update.elm:103
 msgid "You have signed up for the Registry, you should receive a confirmation email soon."
 msgstr ""
+"Je hebt je aangemeld bij het register, je ontvangt hierover een "
+"bevestigingsbericht per email."
 
 #: engine-wizard/elm/Wizard/Settings/Registry/Update.elm:109
 msgid "Sign up request failed."
-msgstr ""
+msgstr "Aanmeldverzoek mislukt."
 
 #: engine-wizard/elm/Wizard/Settings/Registry/View.elm:79
 msgid "Token"
-msgstr ""
+msgstr "Token"
 
 #: engine-wizard/elm/Wizard/Settings/Registry/View.elm:80
 msgid "Fill in your DSW Registry token. If you don't have one, you need sign up first."
 msgstr ""
+"Vul hier je DSW-register-token in. Als je dat niet hebt, moet je jezelf "
+"eerst inschrijven."
 
 #: engine-wizard/elm/Wizard/Settings/Registry/View.elm:89
 msgid "If enabled, you can import Knowledge Models and Document Templates directly from [DSW Registry](https://registry.ds-wizard.org)."
 msgstr ""
+"Als dit is ingeschakeld kunnen kennismodellen en documentsjablonen direct "
+"worden geïmporteerd uit het [DSW Register](https://registry.ds-wizard.org)."
 
 #: engine-wizard/elm/Wizard/Settings/Registry/View.elm:138
 msgid "Organization Name"
-msgstr ""
+msgstr "Organisatienaam"
 
 #: engine-wizard/elm/Wizard/Settings/Registry/View.elm:139
 msgid "Organization Description"
-msgstr ""
+msgstr "Beschrijving van de organisatie"
 
 #: engine-wizard/elm/Wizard/Settings/Registry/View.elm:141
 msgid "The email will be used for a confirmation link and an eventual token recovery."
 msgstr ""
+"De email zal worden gebruikt voor een bevestigings-link en eventueel voor "
+"een tokenherstel."
 
 #: engine-wizard/elm/Wizard/Settings/Registry/View.elm:146
 msgid "Registry Sign Up"
-msgstr ""
+msgstr "Inschrijving voor het register"
 
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:40
 #: engine-wizard/elm/Wizard/Settings/View.elm:132
 msgid "Document Submission"
-msgstr ""
+msgstr "Indienen van een document"
 
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:55
 msgid "Services"
-msgstr ""
+msgstr "Diensten"
 
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:63
 msgid "If enabled, you can configure external services for uploading documents from the instance."
 msgstr ""
+"Als dit is ingeschakeld, kunnen externe diensten worden geconfigureerd waar "
+"documenten uit deze instantie kunnen worden ge-upload."
 
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:107
 msgid "Supported Formats"
-msgstr ""
+msgstr "Ondersteunde formaten"
 
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:108
 msgid "Select document templates and formats that can be submitted using this submission service."
 msgstr ""
+"Selecteer de documentsjablonen en formaten die worden ondersteund voor deze "
+"submissiedienst."
 
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:112
 msgid "User Properties"
-msgstr ""
+msgstr "Gebruikerseigenschappen"
 
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:113
 msgid "You can create properties that can be set by each user in their profile. Then, you can use these properties in the request settings. For example, if you want each user to use their own authorization token, you can create a property called `Token` and use it in request headers as `${Token}`. Users will be able to set the token in their profile settings."
 msgstr ""
+"Je kunt eigenschappen maken die door elke gebruiker in zijn profiel kunnen "
+"worden ingesteld. Vervolgens kunnen deze eigenschappen worden gebruikt in de "
+"request-instellingen. Als u bijvoorbeeld wilt dat elke gebruiker zijn eigen "
+"autorisatietoken gebruikt, kunt u een eigenschap met de naam `Token` maken "
+"en deze in request-headers gebruiken als `${Token}`. Gebruikers kunnen het "
+"token instellen in hun profielinstellingen."
 
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:218
 msgid "Multipart File Name"
-msgstr ""
+msgstr "Multipart-bestandsnaam"
 
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:227
 msgid "Method"
-msgstr ""
+msgstr "Methode"
 
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:229
 msgid "Headers"
-msgstr ""
+msgstr "Headers"
 
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:230
 msgid "Multipart"
-msgstr ""
+msgstr "Multipart"
 
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:231
 msgid "If enabled, file will be sent using multipart request. Otherwise, it will be directly in the request body."
 msgstr ""
+"Als dit is ingeschakeld zal het bestand worden verstuurd middels een "
+"“Multipart” request. Anders wordt het direct verstuurd in de request body."
 
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:250
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:256
 msgid "Header"
-msgstr ""
+msgstr "Header"
 
 #: engine-wizard/elm/Wizard/Settings/Template/View.elm:66
 msgid "Recommended Template"
-msgstr ""
+msgstr "Aanbevolen sjabloon"
 
 #: engine-wizard/elm/Wizard/Settings/View.elm:89
 msgid "System Settings"
-msgstr ""
+msgstr "Systeeminstellingen"
 
 #: engine-wizard/elm/Wizard/Settings/View.elm:92
 msgid "User Interface Settings"
-msgstr ""
+msgstr "Instellingen van het gebruikersinterface"
 
 #: engine-wizard/elm/Wizard/Settings/View.elm:95
 msgid "Content Settings"
-msgstr ""
+msgstr "Inhoudsinstellingen"
 
 #: engine-wizard/elm/Wizard/Templates/Detail/Update.elm:32
 msgid "Unable to get the document template."
-msgstr ""
+msgstr "Kan documentsjabloon niet ophalen."
 
 #: engine-wizard/elm/Wizard/Templates/Detail/Update.elm:69
 #: engine-wizard/elm/Wizard/Templates/Index/Update.elm:71
 msgid "Document template could not be deleted."
-msgstr ""
+msgstr "Kan documentsjabloon niet verwijderen."
 
 #: engine-wizard/elm/Wizard/Templates/Detail/View.elm:84
 msgid "This is not the latest available version of this document template."
-msgstr ""
+msgstr "Dit is niet de nieuwste versie van dit documentsjabloon."
 
 #: engine-wizard/elm/Wizard/Templates/Detail/View.elm:159
 msgid "This document template is not supported in this version of DSW."
-msgstr ""
+msgstr "Dit documentsjabloon wordt niet ondersteund in deze versie van DSW."
 
 #: engine-wizard/elm/Wizard/Templates/Detail/View.elm:209
 msgid "Formats"
-msgstr ""
+msgstr "Formaten"
 
 #: engine-wizard/elm/Wizard/Templates/Detail/View.elm:249
 msgid "Registry link"
-msgstr ""
+msgstr "Register-link"
 
 #: engine-wizard/elm/Wizard/Templates/Detail/View.elm:277
 msgid "Usable with"
-msgstr ""
+msgstr "Bruikbaar met"
 
 #: engine-wizard/elm/Wizard/Templates/Import/FileImport/Update.elm:71
 msgid "Importing the document template failed."
-msgstr ""
+msgstr "Importeren van het documentsjabloon mislukt."
 
 #: engine-wizard/elm/Wizard/Templates/Import/RegistryImport/Update.elm:32
 msgid "Unable to import the document template."
-msgstr ""
+msgstr "Kan het documentsjabloon niet importeren."
 
 #: engine-wizard/elm/Wizard/Templates/Import/RegistryImport/View.elm:47
 msgid "Document Template ID"
-msgstr ""
+msgstr "Documentsjabloon-ID"
 
 #: engine-wizard/elm/Wizard/Templates/Import/RegistryImport/View.elm:67
 msgid "You can find document templates in %s."
-msgstr ""
+msgstr "Je kunt documentsjablonen vinden in %s."
 
 #: engine-wizard/elm/Wizard/Templates/Import/RegistryImport/View.elm:82
 msgid "Document template %s has been imported!"
-msgstr ""
+msgstr "Documentsjabloon %s is geïmporteerd!"
 
 #: engine-wizard/elm/Wizard/Templates/Index/View.elm:58
 msgid "Click \"Import\" button to import a new document template."
-msgstr ""
+msgstr "Klik “Importeer” om een nieuw documentsjabloon te importeren."
 
 #: engine-wizard/elm/Wizard/Templates/Index/View.elm:66
 msgid "Search..."
-msgstr ""
+msgstr "Zoeken…"
 
 #: engine-wizard/elm/Wizard/Templates/Index/View.elm:107
 msgid "unsupported metamodel"
-msgstr ""
+msgstr "niet-ondersteund metamodel"
 
 #: engine-wizard/elm/Wizard/Templates/Index/View.elm:209
 msgid "Delete document template"
-msgstr ""
+msgstr "Verwijder documentsjabloon"
 
 #: engine-wizard/elm/Wizard/Users/Create/Update.elm:63
 msgid "User could not be created."
-msgstr ""
+msgstr "Gebruiker kon niet worden aangemaakt."
 
 #: engine-wizard/elm/Wizard/Users/Create/View.elm:25
 msgid "Create user"
-msgstr ""
+msgstr "Maak gebruiker"
 
 #: engine-wizard/elm/Wizard/Users/Create/View.elm:41
 #: engine-wizard/elm/Wizard/Users/Edit/View.elm:104
 msgid "Role"
-msgstr ""
+msgstr "Rol"
 
 #: engine-wizard/elm/Wizard/Users/Edit/Update.elm:83
 msgid "Unable to get the user."
-msgstr ""
+msgstr "Kan gebruiker niet ophalen."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Update.elm:117
 msgid "Profile was successfully updated."
-msgstr ""
+msgstr "Profiel is succesvol aangepast."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Update.elm:123
 msgid "Profile could not be saved."
-msgstr ""
+msgstr "Profiel kon niet worden opgeslagen."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Update.elm:139
 msgid "Password was successfully changed."
-msgstr ""
+msgstr "Wachtwoord is gewijzigd."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Update.elm:142
 msgid "Password could not be changed."
-msgstr ""
+msgstr "Password kon niet worden veranderd."
 
 #: engine-wizard/elm/Wizard/Users/Edit/View.elm:55
 #: engine-wizard/elm/Wizard/Users/Edit/View.elm:75
 msgid "Profile"
-msgstr ""
+msgstr "Profiel"
 
 #: engine-wizard/elm/Wizard/Users/Edit/View.elm:85
 msgid "User Image"
-msgstr ""
+msgstr "Gebruikersplaatje"
 
 #: engine-wizard/elm/Wizard/Users/Edit/View.elm:89
 msgid "Image is taken from OpenID profile or [Gravatar](https://gravatar.com)."
 msgstr ""
+"Plaatje word overgenomen uit OpenID-profiel of [Gravatar](https://gravatar."
+"com)."
 
 #: engine-wizard/elm/Wizard/Users/Edit/View.elm:119
 msgid "Submission Settings"
-msgstr ""
+msgstr "Submissie-instellingen"
 
 #: engine-wizard/elm/Wizard/Users/Edit/View.elm:143
 msgid "There is no settings for %s."
-msgstr ""
+msgstr "Er zijn geen instellingen voor %s."
 
 #: engine-wizard/elm/Wizard/Users/Index/Update.elm:66
 msgid "User could not be deleted."
-msgstr ""
+msgstr "Gebruiker kon niet worden verwijderd."
 
 #: engine-wizard/elm/Wizard/Users/Index/View.elm:53
 msgid "Click \"Create\" button to add a new User."
-msgstr ""
+msgstr "Klik “Aanmaken” om een nieuwe gebruiker toe te voegen."
 
 #: engine-wizard/elm/Wizard/Users/Index/View.elm:63
 msgid "Last online"
-msgstr ""
+msgstr "Laatste keer online"
 
 #: engine-wizard/elm/Wizard/Users/Index/View.elm:92
 msgid "inactive"
-msgstr ""
+msgstr "niet actief"
 
 #: engine-wizard/elm/Wizard/Users/Index/View.elm:174
 msgid "Are you sure you want to permanently delete the following user?"
-msgstr ""
+msgstr "Weet je zeker dat je deze gebruiker permanent wilt verwijderen?"
 
 #: engine-wizard/elm/Wizard/Users/Index/View.elm:179
 msgid "Delete user"
-msgstr ""
+msgstr "Verwijder gebruiker"
 
 #: engine-wizard/elm/Wizard/View.elm:122
 msgid "Not Found"
-msgstr ""
+msgstr "Niet gevonden"
 
 #: engine-wizard/elm/Wizard/View.elm:123
 msgid "The page you are looking for was not found."
-msgstr ""
+msgstr "De pagina die je zocht is niet gevonden."
 
 #: engine-wizard/elm/Wizard/View.elm:132
 msgid "Not Allowed"
-msgstr ""
+msgstr "Niet toegestaan"
 
 #: engine-wizard/elm/Wizard/View.elm:133
 msgid "You don't have a permission to view this page."
-msgstr ""
+msgstr "Je mag deze pagina niet zien."
