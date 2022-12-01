@@ -1,0 +1,11 @@
+{
+    "id": "dsw:fr:0.1.0",
+    "organizationId": "dsw",
+    "localeId": "fr",
+    "version": "0.1.0",
+    "code": "wizard",
+    "recommendedAppVersion": "3.17.1",
+    "name": "French",
+    "description": "",
+    "license": "CC-BY-4.0"
+}

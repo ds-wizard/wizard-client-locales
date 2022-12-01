@@ -1,0 +1,11 @@
+{
+    "id": "dsw:nl:0.1.0",
+    "organizationId": "dsw",
+    "localeId": "nl",
+    "version": "0.1.0",
+    "code": "wizard",
+    "recommendedAppVersion": "3.17.1",
+    "name": "Dutch",
+    "description": "",
+    "license": "CC-BY-4.0"
+}
