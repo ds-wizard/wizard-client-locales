@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wizard-client:3.17.1\n"
 "POT-Creation-Date: 2022-11-14T14:17:48.494Z\n"
-"PO-Revision-Date: 2022-11-28 14:34+0000\n"
-"Last-Translator: Marek Suchánek <marek.suchanek@ds-wizard.org>\n"
+"PO-Revision-Date: 2022-12-01 20:59+0000\n"
+"Last-Translator: Jan Slifka <jan.slifka@ds-wizard.org>\n"
 "Language-Team: Czech <https://localize.ds-wizard.org/projects/wizard-client/"
 "wizard-client-3-17-1/cs/>\n"
 "Language: cs\n"
@@ -664,7 +664,7 @@ msgstr ""
 
 #: engine-wizard/elm/Wizard/Common/Components/Listing/View.elm:152
 msgid "Filter by name..."
-msgstr ""
+msgstr "Filtrovat podle názvu..."
 
 #: engine-wizard/elm/Wizard/Common/Components/Listing/View.elm:201
 msgid "Order by"
