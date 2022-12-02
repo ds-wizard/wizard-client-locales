@@ -1,15 +1,5 @@
 msgid ""
-msgstr ""
-"Project-Id-Version: wizard-client:3.18.3\n"
-"POT-Creation-Date: 2022-12-02T09:10:27.118Z \n"
-"PO-Revision-Date: 2022-11-30 20:09+0000\n"
-"Last-Translator: Rob Hooft <rob.hooft@health-ri.nl>\n"
-"Language-Team: Dutch <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-18-3/nl/>\n"
-"Language: nl\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.14.2\n"
+msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2022-12-02T09:10:27.118Z\nPO-Revision-Date: 2022-12-02 17:06+0000\nLast-Translator: Rob Hooft <rob.hooft@health-ri.nl>\nLanguage-Team: Dutch <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-18-3/nl/>\nLanguage: nl\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.14.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -192,9 +182,8 @@ msgid "Template already exists."
 msgstr "Sjabloon bestaat al."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:118
-#, fuzzy
 msgid "Locale already exists."
-msgstr "Sjabloon bestaat al."
+msgstr "Taal bestaat al."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:121
 #: engine-shared/elm/Shared/Error/ServerError.elm:137
@@ -264,24 +253,20 @@ msgid "Limit of %s reached (current: %s, limit: %s)"
 msgstr "Limiet van %s bereikt (nu: %s, limiet: %s)"
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:174
-#, fuzzy
 msgid "\"locale.json\" was not found in archive."
-msgstr "“template.json” kon niet in het archief gevonden worden."
+msgstr "“locale.json” kon niet in het archief gevonden worden."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:177
-#, fuzzy
 msgid "Error while parsing locale.json: \"%s\"."
-msgstr "Fout bij het analyseren van template.json: “%s”."
+msgstr "Fout bij het analyseren van locale.json: “%s”."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:180
-#, fuzzy
 msgid "File \"%s\" was not found in archive."
-msgstr "Onderdeel “%s” kon niet in het archief gevonden worden."
+msgstr "Bestand “%s” kon niet in het archief gevonden worden."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:183
-#, fuzzy
 msgid "The locale not found in Registry"
-msgstr "Het sjabloon is niet in het register gevonden."
+msgstr "De taal is niet in het register gevonden"
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:186
 msgid "Knowledge Model cannot be deleted because it is used in some Projects or Knowledge Model Editors."
@@ -1393,7 +1378,7 @@ msgstr "Blijvende Opdrachten"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:182
 msgid "System"
-msgstr ""
+msgstr "Systeem"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:189
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/Settings.elm:146
@@ -1407,13 +1392,12 @@ msgstr "Instellingen"
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:194
 #: engine-wizard/elm/Wizard/Locales/Index/View.elm:30
 msgid "Locales"
-msgstr ""
+msgstr "Talen"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:436
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:651
-#, fuzzy
 msgid "Change language"
-msgstr "Wijzig het logo"
+msgstr "Wijzig de taal"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:454
 msgid "Edit profile"
@@ -1486,9 +1470,8 @@ msgstr "Gebouwd om"
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:631
 #: engine-wizard/elm/Wizard/Locales/Detail/View.elm:99
 #: engine-wizard/elm/Wizard/Locales/Index/View.elm:68
-#, fuzzy
 msgid "default"
-msgstr "Standaardrol"
+msgstr "Standaard"
 
 #: engine-wizard/elm/Wizard/Common/TimeDistance.elm:18
 msgid "%s ago"
@@ -3460,56 +3443,48 @@ msgid "Questionnaire could not be saved."
 msgstr "Vragenlijst kon niet worden opgeslagen."
 
 #: engine-wizard/elm/Wizard/Locales/Create/Update.elm:92
-#, fuzzy
 msgid "Creating of the locale failed."
-msgstr "Importeren van het pakket is mislukt."
+msgstr "Aanmaken van de taal is mislukt."
 
 #: engine-wizard/elm/Wizard/Locales/Create/View.elm:40
-#, fuzzy
 msgid "PO File"
-msgstr "Bestand"
+msgstr "PO-Bestand"
 
 #: engine-wizard/elm/Wizard/Locales/Create/View.elm:49
 #: engine-wizard/elm/Wizard/Locales/Detail/View.elm:192
 msgid "Language Code"
-msgstr ""
+msgstr "Taalcode"
 
 #: engine-wizard/elm/Wizard/Locales/Create/View.elm:50
 #: engine-wizard/elm/Wizard/Locales/Import/RegistryImport/View.elm:47
 msgid "Locale ID"
-msgstr ""
+msgstr "Vertalings-ID"
 
 #: engine-wizard/elm/Wizard/Locales/Create/View.elm:51
-#, fuzzy
 msgid "Locale Version"
-msgstr "Style Versie"
+msgstr "Vertalingsversie"
 
 #: engine-wizard/elm/Wizard/Locales/Create/View.elm:54
-#, fuzzy
 msgid "Recommended App Version"
-msgstr "Aanbevolen sjabloon"
+msgstr "Aanbevolen applicatieversie"
 
 #: engine-wizard/elm/Wizard/Locales/Create/View.elm:63
-#, fuzzy
 msgid "Create Locale"
-msgstr "Maak een document"
+msgstr "Taal aanmaken"
 
 #: engine-wizard/elm/Wizard/Locales/Detail/Update.elm:32
-#, fuzzy
 msgid "Unable to get the locale."
-msgstr "Kan gebruiker niet ophalen."
+msgstr "Kan vertaling niet ophalen."
 
 #: engine-wizard/elm/Wizard/Locales/Detail/Update.elm:96
 #: engine-wizard/elm/Wizard/Locales/Index/Update.elm:87
-#, fuzzy
 msgid "Locale could not be deleted."
-msgstr "Het document kon niet verwijderd worden."
+msgstr "De vertaling kon niet verwijderd worden."
 
 #: engine-wizard/elm/Wizard/Locales/Detail/View.elm:59
 #: engine-wizard/elm/Wizard/Locales/Index/View.elm:168
-#, fuzzy
 msgid "Set default"
-msgstr "Gebruik standaardlogo"
+msgstr "Gebruik standaard"
 
 #: engine-wizard/elm/Wizard/Locales/Detail/View.elm:69
 #: engine-wizard/elm/Wizard/Locales/Index/View.elm:181
@@ -3524,63 +3499,52 @@ msgid "Enable"
 msgstr "Inschakelen"
 
 #: engine-wizard/elm/Wizard/Locales/Detail/View.elm:123
-#, fuzzy
 msgid "This is not the latest available version of this locale."
-msgstr "Dit is niet de nieuwste versie van dit documentsjabloon."
+msgstr "Dit is niet de nieuwste versie van deze vertaling."
 
 #: engine-wizard/elm/Wizard/Locales/Detail/View.elm:194
-#, fuzzy
 msgid "DSW Version"
-msgstr "Versie"
+msgstr "DSW-versie"
 
 #: engine-wizard/elm/Wizard/Locales/Detail/View.elm:199
 msgid "Locale"
-msgstr ""
+msgstr "Vertaling"
 
 #: engine-wizard/elm/Wizard/Locales/Import/FileImport/Update.elm:71
-#, fuzzy
 msgid "Importing the locale failed."
-msgstr "Importeren van het pakket is mislukt."
+msgstr "Importeren van de vertaling is mislukt."
 
 #: engine-wizard/elm/Wizard/Locales/Import/RegistryImport/Update.elm:32
-#, fuzzy
 msgid "Unable to import the locale."
-msgstr "Kan het pakket niet importeren."
+msgstr "Kan de vertaling niet importeren."
 
 #: engine-wizard/elm/Wizard/Locales/Import/RegistryImport/View.elm:67
-#, fuzzy
 msgid "You can find locales in %s."
-msgstr "Je kunt documentsjablonen vinden in %s."
+msgstr "Je kunt vertalingen vinden in %s."
 
 #: engine-wizard/elm/Wizard/Locales/Import/RegistryImport/View.elm:82
-#, fuzzy
 msgid "Locale %s has been imported!"
-msgstr "Documentsjabloon %s is geïmporteerd!"
+msgstr "Vertaling %s is geïmporteerd!"
 
 #: engine-wizard/elm/Wizard/Locales/Import/View.elm:44
-#, fuzzy
 msgid "Import Locale"
-msgstr "Importeer antwoorden"
+msgstr "Importeer Vertaling"
 
 #: engine-wizard/elm/Wizard/Locales/Index/Update.elm:56
-#, fuzzy
 msgid "Unable to change locale."
-msgstr "Kan gebruik niet ophalen."
+msgstr "Kan vertaling niet wijzigen."
 
 #: engine-wizard/elm/Wizard/Locales/Index/Update.elm:60
-#, fuzzy
 msgid "Locale was changed successfully."
-msgstr "Projectimporteur succesvol gewijzigd."
+msgstr "Vertaling succesvol gewijzigd."
 
 #: engine-wizard/elm/Wizard/Locales/Index/Update.elm:106
-#, fuzzy
 msgid "Unable to get locales."
-msgstr "Kan plannen niet ophalen."
+msgstr "Kan vertalingen niet ophalen."
 
 #: engine-wizard/elm/Wizard/Locales/Index/View.elm:44
-#, fuzzy
 msgid "Click \"Import\" or \"Create\" button to import new locale."
-msgstr "Klik “Importeer” om een nieuw documentsjabloon te importeren."
+msgstr "Klik “Importeer” of \"Aanmaken\" om een nieuwe vertaling te importeren."
 
 #: engine-wizard/elm/Wizard/Locales/Index/View.elm:52
 #: engine-wizard/elm/Wizard/Templates/Index/View.elm:66
@@ -3588,9 +3552,8 @@ msgid "Search..."
 msgstr "Zoeken…"
 
 #: engine-wizard/elm/Wizard/Locales/Index/View.elm:67
-#, fuzzy
 msgid "Default locale to be used"
-msgstr "Standaard documentsjabloon"
+msgstr "Te gebruiken standaardvertaling"
 
 #: engine-wizard/elm/Wizard/Locales/Index/View.elm:79
 #: engine-wizard/elm/Wizard/ProjectImporters/Index/View.elm:66
@@ -3598,9 +3561,8 @@ msgid "disabled"
 msgstr "uitgeschakeld"
 
 #: engine-wizard/elm/Wizard/Locales/Index/View.elm:262
-#, fuzzy
 msgid "Delete locale"
-msgstr "Verwijder keuze"
+msgstr "Verwijder vertaling"
 
 #: engine-wizard/elm/Wizard/ProjectImporters/Index/Update.elm:44
 msgid "Unable to change project importer."
@@ -3981,43 +3943,36 @@ msgid "Follow the instructions in the importer window."
 msgstr "Volg de instructies in het venster van de importeur."
 
 #: engine-wizard/elm/Wizard/Projects/Import/View.elm:75
-#, fuzzy
 msgid "Importing to %s"
-msgstr "Import status"
+msgstr "Importeren naar %s"
 
 #: engine-wizard/elm/Wizard/Projects/Import/View.elm:79
-#, fuzzy
 msgid "Import status:"
-msgstr "Import status"
+msgstr "Importstatus:"
 
 #: engine-wizard/elm/Wizard/Projects/Import/View.elm:87
-#, fuzzy
 msgid "%s questionnaire changes will be imported"
-msgstr "%s wijzigingen zullen worden geïmporteerd in de vragenlijst."
+msgstr "%s wijzigingen worden geïmporteerd in de vragenlijst"
 
 #: engine-wizard/elm/Wizard/Projects/Import/View.elm:101
-#, fuzzy
 msgid "%s errors encountered"
-msgstr "%s fouten geconstateerd:"
+msgstr "%s fouten geconstateerd"
 
 #: engine-wizard/elm/Wizard/Projects/Import/View.elm:167
-#, fuzzy
 msgid "Questionnaire Changes"
-msgstr "Vraag gewijzigd"
+msgstr "Wijzigingen in de vragenlijst"
 
 #: engine-wizard/elm/Wizard/Projects/Import/View.elm:170
-#, fuzzy
 msgid "Errors"
-msgstr "Fout"
+msgstr "Fouten"
 
 #: engine-wizard/elm/Wizard/Projects/Import/View.elm:176
-#, fuzzy
 msgid "No changes to be imported"
-msgstr "Geen wijzigingen te beoordelen"
+msgstr "Geen wijzigingen te importeren"
 
 #: engine-wizard/elm/Wizard/Projects/Import/View.elm:263
 msgid "Added item"
-msgstr ""
+msgstr "Item toegevoegd"
 
 #: engine-wizard/elm/Wizard/Projects/Index/Update.elm:278
 msgid "Questionnaire migration was successfully canceled."
