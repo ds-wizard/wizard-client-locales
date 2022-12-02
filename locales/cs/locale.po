@@ -4,7 +4,8 @@ msgstr ""
 "POT-Creation-Date: 2022-12-02T09:10:27.118Z \n"
 "PO-Revision-Date: 2022-12-02 15:04+0000\n"
 "Last-Translator: Marek Suchánek <marek.suchanek@ds-wizard.org>\n"
-"Language-Team: Czech <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-17-1/cs/>\n"
+"Language-Team: Czech <https://localize.ds-wizard.org/projects/wizard-client/"
+"wizard-client-3-17-1/cs/>\n"
 "Language: cs\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -77,7 +78,9 @@ msgstr "Šablony a Vlastní"
 
 #: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireCreation.elm:117
 msgid "Projects can be created from project templates or with custom settings."
-msgstr "Projekty mohou být vytvořeny z projektových šablon nebo z vlastního nastavení."
+msgstr ""
+"Projekty mohou být vytvořeny z projektových šablon nebo z vlastního "
+"nastavení."
 
 #: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireCreation.elm:120
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:89
@@ -93,16 +96,24 @@ msgid "Custom only"
 msgstr "Pouze vlastní"
 
 #: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireCreation.elm:125
-msgid "Project templates feature is disabled, researchers have to choose knowledge model and set up everything."
-msgstr "Funkce projektových šablon je vypnuta, uživatelé musí vybrat znalostní model a vše si nastavit."
+msgid ""
+"Project templates feature is disabled, researchers have to choose knowledge "
+"model and set up everything."
+msgstr ""
+"Funkce projektových šablon je vypnuta, uživatelé musí vybrat znalostní model "
+"a vše si nastavit."
 
 #: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireSharing.elm:135
 msgid "Restricted"
 msgstr "Omezené"
 
 #: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireSharing.elm:136
-msgid "Only logged-in users can access the project depending on the project visibility."
-msgstr "Pouze přihlášení uživatelé mohou přistupovat k projektům v závislosti na projektové viditelnosti."
+msgid ""
+"Only logged-in users can access the project depending on the project "
+"visibility."
+msgstr ""
+"Pouze přihlášení uživatelé mohou přistupovat k projektům v závislosti na "
+"projektové viditelnosti."
 
 #: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireSharing.elm:139
 msgid "View with the link"
@@ -252,8 +263,11 @@ msgid "Profile Information from OpenID service is missing."
 msgstr "Chybí profilové informace z OpenID služby."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:165
-msgid "Template cannot be deleted because it is used in some Projects or documents."
-msgstr "Šablona nemůže být odstraněna, protože je použita v některých projektech či dokumentech."
+msgid ""
+"Template cannot be deleted because it is used in some Projects or documents."
+msgstr ""
+"Šablona nemůže být odstraněna, protože je použita v některých projektech či "
+"dokumentech."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:168
 msgid "Template version is not supported."
@@ -284,8 +298,12 @@ msgid "The locale not found in Registry"
 msgstr "Tato šablona nebyla nalezena ve službě Registry."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:186
-msgid "Knowledge Model cannot be deleted because it is used in some Projects or Knowledge Model Editors."
-msgstr "Znalostní model nemůže být odstraněn, protože je použit v některých projektech nebo editorech modelů."
+msgid ""
+"Knowledge Model cannot be deleted because it is used in some Projects or "
+"Knowledge Model Editors."
+msgstr ""
+"Znalostní model nemůže být odstraněn, protože je použit v některých "
+"projektech nebo editorech modelů."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:189
 msgid "The Knowledge Model was not found in the Registry."
@@ -843,8 +861,11 @@ msgid "project migration"
 msgstr "migrace projektu"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1012
-msgid "There is an ongoing %s. Finish it before you can continue editing this project."
-msgstr "Zde probíhá %s. Dokončení je nutné před pokračováním v úpravách projektu."
+msgid ""
+"There is an ongoing %s. Finish it before you can continue editing this "
+"project."
+msgstr ""
+"Zde probíhá %s. Dokončení je nutné před pokračováním v úpravách projektu."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1069
 msgid "View"
@@ -1156,8 +1177,12 @@ msgid "There are already some issues reported with this question."
 msgstr "Již existují hlášení pro tuto otázku."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire/FeedbackModal.elm:181
-msgid "If you found something wrong with the question, you can send us your recommendation on how to improve it."
-msgstr "Pokud není něco v pořádku s otázkou, můžete nám poslat doporučení, jak ji vylepšit."
+msgid ""
+"If you found something wrong with the question, you can send us your "
+"recommendation on how to improve it."
+msgstr ""
+"Pokud není něco v pořádku s otázkou, můžete nám poslat doporučení, jak ji "
+"vylepšit."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire/FeedbackModal.elm:183
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:617
@@ -1438,8 +1463,12 @@ msgid "Collapse sidebar"
 msgstr "Sbalit panel"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:514
-msgid "If you find any problem, the best way to report it is to open an issue in our GitHub repository."
-msgstr "V případě, že narazíte na nějaký problém, nejlepší cestou je nahlásit jej v našem GitHub repozitáři."
+msgid ""
+"If you find any problem, the best way to report it is to open an issue in "
+"our GitHub repository."
+msgstr ""
+"V případě, že narazíte na nějaký problém, nejlepší cestou je nahlásit jej v "
+"našem GitHub repozitáři."
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:526
 msgid "You can also write us an email to %s."
@@ -1648,8 +1677,12 @@ msgid "Question Tags"
 msgstr "Štítky otázek"
 
 #: engine-wizard/elm/Wizard/Common/View/Tag.elm:108
-msgid "You can filter questions in the questionnaire by question tags. If no question tags are selected, all questions will be used."
-msgstr "Můžete filtrovat otázky v dotazníku pomocí štítků otázek. Pokud nevyberete žádné štítky, budou použity všechny otázky."
+msgid ""
+"You can filter questions in the questionnaire by question tags. If no "
+"question tags are selected, all questions will be used."
+msgstr ""
+"Můžete filtrovat otázky v dotazníku pomocí štítků otázek. Pokud nevyberete "
+"žádné štítky, budou použity všechny otázky."
 
 #: engine-wizard/elm/Wizard/Common/View/Tag.elm:114
 msgid "There are no question tags for this knowledge model."
@@ -1701,20 +1734,38 @@ msgid "Add OpenID Service"
 msgstr "Přidat službu OpenID"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/AddOpenIDWidget.elm:14
-msgid "OpenID is an open standard for authentication that allows using existing accounts to login to other services without creating a new password. Configure your organization's OpenID to make it easier for your users to log in."
-msgstr "OpenID je otevřený standard pro autentizaci, který umožňuje použití existujících účtů pro přihlášení v jiných službách bez vytvoření nového hesla. Nakonfigurujte OpenID vaší organizace pro usnadnění přihlašováním vašim uživatelům."
+msgid ""
+"OpenID is an open standard for authentication that allows using existing "
+"accounts to login to other services without creating a new password. "
+"Configure your organization's OpenID to make it easier for your users to log "
+"in."
+msgstr ""
+"OpenID je otevřený standard pro autentizaci, který umožňuje použití "
+"existujících účtů pro přihlášení v jiných službách bez vytvoření nového "
+"hesla. Nakonfigurujte OpenID vaší organizace pro usnadnění přihlašováním "
+"vašim uživatelům."
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/AddOpenIDWidget.elm:17
 msgid "Add OpenID"
 msgstr "Přidat OpenID"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ConfigureLookAndFeelWidget.elm:15
-msgid "You can configure the application name and easily change the logo and colors to match your organization's style. You can also add additional menu links, for example, to your guidelines or documentation."
-msgstr "Můžete nastavit název aplikace a snadno změnit logo a brzy tak, aby zapadaly do stylu vaší organizace. Také můžete přidat vlastní odkazy do menu, například, na vaše směrnice nebo dokumentaci."
+msgid ""
+"You can configure the application name and easily change the logo and colors "
+"to match your organization's style. You can also add additional menu links, "
+"for example, to your guidelines or documentation."
+msgstr ""
+"Můžete nastavit název aplikace a snadno změnit logo a brzy tak, aby zapadaly "
+"do stylu vaší organizace. Také můžete přidat vlastní odkazy do menu, "
+"například, na vaše směrnice nebo dokumentaci."
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ConfigureLookAndFeelWidget.elm:18
-msgid "You can configure the application name, or add additional menu links, for example, to your guidelines or documentation."
-msgstr "Můžete nastavit název aplikace nebo přidat vlastní odkazy do menu, například, na vaše směrnice nebo dokumentaci."
+msgid ""
+"You can configure the application name, or add additional menu links, for "
+"example, to your guidelines or documentation."
+msgstr ""
+"Můžete nastavit název aplikace nebo přidat vlastní odkazy do menu, "
+"například, na vaše směrnice nebo dokumentaci."
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ConfigureLookAndFeelWidget.elm:21
 msgid "Configure Look & Feel"
@@ -1730,16 +1781,26 @@ msgid "Configure Organization Info"
 msgstr "Nastavit organizační informace"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ConfigureOrganizationWidget.elm:14
-msgid "Fill in your organization name and organization ID. For example, these values will be used with knowledge models created in this instance."
-msgstr "Vyplňte název a ID vaší organizace. Tyto hodnoty budou použity například při vytváření znalostních modelů v této instanci."
+msgid ""
+"Fill in your organization name and organization ID. For example, these "
+"values will be used with knowledge models created in this instance."
+msgstr ""
+"Vyplňte název a ID vaší organizace. Tyto hodnoty budou použity například při "
+"vytváření znalostních modelů v této instanci."
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ConnectRegistryWidget.elm:13
 msgid "Connect to DSW Registry"
 msgstr "Připojit k DSW Registry"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ConnectRegistryWidget.elm:14
-msgid "[DSW Registry](https://registry.ds-wizard.org) is a place for published knowledge models and document templates. When you connect your instance, data stewards can easily import them."
-msgstr "[DSW Registry](https://registry.ds-wizard.org) je místem pro zveřejněné znalostní modely a šablony dokumentů. Pokud připojíte svoji instanci, správci obsahu je mohou snadno importovat."
+msgid ""
+"[DSW Registry](https://registry.ds-wizard.org) is a place for published "
+"knowledge models and document templates. When you connect your instance, "
+"data stewards can easily import them."
+msgstr ""
+"[DSW Registry](https://registry.ds-wizard.org) je místem pro zveřejněné "
+"znalostní modely a šablony dokumentů. Pokud připojíte svoji instanci, "
+"správci obsahu je mohou snadno importovat."
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ConnectRegistryWidget.elm:17
 msgid "Connect"
@@ -1751,8 +1812,14 @@ msgid "Create Knowledge Model"
 msgstr "Vytvořit znalostní model"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/CreateKnowledgeModelWidget.elm:14
-msgid "Knowledge model is a tree-like structure containing the knowledge about what should be asked and how. It is used as a template for questionnaires in projects. You can create new ones from scratch or by modifying existing ones."
-msgstr "Znalostní model je stromová struktura obsahující znalosti o tom na co a jak se dotazovat. Je použitý jako šablona pro dotazníky v projektech. Můžete vytvořit zcela nový nebo upravit již existující."
+msgid ""
+"Knowledge model is a tree-like structure containing the knowledge about what "
+"should be asked and how. It is used as a template for questionnaires in "
+"projects. You can create new ones from scratch or by modifying existing ones."
+msgstr ""
+"Znalostní model je stromová struktura obsahující znalosti o tom na co a jak "
+"se dotazovat. Je použitý jako šablona pro dotazníky v projektech. Můžete "
+"vytvořit zcela nový nebo upravit již existující."
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/CreateProjectTemplateWidget.elm:13
 msgid "Create Project Template"
@@ -1773,9 +1840,15 @@ msgstr "Vytvořit projekt"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/CreateProjectWidget.elm:14
 msgid ""
-"Project is a workspace where you create your DMP. It is based on a knowledge model, which contains knowledge about what should be asked and how based on the research field or organization's needs. You can use document templates to transform the answers into a document. This document can be anything, from PDF to machine-actionable JSON.\n"
+"Project is a workspace where you create your DMP. It is based on a knowledge "
+"model, which contains knowledge about what should be asked and how based on "
+"the research field or organization's needs. You can use document templates "
+"to transform the answers into a document. This document can be anything, "
+"from PDF to machine-actionable JSON.\n"
 "\n"
-"You can create a new project from a project template that data stewards prepare for you to have an easier start or from scratch where you set up everything yourself."
+"You can create a new project from a project template that data stewards "
+"prepare for you to have an easier start or from scratch where you set up "
+"everything yourself."
 msgstr ""
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ImportDocumentTemplateWidget.elm:13
