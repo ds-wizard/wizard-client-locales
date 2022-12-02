@@ -1,9 +1,8 @@
 {
-    "id": "dsw:cs:0.1.0",
     "organizationId": "dsw",
     "localeId": "cs",
     "version": "0.1.0",
-    "code": "wizard",
+    "code": "cs",
     "recommendedAppVersion": "3.17.1",
     "name": "Czech",
     "description": "",

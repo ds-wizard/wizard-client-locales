@@ -1,9 +1,8 @@
 {
-    "id": "dsw:fr:0.1.0",
     "organizationId": "dsw",
     "localeId": "fr",
     "version": "0.1.0",
-    "code": "wizard",
+    "code": "fr",
     "recommendedAppVersion": "3.17.1",
     "name": "French",
     "description": "",

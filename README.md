@@ -52,7 +52,7 @@ We keep the directory structure as follows:
 
 It is important to keep the structure consistent across all languages. The repository maintainers will take care of metadata and information about locales, and ask contributors for details if needed.
 
-For each Wizard Client version, there is a separate branch in this repository. That allows to develop locales also for historical versions even if never version is released. Everytime a new version of Wizard Client is released, a new branch is created from the previous version-branch and POT file is updated; then all PO files are refreshed (`msgmerge`) together with locales metadata and READMEs. Then, translation work can continue. In [localize.ds-wizard.org](https://localize.ds-wizard.org), a new component is added according to the version.
+For each Wizard Client version, there is a separate branch in this repository. That allows to develop locales also for historical versions even if a newer version is released. Everytime a new version of Wizard Client is released, a new branch is created from the previous version-branch and POT file is updated; then all PO files are refreshed (`msgmerge`) together with locales metadata and READMEs. Then, translation work can continue. In [localize.ds-wizard.org](https://localize.ds-wizard.org), a new component is added according to the version.
 
 ## References and Resources
 
