@@ -1,15 +1,5 @@
 msgid ""
-msgstr ""
-"Project-Id-Version: wizard-client:3.17.1\n"
-"POT-Creation-Date: 2022-12-02T09:10:27.118Z \n"
-"PO-Revision-Date: 2022-12-02 15:04+0000\n"
-"Last-Translator: Marek Suchánek <marek.suchanek@ds-wizard.org>\n"
-"Language-Team: Czech <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-17-1/cs/>\n"
-"Language: cs\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 4.14.2\n"
+msgstr "Project-Id-Version: wizard-client:3.17.1\nPOT-Creation-Date: 2022-12-02T09:10:27.118Z\nPO-Revision-Date: 2022-12-05 08:34+0000\nLast-Translator: Marek Suchánek <marek.suchanek@ds-wizard.org>\nLanguage-Team: Czech <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-18-3/cs/>\nLanguage: cs\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 4.14.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -17,7 +7,7 @@ msgstr "Administrátor"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:34
 msgid "Data Steward"
-msgstr "Data Steward"
+msgstr "Správce dat"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:39
 msgid "Researcher"
@@ -192,9 +182,8 @@ msgid "Template already exists."
 msgstr "Šablona již existuje."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:118
-#, fuzzy
 msgid "Locale already exists."
-msgstr "Šablona již existuje."
+msgstr "Překlad již existuje."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:121
 #: engine-shared/elm/Shared/Error/ServerError.elm:137
@@ -264,24 +253,20 @@ msgid "Limit of %s reached (current: %s, limit: %s)"
 msgstr "Limit %s překročen (aktuálně: %s, limit: %s)"
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:174
-#, fuzzy
 msgid "\"locale.json\" was not found in archive."
-msgstr "\"template.json\" nebyl nalezen v archivu."
+msgstr "\"locale.json\" nebyl nalezen v archivu."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:177
-#, fuzzy
 msgid "Error while parsing locale.json: \"%s\"."
-msgstr "Chyba při načítání template.json: \"%s\"."
+msgstr "Chyba při načítání locale.json: \"%s\"."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:180
-#, fuzzy
 msgid "File \"%s\" was not found in archive."
 msgstr "Soubor \"%s\" nebyl nalezen v archivu."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:183
-#, fuzzy
 msgid "The locale not found in Registry"
-msgstr "Tato šablona nebyla nalezena ve službě Registry."
+msgstr "Tento překlad nebyl nalezen ve službě Registry"
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:186
 msgid "Knowledge Model cannot be deleted because it is used in some Projects or Knowledge Model Editors."
@@ -1394,7 +1379,7 @@ msgstr "Perzistentní úkoly"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:182
 msgid "System"
-msgstr ""
+msgstr "Systém"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:189
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/Settings.elm:146
@@ -1408,12 +1393,12 @@ msgstr "Nastavení"
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:194
 #: engine-wizard/elm/Wizard/Locales/Index/View.elm:30
 msgid "Locales"
-msgstr ""
+msgstr "Překlady"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:436
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:651
 msgid "Change language"
-msgstr ""
+msgstr "Změnit jazyk"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:454
 msgid "Edit profile"
@@ -1487,7 +1472,7 @@ msgstr "Sestaveno"
 #: engine-wizard/elm/Wizard/Locales/Detail/View.elm:99
 #: engine-wizard/elm/Wizard/Locales/Index/View.elm:68
 msgid "default"
-msgstr ""
+msgstr "výchozí"
 
 #: engine-wizard/elm/Wizard/Common/TimeDistance.elm:18
 msgid "%s ago"
@@ -1760,7 +1745,7 @@ msgstr "Vytvořit projektovou šablonu"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/CreateProjectTemplateWidget.elm:14
 msgid "Project template is a special type of project that can be used as a starting point for new projects. You can select a knowledge model, set up a document template and format, or prefill some answers to make it easier to start for researchers."
-msgstr ""
+msgstr "Šablona projektu je speciální typ projektu, který může být použit jako výchozí bod pro nové projekty. Lze vybrat znalostní model, nastavit šablonu dokumentu a formát, či předvyplnit některé otázky pro usnadnění práce výzkumníkům."
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/CreateProjectWidget.elm:13
 #: engine-wizard/elm/Wizard/Projects/Create/View.elm:48
@@ -1772,16 +1757,16 @@ msgid ""
 "Project is a workspace where you create your DMP. It is based on a knowledge model, which contains knowledge about what should be asked and how based on the research field or organization's needs. You can use document templates to transform the answers into a document. This document can be anything, from PDF to machine-actionable JSON.\n"
 "\n"
 "You can create a new project from a project template that data stewards prepare for you to have an easier start or from scratch where you set up everything yourself."
-msgstr ""
+msgstr "Projekt je místem pro vytváření plánů. Je založen na vybraném znalostním modelu, který obsahuje znalosti o tom, na co se ptát a jak v závislosti na doméně výzkumu či potřebách organizace. Lze využít šablony dokumentů pro transformaci odpovědí z dotazníku na dokument. Dokument může být prakticky cokoliv, od PDF po JSON vhodný pro strojové zpracování. \n \nMůžete vytvořit nový projekt z projektové šablony, kterou správci dat připravili pro usnadnění vaší práce, a nebo si sami vše nastavit."
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ImportDocumentTemplateWidget.elm:13
 #: engine-wizard/elm/Wizard/Templates/Import/View.elm:44
 msgid "Import Document Template"
-msgstr ""
+msgstr "Import šablony dokumentů"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ImportDocumentTemplateWidget.elm:14
 msgid "Document templates transform answers from a questionnaire into a document. This document can be anything, from PDF to machine-actionable JSON. You can import existing document templates from [DSW Registry](https://registry.ds-wizard.org/templates) or create new ones using [DSW TDK](https://guide.ds-wizard.org/miscellaneous/development/template-development)."
-msgstr ""
+msgstr "Šablony dokumentů převádějí odpovědi z dotazníku na dokument. Takový dokument může být prakticky cokoliv, od PDF po JSON vhodný pro strojové zpracování. Můžete importovat existující šablony z [DSW Registry](https://registry.ds-wizard.org/templates) nebo si vytvořit nové vlastní pomocí [DSW TDK](https://guide.ds-wizard.org/miscellaneous/development/template-development)."
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ImportDocumentTemplateWidget.elm:17
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ImportKnowledgeModelWidget.elm:17
@@ -1798,24 +1783,24 @@ msgstr ""
 #: engine-wizard/elm/Wizard/Templates/Import/RegistryImport/View.elm:51
 #: engine-wizard/elm/Wizard/Templates/Index/View.elm:44
 msgid "Import"
-msgstr ""
+msgstr "Import"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ImportKnowledgeModelWidget.elm:13
 #: engine-wizard/elm/Wizard/KnowledgeModels/Import/View.elm:83
 msgid "Import Knowledge Model"
-msgstr ""
+msgstr "Import znalostního modelu"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ImportKnowledgeModelWidget.elm:14
 msgid "Knowledge models are published in [DSW Registry](https://registry.ds-wizard.org). You can easily import them into your instance to make them available for researchers. You can also import other knowledge models exported from different instances."
-msgstr ""
+msgstr "Znalostní modely mohou být publikované v [DSW Registry](https://registry.ds-wizard.org). Lze je snadno importovat do vaší instance a zpřístupnit je výzkumníkům. Dále lze importovat i znalostní modely exportované z jiných instancí."
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/OutdatedPackagesWidget.elm:35
 msgid "Update Knowledge Models"
-msgstr ""
+msgstr "Aktualizovat znalostní modely"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/OutdatedPackagesWidget.elm:36
 msgid "There are updates available for some knowledge models."
-msgstr ""
+msgstr "Jsou dostupné aktualizace pro některé znalostní modely."
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/OutdatedPackagesWidget.elm:52
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/OutdatedTemplatesWidget.elm:52
@@ -1825,19 +1810,19 @@ msgstr ""
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:699
 #: engine-wizard/elm/Wizard/Templates/Index/View.elm:98
 msgid "update available"
-msgstr ""
+msgstr "dostupná aktualizace"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/OutdatedTemplatesWidget.elm:35
 msgid "Update Document Templates"
-msgstr ""
+msgstr "Aktualizovat šablony dokumentů"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/OutdatedTemplatesWidget.elm:36
 msgid "There are updates available for some document templates."
-msgstr ""
+msgstr "Jsou dostupné aktualizace pro některé šablony dokumentů."
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/RecentProjectsWidget.elm:42
 msgid "Recent Projects"
-msgstr ""
+msgstr "Nedávné projekty"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/RecentProjectsWidget.elm:45
 msgid "View all"
@@ -1845,61 +1830,61 @@ msgstr "Zobrazit vše"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/RecentProjectsWidget.elm:82
 msgid "You have no projects yet, start by creating some."
-msgstr ""
+msgstr "Zatím nemáte žádný projekt, začněte vytvořením nějakého."
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/WelcomeWidget.elm:19
 msgid "Welcome, %s!"
-msgstr ""
+msgstr "Vítejte, %s!"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/WelcomeWidget.elm:22
 msgid "Welcome!"
-msgstr ""
+msgstr "Vítejte!"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/WelcomeWidget.elm:26
 msgid "As an admin, you configure the instance and manage user accounts."
-msgstr ""
+msgstr "Jako administrátor nastavujete instanci a spravujete uživatelské účty."
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/WelcomeWidget.elm:27
 msgid "As a data steward, you prepare knowledge models, document templates, and project templates for researchers."
-msgstr ""
+msgstr "Jako správce dat připravujete znalostní modely, šablony dokumentů a projektové šablony pro výzkumníky."
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/WelcomeWidget.elm:28
 msgid "As a researcher, you create and collaborate on data management plans."
-msgstr ""
+msgstr "Jako výzkumník vytváření a spolupracujete na projektech."
 
 #: engine-wizard/elm/Wizard/Documents/Index/Update.elm:95
 #: engine-wizard/elm/Wizard/Documents/Index/Update.elm:243
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/Update.elm:222
 msgid "Unable to get documents."
-msgstr ""
+msgstr "Nelze získat dokumenty."
 
 #: engine-wizard/elm/Wizard/Documents/Index/Update.elm:136
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/Update.elm:115
 msgid "Document could not be deleted."
-msgstr ""
+msgstr "Dokument nemohl být odstraněn."
 
 #: engine-wizard/elm/Wizard/Documents/Index/Update.elm:191
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/Update.elm:170
 msgid "Unable to get submission services for the document."
-msgstr ""
+msgstr "Nelze získat služby pro odeslání tohoto dokumentu."
 
 #: engine-wizard/elm/Wizard/Documents/Index/Update.elm:229
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/Update.elm:208
 msgid "Unable to submit the document."
-msgstr ""
+msgstr "Nelze odeslat dokument."
 
 #: engine-wizard/elm/Wizard/Documents/Index/View.elm:94
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:76
 msgid "Submissions"
-msgstr ""
+msgstr "Odeslání"
 
 #: engine-wizard/elm/Wizard/Documents/Index/View.elm:106
 msgid "Click \"Create\" button to add a new document."
-msgstr ""
+msgstr "Klikněte na tlačítko \"Vytvořit\" pro přidání nového dokumentu."
 
 #: engine-wizard/elm/Wizard/Documents/Index/View.elm:114
 msgid "Search documents..."
-msgstr ""
+msgstr "Hledat dokumenty..."
 
 #: engine-wizard/elm/Wizard/Documents/Index/View.elm:117
 #: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:69
@@ -1908,12 +1893,12 @@ msgstr ""
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:130
 #: engine-wizard/elm/Wizard/Users/Index/View.elm:62
 msgid "Created"
-msgstr ""
+msgstr "Vytvořeno"
 
 #: engine-wizard/elm/Wizard/Documents/Index/View.elm:133
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:129
 msgid "Click to download the document"
-msgstr ""
+msgstr "Klikněte pro stažení dokumentu"
 
 #: engine-wizard/elm/Wizard/Documents/Index/View.elm:192
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Preview.elm:171
@@ -1980,56 +1965,56 @@ msgstr "Odstranit dokument"
 #: engine-wizard/elm/Wizard/Documents/Index/View.elm:402
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:418
 msgid "There are no submission services configured for this type of document."
-msgstr ""
+msgstr "Nejsou nastavené žádné služby pro odeslání tohoto typu dokumentu."
 
 #: engine-wizard/elm/Wizard/Documents/Index/View.elm:418
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:434
 msgid "You can find it here: "
-msgstr ""
+msgstr "Můžete nalézt zde: "
 
 #: engine-wizard/elm/Wizard/Documents/Index/View.elm:428
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:444
 msgid "The document was successfully submitted."
-msgstr ""
+msgstr "Dokument byl úspěšně odeslán."
 
 #: engine-wizard/elm/Wizard/Documents/Index/View.elm:435
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:451
 msgid "The document submission failed."
-msgstr ""
+msgstr "Odeslání dokumentu selhalo."
 
 #: engine-wizard/elm/Wizard/Documents/Index/View.elm:450
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:466
 msgid "Submit %s"
-msgstr ""
+msgstr "Odeslat %s"
 
 #: engine-wizard/elm/Wizard/Documents/Index/View.elm:482
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:498
 msgid "Document error"
-msgstr ""
+msgstr "Chyba dokumentu"
 
 #: engine-wizard/elm/Wizard/Documents/Index/View.elm:504
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:520
 msgid "Submission error"
-msgstr ""
+msgstr "Chyba odeslání"
 
 #: engine-wizard/elm/Wizard/KMEditor/Common/DeleteModal.elm:75
 msgid "Knowledge model could not be deleted."
-msgstr ""
+msgstr "Znalostní model nemohl být odstraněn."
 
 #: engine-wizard/elm/Wizard/KMEditor/Common/DeleteModal.elm:100
 msgid "Delete knowledge model editor"
-msgstr ""
+msgstr "Odstranit editor znalostního modelu"
 
 #: engine-wizard/elm/Wizard/KMEditor/Common/UpgradeModal.elm:106
 msgid "Migration could not be created."
-msgstr ""
+msgstr "Migrace nemohla být vytvořena."
 
 #: engine-wizard/elm/Wizard/KMEditor/Common/UpgradeModal.elm:116
 #: engine-wizard/elm/Wizard/KMEditor/Create/Update.elm:65
 #: engine-wizard/elm/Wizard/KnowledgeModels/Detail/Update.elm:32
 #: engine-wizard/elm/Wizard/KnowledgeModels/Preview/Update.elm:55
 msgid "Unable to get the Knowledge Model."
-msgstr ""
+msgstr "Nelze získat znalostní model."
 
 #: engine-wizard/elm/Wizard/KMEditor/Common/UpgradeModal.elm:151
 msgid "- select parent package -"
@@ -2037,11 +2022,11 @@ msgstr "- vybrat rodičovský balíček -"
 
 #: engine-wizard/elm/Wizard/KMEditor/Common/UpgradeModal.elm:157
 msgid "Select the new parent knowledge model for %s."
-msgstr ""
+msgstr "Vyberte nový rodičovský znalostní model pro %s."
 
 #: engine-wizard/elm/Wizard/KMEditor/Common/UpgradeModal.elm:158
 msgid "New parent package"
-msgstr ""
+msgstr "Nový rodičovský balíček"
 
 #: engine-wizard/elm/Wizard/KMEditor/Common/UpgradeModal.elm:163
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:495
@@ -2051,7 +2036,7 @@ msgstr "Vytvořit migraci"
 
 #: engine-wizard/elm/Wizard/KMEditor/Create/Update.elm:117
 msgid "Knowledge Model could not be created."
-msgstr ""
+msgstr "Znalostní model nemohl být vytvořen."
 
 #: engine-wizard/elm/Wizard/KMEditor/Create/View.elm:75
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/Settings.elm:150
@@ -2060,11 +2045,11 @@ msgstr ""
 #: engine-wizard/elm/Wizard/KnowledgeModels/Import/RegistryImport/View.elm:47
 #: engine-wizard/elm/Wizard/Settings/KnowledgeModels/View.elm:47
 msgid "Knowledge Model ID"
-msgstr ""
+msgstr "ID znalostního modelu"
 
 #: engine-wizard/elm/Wizard/KMEditor/Create/View.elm:76
 msgid "Knowledge Model ID can contain alphanumeric characters and dashes but cannot start or end with a dash."
-msgstr ""
+msgstr "ID znalostního modelu může obsahovat alfanumerické znaky a pomlčky, ale nesmí pomlčkou začínat ani končit."
 
 #: engine-wizard/elm/Wizard/KMEditor/Create/View.elm:77
 msgid "Based on"
@@ -2072,7 +2057,7 @@ msgstr "Založeno na"
 
 #: engine-wizard/elm/Wizard/KMEditor/Create/View.elm:78
 msgid "You can create a new Knowledge Model based on the existing one or start from scratch."
-msgstr ""
+msgstr "Můžete vytvořit nový znalostní model založený na jiném existujícím nebo začít od nuly."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:242
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:497
@@ -2080,7 +2065,7 @@ msgstr ""
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/TreeInput.elm:161
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/TagEditor.elm:310
 msgid "Untitled chapter"
-msgstr ""
+msgstr "Nepojmenovaná kapitola"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:245
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:644
@@ -2090,33 +2075,33 @@ msgstr ""
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/TreeInput.elm:208
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/TagEditor.elm:255
 msgid "Untitled question"
-msgstr ""
+msgstr "Nepojmenovaná otázka"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:248
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:514
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:130
 msgid "Untitled metric"
-msgstr ""
+msgstr "Nepojmenovaná metrika"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:251
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:531
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:144
 msgid "Untitled phase"
-msgstr ""
+msgstr "Nepojmenovaná fáze"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:254
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:548
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:158
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/TagEditor.elm:168
 msgid "Untitled tag"
-msgstr ""
+msgstr "Nepojmenovaný štítek"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:257
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:565
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1002
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:172
 msgid "Untitled integration"
-msgstr ""
+msgstr "Nepojmenovaná integrace"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:260
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:912
@@ -2124,117 +2109,117 @@ msgstr ""
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/TreeInput.elm:239
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/TagEditor.elm:320
 msgid "Untitled answer"
-msgstr ""
+msgstr "Nepojmenovaná odpověď"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:263
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1077
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:247
 msgid "Untitled choice"
-msgstr ""
+msgstr "Nepojmenovaná volba"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:266
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:857
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:261
 msgid "Untitled reference"
-msgstr ""
+msgstr "Nepojmenovaná reference"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:269
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:874
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:275
 msgid "Untitled expert"
-msgstr ""
+msgstr "Nepojmenovaný expert"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:760
 msgid "Empty title for chapter"
-msgstr ""
+msgstr "Prázdný název kapitoly"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:789
 msgid "Empty title for question"
-msgstr ""
+msgstr "Prázdný název otázky"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:798
 msgid "No answers for options question"
-msgstr ""
+msgstr "Žádné odpovědi pro otázku s možnostmi"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:807
 msgid "No item questions for list question"
-msgstr ""
+msgstr "Žádné podotázky pro otázku s položkami"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:816
 msgid "No integration selected for integration question"
-msgstr ""
+msgstr "Žádná vybraná integrace pro integrační otázku"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:823
 msgid "No choices for multi-choice question"
-msgstr ""
+msgstr "Žádné volby pro otázku s více volbami"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:852
 msgid "Empty label for answer"
-msgstr ""
+msgstr "Prázdný název odpovědi"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:871
 msgid "Empty label for choice"
-msgstr ""
+msgstr "Prázdný název volby"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:891
 msgid "Empty short UUID for page reference"
-msgstr ""
+msgstr "Prázdný krátký identifikátor pro referenci na stránku"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:898
 msgid "Empty URL for URL reference"
-msgstr ""
+msgstr "Prázdná URL pro referenci s odkazem"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:901
 msgid "Invalid URL for URL reference"
-msgstr ""
+msgstr "Neplatná URL pro referenci s odkazem"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:920
 msgid "Empty email for expert"
-msgstr ""
+msgstr "Prázdný email u experta"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:923
 msgid "Invalid email for expert"
-msgstr ""
+msgstr "Neplatný email u experta"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:933
 msgid "Empty title for metric"
-msgstr ""
+msgstr "Prázdný název metriky"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:945
 msgid "Empty title for phase"
-msgstr ""
+msgstr "Prázdný název fáze"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:957
 msgid "Empty name for tag"
-msgstr ""
+msgstr "Prázdný název štítku"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:976
 msgid "Empty ID for integration"
-msgstr ""
+msgstr "Prázdné ID integrace"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:983
 msgid "Empty item URL for integration"
-msgstr ""
+msgstr "Prázdná URL položky v integraci"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:994
 msgid "Empty request URL for integration"
-msgstr ""
+msgstr "Prázdná URL dotazu v integraci"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:1001
 msgid "Empty request HTTP method for integration"
-msgstr ""
+msgstr "Prázdná metoda HTTP požadavku v integraci"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:1008
 msgid "Empty response item ID for integration"
-msgstr ""
+msgstr "Prázdné ID položky odpovědi v integraci"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:1015
 msgid "Empty response item template for integration"
-msgstr ""
+msgstr "Prázdná šablona položky odpovědi v integraci"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:1024
 msgid "Empty widget URL for integration"
-msgstr ""
+msgstr "Prázdná URL widgetu v integraci"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:453
 #: engine-wizard/elm/Wizard/KMEditor/Editor/View.elm:162
@@ -2244,40 +2229,40 @@ msgstr ""
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:485
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:566
 msgid "Knowledge Model"
-msgstr ""
+msgstr "Znalostní model"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:498
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:219
 msgid "Add chapter"
-msgstr ""
+msgstr "Přidat kapitolu"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:515
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:155
 msgid "Add metric"
-msgstr ""
+msgstr "Přidat metriku"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:532
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:171
 msgid "Add phase"
-msgstr ""
+msgstr "Přidat fázi"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:549
 msgid "Add tag"
-msgstr ""
+msgstr "Přidat štítek"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:557
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:427
 msgid "Integrations"
-msgstr ""
+msgstr "Integrace"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:566
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:203
 msgid "Add integration"
-msgstr ""
+msgstr "Přidat integraci"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:607
 msgid "Chapter"
-msgstr ""
+msgstr "Kapitola"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:625
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:821
@@ -2290,7 +2275,7 @@ msgstr ""
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1186
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1283
 msgid "Text"
-msgstr ""
+msgstr "Text"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:636
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:936
@@ -2303,22 +2288,22 @@ msgstr ""
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1479
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1517
 msgid "Questions"
-msgstr ""
+msgstr "Otázky"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:645
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:945
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1670
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:235
 msgid "Add question"
-msgstr ""
+msgstr "Přidat otázku"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:744
 msgid "Options"
-msgstr ""
+msgstr "Možnosti (1 z n)"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:745
 msgid "List of Items"
-msgstr ""
+msgstr "Seznam položek"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:746
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:364
@@ -2327,7 +2312,7 @@ msgstr ""
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:253
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:257
 msgid "Value"
-msgstr ""
+msgstr "Hodnota"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:747
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1043
@@ -2337,19 +2322,19 @@ msgstr ""
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1199
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1296
 msgid "Integration"
-msgstr ""
+msgstr "Integrace"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:748
 msgid "Multi-Choice"
-msgstr ""
+msgstr "Více možností (k z n)"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:755
 msgid "Never"
-msgstr ""
+msgstr "Nikdy"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:759
 msgid "Question"
-msgstr ""
+msgstr "Otázka"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:769
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1365
@@ -2361,77 +2346,77 @@ msgstr ""
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1184
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1281
 msgid "Type"
-msgstr ""
+msgstr "Typ"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:784
 msgid "Changing a question type will remove all answers."
-msgstr ""
+msgstr "Změna typu otázky odstraní všechny možné odpovědi."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:794
 msgid "Changing a question type will remove all item questions."
-msgstr ""
+msgstr "Změna typu otázky odstraní všechny otázky pro položku."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:804
 msgid "Changing a question type will remove all choices."
-msgstr ""
+msgstr "Změna typu otázky odstraní všechny možné volby."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:832
 msgid "When does this question become desirable?"
-msgstr ""
+msgstr "Kdy se tato otázka stane potřebnou?"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:849
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1138
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1255
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1352
 msgid "References"
-msgstr ""
+msgstr "Reference"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:858
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:283
 msgid "Add reference"
-msgstr ""
+msgstr "Přidat referenci"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:875
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:299
 msgid "Add expert"
-msgstr ""
+msgstr "Přidat experta"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:904
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1086
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1221
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1318
 msgid "Answers"
-msgstr ""
+msgstr "Odpovědi"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:913
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:251
 msgid "Add answer"
-msgstr ""
+msgstr "Přidat odpověď"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:953
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/TagEditor.elm:329
 msgid "Item Template"
-msgstr ""
+msgstr "Šablona položky"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:969
 msgid "String"
-msgstr ""
+msgstr "Krátký text"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:970
 msgid "Number"
-msgstr ""
+msgstr "Číslo"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:971
 msgid "Date"
-msgstr ""
+msgstr "Datum"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:972
 msgid "Date Time"
-msgstr ""
+msgstr "Datum a čas"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:973
 msgid "Time"
-msgstr ""
+msgstr "Čas"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:976
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1770
@@ -2451,7 +2436,7 @@ msgstr ""
 #: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:279
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:228
 msgid "URL"
-msgstr ""
+msgstr "Adresa URL"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:977
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1259
@@ -2460,7 +2445,7 @@ msgstr ""
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:621
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:179
 msgid "Color"
-msgstr ""
+msgstr "Barva"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:983
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:918
@@ -2468,54 +2453,54 @@ msgstr ""
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1196
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1293
 msgid "Value Type"
-msgstr ""
+msgstr "Typ hodnoty"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1003
 msgid "- select integration -"
-msgstr ""
+msgstr "- vybrat integraci -"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1031
 msgid "Integration Configuration"
-msgstr ""
+msgstr "Nastavení integrace"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1069
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1098
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1232
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1329
 msgid "Choices"
-msgstr ""
+msgstr "Volby"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1078
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:267
 msgid "Add choice"
-msgstr ""
+msgstr "Přidat volbu"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1116
 msgid "Metric"
-msgstr ""
+msgstr "Metrika"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1134
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:446
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:467
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:492
 msgid "Abbreviation"
-msgstr ""
+msgstr "Zkratka"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1179
 msgid "Phase"
-msgstr ""
+msgstr "Fáze"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1233
 msgid "Tag"
-msgstr ""
+msgstr "Štítek"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1349
 msgid "API"
-msgstr ""
+msgstr "API"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1350
 msgid "Widget"
-msgstr ""
+msgstr "Widget"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1374
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:640
@@ -2527,11 +2512,11 @@ msgstr ""
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:96
 #: engine-wizard/elm/Wizard/Templates/Detail/View.elm:196
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1390
 msgid "Logo URL"
-msgstr ""
+msgstr "URL adresa loga"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1397
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:642
@@ -2540,88 +2525,88 @@ msgstr ""
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:936
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1051
 msgid "Props"
-msgstr ""
+msgstr "Vlastnosti"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1405
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:643
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:698
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:771
 msgid "Item URL"
-msgstr ""
+msgstr "URL položky"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1429
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:657
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:718
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:785
 msgid "Request URL"
-msgstr ""
+msgstr "URL požadavku"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1437
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:656
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:717
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:784
 msgid "Request HTTP Method"
-msgstr ""
+msgstr "HTTP metoda požadavku"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1445
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:658
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:719
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:786
 msgid "Request HTTP Headers"
-msgstr ""
+msgstr "HTTP hlavičky požadavku"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1453
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:659
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:720
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:787
 msgid "Request HTTP Body"
-msgstr ""
+msgstr "Tělo HTTP požadavku"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1461
 msgid "Allow Empty Search"
-msgstr ""
+msgstr "Povolit prázdné vyhledávání"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1469
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:661
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:722
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:789
 msgid "Response Item ID"
-msgstr ""
+msgstr "ID položky odpovědi"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1477
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:660
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:721
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:788
 msgid "Response List Field"
-msgstr ""
+msgstr "Pole seznamu odpovědi"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1485
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:662
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:723
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:790
 msgid "Response Item Template"
-msgstr ""
+msgstr "Šablona položky odpovědi"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1491
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:225
 msgid "Request"
-msgstr ""
+msgstr "Požadavek"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1493
 msgid "Use this section to configure the search request. The service you want to integrate has to provide a search HTTP API where you send a search string and it returns a JSON with found items."
-msgstr ""
+msgstr "Tato sekce slouží k nastaví požadavku k vyhledání. Služba, kterou chcete integrovat, musí poskytovat HTTP API pro vyhledávání, kam se odešle hledaný řetězec a vrátí se JSON s nalezenými položkami."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1495
 msgid "A URL of the integrated service API that supports the search. Use `${q}` for the actual string that will be filled when users search for items, such as *ht&#8203;tps://example.com/search?q=${q}*."
-msgstr ""
+msgstr "URL adresa API integrované služba, která podporuje vyhledávání. Použijte `${q}` pro vlastní řetězec, který píše uživatel pro vyhledávání položek. Například *ht&#8203;tps://example.com/search?q=${q}*."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1500
 msgid "Turn this off if the API cannot handle empty search requests. In that case, the requests will be made only after users type something."
-msgstr ""
+msgstr "Vypněte tuto možnost pokud API nedokáže zpracovat požadavek na prázdné vyhledávání. V tom případě budou požadavky odesílány teprve až uživatel něco napíše."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1504
 msgid "Response"
-msgstr ""
+msgstr "Odpověď"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1506
 msgid "Use this section to configure how to process the response returned from the search API."
@@ -2660,12 +2645,12 @@ msgstr ""
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1551
 msgid "No questions"
-msgstr ""
+msgstr "Žádné otázky"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1586
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:126
 msgid "Quick setup"
-msgstr ""
+msgstr "Rychlé nastavení"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1598
 msgid "A string that identifies the integration. It has to be unique for each integration."
@@ -2689,7 +2674,7 @@ msgstr ""
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1632
 msgid "Answer"
-msgstr ""
+msgstr "Odpověď"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1642
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1730
@@ -2930,7 +2915,7 @@ msgstr ""
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Update.elm:139
 #: engine-wizard/elm/Wizard/KMEditor/Publish/Update.elm:74
 msgid "Unable to get the knowledge model editor."
-msgstr ""
+msgstr "Nelze získat editor znalostního modelu."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/View.elm:48
 #: engine-wizard/elm/Wizard/Projects/Detail/View.elm:62
@@ -2976,15 +2961,15 @@ msgstr ""
 
 #: engine-wizard/elm/Wizard/KMEditor/Index/Update.elm:126
 msgid "Unable to get knowledge model editors."
-msgstr ""
+msgstr "Nelze získat editory znalostních modelů."
 
 #: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:58
 msgid "Click \"Create\" button to add a new Knowledge Model Editor."
-msgstr ""
+msgstr "Klikněte na tlačítko \"Vytvořit\" pro přidání nového editoru znalostního modelu."
 
 #: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:66
 msgid "Search KM editors..."
-msgstr ""
+msgstr "Hledat editory..."
 
 #: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:70
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:131
@@ -3036,7 +3021,7 @@ msgstr ""
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/Update.elm:54
 msgid "Unable to get migration."
-msgstr ""
+msgstr "Nelze získat migraci."
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/Update.elm:92
 msgid "Unable to resolve conflict."
@@ -3433,7 +3418,7 @@ msgstr ""
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Index/View.elm:66
 msgid "Search KMs..."
-msgstr ""
+msgstr "Hledat modely..."
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Index/View.elm:82
 #: engine-wizard/elm/Wizard/Locales/Index/View.elm:97
@@ -3498,9 +3483,8 @@ msgid "Create Locale"
 msgstr "Vytvořit dokument"
 
 #: engine-wizard/elm/Wizard/Locales/Detail/Update.elm:32
-#, fuzzy
 msgid "Unable to get the locale."
-msgstr "Nelze získat informace o využití."
+msgstr "Nelze získat překlad."
 
 #: engine-wizard/elm/Wizard/Locales/Detail/Update.elm:96
 #: engine-wizard/elm/Wizard/Locales/Index/Update.elm:87
@@ -3572,9 +3556,8 @@ msgid "Locale was changed successfully."
 msgstr ""
 
 #: engine-wizard/elm/Wizard/Locales/Index/Update.elm:106
-#, fuzzy
 msgid "Unable to get locales."
-msgstr "Nelze získat aplikace."
+msgstr "Nelze získat překlady."
 
 #: engine-wizard/elm/Wizard/Locales/Index/View.elm:44
 #, fuzzy
@@ -3584,7 +3567,7 @@ msgstr "Klikněte na tlačítko \"Vytvořit\" pro přidání nové aplikace."
 #: engine-wizard/elm/Wizard/Locales/Index/View.elm:52
 #: engine-wizard/elm/Wizard/Templates/Index/View.elm:66
 msgid "Search..."
-msgstr ""
+msgstr "Hledat..."
 
 #: engine-wizard/elm/Wizard/Locales/Index/View.elm:67
 msgid "Default locale to be used"
@@ -3610,7 +3593,7 @@ msgstr ""
 
 #: engine-wizard/elm/Wizard/ProjectImporters/Index/Update.elm:71
 msgid "Unable to get project importers."
-msgstr ""
+msgstr "Nelze získat projektové importéry."
 
 #: engine-wizard/elm/Wizard/ProjectImporters/Index/View.elm:25
 msgid "Project Importers"
@@ -3622,7 +3605,7 @@ msgstr ""
 
 #: engine-wizard/elm/Wizard/ProjectImporters/Index/View.elm:42
 msgid "Search importers..."
-msgstr ""
+msgstr "Hledat importéry..."
 
 #: engine-wizard/elm/Wizard/ProjectImporters/Index/View.elm:63
 msgid "enabled"
@@ -3691,14 +3674,14 @@ msgstr ""
 #: engine-wizard/elm/Wizard/Projects/Create/CustomCreate/Update.elm:85
 #: engine-wizard/elm/Wizard/Projects/CreateMigration/Update.elm:165
 msgid "Unable to get question tags for the Knowledge Model."
-msgstr ""
+msgstr "Nelze získat štítky otázek pro tento znalostní model."
 
 #: engine-wizard/elm/Wizard/Projects/Create/TemplateCreate/Update.elm:47
 #: engine-wizard/elm/Wizard/Projects/CreateMigration/Update.elm:83
 #: engine-wizard/elm/Wizard/Projects/Detail/Update.elm:483
 #: engine-wizard/elm/Wizard/Projects/Import/Update.elm:59
 msgid "Unable to get the project."
-msgstr ""
+msgstr "Nelze získat projekt."
 
 #: engine-wizard/elm/Wizard/Projects/Create/TemplateCreate/View.elm:56
 #: engine-wizard/elm/Wizard/Projects/Create/TemplateCreate/View.elm:70
@@ -3753,7 +3736,7 @@ msgstr ""
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/NewDocument.elm:162
 msgid "Unable to get questionnaire event."
-msgstr ""
+msgstr "Nelze získat událost z dotazníku."
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/NewDocument.elm:230
 msgid "Document could not be created."
@@ -3784,7 +3767,7 @@ msgstr ""
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Preview.elm:103
 msgid "Unable to get the document preview."
-msgstr ""
+msgstr "Nelze získat náhled dokumentu."
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Preview.elm:165
 msgid "Download preview"
@@ -3862,7 +3845,7 @@ msgstr ""
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:260
 #: engine-wizard/elm/Wizard/Projects/Index/Update.elm:161
 msgid "Unable to get project tags."
-msgstr ""
+msgstr "Nelze získat projektové štítky."
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:332
 msgid "This document template is no longer supported."
@@ -3899,7 +3882,7 @@ msgstr ""
 #: engine-wizard/elm/Wizard/Projects/Index/Update.elm:199
 #: engine-wizard/elm/Wizard/Users/Index/Update.elm:89
 msgid "Unable to get users."
-msgstr ""
+msgstr "Nelze získat uživatele."
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:261
 msgid "Share Project"
@@ -3968,7 +3951,7 @@ msgstr ""
 
 #: engine-wizard/elm/Wizard/Projects/Import/Update.elm:82
 msgid "Unable to get importer."
-msgstr ""
+msgstr "Nelze získat importér."
 
 #: engine-wizard/elm/Wizard/Projects/Import/Update.elm:158
 msgid "Questionnaire changes could not be saved."
@@ -4027,15 +4010,15 @@ msgstr ""
 
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:119
 msgid "Click \"Create\" button to add a new project."
-msgstr ""
+msgstr "Klikněte na tlačítko \"Vytvořit\" pro přidání nového projektu."
 
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:127
 msgid "Search projects..."
-msgstr ""
+msgstr "Hledat projekty..."
 
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:196
 msgid "Search project tags..."
-msgstr ""
+msgstr "Hledat štítky..."
 
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:212
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:442
@@ -4053,7 +4036,7 @@ msgstr ""
 
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:315
 msgid "Search knowledge models..."
-msgstr ""
+msgstr "Hledat znalostní modely..."
 
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:339
 msgid "No knowledge models found"
@@ -4062,7 +4045,7 @@ msgstr ""
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:426
 #: engine-wizard/elm/Wizard/Users/Index/View.elm:57
 msgid "Search users..."
-msgstr ""
+msgstr "Hledat uživatele..."
 
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:468
 msgid "No users found"
@@ -4074,7 +4057,7 @@ msgstr ""
 
 #: engine-wizard/elm/Wizard/Projects/Migration/Update.elm:83
 msgid "Unable to get the Questionnaire migration."
-msgstr ""
+msgstr "Nelze získat migraci projektu."
 
 #: engine-wizard/elm/Wizard/Projects/Migration/Update.elm:99
 msgid "Unable to save migration."
@@ -4147,7 +4130,7 @@ msgstr ""
 
 #: engine-wizard/elm/Wizard/Public/BookReference/Update.elm:27
 msgid "Unable to get a book reference."
-msgstr ""
+msgstr "Nelze získat referenci na knihu."
 
 #: engine-wizard/elm/Wizard/Public/BookReference/View.elm:37
 msgid "Data Stewardship for Open Science"
@@ -4504,11 +4487,11 @@ msgstr ""
 
 #: engine-wizard/elm/Wizard/Settings/Organization/View.elm:40
 msgid "Affiliation options will be used to help users choose their affiliation while signing up or editing their profile. Write one affiliation option per line."
-msgstr ""
+msgstr "Připravené afiliace pomohou uživatelům s výběrem vlastní afiliace při registraci a úpravě profilu. Každou afiliaci pište na samostatný řádek."
 
 #: engine-wizard/elm/Wizard/Settings/Plans/Update.elm:24
 msgid "Unable to get plans."
-msgstr ""
+msgstr "Nelze získat plány."
 
 #: engine-wizard/elm/Wizard/Settings/PrivacyAndSupport/View.elm:25
 #: engine-wizard/elm/Wizard/Settings/View.elm:116
@@ -4759,7 +4742,7 @@ msgstr ""
 
 #: engine-wizard/elm/Wizard/Templates/Detail/Update.elm:32
 msgid "Unable to get the document template."
-msgstr ""
+msgstr "Nelze získat šablonu dokumentů."
 
 #: engine-wizard/elm/Wizard/Templates/Detail/Update.elm:70
 #: engine-wizard/elm/Wizard/Templates/Index/Update.elm:71
@@ -4824,16 +4807,16 @@ msgstr ""
 
 #: engine-wizard/elm/Wizard/Users/Create/View.elm:25
 msgid "Create user"
-msgstr ""
+msgstr "Vytvořit uživatele"
 
 #: engine-wizard/elm/Wizard/Users/Create/View.elm:41
 #: engine-wizard/elm/Wizard/Users/Edit/View.elm:104
 msgid "Role"
-msgstr ""
+msgstr "Role"
 
 #: engine-wizard/elm/Wizard/Users/Edit/Update.elm:83
 msgid "Unable to get the user."
-msgstr ""
+msgstr "Nelze získat uživatele."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Update.elm:117
 msgid "Profile was successfully updated."
@@ -4849,65 +4832,65 @@ msgstr ""
 
 #: engine-wizard/elm/Wizard/Users/Edit/Update.elm:142
 msgid "Password could not be changed."
-msgstr ""
+msgstr "Heslo nebylo možné změnit."
 
 #: engine-wizard/elm/Wizard/Users/Edit/View.elm:55
 #: engine-wizard/elm/Wizard/Users/Edit/View.elm:75
 msgid "Profile"
-msgstr ""
+msgstr "Profil"
 
 #: engine-wizard/elm/Wizard/Users/Edit/View.elm:85
 msgid "User Image"
-msgstr ""
+msgstr "Obrázek uživatele"
 
 #: engine-wizard/elm/Wizard/Users/Edit/View.elm:89
 msgid "Image is taken from OpenID profile or [Gravatar](https://gravatar.com)."
-msgstr ""
+msgstr "Obrázek je převzat z OpenID profilu nebo služby [Gravatar](https://gravatar.com)."
 
 #: engine-wizard/elm/Wizard/Users/Edit/View.elm:119
 msgid "Submission Settings"
-msgstr ""
+msgstr "Nastavení odeslání"
 
 #: engine-wizard/elm/Wizard/Users/Edit/View.elm:143
 msgid "There is no settings for %s."
-msgstr ""
+msgstr "Není zde žádné nastavení pro %s."
 
 #: engine-wizard/elm/Wizard/Users/Index/Update.elm:66
 msgid "User could not be deleted."
-msgstr ""
+msgstr "Uživatele nebylo možné odstranit."
 
 #: engine-wizard/elm/Wizard/Users/Index/View.elm:53
 msgid "Click \"Create\" button to add a new User."
-msgstr ""
+msgstr "Klikněte na tlačítko \"Vytvořit\" pro přidání nového uživatele."
 
 #: engine-wizard/elm/Wizard/Users/Index/View.elm:63
 msgid "Last online"
-msgstr ""
+msgstr "Naposledy online"
 
 #: engine-wizard/elm/Wizard/Users/Index/View.elm:92
 msgid "inactive"
-msgstr ""
+msgstr "neaktivní"
 
 #: engine-wizard/elm/Wizard/Users/Index/View.elm:174
 msgid "Are you sure you want to permanently delete the following user?"
-msgstr ""
+msgstr "Opravdu chcete nevratně odstranit následujícího uživatele?"
 
 #: engine-wizard/elm/Wizard/Users/Index/View.elm:179
 msgid "Delete user"
-msgstr ""
+msgstr "Odstranit uživatele"
 
 #: engine-wizard/elm/Wizard/View.elm:129
 msgid "Not Found"
-msgstr ""
+msgstr "Nenalezeno"
 
 #: engine-wizard/elm/Wizard/View.elm:130
 msgid "The page you are looking for was not found."
-msgstr ""
+msgstr "Požadovaná stránka nebyla nalezena."
 
 #: engine-wizard/elm/Wizard/View.elm:139
 msgid "Not Allowed"
-msgstr ""
+msgstr "Nepovoleno"
 
 #: engine-wizard/elm/Wizard/View.elm:140
 msgid "You don't have a permission to view this page."
-msgstr ""
+msgstr "Nemáte oprávnění přistoupit k této stránce."
