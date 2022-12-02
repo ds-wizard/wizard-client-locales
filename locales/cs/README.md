@@ -2,7 +2,7 @@
 
 [![LICENSE](https://img.shields.io/github/license/ds-wizard/wizard-client-locales)](LICENSE)
 [![Language](https://img.shields.io/badge/ISO%20639--1-cs-blue)](https://en.wikipedia.org/wiki/Czech_language)
-[![Translation status](https://localize.ds-wizard.org/widgets/wizard-client/cs/wizard-client-3-17-1/svg-badge.svg)](https://localize.ds-wizard.org/engage/wizard-client/cs/)
+[![Translation status](https://localize.ds-wizard.org/widgets/wizard-client/cs/wizard-client-3-18-3/svg-badge.svg)](https://localize.ds-wizard.org/engage/wizard-client/cs/)
 
 ## Contributors
 

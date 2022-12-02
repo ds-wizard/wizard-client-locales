@@ -31,6 +31,8 @@ If you get lost or stuck, just ask via Slack or email.
 
 It is possible to contribute also directly to this GitHub repository via [Pull Request](https://docs.github.com/en/pull-requests). Simply edit or create `.po` file, commit and push it to your fork, and then submit the pull request. Please follow the repository structure that we keep here (described below).
 
+To stay consistent, please do not use any line wrap in gettext files.
+
 Another forms of contributions via GitHub such as issues with reports and suggestions are also highly appreciated.
 
 ### Community of DSW Translators
