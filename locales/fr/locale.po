@@ -1,16 +1,5 @@
 msgid ""
-msgstr ""
-"Project-Id-Version: wizard-client:3.17.1\n"
-"POT-Creation-Date: 2022-11-14T14:17:48.494Z \n"
-"PO-Revision-Date: 2022-12-01 09:51+0000\n"
-"Last-Translator: Paulette Lieby <paulette.lieby@france-bioinformatique.fr>\n"
-"Language-Team: French <https://localize.ds-wizard.org/projects/wizard-client/"
-"wizard-client-3-17-1/fr/>\n"
-"Language: fr\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 4.14.2\n"
+msgstr "Project-Id-Version: wizard-client:3.17.1\nPOT-Creation-Date: 2022-11-14T14:17:48.494Z\nPO-Revision-Date: 2022-12-18 11:34+0000\nLast-Translator: Marek Suchánek <marek.suchanek@ds-wizard.org>\nLanguage-Team: French <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-17-1/fr/>\nLanguage: fr\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 4.14.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -1048,7 +1037,7 @@ msgstr "Cette option conduit à certaines questions de suivi."
 msgid "1 comment"
 msgid_plural "%s comments"
 msgstr[0] "1 commentaire"
-msgstr[1] "%s comments"
+msgstr[1] "%s commentaires"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2804
 msgid "TODO"
@@ -1631,8 +1620,7 @@ msgstr ""
 
 #: engine-wizard/elm/Wizard/Common/View/Tag.elm:114
 msgid "There are no question tags for this knowledge model."
-msgstr ""
-"Il n'y a pas d'étiquettes  de questions pour ce modèle de connaissances\"."
+msgstr "Il n'y a pas d'étiquettes de questions pour ce modèle de connaissances\"."
 
 #: engine-wizard/elm/Wizard/Common/View/Tag.elm:126
 msgid "No question tags"
@@ -1746,11 +1734,7 @@ msgid ""
 "[DSW Registry](https://registry.ds-wizard.org) is a place for published "
 "knowledge models and document templates. When you connect your instance, "
 "data stewards can easily import them."
-msgstr ""
-"[DSW Registry] (https://registry.ds-wizard.org) est un endroit pour les "
-"modèles de connaissances et les gabarits d'extraction publiés par DSW. "
-"L'accès de votre instance  DSW au Registry permet l'importation de ces "
-"éléments."
+msgstr "[DSW Registry] (https://registry.ds-wizard.org) est un endroit pour les modèles de connaissances et les gabarits d'extraction publiés par DSW. L'accès de votre instance DSW au Registry permet l'importation de ces éléments."
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ConnectRegistryWidget.elm:17
 msgid "Connect"
@@ -1928,10 +1912,7 @@ msgstr ""
 msgid ""
 "As a data steward, you prepare knowledge models, document templates, and "
 "project templates for researchers."
-msgstr ""
-"En tant que gestionnaire de données, vous préparez des modèles de "
-"connaissances, des gabarits d'extraction et des modèles de de projets pour "
-"les chercheur·se·s."
+msgstr "En tant que gestionnaire de données, vous préparez des modèles de connaissances, des gabarits d'extraction et des modèles de projets pour les chercheur·se·s."
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/WelcomeWidget.elm:28
 msgid "As a researcher, you create and collaborate on data management plans."
@@ -2457,7 +2438,7 @@ msgstr ""
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:804
 msgid "Changing a question type will remove all choices."
-msgstr "La modification du  type de la question supprimera tous les choix."
+msgstr "La modification du type de la question supprimera tous les choix."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:832
 msgid "When does this question become desirable?"
@@ -3699,7 +3680,7 @@ msgstr "Cloner le projet"
 #: engine-wizard/elm/Wizard/Projects/Common/CloneProjectModal/View.elm:39
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:612
 msgid "Clone"
-msgstr "Clone"
+msgstr "Cloner"
 
 #: engine-wizard/elm/Wizard/Projects/Common/DeleteProjectModal/Update.elm:67
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings/DeleteModal.elm:87
@@ -3864,9 +3845,7 @@ msgstr ""
 msgid ""
 "Before you can use preview you need to set a default document template and "
 "format."
-msgstr ""
-"Avant de pouvoir afficher l'aperçu, vous devez définir un gabarit "
-"d'extraction  et un format de document par défaut."
+msgstr "Avant de pouvoir afficher l'aperçu, vous devez définir un gabarit d'extraction et un format de document par défaut."
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Preview.elm:193
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Preview.elm:225
@@ -3958,7 +3937,7 @@ msgstr ""
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:374
 msgid "Default document template"
-msgstr "Gabarit d'extraction  par défaut"
+msgstr "Gabarit d'extraction par défaut"
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:393
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:250
