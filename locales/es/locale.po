@@ -1,264 +1,264 @@
 msgid ""
-msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2022-12-02T09:10:27.118Z\nLanguage: es\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\n"
+msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2022-12-02T09:10:27.118Z\nPO-Revision-Date: 2022-12-22 13:34+0000\nLast-Translator: Remedios Melero <rmelero@iata.csic.es>\nLanguage-Team: Spanish <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-18-3/es/>\nLanguage: es\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.14.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
-msgstr ""
+msgstr "Administrador"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:34
 msgid "Data Steward"
-msgstr ""
+msgstr "Gestor/curador de datos"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:39
 msgid "Researcher"
-msgstr ""
+msgstr "Investigador"
 
 #: engine-shared/elm/Shared/Common/TimeUtils.elm:156
 msgid "January"
-msgstr ""
+msgstr "Enero"
 
 #: engine-shared/elm/Shared/Common/TimeUtils.elm:159
 msgid "February"
-msgstr ""
+msgstr "Febrero"
 
 #: engine-shared/elm/Shared/Common/TimeUtils.elm:162
 msgid "March"
-msgstr ""
+msgstr "Marzo"
 
 #: engine-shared/elm/Shared/Common/TimeUtils.elm:165
 msgid "April"
-msgstr ""
+msgstr "Abril"
 
 #: engine-shared/elm/Shared/Common/TimeUtils.elm:168
 msgid "May"
-msgstr ""
+msgstr "Mayo"
 
 #: engine-shared/elm/Shared/Common/TimeUtils.elm:171
 msgid "June"
-msgstr ""
+msgstr "Junio"
 
 #: engine-shared/elm/Shared/Common/TimeUtils.elm:174
 msgid "July"
-msgstr ""
+msgstr "Julio"
 
 #: engine-shared/elm/Shared/Common/TimeUtils.elm:177
 msgid "August"
-msgstr ""
+msgstr "Agosto"
 
 #: engine-shared/elm/Shared/Common/TimeUtils.elm:180
 msgid "September"
-msgstr ""
+msgstr "Septiembre"
 
 #: engine-shared/elm/Shared/Common/TimeUtils.elm:183
 msgid "October"
-msgstr ""
+msgstr "Octubre"
 
 #: engine-shared/elm/Shared/Common/TimeUtils.elm:186
 msgid "November"
-msgstr ""
+msgstr "Noviembre"
 
 #: engine-shared/elm/Shared/Common/TimeUtils.elm:189
 msgid "December"
-msgstr ""
+msgstr "Diciembre"
 
 #: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireCreation.elm:116
 msgid "Templates & Custom"
-msgstr ""
+msgstr "Plantillas & Modelo personalizado"
 
 #: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireCreation.elm:117
 msgid "Projects can be created from project templates or with custom settings."
-msgstr ""
+msgstr "Los proyectos se pueden crear con plantillas para proyectos o bien con ajustes personalizados."
 
 #: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireCreation.elm:120
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:89
 msgid "Templates only"
-msgstr ""
+msgstr "Solo plantillas"
 
 #: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireCreation.elm:121
 msgid "Only project templates can be used for creating new projects."
-msgstr ""
+msgstr "Solo se pueden usar plantillas de proyecto para crear nuevos proyectos."
 
 #: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireCreation.elm:124
 msgid "Custom only"
-msgstr ""
+msgstr "Solo modelos personalizados"
 
 #: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireCreation.elm:125
 msgid "Project templates feature is disabled, researchers have to choose knowledge model and set up everything."
-msgstr ""
+msgstr "La función de plantillas de proyecto está desactivada, los investigadores tienen que elegir el modelo de conocimiento y configurarlo todo."
 
 #: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireSharing.elm:135
 msgid "Restricted"
-msgstr ""
+msgstr "Restringido"
 
 #: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireSharing.elm:136
 msgid "Only logged-in users can access the project depending on the project visibility."
-msgstr ""
+msgstr "Solo usuarios conectados pueden acceder al proyecto dependiendo de la visibilidad del mismo."
 
 #: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireSharing.elm:139
 msgid "View with the link"
-msgstr ""
+msgstr "Ver en el enlace"
 
 #: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireSharing.elm:140
 msgid "Anyone on the internet with the link can view."
-msgstr ""
+msgstr "Cualquier persona conectada a internet y con el enlace, puede verlo."
 
 #: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireSharing.elm:143
 msgid "Comment with the link"
-msgstr ""
+msgstr "Comentario con el enlace"
 
 #: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireSharing.elm:144
 msgid "Anyone on the internet with the link can view and comment."
-msgstr ""
+msgstr "Cualquier persona conectada a internet puede ver y comentar."
 
 #: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireSharing.elm:147
 msgid "Edit with the link"
-msgstr ""
+msgstr "Edite con el enlace"
 
 #: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireSharing.elm:148
 msgid "Anyone on the internet with the link can edit."
-msgstr ""
+msgstr "Cualquier persona conectada a internet con el link puede editar."
 
 #: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireVisibility.elm:145
 msgid "Private"
-msgstr ""
+msgstr "Privado"
 
 #: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireVisibility.elm:146
 msgid "Visible only to the owner."
-msgstr ""
+msgstr "Visible solo para el propietario."
 
 #: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireVisibility.elm:149
 msgid "Visible - View"
-msgstr ""
+msgstr "Visible- Vista"
 
 #: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireVisibility.elm:150
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:25
 msgid "Other logged-in users can view the project."
-msgstr ""
+msgstr "Otros usuarios conectados pueden ver el proyecto."
 
 #: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireVisibility.elm:153
 msgid "Visible - Comment"
-msgstr ""
+msgstr "Visible - Comentar"
 
 #: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireVisibility.elm:154
 msgid "Other logged-in users can view and comment the project."
-msgstr ""
+msgstr "Otros usuarios conectados pueden ver y comentar el proyecto."
 
 #: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireVisibility.elm:157
 msgid "Visible - Edit"
-msgstr ""
+msgstr "Visible -Editar"
 
 #: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireVisibility.elm:158
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:22
 msgid "Other logged-in users can edit the project."
-msgstr ""
+msgstr "Otros usuarios conectados pueden editar el proyecto."
 
 #: engine-shared/elm/Shared/Data/QuestionnairePermission.elm:60
 msgid "view"
-msgstr ""
+msgstr "vista"
 
 #: engine-shared/elm/Shared/Data/QuestionnairePermission.elm:61
 msgid "comment"
-msgstr ""
+msgstr "commentario"
 
 #: engine-shared/elm/Shared/Data/QuestionnairePermission.elm:62
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:349
 msgid "edit"
-msgstr ""
+msgstr "editar"
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:101
 msgid "You do not have permission to view this page."
-msgstr ""
+msgstr "Usted no tiene permisos para ver esta página."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:109
 msgid "Knowledge Model ID is already used."
-msgstr ""
+msgstr "El ID del Knowledge Model ya se ha utilizado."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:112
 msgid "Knowledge Model already exists."
-msgstr ""
+msgstr "El Knowledge Model ya existe."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:115
 msgid "Template already exists."
-msgstr ""
+msgstr "La plantilla ya existe."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:118
 msgid "Locale already exists."
-msgstr ""
+msgstr "La configuración local ya existe."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:121
 #: engine-shared/elm/Shared/Error/ServerError.elm:137
 msgid "Email is already used."
-msgstr ""
+msgstr "Este email ya se ha usado."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:124
 msgid "New version has to be higher than the previous one."
-msgstr ""
+msgstr "La nueva versión tiene que ser superior a la anterior."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:127
 msgid "\"template.json\" was not found in archive."
-msgstr ""
+msgstr "\"template.json\" no se encuentra en el archivo."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:130
 msgid "Error while parsing template.json: \"%s\"."
-msgstr ""
+msgstr "Error al analizar template.json: \"%s\"."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:133
 msgid "Asset \"%s\" was not found in archive."
-msgstr ""
+msgstr "El valor \"%s\" no se encuentra en el archivo."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:140
 msgid "Link is not valid."
-msgstr ""
+msgstr "El enlace no es válido."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:143
 msgid "This email is not connected to any organization."
-msgstr ""
+msgstr "Este email no está vinculado a ninguna organización."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:146
 msgid "Organization email is already used."
-msgstr ""
+msgstr "Este email de la organización ya está en uso."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:149
 msgid "Organization ID is already used."
-msgstr ""
+msgstr "El ID de la organización ya está en uso."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:152
 #: engine-shared/elm/Shared/Error/ServerError.elm:204
 #: engine-shared/elm/Shared/Error/ServerError.elm:207
 msgid "A hash query param has to be provided."
-msgstr ""
+msgstr "Se debe proporcionar un parámetro de consulta hash."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:156
 msgid "App ID is already used."
-msgstr ""
+msgstr "El ID de la App ya está en uso."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:159
 msgid "Authentication Code is not provided."
-msgstr ""
+msgstr "No se ha facilitado el código de autenticación."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:162
 msgid "Profile Information from OpenID service is missing."
-msgstr ""
+msgstr "Se ha omitido la información del servicio OpenID."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:165
 msgid "Template cannot be deleted because it is used in some Projects or documents."
-msgstr ""
+msgstr "La plantilla no se puede borrar porque se está utilizando en algunos proyectos o documentos."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:168
 msgid "Template version is not supported."
-msgstr ""
+msgstr "La versión de la plantilla no es compatible."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:171
 msgid "Limit of %s reached (current: %s, limit: %s)"
-msgstr ""
+msgstr "Alcanzado el límite de %s (actual: %s, límite: %s)"
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:174
 msgid "\"locale.json\" was not found in archive."
-msgstr ""
+msgstr "\"locale.json\" no se encuentra en el archivo."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:177
 msgid "Error while parsing locale.json: \"%s\"."
-msgstr ""
+msgstr "Error mientras se anlaizaba locale.jason:\"%s\"."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:180
 msgid "File \"%s\" was not found in archive."
@@ -278,32 +278,32 @@ msgstr ""
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:192
 msgid "Project cannot be deleted because it is used in some project migration."
-msgstr ""
+msgstr "El proeycto no se puede borrar porque est á en uso en alguna migración de proyecto."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:195
 msgid "The template was not found in the Registry."
-msgstr ""
+msgstr "La plantilla no se encuentra en el Registro."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:198
 msgid "Incorrect email or password"
-msgstr ""
+msgstr "Email o contraseña no válidos"
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:201
 msgid "The account is not activated."
-msgstr ""
+msgstr "Esta cuenta no está activa."
 
 #: engine-shared/elm/Shared/Form.elm:21
 #: engine-shared/elm/Shared/Form.elm:24
 msgid "%s cannot be empty."
-msgstr ""
+msgstr "%s no puede estar vacio"
 
 #: engine-shared/elm/Shared/Form.elm:27
 msgid "This is not a valid email."
-msgstr ""
+msgstr "Este no es un email válido."
 
 #: engine-shared/elm/Shared/Form.elm:30
 msgid "This is not a valid number."
-msgstr ""
+msgstr "Este no es un número válido."
 
 #: engine-shared/elm/Shared/Form.elm:33
 msgid "This should not be less than %s."
@@ -315,19 +315,19 @@ msgstr ""
 
 #: engine-shared/elm/Shared/Form.elm:41
 msgid "Passwords do not match!"
-msgstr ""
+msgstr "¡Las contaseñas no coinciden!"
 
 #: engine-shared/elm/Shared/Form.elm:44
 msgid "This is not a valid UUID."
-msgstr ""
+msgstr "Esto no es un UUID válido"
 
 #: engine-shared/elm/Shared/Form.elm:53
 msgid "Invalid value."
-msgstr ""
+msgstr "Valor no válido."
 
 #: engine-shared/elm/Shared/Form/Validate.elm:53
 msgid "This is a very weak password."
-msgstr ""
+msgstr "Esta contraseña es poco robusta."
 
 #: engine-shared/elm/Shared/Form/Validate.elm:56
 msgid "This is a weak password."
@@ -411,7 +411,7 @@ msgstr ""
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:104
 #: engine-wizard/elm/Wizard/Templates/Index/View.elm:68
 msgid "Name"
-msgstr ""
+msgstr "Nombre"
 
 #: engine-wizard/elm/Wizard/Apps/Create/View.elm:38
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:975
