@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: wizard-client:3.19.0\n"
-"POT-Creation-Date: 2023-01-03T08:31:04.766Z \n"
+"POT-Creation-Date: 2023-01-03T08:31:04.766Z\n"
 "Language: en\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
