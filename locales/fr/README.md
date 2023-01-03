@@ -2,8 +2,8 @@
 
 [![LICENSE](https://img.shields.io/github/license/ds-wizard/wizard-client-locales)](LICENSE)
 [![Language](https://img.shields.io/badge/ISO%20639--1-fr-blue)](https://en.wikipedia.org/wiki/French_language)
-[![Translation status](https://img.shields.io/badge/translated-100%25-brightgreen)](https://localize.ds-wizard.org/engage/wizard-client/fr/)
-[![Translation status](https://localize.ds-wizard.org/widgets/wizard-client/fr/wizard-client-3-18-3/svg-badge.svg)](https://localize.ds-wizard.org/engage/wizard-client/fr/)
+[![Translation status](https://img.shields.io/badge/translated-N/A%25-brightgreen)](https://localize.ds-wizard.org/engage/wizard-client/fr/)
+[![Translation status](https://localize.ds-wizard.org/widgets/wizard-client/fr/wizard-client-3-19-0/svg-badge.svg)](https://localize.ds-wizard.org/engage/wizard-client/fr/)
 
 ## Contributors
 

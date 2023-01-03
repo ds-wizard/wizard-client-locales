@@ -1,10 +1,10 @@
 {
     "organizationId": "dsw",
-    "localeId": "nl",
+    "localeId": "tr",
     "version": "0.1.0",
-    "code": "nl",
+    "code": "tr",
     "recommendedAppVersion": "3.19.0",
-    "name": "Dutch",
+    "name": "Turkish",
     "description": " ",
     "license": "CC-BY-4.0"
 }
