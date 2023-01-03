@@ -1,16 +1,5 @@
 msgid ""
-msgstr ""
-"Project-Id-Version: wizard-client:3.17.1\n"
-"POT-Creation-Date: 2022-11-14T14:17:48.494Z \n"
-"PO-Revision-Date: 2022-11-30 20:09+0000\n"
-"Last-Translator: Rob Hooft <rob.hooft@health-ri.nl>\n"
-"Language-Team: Dutch <https://localize.ds-wizard.org/projects/wizard-client/"
-"wizard-client-3-17-1/nl/>\n"
-"Language: nl\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.14.2\n"
+msgstr "Project-Id-Version: wizard-client:3.17.1\nPOT-Creation-Date: 2022-11-14T14:17:48.494Z\nPO-Revision-Date: 2023-01-04 10:34+0000\nLast-Translator: Rob Hooft <rob.hooft@health-ri.nl>\nLanguage-Team: Dutch <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-17-1/nl/>\nLanguage: nl\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.14.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -4641,7 +4630,7 @@ msgstr "Eigenaar van het GitHub repository"
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:58
 msgid "ht&#8203;tps://github.com/**exampleOwner**/exampleRepository"
-msgstr "ht&#8203;tps://github.com/**exampleOwner**/exampleRepository"
+msgstr "ht&#8203;tps://github.com/**voorbeeldEigenaar**/voorbeeldRepository"
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:59
 msgid "GitHub Repository Name"
