@@ -1,16 +1,6 @@
 # Rob Hooft <rob.hooft@health-ri.nl>, 2023.
 msgid ""
-msgstr ""
-"Project-Id-Version: wizard-client:3.18.3\n"
-"POT-Creation-Date: 2023-01-03T08:31:04.766Z\n"
-"PO-Revision-Date: 2023-01-03 09:54+0000\n"
-"Last-Translator: Rob Hooft <rob.hooft@health-ri.nl>\n"
-"Language-Team: Dutch <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-19-0/nl/>\n"
-"Language: nl\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.14.2\n"
+msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2023-01-03T08:31:04.766Z\nPO-Revision-Date: 2023-01-04 10:34+0000\nLast-Translator: Rob Hooft <rob.hooft@health-ri.nl>\nLanguage-Team: Dutch <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-19-0/nl/>\nLanguage: nl\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.14.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -870,10 +860,8 @@ msgid "Question tags"
 msgstr "Vraag-tags"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1106
-#, fuzzy
-#| msgid "Importers"
 msgid "Import answers"
-msgstr "Importeurs"
+msgstr "Importeer antwoorden"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1171
 msgid "TODOs"
@@ -1578,10 +1566,8 @@ msgid "Preview"
 msgstr "Voorbeeld"
 
 #: engine-wizard/elm/Wizard/Common/View/FormGroup.elm:455
-#, fuzzy
-#| msgid "You can use markdown and see the result in the preview tab."
 msgid "You can use Markdown and see the result in the preview tab."
-msgstr "Je kunt markdown gebruiken en het resultaat in de voorbeeld-tab bekijken."
+msgstr "Je kunt Markdown gebruiken en het resultaat in de voorbeeld-tab bekijken."
 
 #: engine-wizard/elm/Wizard/Common/View/Layout.elm:32
 #: engine-wizard/elm/Wizard/Common/View/Layout.elm:40
@@ -2921,8 +2907,6 @@ msgid "There are no question tags, create them first."
 msgstr "Er zijn nog geen vraagtags, maak ze eerst."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/TagEditor.elm:112
-#, fuzzy
-#| msgid "There are no questions create them first."
 msgid "There are no questions, create them first."
 msgstr "Er zijn nog geen vragen, maak ze eerst."
 
@@ -3247,10 +3231,8 @@ msgid "Readme"
 msgstr "Readme"
 
 #: engine-wizard/elm/Wizard/KMEditor/Publish/View.elm:79
-#, fuzzy
-#| msgid "Describe the Knowledge Model, you can use markdown."
 msgid "Describe the Knowledge Model, you can use Markdown."
-msgstr "Beschrijf het kennismodel; markdown-opmaak is beschikbaar."
+msgstr "Beschrijf het kennismodel; Markdown-opmaak is beschikbaar."
 
 #: engine-wizard/elm/Wizard/KMEditor/Publish/View.elm:87
 msgid "No version of this package has been published yet."
@@ -3573,10 +3555,8 @@ msgid "Unable to get locales."
 msgstr "Kan vertalingen niet ophalen."
 
 #: engine-wizard/elm/Wizard/Locales/Index/View.elm:44
-#, fuzzy
-#| msgid "Click \"Import\" or \"Create\" button to import new locale."
 msgid "Click \"Import\" or \"Create\" button to add a new locale."
-msgstr "Klik “Importeer” of \"Aanmaken\" om een nieuwe vertaling te importeren."
+msgstr "Klik “Importeer” of \"Aanmaken\" om een nieuwe vertaling toe te voegen."
 
 #: engine-wizard/elm/Wizard/Locales/Index/View.elm:52
 #: engine-wizard/elm/Wizard/Templates/Index/View.elm:66
@@ -3629,18 +3609,14 @@ msgid "%s has been created."
 msgstr "%s is gemaakt."
 
 #: engine-wizard/elm/Wizard/Projects/Common/CloneProjectModal/Update.elm:75
-#, fuzzy
-#| msgid "Unable to get projects."
 msgid "Unable to clone project."
-msgstr "Kan projecten niet ophalen."
+msgstr "Kan project niet dupliceren."
 
 #: engine-wizard/elm/Wizard/Projects/Common/CloneProjectModal/View.elm:27
 msgid "Do you want to create a copy of %s?"
 msgstr "Wil je een kopie maken van %s?"
 
 #: engine-wizard/elm/Wizard/Projects/Common/CloneProjectModal/View.elm:31
-#, fuzzy
-#| msgid "The original Project will remain unchanged."
 msgid "The original project will remain unchanged."
 msgstr "Het originele project blijft ongewijzigd."
 
@@ -3654,16 +3630,12 @@ msgid "Clone"
 msgstr "Maak kloon"
 
 #: engine-wizard/elm/Wizard/Projects/Common/DeleteProjectModal/Update.elm:67
-#, fuzzy
-#| msgid "Document was successfully deleted."
 msgid "Project was successfully deleted."
 msgstr "Het project is succesvol verwijderd."
 
 #: engine-wizard/elm/Wizard/Projects/Common/DeleteProjectModal/Update.elm:74
-#, fuzzy
-#| msgid "Document could not be deleted."
 msgid "Project could not be deleted."
-msgstr "Het document kon niet verwijderd worden."
+msgstr "Het project kon niet verwijderd worden."
 
 #: engine-wizard/elm/Wizard/Projects/Common/DeleteProjectModal/View.elm:32
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings/DeleteModal.elm:119
@@ -3718,10 +3690,8 @@ msgid "Custom"
 msgstr "Aangepast"
 
 #: engine-wizard/elm/Wizard/Projects/CreateMigration/Update.elm:151
-#, fuzzy
-#| msgid "Migration could not be created."
 msgid "Project migration could not be created."
-msgstr "Kon de migratie niet aanmaken."
+msgstr "Kon de projectmigratie niet aanmaken."
 
 #: engine-wizard/elm/Wizard/Projects/CreateMigration/View.elm:56
 msgid "Original question tags"
@@ -3999,19 +3969,15 @@ msgid "Import status:"
 msgstr "Importstatus:"
 
 #: engine-wizard/elm/Wizard/Projects/Import/View.elm:90
-#, fuzzy
-#| msgid "%s questionnaire changes will be imported"
 msgid "%s questionnaire change will be imported"
 msgid_plural "%s questionnaire changes will be imported"
-msgstr[0] "%s wijzigingen worden geïmporteerd in de vragenlijst"
+msgstr[0] "%s wijziging wordt geïmporteerd in de vragenlijst"
 msgstr[1] "%s wijzigingen worden geïmporteerd in de vragenlijst"
 
 #: engine-wizard/elm/Wizard/Projects/Import/View.elm:108
-#, fuzzy
-#| msgid "%s errors encountered"
 msgid "%s error encountered"
 msgid_plural "%s errors encountered"
-msgstr[0] "%s fouten geconstateerd"
+msgstr[0] "%s fout geconstateerd"
 msgstr[1] "%s fouten geconstateerd"
 
 #: engine-wizard/elm/Wizard/Projects/Import/View.elm:174
@@ -4031,16 +3997,12 @@ msgid "Added item"
 msgstr "Item toegevoegd"
 
 #: engine-wizard/elm/Wizard/Projects/Index/Update.elm:278
-#, fuzzy
-#| msgid "Migration was successfully canceled."
 msgid "Project migration was successfully canceled."
-msgstr "De migratie is afgebroken."
+msgstr "De projectmigratie is afgebroken."
 
 #: engine-wizard/elm/Wizard/Projects/Index/Update.elm:285
-#, fuzzy
-#| msgid "Migration could not be deleted."
 msgid "Project migration could not be deleted."
-msgstr "De migratie kon niet verwijderd worden."
+msgstr "De projectmigratie kon niet verwijderd worden."
 
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:90
 msgid "Projects only"
@@ -4094,10 +4056,8 @@ msgid "Open project"
 msgstr "Open project"
 
 #: engine-wizard/elm/Wizard/Projects/Migration/Update.elm:83
-#, fuzzy
-#| msgid "Unable to get the project."
 msgid "Unable to get the project migration."
-msgstr "Kan het project niet laden."
+msgstr "Kan de projectmigratie niet laden."
 
 #: engine-wizard/elm/Wizard/Projects/Migration/Update.elm:99
 msgid "Unable to save migration."
@@ -4278,10 +4238,8 @@ msgid "I have read %s and %s."
 msgstr "Ik heb %s en %s gelezen."
 
 #: engine-wizard/elm/Wizard/Public/Signup/View.elm:100
-#, fuzzy
-#| msgid "You have to read Privacy first"
 msgid "You have to read %s and %s first"
-msgstr "Je moet eerst de privacy lezen"
+msgstr "Je moet eerst de %s en %s lezen"
 
 #: engine-wizard/elm/Wizard/Public/Signup/View.elm:110
 #: engine-wizard/elm/Wizard/Public/Signup/View.elm:122
@@ -4290,10 +4248,8 @@ msgstr "Ik heb %s gelezen."
 
 #: engine-wizard/elm/Wizard/Public/Signup/View.elm:114
 #: engine-wizard/elm/Wizard/Public/Signup/View.elm:126
-#, fuzzy
-#| msgid "You have to read Privacy first"
 msgid "You have to read %s first"
-msgstr "Je moet eerst de privacy lezen"
+msgstr "Je moet eerst %s lezen"
 
 #: engine-wizard/elm/Wizard/Public/Signup/View.elm:148
 #: engine-wizard/elm/Wizard/Users/Create/View.elm:40
@@ -4310,10 +4266,8 @@ msgid "Your email was successfully confirmed. You can now %s."
 msgstr "Je email is bevestigd. Je kunt nu %s."
 
 #: engine-wizard/elm/Wizard/Registry/RegistrySignupConfirmation/Update.elm:35
-#, fuzzy
-#| msgid "Unable to confirm the registry account."
 msgid "Unable to confirm the DSW Registry account."
-msgstr "Kan het account in het register niet bevestigen."
+msgstr "Kan het account in het DSW register niet bevestigen."
 
 #: engine-wizard/elm/Wizard/Registry/RegistrySignupConfirmation/View.elm:28
 msgid "Your email was successfuly confirmed, you can go back to %s."
@@ -4481,28 +4435,24 @@ msgid "Look & Feel"
 msgstr "Look & Feel"
 
 #: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:120
-#, fuzzy
-#| msgid "Change logo"
 msgid "Change"
-msgstr "Wijzig het logo"
+msgstr "Wijzig"
 
 #: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:126
-#, fuzzy
-#| msgid "Logo URL"
 msgid "Logo"
-msgstr "Logo-URL"
+msgstr "Logo"
 
 #: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:127
 msgid "Logo is used next to the application name in the menu. It is recommended to use a square image."
-msgstr ""
+msgstr "Het logo wordt gebruikt naast de applicatienaam in het menu. Gebruik van een vierkant plaatje wordt aanbevolen."
 
 #: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:135
 msgid "Primary Color"
-msgstr ""
+msgstr "Primaire kleur"
 
 #: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:139
 msgid "Illustrations Color"
-msgstr ""
+msgstr "Kleur voor illustraties"
 
 #: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:156
 msgid "Application Title"
@@ -4525,10 +4475,8 @@ msgid "Custom Menu Links"
 msgstr "Aangepaste menukoppelingen"
 
 #: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:182
-#, fuzzy
-#| msgid "Configure additional links in the menu. Choose any free icon from the [Font Awesome](https://fontawesome.com/icons?d=gallery&m=free), e.g. *fas fa-magic*. Check *New window* if you want to open the link in a new window."
 msgid "Configure additional links in the menu. Choose any free icon from the [Font Awesome](%s), e.g. *fas fa-magic*. Check *New window* if you want to open the link in a new window."
-msgstr "Configureer extra koppelingen in het menu. Kies een gratis ikoon uit [Font Awesome](https://fontawesome.com/icons?d=gallery&m=free), bijvoorbeeld *fas fa-magic*. Kies *Nieuw venster* als je de koppeling wilt openen in een nieuw venster."
+msgstr "Configureer extra koppelingen in het menu. Kies een gratis ikoon uit [Font Awesome](%s), bijvoorbeeld *fas fa-magic*. Kies *Nieuw venster* als je de koppeling wilt openen in een nieuw venster."
 
 #: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:199
 msgid "Login Info"
@@ -4799,10 +4747,8 @@ msgid "Header"
 msgstr "Header"
 
 #: engine-wizard/elm/Wizard/Settings/Template/View.elm:66
-#, fuzzy
-#| msgid "Recommended Template"
 msgid "Recommended Document Template"
-msgstr "Aanbevolen sjabloon"
+msgstr "Aanbevolen documentsjabloon"
 
 #: engine-wizard/elm/Wizard/Settings/View.elm:89
 msgid "System Settings"
