@@ -1,5 +1,16 @@
 msgid ""
-msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2022-12-02T09:10:27.118Z\nPO-Revision-Date: 2022-12-17 11:43+0000\nLast-Translator: Marek Suchánek <marek.suchanek@ds-wizard.org>\nLanguage-Team: French <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-18-3/fr/>\nLanguage: fr\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 4.14.2\n"
+msgstr ""
+"Project-Id-Version: wizard-client:3.18.3\n"
+"POT-Creation-Date: 2022-12-02T09:10:27.118Z\n"
+"PO-Revision-Date: 2022-12-13 13:47+0100\n"
+"Last-Translator: Paulette Lieby <paulette.lieby@france-bioinformatique.fr>\n"
+"Language-Team: French <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-18-3/fr/>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -7,7 +18,7 @@ msgstr "Administrateur·rice"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:34
 msgid "Data Steward"
-msgstr "Gestionnaire des données"
+msgstr "Gestionnaire de données"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:39
 msgid "Researcher"
@@ -183,7 +194,7 @@ msgstr "Le modèle existe déjà."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:118
 msgid "Locale already exists."
-msgstr "L'locale existe déjà."
+msgstr "La localisation existe déjà."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:121
 #: engine-shared/elm/Shared/Error/ServerError.elm:137
@@ -262,11 +273,11 @@ msgstr "Erreur lors de l'analyse du fichier locale.json : \"%s\"."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:180
 msgid "File \"%s\" was not found in archive."
-msgstr "Le fichier \"%s\" est introuvable dans l'archive."
+msgstr "Le fichier \"%s\" n'a pas été trouvé dans les archives."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:183
 msgid "The locale not found in Registry"
-msgstr "Le modèle n'a pas été trouvé dans le Registry"
+msgstr "Le paramètre régional n'a pas été trouvé dans le Registry"
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:186
 msgid "Knowledge Model cannot be deleted because it is used in some Projects or Knowledge Model Editors."
@@ -443,7 +454,7 @@ msgstr "Prénom"
 #: engine-wizard/elm/Wizard/Users/Edit/View.elm:170
 #: engine-wizard/elm/Wizard/Users/Index/View.elm:60
 msgid "Last name"
-msgstr "Nom de famille"
+msgstr "Nom"
 
 #: engine-wizard/elm/Wizard/Apps/Detail/Update.elm:36
 msgid "Unable to get app."
@@ -514,7 +525,7 @@ msgstr "Créé le"
 #: engine-wizard/elm/Wizard/Apps/Detail/View.elm:115
 #: engine-wizard/elm/Wizard/Apps/Index/View.elm:59
 msgid "Updated at"
-msgstr "Mis à jour le"
+msgstr "Mise à jour le"
 
 #: engine-wizard/elm/Wizard/Apps/Detail/View.elm:118
 #: engine-wizard/elm/Wizard/Settings/View.elm:98
@@ -719,7 +730,7 @@ msgstr "Aucune donnée"
 
 #: engine-wizard/elm/Wizard/Common/Components/Listing/View.elm:572
 msgid "Updated %s"
-msgstr "Mis à jour %s"
+msgstr "Mise à jour %s"
 
 #: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:44
 #: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:54
@@ -912,7 +923,7 @@ msgstr "Créer un nouveau commentaire..."
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1607
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1608
 msgid "Editor notes"
-msgstr "Notes de l'éditeur"
+msgstr "Notes du/de la rédacteur·rice"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1622
 msgid "Delete this comment thread?"
@@ -956,7 +967,7 @@ msgstr "Résoudre le fil de commentaires"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1728
 msgid "Reopen"
-msgstr "Rouvrir"
+msgstr "Ré-ouvrir"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1783
 msgid "edited"
@@ -1047,7 +1058,7 @@ msgstr "À faire"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2792
 msgid "Remove TODO"
-msgstr "Enlever `À faire`"
+msgstr "Effacer `À faire`"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2803
 msgid "Add TODO"
@@ -1392,12 +1403,12 @@ msgstr "Paramètres"
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:194
 #: engine-wizard/elm/Wizard/Locales/Index/View.elm:30
 msgid "Locales"
-msgstr "Locales"
+msgstr "Paramètres locaux"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:436
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:651
 msgid "Change language"
-msgstr "Modifier la langue"
+msgstr "Changer de langue"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:454
 msgid "Edit profile"
@@ -1415,7 +1426,7 @@ msgstr "À propos"
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:482
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:530
 msgid "Report issue"
-msgstr "Rapporter le problème"
+msgstr "Signaler le problème"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:499
 msgid "Collapse sidebar"
@@ -1547,7 +1558,7 @@ msgstr "Seuls les documents PDF sont activés dans cette instance."
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:208
 #: engine-wizard/elm/Wizard/Projects/Common/QuestionnaireEditFormMemberPerms.elm:63
 msgid "Editor"
-msgstr "Éditeur"
+msgstr "Rédacteur·rice"
 
 #: engine-wizard/elm/Wizard/Common/View/FormGroup.elm:447
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:216
@@ -1624,11 +1635,11 @@ msgstr "Étiquettes de questions"
 
 #: engine-wizard/elm/Wizard/Common/View/Tag.elm:108
 msgid "You can filter questions in the questionnaire by question tags. If no question tags are selected, all questions will be used."
-msgstr "Vous pouvez filtrer les questions du questionnaire par en utilisant des étiquettes de question. Si aucune étiquette de question n'est sélectionnée, toutes les questions seront utilisées."
+msgstr "Vous pouvez filtrer les questions du questionnaire en utilisant des étiquettes de question. Si aucune étiquette de question n'est sélectionnée, toutes les questions seront utilisées."
 
 #: engine-wizard/elm/Wizard/Common/View/Tag.elm:114
 msgid "There are no question tags for this knowledge model."
-msgstr "Il n'y a pas d'étiquettes de questions pour ce modèle de connaissances\"."
+msgstr "Il n'y a pas d'étiquettes  de questions pour ce modèle de connaissances."
 
 #: engine-wizard/elm/Wizard/Common/View/Tag.elm:126
 msgid "No question tags"
@@ -1748,7 +1759,7 @@ msgid ""
 "\n"
 "You can create a new project from a project template that data stewards prepare for you to have an easier start or from scratch where you set up everything yourself."
 msgstr ""
-"Le projet est un espace de travail où vous créez votre PGD, ou plus généralement le questionnaire oú sera renseigné le modèle de connaissances choisi. Le projet est donc basé sur un modèle de connaissances qui décline les questions qui détaillent ce qui doit être demandé et comment en fonction du domaine de recherche ou des besoins de l'organisation. Vous pouvez utiliser des gabarits d'extraction pour transformer les réponses en un document. Ce document peut être n'importe quoi, du PDF au JSON exploitable par une machine. \n"
+"Le projet est un espace de travail où vous créez votre PGD, ou plus généralement le questionnaire oú sera renseigné le modèle de connaissances choisi. Le projet est donc basé sur un modèle de connaissances qui décline les questions qui détaillent les renseignements désirés en fonction du domaine de recherche ou des besoins de l'organisation. Vous pouvez utiliser des gabarits d'extraction pour transformer les réponses en un document. Beaucoup de types de documents sont disponibles, du PDF au JSON exploitable par une machine. \n"
 "\n"
 "Vous pouvez créer un nouveau projet à partir d'un modèle de projet que les gestionnaires de données préparent pour vous afin de faciliter le démarrage ; vous pouvez aussi créer un nouveau projet à partir de zéro, où vous configurez tout vous-même."
 
@@ -2144,7 +2155,7 @@ msgstr "Aucune intégration API a été sélectionnée pour la question type 'in
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:823
 msgid "No choices for multi-choice question"
-msgstr "Il n'y a pas de choix pour la question de type 'multichoix'"
+msgstr "Il n'y a pas de choix pour la question de type 'multi-choix'"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:852
 msgid "Empty label for answer"
@@ -2319,7 +2330,7 @@ msgstr "Intégration"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:748
 msgid "Multi-Choice"
-msgstr "Multi-Choix"
+msgstr "Multi-choix"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:755
 msgid "Never"
@@ -2393,7 +2404,7 @@ msgstr "Modèle d'élément"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:969
 msgid "String"
-msgstr "String"
+msgstr "Chaine de caractères"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:970
 msgid "Number"
@@ -2647,7 +2658,7 @@ msgstr "Configuration rapide"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1598
 msgid "A string that identifies the integration. It has to be unique for each integration."
-msgstr "Une chaîne de charactères qui identifie l'intégration. Elle doit être unique pour chaque intégration."
+msgstr "Une chaîne de caractères qui identifie l'intégration. Elle doit être unique pour chaque intégration."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1600
 msgid "A name visible everywhere else in the KM Editor, such as when choosing the integration for a question."
@@ -2967,7 +2978,7 @@ msgstr "Rechercher les éditeurs de KM..."
 #: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:70
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:131
 msgid "Updated"
-msgstr "Mis à jour"
+msgstr "Date de dernière modification"
 
 #: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:112
 msgid "Last published version"
@@ -3266,7 +3277,7 @@ msgstr "Créer un projet"
 #: engine-wizard/elm/Wizard/Templates/Detail/View.elm:51
 #: engine-wizard/elm/Wizard/Templates/Index/View.elm:162
 msgid "Export"
-msgstr "Export"
+msgstr "Exporter"
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Detail/View.elm:142
 msgid "This is not the latest available version of this Knowledge Model."
@@ -3444,7 +3455,8 @@ msgstr "Le questionnaire n'a pas pu être enregistré."
 
 #: engine-wizard/elm/Wizard/Locales/Create/Update.elm:92
 msgid "Creating of the locale failed."
-msgstr "Échec de la création de la locale."
+msgstr "La création  de la localisation a échoué."
+
 
 #: engine-wizard/elm/Wizard/Locales/Create/View.elm:40
 msgid "PO File"
@@ -3453,38 +3465,38 @@ msgstr "Fichier PO"
 #: engine-wizard/elm/Wizard/Locales/Create/View.elm:49
 #: engine-wizard/elm/Wizard/Locales/Detail/View.elm:192
 msgid "Language Code"
-msgstr "Code de langue"
+msgstr "Code langue"
 
 #: engine-wizard/elm/Wizard/Locales/Create/View.elm:50
 #: engine-wizard/elm/Wizard/Locales/Import/RegistryImport/View.elm:47
 msgid "Locale ID"
-msgstr "Locale ID"
+msgstr "ID de la localisation"
 
 #: engine-wizard/elm/Wizard/Locales/Create/View.elm:51
 msgid "Locale Version"
-msgstr "Version du locale"
+msgstr "Version de la localisation"
 
 #: engine-wizard/elm/Wizard/Locales/Create/View.elm:54
 msgid "Recommended App Version"
-msgstr "Version d'application recommandée"
+msgstr "Version de l'application recommandée"
 
 #: engine-wizard/elm/Wizard/Locales/Create/View.elm:63
 msgid "Create Locale"
-msgstr "Créer un locale"
+msgstr "Créer une localisation"
 
 #: engine-wizard/elm/Wizard/Locales/Detail/Update.elm:32
 msgid "Unable to get the locale."
-msgstr "Impossible d'obtenir l'locale."
+msgstr "Impossible d'obtenir la localisation."
 
 #: engine-wizard/elm/Wizard/Locales/Detail/Update.elm:96
 #: engine-wizard/elm/Wizard/Locales/Index/Update.elm:87
 msgid "Locale could not be deleted."
-msgstr "Le locale n'a pas pu être supprimé."
+msgstr "La localisation n'a pas pu être supprimée."
 
 #: engine-wizard/elm/Wizard/Locales/Detail/View.elm:59
 #: engine-wizard/elm/Wizard/Locales/Index/View.elm:168
 msgid "Set default"
-msgstr "Définir par defaut"
+msgstr "Utiliser le défaut"
 
 #: engine-wizard/elm/Wizard/Locales/Detail/View.elm:69
 #: engine-wizard/elm/Wizard/Locales/Index/View.elm:181
@@ -3500,51 +3512,51 @@ msgstr "Activer"
 
 #: engine-wizard/elm/Wizard/Locales/Detail/View.elm:123
 msgid "This is not the latest available version of this locale."
-msgstr "Il ne s'agit pas de la dernière version disponible de cette locale."
+msgstr "Ceci n'est pas la dernière version disponible de cette localisation."
 
 #: engine-wizard/elm/Wizard/Locales/Detail/View.elm:194
 msgid "DSW Version"
-msgstr "DSW Version"
+msgstr "Version DSW"
 
 #: engine-wizard/elm/Wizard/Locales/Detail/View.elm:199
 msgid "Locale"
-msgstr "Locale"
+msgstr "Paramètre local"
 
 #: engine-wizard/elm/Wizard/Locales/Import/FileImport/Update.elm:71
 msgid "Importing the locale failed."
-msgstr "L'importation du locale a échoué."
+msgstr "L'importation de la localisation a échoué."
 
 #: engine-wizard/elm/Wizard/Locales/Import/RegistryImport/Update.elm:32
 msgid "Unable to import the locale."
-msgstr "Impossible d'importer la locale."
+msgstr "Impossible d'importer la localisation."
 
 #: engine-wizard/elm/Wizard/Locales/Import/RegistryImport/View.elm:67
 msgid "You can find locales in %s."
-msgstr "Vous pouvez trouver des locales dans %s."
+msgstr "Vous pouvez trouver des localisations dans %s."
 
 #: engine-wizard/elm/Wizard/Locales/Import/RegistryImport/View.elm:82
 msgid "Locale %s has been imported!"
-msgstr "La locale %s a été importé!"
+msgstr "La localisation %s a été importée !"
 
 #: engine-wizard/elm/Wizard/Locales/Import/View.elm:44
 msgid "Import Locale"
-msgstr "Importer les locales"
+msgstr "Importer la localisation"
 
 #: engine-wizard/elm/Wizard/Locales/Index/Update.elm:56
 msgid "Unable to change locale."
-msgstr "Impossible de modifier la locale."
+msgstr "Impossible de modifier la localisation."
 
 #: engine-wizard/elm/Wizard/Locales/Index/Update.elm:60
 msgid "Locale was changed successfully."
-msgstr "La locale a été modifié avec succès."
+msgstr "La localisation a été modifiée avec succès."
 
 #: engine-wizard/elm/Wizard/Locales/Index/Update.elm:106
 msgid "Unable to get locales."
-msgstr "Impossible d'obtenir des locales."
+msgstr "Impossible d'obtenir les localisations."
 
 #: engine-wizard/elm/Wizard/Locales/Index/View.elm:44
 msgid "Click \"Import\" or \"Create\" button to import new locale."
-msgstr "Cliquez sur le bouton \"Importer\" ou \"Créer\" pour importer une nouvelle locale."
+msgstr "Cliquez sur le bouton \"Importer\" ou \"Créer\" pour importer une nouvelle localisation."
 
 #: engine-wizard/elm/Wizard/Locales/Index/View.elm:52
 #: engine-wizard/elm/Wizard/Templates/Index/View.elm:66
@@ -3553,7 +3565,7 @@ msgstr "Rechercher..."
 
 #: engine-wizard/elm/Wizard/Locales/Index/View.elm:67
 msgid "Default locale to be used"
-msgstr "Gabarit d'extraction par défaut"
+msgstr "Paramètre local par défaut"
 
 #: engine-wizard/elm/Wizard/Locales/Index/View.elm:79
 #: engine-wizard/elm/Wizard/ProjectImporters/Index/View.elm:66
@@ -3562,7 +3574,7 @@ msgstr "désactivé"
 
 #: engine-wizard/elm/Wizard/Locales/Index/View.elm:262
 msgid "Delete locale"
-msgstr "Supprimer la locale"
+msgstr "Supprimer la localisation"
 
 #: engine-wizard/elm/Wizard/ProjectImporters/Index/Update.elm:44
 msgid "Unable to change project importer."
@@ -3681,7 +3693,7 @@ msgstr "À partir d'un KM"
 
 #: engine-wizard/elm/Wizard/Projects/CreateMigration/Update.elm:151
 msgid "Questionnaire migration could not be created."
-msgstr "La migration du questionnaire n'a pas pu être créée."
+msgstr "La migration du questionnaire n'a pas pu être effectuée."
 
 #: engine-wizard/elm/Wizard/Projects/CreateMigration/View.elm:56
 msgid "Original question tags"
@@ -3875,11 +3887,11 @@ msgstr "Ajouter des utilisateur·rice·s"
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:363
 msgid "Other logged-in users can %s the project."
-msgstr "Les autres utilisateur·rice·s connecté.e·s peuvent %s le projet."
+msgstr "Les autres utilisateur·rice·s connecté·e·s peuvent %s le projet."
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:368
 msgid "Visible by all other logged-in users"
-msgstr "Visible par tous les autres utilisateur·rice·s connecté.e·s"
+msgstr "Visible par tous les autres utilisateur·rice·s connecté·e·s"
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:393
 msgid "Copy link"
@@ -3944,11 +3956,11 @@ msgstr "Suivez les instructions de l'interface de l'importateur."
 
 #: engine-wizard/elm/Wizard/Projects/Import/View.elm:75
 msgid "Importing to %s"
-msgstr "Importation vers %s"
+msgstr "Import vers %s"
 
 #: engine-wizard/elm/Wizard/Projects/Import/View.elm:79
 msgid "Import status:"
-msgstr "Statut d'importation:"
+msgstr "Statut de l'import:"
 
 #: engine-wizard/elm/Wizard/Projects/Import/View.elm:87
 msgid "%s questionnaire changes will be imported"
@@ -3968,7 +3980,7 @@ msgstr "Erreurs"
 
 #: engine-wizard/elm/Wizard/Projects/Import/View.elm:176
 msgid "No changes to be imported"
-msgstr "Aucune modification à importer"
+msgstr "Aucune modification n'est à importer"
 
 #: engine-wizard/elm/Wizard/Projects/Import/View.elm:263
 msgid "Added item"
@@ -4526,7 +4538,7 @@ msgstr "Projets anonymes"
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:45
 msgid "If enabled, users that are not logged in are allowed to create projects from public knowledge models."
-msgstr "Si cette option est activée, les utilisateur·rice·s qui ne sont pas connecté.e·s sont autorisé.e·s à créer des projets à partir de modèles de connaissances publics."
+msgstr "Si cette option est activée, les utilisateur·rice·s qui ne sont pas connecté·e·s sont autorisé·e·s à créer des projets à partir de modèles de connaissances publics."
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:57
 msgid "GitHub Repository Owner"
@@ -4558,7 +4570,7 @@ msgstr "Étiquettes de projet par défaut"
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:75
 msgid "Default projects tags can be provided to users so they don't have to come up with them on their own. Write one tag per line."
-msgstr "Des étiquettes de projets par défaut peuvent être fournies aux utilisateur·rice·s pour qu'ils n'aient pas à les inventer eux-mêmes. Écrire une étiquette par ligne."
+msgstr "Des étiquettes de projets par défaut peuvent être fournies aux utilisateur·rice·s pour qu'ils n'aient pas à en créer eux-mêmes. Écrire une étiquette par ligne."
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:82
 msgid "Project Visibility"
@@ -4843,7 +4855,7 @@ msgstr "Cliquez sur le bouton \"Créer\" pour ajouter un nouvel utilisat.rice.eu
 
 #: engine-wizard/elm/Wizard/Users/Index/View.elm:63
 msgid "Last online"
-msgstr "Dernière fois en ligne"
+msgstr "Dernière connexion"
 
 #: engine-wizard/elm/Wizard/Users/Index/View.elm:92
 msgid "inactive"
