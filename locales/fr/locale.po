@@ -1,5 +1,5 @@
 msgid ""
-msgstr "Project-Id-Version: wizard-client:3.17.1\nPOT-Creation-Date: 2022-11-14T14:17:48.494Z\nPO-Revision-Date: 2022-12-18 11:34+0000\nLast-Translator: Marek Suchánek <marek.suchanek@ds-wizard.org>\nLanguage-Team: French <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-17-1/fr/>\nLanguage: fr\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 4.14.2\n"
+msgstr "Project-Id-Version: wizard-client:3.17.1\nPOT-Creation-Date: 2022-11-14T14:17:48.494Z\nPO-Revision-Date: 2023-01-10 07:34+0000\nLast-Translator: Marek Suchánek <marek.suchanek@ds-wizard.org>\nLanguage-Team: French <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-17-1/fr/>\nLanguage: fr\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 4.14.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -7,7 +7,7 @@ msgstr "Administrateur·rice"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:34
 msgid "Data Steward"
-msgstr "Gestionnaire des données"
+msgstr "Gestionnaire de données"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:39
 msgid "Researcher"
@@ -912,7 +912,7 @@ msgstr "Créer un nouveau commentaire..."
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1627
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1628
 msgid "Editor notes"
-msgstr "Notes de l'éditeur"
+msgstr "Notes du/de la rédacteur·rice"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1642
 msgid "Delete this comment thread?"
@@ -954,7 +954,7 @@ msgstr "Résoudre le fil de commentaires"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1748
 msgid "Reopen"
-msgstr "Rouvrir"
+msgstr "Ré-ouvrir"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1803
 msgid "edited"
@@ -1045,7 +1045,7 @@ msgstr "À faire"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2807
 msgid "Remove TODO"
-msgstr "Enlever `À faire`"
+msgstr "Effacer `À faire`"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2818
 msgid "Add TODO"
@@ -1401,7 +1401,7 @@ msgstr "À propos"
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:452
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:500
 msgid "Report issue"
-msgstr "Rapporter le problème"
+msgstr "Signaler le problème"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:469
 msgid "Collapse sidebar"
@@ -1530,7 +1530,7 @@ msgstr "Seuls les documents PDF sont activés dans cette instance."
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:208
 #: engine-wizard/elm/Wizard/Projects/Common/QuestionnaireEditFormMemberPerms.elm:63
 msgid "Editor"
-msgstr "Éditeur"
+msgstr "Rédacteur·rice"
 
 #: engine-wizard/elm/Wizard/Common/View/FormGroup.elm:447
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:216
@@ -1613,14 +1613,11 @@ msgstr "Étiquettes de questions"
 msgid ""
 "You can filter questions in the questionnaire by question tags. If no "
 "question tags are selected, all questions will be used."
-msgstr ""
-"Vous pouvez filtrer les questions du questionnaire par en utilisant des "
-"étiquettes de question. Si aucune étiquette de question n'est sélectionnée, "
-"toutes les questions seront utilisées."
+msgstr "Vous pouvez filtrer les questions du questionnaire en utilisant des étiquettes de question. Si aucune étiquette de question n'est sélectionnée, toutes les questions seront utilisées."
 
 #: engine-wizard/elm/Wizard/Common/View/Tag.elm:114
 msgid "There are no question tags for this knowledge model."
-msgstr "Il n'y a pas d'étiquettes de questions pour ce modèle de connaissances\"."
+msgstr "Il n'y a pas d'étiquettes de questions pour ce modèle de connaissances."
 
 #: engine-wizard/elm/Wizard/Common/View/Tag.elm:126
 msgid "No question tags"
@@ -1790,20 +1787,7 @@ msgid ""
 "You can create a new project from a project template that data stewards "
 "prepare for you to have an easier start or from scratch where you set up "
 "everything yourself."
-msgstr ""
-"Le projet est un espace de travail où vous créez votre PGD, ou plus "
-"généralement le questionnaire oú sera renseigné le modèle de connaissances "
-"choisi. Le projet est donc basé sur un modèle de connaissances qui décline "
-"les questions qui détaillent ce qui doit être demandé et comment en fonction "
-"du domaine de recherche ou des besoins de l'organisation. Vous pouvez "
-"utiliser des gabarits d'extraction pour transformer les réponses en un "
-"document. Ce document peut être n'importe quoi, du PDF au JSON exploitable "
-"par une machine. \n"
-"\n"
-"Vous pouvez créer un nouveau projet à partir d'un modèle de projet que les "
-"gestionnaires de données préparent pour vous afin de faciliter le "
-"démarrage ; vous pouvez aussi créer un nouveau projet à partir de zéro, où "
-"vous configurez tout vous-même."
+msgstr "Le projet est un espace de travail où vous créez votre PGD, ou plus généralement le questionnaire oú sera renseigné le modèle de connaissances choisi. Le projet est donc basé sur un modèle de connaissances qui décline les questions qui détaillent les renseignements désirés en fonction du domaine de recherche ou des besoins de l'organisation. Vous pouvez utiliser des gabarits d'extraction pour transformer les réponses en un document. Beaucoup de types de documents sont disponibles, du PDF au JSON exploitable par une machine. \n\nVous pouvez créer un nouveau projet à partir d'un modèle de projet que les gestionnaires de données préparent pour vous afin de faciliter le démarrage ; vous pouvez aussi créer un nouveau projet à partir de zéro, où vous configurez tout vous-même."
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ImportDocumentTemplateWidget.elm:13
 #: engine-wizard/elm/Wizard/Templates/Import/View.elm:44
@@ -2229,7 +2213,7 @@ msgstr ""
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:823
 msgid "No choices for multi-choice question"
-msgstr "Il n'y a pas de choix pour la question de type 'multichoix'"
+msgstr "Il n'y a pas de choix pour la question de type 'multi-choix'"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:852
 msgid "Empty label for answer"
@@ -2404,7 +2388,7 @@ msgstr "Intégration"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:748
 msgid "Multi-Choice"
-msgstr "Multi-Choix"
+msgstr "Multi-choix"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:755
 msgid "Never"
@@ -2480,7 +2464,7 @@ msgstr "Modèle d'élément"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:969
 msgid "String"
-msgstr "String"
+msgstr "Chaine de caractères"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:970
 msgid "Number"
@@ -2798,9 +2782,7 @@ msgstr "Configuration rapide"
 msgid ""
 "A string that identifies the integration. It has to be unique for each "
 "integration."
-msgstr ""
-"Une chaîne de charactères qui identifie l'intégration. Elle doit être unique "
-"pour chaque intégration."
+msgstr "Une chaîne de caractères qui identifie l'intégration. Elle doit être unique pour chaque intégration."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1600
 msgid ""
@@ -3144,7 +3126,7 @@ msgstr "Rechercher les éditeurs de KM..."
 #: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:70
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:131
 msgid "Updated"
-msgstr "Mis à jour"
+msgstr "Date de dernière modification"
 
 #: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:112
 msgid "Last published version"
@@ -3452,7 +3434,7 @@ msgstr "Créer un projet"
 #: engine-wizard/elm/Wizard/Templates/Detail/View.elm:51
 #: engine-wizard/elm/Wizard/Templates/Index/View.elm:162
 msgid "Export"
-msgstr "Export"
+msgstr "Exporter"
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Detail/View.elm:142
 msgid "This is not the latest available version of this Knowledge Model."
@@ -3970,11 +3952,11 @@ msgstr "Ajouter des utilisateur·rice·s"
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:363
 msgid "Other logged-in users can %s the project."
-msgstr "Les autres utilisateur·rice·s connecté.e·s peuvent %s le projet."
+msgstr "Les autres utilisateur·rice·s connecté·e·s peuvent %s le projet."
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:368
 msgid "Visible by all other logged-in users"
-msgstr "Visible par tous les autres utilisateur·rice·s connecté.e·s"
+msgstr "Visible par tous les autres utilisateur·rice·s connecté·e·s"
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:393
 msgid "Copy link"
@@ -4040,7 +4022,7 @@ msgstr "Suivez les instructions de l'interface de l'importateur."
 
 #: engine-wizard/elm/Wizard/Projects/Import/View.elm:46
 msgid "Import answers"
-msgstr "Importer les réponses"
+msgstr "Importer des réponses"
 
 #: engine-wizard/elm/Wizard/Projects/Import/View.elm:62
 msgid "%s questionnaire changes will be imported."
@@ -4665,10 +4647,7 @@ msgstr "Projets anonymes"
 msgid ""
 "If enabled, users that are not logged in are allowed to create projects from "
 "public knowledge models."
-msgstr ""
-"Si cette option est activée, les utilisateur·rice·s qui ne sont pas connecté."
-"e·s sont autorisé.e·s à créer des projets à partir de modèles de "
-"connaissances publics."
+msgstr "Si cette option est activée, les utilisateur·rice·s qui ne sont pas connecté·e·s sont autorisé·e·s à créer des projets à partir de modèles de connaissances publics."
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:57
 msgid "GitHub Repository Owner"
@@ -4714,10 +4693,7 @@ msgstr "Étiquettes de projet par défaut"
 msgid ""
 "Default projects tags can be provided to users so they don't have to come up "
 "with them on their own. Write one tag per line."
-msgstr ""
-"Des étiquettes de projets par défaut peuvent être fournies aux "
-"utilisateur·rice·s pour qu'ils n'aient pas à les inventer eux-mêmes. Écrire "
-"une étiquette par ligne."
+msgstr "Des étiquettes de projets par défaut peuvent être fournies aux utilisateur·rice·s pour qu'ils n'aient pas à en créer eux-mêmes. Écrire une étiquette par ligne."
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:82
 msgid "Project Visibility"
@@ -5087,7 +5063,7 @@ msgstr ""
 
 #: engine-wizard/elm/Wizard/Users/Index/View.elm:63
 msgid "Last online"
-msgstr "Dernière fois en ligne"
+msgstr "Dernière connexion"
 
 #: engine-wizard/elm/Wizard/Users/Index/View.elm:92
 msgid "inactive"
