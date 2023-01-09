@@ -1,16 +1,5 @@
 msgid ""
-msgstr ""
-"Project-Id-Version: wizard-client:3.18.3\n"
-"POT-Creation-Date: 2022-12-02T09:10:27.118Z\n"
-"PO-Revision-Date: 2022-12-13 13:47+0100\n"
-"Last-Translator: Paulette Lieby <paulette.lieby@france-bioinformatique.fr>\n"
-"Language-Team: French <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-18-3/fr/>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Poedit 3.0.1\n"
+msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2022-12-02T09:10:27.118Z\nPO-Revision-Date: 2023-01-10 07:34+0000\nLast-Translator: Marek Suchánek <marek.suchanek@ds-wizard.org>\nLanguage-Team: French <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-18-3/fr/>\nLanguage: fr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 4.14.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -454,7 +443,7 @@ msgstr "Prénom"
 #: engine-wizard/elm/Wizard/Users/Edit/View.elm:170
 #: engine-wizard/elm/Wizard/Users/Index/View.elm:60
 msgid "Last name"
-msgstr "Nom"
+msgstr "Nom de famille"
 
 #: engine-wizard/elm/Wizard/Apps/Detail/Update.elm:36
 msgid "Unable to get app."
@@ -525,7 +514,7 @@ msgstr "Créé le"
 #: engine-wizard/elm/Wizard/Apps/Detail/View.elm:115
 #: engine-wizard/elm/Wizard/Apps/Index/View.elm:59
 msgid "Updated at"
-msgstr "Mise à jour le"
+msgstr "Mis à jour le"
 
 #: engine-wizard/elm/Wizard/Apps/Detail/View.elm:118
 #: engine-wizard/elm/Wizard/Settings/View.elm:98
@@ -730,7 +719,7 @@ msgstr "Aucune donnée"
 
 #: engine-wizard/elm/Wizard/Common/Components/Listing/View.elm:572
 msgid "Updated %s"
-msgstr "Mise à jour %s"
+msgstr "Mis à jour %s"
 
 #: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:44
 #: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:54
@@ -1639,7 +1628,7 @@ msgstr "Vous pouvez filtrer les questions du questionnaire en utilisant des éti
 
 #: engine-wizard/elm/Wizard/Common/View/Tag.elm:114
 msgid "There are no question tags for this knowledge model."
-msgstr "Il n'y a pas d'étiquettes  de questions pour ce modèle de connaissances."
+msgstr "Il n'y a pas d'étiquettes de questions pour ce modèle de connaissances."
 
 #: engine-wizard/elm/Wizard/Common/View/Tag.elm:126
 msgid "No question tags"
@@ -3455,8 +3444,7 @@ msgstr "Le questionnaire n'a pas pu être enregistré."
 
 #: engine-wizard/elm/Wizard/Locales/Create/Update.elm:92
 msgid "Creating of the locale failed."
-msgstr "La création  de la localisation a échoué."
-
+msgstr "La création de la localisation a échoué."
 
 #: engine-wizard/elm/Wizard/Locales/Create/View.elm:40
 msgid "PO File"
