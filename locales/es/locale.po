@@ -1,5 +1,5 @@
 msgid ""
-msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2022-12-02T09:10:27.118Z\nPO-Revision-Date: 2022-12-22 13:34+0000\nLast-Translator: Remedios Melero <rmelero@iata.csic.es>\nLanguage-Team: Spanish <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-18-3/es/>\nLanguage: es\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.14.2\n"
+msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2022-12-02T09:10:27.118Z\nPO-Revision-Date: 2023-01-11 16:34+0000\nLast-Translator: Remedios Melero <rmelero@iata.csic.es>\nLanguage-Team: Spanish <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-18-3/es/>\nLanguage: es\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.14.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -262,27 +262,27 @@ msgstr "Error mientras se anlaizaba locale.jason:\"%s\"."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:180
 msgid "File \"%s\" was not found in archive."
-msgstr ""
+msgstr "El fichero \"%s\" no se encuentra en el archivo."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:183
 msgid "The locale not found in Registry"
-msgstr ""
+msgstr "El fichero locale no se encuentra en el directorio"
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:186
 msgid "Knowledge Model cannot be deleted because it is used in some Projects or Knowledge Model Editors."
-msgstr ""
+msgstr "El Knowledge Model no se puede borrar proque se usa en algunos proyectos o por los Knowledge Model Editors."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:189
 msgid "The Knowledge Model was not found in the Registry."
-msgstr ""
+msgstr "El Knowledge Model no se ha encotnrado en el directorio."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:192
 msgid "Project cannot be deleted because it is used in some project migration."
-msgstr "El proeycto no se puede borrar porque est á en uso en alguna migración de proyecto."
+msgstr "El proyecto no se puede borrar porque está en uso en alguna migración de proyecto."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:195
 msgid "The template was not found in the Registry."
-msgstr "La plantilla no se encuentra en el Registro."
+msgstr "La plantilla no se encuentra en el Directorio."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:198
 msgid "Incorrect email or password"
@@ -307,7 +307,7 @@ msgstr "Este no es un número válido."
 
 #: engine-shared/elm/Shared/Form.elm:33
 msgid "This should not be less than %s."
-msgstr ""
+msgstr "Esto no debe ser menor que %s."
 
 #: engine-shared/elm/Shared/Form.elm:36
 msgid "This should not be more than %s."
@@ -331,16 +331,16 @@ msgstr "Esta contraseña es poco robusta."
 
 #: engine-shared/elm/Shared/Form/Validate.elm:56
 msgid "This is a weak password."
-msgstr ""
+msgstr "Esta es una contraseña débil"
 
 #: engine-shared/elm/Shared/Form/Validate.elm:129
 #: engine-shared/elm/Shared/Form/Validate.elm:134
 msgid "Comma (,) is not allowed in project tags."
-msgstr ""
+msgstr "La coma (,) no está permitida en las etiquetas de proyecto."
 
 #: engine-wizard/elm/Wizard/Apps/Create/Update.elm:59
 msgid "App could not be created."
-msgstr ""
+msgstr "No se puede crear una app."
 
 #: engine-wizard/elm/Wizard/Apps/Create/View.elm:24
 msgid "Create app"
@@ -361,14 +361,14 @@ msgstr ""
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:79
 #: engine-wizard/elm/Wizard/Users/Index/View.elm:43
 msgid "Create"
-msgstr ""
+msgstr "Crear un app"
 
 #: engine-wizard/elm/Wizard/Apps/Create/View.elm:36
 #: engine-wizard/elm/Wizard/Apps/Detail/View.elm:112
 #: engine-wizard/elm/Wizard/Apps/Detail/View.elm:157
 #: engine-wizard/elm/Wizard/Apps/Index/View.elm:57
 msgid "App ID"
-msgstr ""
+msgstr "App ID"
 
 #: engine-wizard/elm/Wizard/Apps/Create/View.elm:37
 #: engine-wizard/elm/Wizard/Apps/Detail/View.elm:158
@@ -428,7 +428,7 @@ msgstr "Nombre"
 #: engine-wizard/elm/Wizard/Users/Edit/View.elm:167
 #: engine-wizard/elm/Wizard/Users/Index/View.elm:61
 msgid "Email"
-msgstr ""
+msgstr "Email"
 
 #: engine-wizard/elm/Wizard/Apps/Create/View.elm:39
 #: engine-wizard/elm/Wizard/Public/Signup/View.elm:130
@@ -436,7 +436,7 @@ msgstr ""
 #: engine-wizard/elm/Wizard/Users/Edit/View.elm:169
 #: engine-wizard/elm/Wizard/Users/Index/View.elm:59
 msgid "First name"
-msgstr ""
+msgstr "Nombre"
 
 #: engine-wizard/elm/Wizard/Apps/Create/View.elm:40
 #: engine-wizard/elm/Wizard/Public/Signup/View.elm:131
@@ -444,52 +444,52 @@ msgstr ""
 #: engine-wizard/elm/Wizard/Users/Edit/View.elm:170
 #: engine-wizard/elm/Wizard/Users/Index/View.elm:60
 msgid "Last name"
-msgstr ""
+msgstr "Apellido"
 
 #: engine-wizard/elm/Wizard/Apps/Detail/Update.elm:36
 msgid "Unable to get app."
-msgstr ""
+msgstr "No se puede obtener un app."
 
 #: engine-wizard/elm/Wizard/Apps/Detail/Update.elm:126
 msgid "App could not be saved."
-msgstr ""
+msgstr "No puede guardarse la app."
 
 #: engine-wizard/elm/Wizard/Apps/Detail/Update.elm:168
 msgid "Plan could not be created."
-msgstr ""
+msgstr "No puede crearse el plan."
 
 #: engine-wizard/elm/Wizard/Apps/Detail/Update.elm:210
 msgid "Plan could not be saved."
-msgstr ""
+msgstr "No puede guardarse el plan."
 
 #: engine-wizard/elm/Wizard/Apps/Detail/Update.elm:240
 msgid "Plan could not be deleted."
-msgstr ""
+msgstr "El plan no puede borrarse."
 
 #: engine-wizard/elm/Wizard/Apps/Detail/View.elm:55
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1678
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1736
 #: engine-wizard/elm/Wizard/Users/Index/View.elm:146
 msgid "Edit"
-msgstr ""
+msgstr "Editar"
 
 #: engine-wizard/elm/Wizard/Apps/Detail/View.elm:77
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/UsageWidget.elm:27
 #: engine-wizard/elm/Wizard/Settings/Usage/View.elm:22
 #: engine-wizard/elm/Wizard/Settings/View.elm:141
 msgid "Usage"
-msgstr ""
+msgstr "Uso"
 
 #: engine-wizard/elm/Wizard/Apps/Detail/View.elm:80
 #: engine-wizard/elm/Wizard/Settings/Plans/View.elm:22
 #: engine-wizard/elm/Wizard/Settings/View.elm:145
 msgid "Plans"
-msgstr ""
+msgstr "Planes"
 
 #: engine-wizard/elm/Wizard/Apps/Detail/View.elm:83
 #: engine-wizard/elm/Wizard/Apps/Detail/View.elm:196
 msgid "Add plan"
-msgstr ""
+msgstr "Añadir un plan"
 
 #: engine-wizard/elm/Wizard/Apps/Detail/View.elm:106
 #: engine-wizard/elm/Wizard/Apps/Detail/View.elm:113
@@ -499,48 +499,48 @@ msgstr ""
 #: engine-wizard/elm/Wizard/Settings/Registry/View.elm:88
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:62
 msgid "Enabled"
-msgstr ""
+msgstr "Habilitado"
 
 #: engine-wizard/elm/Wizard/Apps/Detail/View.elm:109
 #: engine-wizard/elm/Wizard/Apps/Index/View.elm:74
 #: engine-wizard/elm/Wizard/Locales/Detail/View.elm:188
 msgid "Disabled"
-msgstr ""
+msgstr "Deshabilitado"
 
 #: engine-wizard/elm/Wizard/Apps/Detail/View.elm:114
 #: engine-wizard/elm/Wizard/Apps/Index/View.elm:58
 msgid "Created at"
-msgstr ""
+msgstr "Creado en"
 
 #: engine-wizard/elm/Wizard/Apps/Detail/View.elm:115
 #: engine-wizard/elm/Wizard/Apps/Index/View.elm:59
 msgid "Updated at"
-msgstr ""
+msgstr "Actualizado en"
 
 #: engine-wizard/elm/Wizard/Apps/Detail/View.elm:118
 #: engine-wizard/elm/Wizard/Settings/View.elm:98
 msgid "Info"
-msgstr ""
+msgstr "Información"
 
 #: engine-wizard/elm/Wizard/Apps/Detail/View.elm:125
 msgid "Client URL"
-msgstr ""
+msgstr "URL cliente"
 
 #: engine-wizard/elm/Wizard/Apps/Detail/View.elm:126
 msgid "Server URL"
-msgstr ""
+msgstr "URL del servidor"
 
 #: engine-wizard/elm/Wizard/Apps/Detail/View.elm:129
 msgid "URLs"
-msgstr ""
+msgstr "URLs"
 
 #: engine-wizard/elm/Wizard/Apps/Detail/View.elm:141
 msgid "Admins"
-msgstr ""
+msgstr "Administradores"
 
 #: engine-wizard/elm/Wizard/Apps/Detail/View.elm:165
 msgid "Edit app"
-msgstr ""
+msgstr "Editar el app"
 
 #: engine-wizard/elm/Wizard/Apps/Detail/View.elm:169
 #: engine-wizard/elm/Wizard/Apps/Detail/View.elm:231
@@ -566,7 +566,7 @@ msgstr ""
 #: engine-wizard/elm/Wizard/Users/Edit/View.elm:81
 #: engine-wizard/elm/Wizard/Users/Edit/View.elm:189
 msgid "Save"
-msgstr ""
+msgstr "Guardar"
 
 #: engine-wizard/elm/Wizard/Apps/Detail/View.elm:186
 #: engine-wizard/elm/Wizard/Apps/Detail/View.elm:217
@@ -576,25 +576,25 @@ msgstr ""
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:480
 #: engine-wizard/elm/Wizard/Users/Index/View.elm:29
 msgid "Users"
-msgstr ""
+msgstr "Usuarios"
 
 #: engine-wizard/elm/Wizard/Apps/Detail/View.elm:187
 #: engine-wizard/elm/Wizard/Apps/Detail/View.elm:218
 #: engine-wizard/elm/Wizard/Common/Components/PlansList.elm:98
 msgid "From"
-msgstr ""
+msgstr "De"
 
 #: engine-wizard/elm/Wizard/Apps/Detail/View.elm:188
 #: engine-wizard/elm/Wizard/Apps/Detail/View.elm:219
 #: engine-wizard/elm/Wizard/Common/Components/PlansList.elm:99
 msgid "To"
-msgstr ""
+msgstr "A"
 
 #: engine-wizard/elm/Wizard/Apps/Detail/View.elm:189
 #: engine-wizard/elm/Wizard/Apps/Detail/View.elm:220
 #: engine-wizard/elm/Wizard/Common/Components/PlansList.elm:28
 msgid "Trial"
-msgstr ""
+msgstr "Prueba"
 
 #: engine-wizard/elm/Wizard/Apps/Detail/View.elm:200
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2280
@@ -605,19 +605,19 @@ msgstr ""
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:716
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:467
 msgid "Add"
-msgstr ""
+msgstr "Añadir"
 
 #: engine-wizard/elm/Wizard/Apps/Detail/View.elm:227
 msgid "Edit plan"
-msgstr ""
+msgstr "Editar el plan"
 
 #: engine-wizard/elm/Wizard/Apps/Detail/View.elm:247
 msgid "Are you sure you want to delete plan **%s**?"
-msgstr ""
+msgstr "¿Está seguro que quiere borrar el plan **%s**?"
 
 #: engine-wizard/elm/Wizard/Apps/Detail/View.elm:256
 msgid "Delete plan"
-msgstr ""
+msgstr "Borrar el plan"
 
 #: engine-wizard/elm/Wizard/Apps/Detail/View.elm:260
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1746
@@ -651,32 +651,32 @@ msgstr ""
 #: engine-wizard/elm/Wizard/Users/Index/View.elm:154
 #: engine-wizard/elm/Wizard/Users/Index/View.elm:183
 msgid "Delete"
-msgstr ""
+msgstr "Borrar"
 
 #: engine-wizard/elm/Wizard/Apps/Index/Update.elm:49
 msgid "Unable to get apps."
-msgstr ""
+msgstr "No es posible obtener las apps."
 
 #: engine-wizard/elm/Wizard/Apps/Index/View.elm:24
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:70
 msgid "Apps"
-msgstr ""
+msgstr "Apps"
 
 #: engine-wizard/elm/Wizard/Apps/Index/View.elm:36
 msgid "Enabled only"
-msgstr ""
+msgstr "Solo habilitados"
 
 #: engine-wizard/elm/Wizard/Apps/Index/View.elm:37
 msgid "Disabled only"
-msgstr ""
+msgstr "Solo deshabilitados"
 
 #: engine-wizard/elm/Wizard/Apps/Index/View.elm:46
 msgid "Click \"Create\" button to add a new App."
-msgstr ""
+msgstr "Presione el botón \"Crear\" para añadir una nueva App."
 
 #: engine-wizard/elm/Wizard/Apps/Index/View.elm:54
 msgid "Search apps..."
-msgstr ""
+msgstr "Búsqueda de apps..."
 
 #: engine-wizard/elm/Wizard/Auth/Update.elm:67
 msgid "Loading the profile info failed."
@@ -684,141 +684,141 @@ msgstr ""
 
 #: engine-wizard/elm/Wizard/Common/Components/Listing/View.elm:152
 msgid "Filter by name..."
-msgstr ""
+msgstr "Filtrar por nombre..."
 
 #: engine-wizard/elm/Wizard/Common/Components/Listing/View.elm:201
 msgid "Order by"
-msgstr ""
+msgstr "Ordenar por"
 
 #: engine-wizard/elm/Wizard/Common/Components/Listing/View.elm:367
 msgid "Clear selection"
-msgstr ""
+msgstr "Borrar la selección"
 
 #: engine-wizard/elm/Wizard/Common/Components/Listing/View.elm:445
 msgid "Last"
-msgstr ""
+msgstr "Ultimo"
 
 #: engine-wizard/elm/Wizard/Common/Components/Listing/View.elm:458
 msgid "Next"
-msgstr ""
+msgstr "Próximo"
 
 #: engine-wizard/elm/Wizard/Common/Components/Listing/View.elm:472
 msgid "Prev"
-msgstr ""
+msgstr "Previo"
 
 #: engine-wizard/elm/Wizard/Common/Components/Listing/View.elm:480
 msgid "First"
-msgstr ""
+msgstr "Primero"
 
 #: engine-wizard/elm/Wizard/Common/Components/Listing/View.elm:503
 msgid "There are no results matching your search and filters."
-msgstr ""
+msgstr "No existen resultados que se ajusten a su búsqueda y filtros."
 
 #: engine-wizard/elm/Wizard/Common/Components/Listing/View.elm:510
 msgid "No data"
-msgstr ""
+msgstr "No hay datos"
 
 #: engine-wizard/elm/Wizard/Common/Components/Listing/View.elm:572
 msgid "Updated %s"
-msgstr ""
+msgstr "%s actualizado"
 
 #: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:44
 #: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:54
 msgid "Anonymous Cat"
-msgstr ""
+msgstr "Gato anónimo"
 
 #: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:55
 msgid "Anonymous Crow"
-msgstr ""
+msgstr "Cuervo anónimo"
 
 #: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:56
 msgid "Anonymous Dog"
-msgstr ""
+msgstr "Perro anónimo"
 
 #: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:57
 msgid "Anonymous Dove"
-msgstr ""
+msgstr "Paloma anónima"
 
 #: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:58
 msgid "Anonymous Dragon"
-msgstr ""
+msgstr "Dragón anónimo"
 
 #: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:59
 msgid "Anonymous Fish"
-msgstr ""
+msgstr "Pez anónimo"
 
 #: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:60
 msgid "Anonymous Frog"
-msgstr ""
+msgstr "Rana anónima"
 
 #: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:61
 msgid "Anonymous Hippo"
-msgstr ""
+msgstr "Hipopótamo anónimo"
 
 #: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:62
 msgid "Anonymous Horse"
-msgstr ""
+msgstr "Caballo anónimo"
 
 #: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:63
 msgid "Anonymous Kiwi"
-msgstr ""
+msgstr "Kiwi anónimo"
 
 #: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:64
 msgid "Anonymous Otter"
-msgstr ""
+msgstr "Foca anónima"
 
 #: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:65
 msgid "Anonymous Spider"
-msgstr ""
+msgstr "Araña anónima"
 
 #: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:66
 msgid "Anonymous Pig"
-msgstr ""
+msgstr "Cerdo anónimo"
 
 #: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:67
 msgid "Anonymous Bug"
-msgstr ""
+msgstr "Bicho anónimo"
 
 #: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:68
 msgid "Anonymous Wizard"
-msgstr ""
+msgstr "Maga anónima"
 
 #: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:69
 msgid "Anonymous Ghost"
-msgstr ""
+msgstr "Fantasma anónimo"
 
 #: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:70
 msgid "Anonymous Robot"
-msgstr ""
+msgstr "Robot anónimo"
 
 #: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:71
 msgid "Anonymous Snowman"
-msgstr ""
+msgstr "Muñeco de nieve anónimo"
 
 #: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:72
 msgid "Anonymous Tree"
-msgstr ""
+msgstr "Árbol anónimo"
 
 #: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:73
 msgid "Anonymous Cowboy"
-msgstr ""
+msgstr "Vaquero anónimo"
 
 #: engine-wizard/elm/Wizard/Common/Components/PlansList.elm:50
 #: engine-wizard/elm/Wizard/Users/Edit/View.elm:111
 msgid "Active"
-msgstr ""
+msgstr "Activar"
 
 #: engine-wizard/elm/Wizard/Common/Components/PlansList.elm:82
 msgid "There are no plans for this instance."
-msgstr ""
+msgstr "No existen planes para este caso."
 
 #: engine-wizard/elm/Wizard/Common/Components/PlansList.elm:96
 msgid "Plan"
-msgstr ""
+msgstr "Plan"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:597
 msgid "Unable to get version history."
-msgstr ""
+msgstr "No se pueden obtener el histórico de versiones."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:894
 msgid "Unable to get type hints."
