@@ -1,6 +1,6 @@
 # Remedios Melero <rmelero@iata.csic.es>, 2023.
 msgid ""
-msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2023-01-03T08:31:04.766Z\nPO-Revision-Date: 2023-01-11 16:34+0000\nLast-Translator: Remedios Melero <rmelero@iata.csic.es>\nLanguage-Team: Spanish <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-19-0/es/>\nLanguage: es\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.14.2\n"
+msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2023-01-03T08:31:04.766Z\nPO-Revision-Date: 2023-02-08 17:34+0000\nLast-Translator: Remedios Melero <rmelero@iata.csic.es>\nLanguage-Team: Spanish <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-19-0/es/>\nLanguage: es\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.14.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -259,7 +259,7 @@ msgstr "\"locale.json\" no se encuentra en el archivo."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:177
 msgid "Error while parsing locale.json: \"%s\"."
-msgstr "Error mientras se anlaizaba locale.jason:\"%s\"."
+msgstr "Error mientras se analizaba locale.jason:\"%s\"."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:180
 msgid "File \"%s\" was not found in archive."
@@ -271,7 +271,7 @@ msgstr "El fichero locale no se encuentra en el directorio"
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:186
 msgid "Knowledge Model cannot be deleted because it is used in some Projects or Knowledge Model Editors."
-msgstr "El Knowledge Model no se puede borrar proque se usa en algunos proyectos o por los Knowledge Model Editors."
+msgstr "El Knowledge Model no se puede borrar porque se usa en algunos proyectos o por los Knowledge Model Editors."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:189
 msgid "The Knowledge Model was not found in the Registry."
@@ -311,7 +311,7 @@ msgstr "Esto no debe ser menor que %s."
 
 #: engine-shared/elm/Shared/Form.elm:36
 msgid "This should not be more than %s."
-msgstr ""
+msgstr "Esto no debe ser mas de %s"
 
 #: engine-shared/elm/Shared/Form.elm:41
 msgid "Passwords do not match!"
@@ -344,7 +344,7 @@ msgstr "No se puede crear una app."
 
 #: engine-wizard/elm/Wizard/Apps/Create/View.elm:24
 msgid "Create app"
-msgstr ""
+msgstr "Crear app"
 
 #: engine-wizard/elm/Wizard/Apps/Create/View.elm:29
 #: engine-wizard/elm/Wizard/Apps/Index/View.elm:102
@@ -681,7 +681,7 @@ msgstr "Búsqueda de apps..."
 
 #: engine-wizard/elm/Wizard/Auth/Update.elm:67
 msgid "Loading the profile info failed."
-msgstr ""
+msgstr "La carga de la información del  perfil falló."
 
 #: engine-wizard/elm/Wizard/Common/Components/Listing/View.elm:152
 msgid "Filter by name..."
@@ -827,7 +827,7 @@ msgstr ""
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1009
 msgid "project migration"
-msgstr ""
+msgstr "Migración de proyecto"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1012
 msgid "There is an ongoing %s. Finish it before you can continue editing this project."
