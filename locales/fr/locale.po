@@ -1,17 +1,6 @@
 # Marek Suchánek <marek.suchanek@ds-wizard.org>, 2023.
 msgid ""
-msgstr ""
-"Project-Id-Version: wizard-client:3.18.3\n"
-"POT-Creation-Date: 2023-01-03T08:31:04.766Z\n"
-"PO-Revision-Date: 2023-01-25 14:03+0100\n"
-"Last-Translator: Marek Suchánek <marek.suchanek@ds-wizard.org>\n"
-"Language-Team: French <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-19-0/fr/>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Poedit 3.0.1\n"
+msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2023-01-03T08:31:04.766Z\nPO-Revision-Date: 2023-02-12 10:34+0000\nLast-Translator: Marek Suchánek <marek.suchanek@ds-wizard.org>\nLanguage-Team: French <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-19-0/fr/>\nLanguage: fr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 4.14.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -1130,7 +1119,7 @@ msgstr "Problème %s"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire/FeedbackModal.elm:132
 msgid "You can follow the GitHub %s."
-msgstr "Vous pouvez suivre le GitHub ou GitLab %s."
+msgstr "Vous pouvez suivre le GitHub %s."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire/FeedbackModal.elm:141
 #: engine-wizard/elm/Wizard/Documents/Index/View.elm:361
@@ -1442,7 +1431,7 @@ msgstr "Réduire la barre latérale"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:514
 msgid "If you find any problem, the best way to report it is to open an issue in our GitHub repository."
-msgstr "Si vous rencontrez un problème, la meilleure façon de le signaler est d'ouvrir un problème/issue dans notre dépôt GitHub ou GitLab."
+msgstr "Si vous rencontrez un problème, la meilleure façon de le signaler est d'ouvrir un problème/issue dans notre dépôt GitHub."
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:526
 msgid "You can also write us an email to %s."
@@ -4585,7 +4574,7 @@ msgstr "Si cette option est activée, les utilisateur·rice·s qui ne sont pas c
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:57
 msgid "GitHub Repository Owner"
-msgstr "Propriétaire du repository GitHub ou GitLab"
+msgstr "Propriétaire du repository GitHub"
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:58
 msgid "ht&#8203;tps://github.com/**exampleOwner**/exampleRepository"
