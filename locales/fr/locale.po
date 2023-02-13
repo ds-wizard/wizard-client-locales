@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wizard-client:3.18.3\n"
 "POT-Creation-Date: 2023-01-03T08:31:04.766Z\n"
-"PO-Revision-Date: 2023-01-25 14:03+0100\n"
+"PO-Revision-Date: 2023-02-13 11:33+0100\n"
 "Last-Translator: Marek Suchánek <marek.suchanek@ds-wizard.org>\n"
 "Language-Team: French <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-19-0/fr/>\n"
 "Language: fr\n"
@@ -676,11 +676,11 @@ msgstr "Applications"
 
 #: engine-wizard/elm/Wizard/Apps/Index/View.elm:36
 msgid "Enabled only"
-msgstr "Seulement activé"
+msgstr "Uniquement activé"
 
 #: engine-wizard/elm/Wizard/Apps/Index/View.elm:37
 msgid "Disabled only"
-msgstr "Seulement désactivé"
+msgstr "Uniquement désactivé"
 
 #: engine-wizard/elm/Wizard/Apps/Index/View.elm:46
 msgid "Click \"Create\" button to add a new App."
