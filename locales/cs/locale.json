@@ -3,7 +3,7 @@
     "localeId": "cs",
     "version": "0.2.0",
     "code": "cs",
-    "recommendedAppVersion": "3.19.0",
+    "recommendedAppVersion": "3.20.1",
     "name": "Czech",
     "description": "Czech locale for Wizard UI",
     "license": "CC-BY-4.0"
