@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wizard-client:3.18.3\n"
 "POT-Creation-Date: 2023-02-08T10:17:15.148Z\n"
-"PO-Revision-Date: 2023-02-13 11:43+0100\n"
+"PO-Revision-Date: 2023-02-14 13:49+0100\n"
 "Last-Translator: Marek Suchánek <marek.suchanek@ds-wizard.org>\n"
 "Language-Team: French <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-20-1/fr/>\n"
 "Language: fr\n"
@@ -5113,7 +5113,7 @@ msgstr "Dernière connexion"
 
 #: engine-wizard/elm/Wizard/Users/Index/View.elm:92
 msgid "inactive"
-msgstr "inacti.ve.f"
+msgstr "inactif.ve"
 
 #: engine-wizard/elm/Wizard/Users/Index/View.elm:174
 msgid "Are you sure you want to permanently delete the following user?"
