@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wizard-client:3.18.3\n"
 "POT-Creation-Date: 2023-02-08T10:17:15.148Z\n"
-"PO-Revision-Date: 2023-02-16 08:53+0100\n"
+"PO-Revision-Date: 2023-02-16 15:24+0100\n"
 "Last-Translator: Marek Suchánek <marek.suchanek@ds-wizard.org>\n"
 "Language-Team: French <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-20-1/fr/>\n"
 "Language: fr\n"
@@ -1590,7 +1590,7 @@ msgstr "Seuls les documents PDF sont activés dans cette instance."
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:208
 #: engine-wizard/elm/Wizard/Projects/Common/QuestionnaireEditFormMemberPerms.elm:63
 msgid "Editor"
-msgstr "Rédacteur·rice"
+msgstr "Rédaction"
 
 #: engine-wizard/elm/Wizard/Common/View/FormGroup.elm:458
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/TemplateEditor.elm:375
