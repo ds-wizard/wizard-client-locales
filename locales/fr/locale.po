@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wizard-client:3.18.3\n"
 "POT-Creation-Date: 2023-02-08T10:17:15.148Z\n"
-"PO-Revision-Date: 2023-02-16 15:24+0100\n"
+"PO-Revision-Date: 2023-02-22 10:29+0100\n"
 "Last-Translator: Marek Suchánek <marek.suchanek@ds-wizard.org>\n"
 "Language-Team: French <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-20-1/fr/>\n"
 "Language: fr\n"
@@ -1457,7 +1457,7 @@ msgstr "À propos"
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:479
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:527
 msgid "Report issue"
-msgstr "Signaler le problème"
+msgstr "Signaler un problème"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:496
 msgid "Collapse sidebar"
