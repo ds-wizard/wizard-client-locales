@@ -1,6 +1,7 @@
 # Rob Hooft <rob.hooft@health-ri.nl>, 2023.
+# Marek Suchánek <marek.suchanek@ds-wizard.org>, 2023.
 msgid ""
-msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2023-02-08T10:17:15.148Z\nPO-Revision-Date: 2023-02-12 10:34+0000\nLast-Translator: Rob Hooft <rob.hooft@health-ri.nl>\nLanguage-Team: Dutch <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-20-1/nl/>\nLanguage: nl\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.14.2\n"
+msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2023-02-08T10:17:15.148Z\nPO-Revision-Date: 2023-02-27 09:12+0000\nLast-Translator: Marek Suchánek <marek.suchanek@ds-wizard.org>\nLanguage-Team: Dutch <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-20-1/nl/>\nLanguage: nl\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.14.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -2073,7 +2074,6 @@ msgid "Unable to get template files"
 msgstr "Kan sjabloonbestanden niet ophalen"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/FileEditor.elm:291
-#, fuzzy
 msgid "Unable to get template assets"
 msgstr "Kan sjabloon-assets niet ophalen"
 
@@ -2117,9 +2117,8 @@ msgstr "Maak een bestand"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/FileEditor.elm:894
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/FileEditor/AssetUploadModal.elm:142
-#, fuzzy
 msgid "Upload an asset"
-msgstr "Upload een asset"
+msgstr "Upload een sjabloon-asset"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/FileEditor.elm:915
 msgid "New file"
@@ -2130,9 +2129,8 @@ msgid "New folder"
 msgstr "Nieuwe map"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/FileEditor/AssetUploadModal.elm:110
-#, fuzzy
 msgid "Unable to upload asset."
-msgstr "Kan asset niet uploaden"
+msgstr "Kan sjabloon-asset niet uploaden"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/FileEditor/AssetUploadModal.elm:172
 msgid "Choose file"
