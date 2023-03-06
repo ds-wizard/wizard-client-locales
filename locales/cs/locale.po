@@ -1,7 +1,7 @@
 # Marek Suchánek <marek.suchanek@ds-wizard.org>, 2023.
 # Kryštof Komanec <krystof.komanec@gmail.com>, 2023.
 msgid ""
-msgstr "Project-Id-Version: wizard-client:3.17.1\nPOT-Creation-Date: 2023-02-08T10:17:15.148Z\nPO-Revision-Date: 2023-03-06 14:13+0000\nLast-Translator: Kryštof Komanec <krystof.komanec@gmail.com>\nLanguage-Team: Czech <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-20-1/cs/>\nLanguage: cs\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 4.14.2\n"
+msgstr "Project-Id-Version: wizard-client:3.17.1\nPOT-Creation-Date: 2023-02-08T10:17:15.148Z\nPO-Revision-Date: 2023-03-06 14:26+0000\nLast-Translator: Kryštof Komanec <krystof.komanec@gmail.com>\nLanguage-Team: Czech <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-20-1/cs/>\nLanguage: cs\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 4.14.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -1554,8 +1554,8 @@ msgstr[2] "přibližně %s měsíci"
 msgid "1 month"
 msgid_plural "%s months"
 msgstr[0] "1 měsíc"
-msgstr[1] "%s měsíce"
-msgstr[2] "%s měsíců"
+msgstr[1] "%s měsíci"
+msgstr[2] "%s měsíci"
 
 #: engine-wizard/elm/Wizard/Common/TimeDistance.elm:56
 msgid "about 1 year"
@@ -1567,9 +1567,9 @@ msgstr[2] "přibližně %s roky"
 #: engine-wizard/elm/Wizard/Common/TimeDistance.elm:59
 msgid "over 1 year"
 msgid_plural "over %s years"
-msgstr[0] "více než 1 rok"
+msgstr[0] "více než 1 rokem"
 msgstr[1] "více než %s roky"
-msgstr[2] "více než %s roků"
+msgstr[2] "více než %s roky"
 
 #: engine-wizard/elm/Wizard/Common/TimeDistance.elm:62
 msgid "almost 1 year"
