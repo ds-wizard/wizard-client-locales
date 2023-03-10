@@ -1,7 +1,7 @@
 # Marek Suchánek <marek.suchanek@ds-wizard.org>, 2023.
 # Paulette Lieby <paulette.lieby@france-bioinformatique.fr>, 2023.
 msgid ""
-msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2023-03-07T10:30:15.037Z\nPO-Revision-Date: 2023-03-10 13:24+0000\nLast-Translator: Paulette Lieby <paulette.lieby@france-bioinformatique.fr>\nLanguage-Team: French <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-21-0/fr/>\nLanguage: fr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 4.14.2\n"
+msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2023-03-07T10:30:15.037Z\nPO-Revision-Date: 2023-03-10 14:09+0000\nLast-Translator: Paulette Lieby <paulette.lieby@france-bioinformatique.fr>\nLanguage-Team: French <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-21-0/fr/>\nLanguage: fr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 4.14.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -3121,7 +3121,7 @@ msgstr "Utilisez ceci pour définir un identifiant pour l'élément. Il sera uti
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1512
 msgid "This defines how the found items will be displayed for the user. You can use properties from the returned item in Jinja2 notation, you can also use Markdown for some formatting. For example, if the returned item has a field called name, you can use `**{{item.name}}**` to display the name in bold."
-msgstr "Ceci définit comment les éléments trouvés seront affichés pour l'utilisat.rice.eur. Vous pouvez utiliser les propriétés de l'élément retourné en notation Jinja2, vous pouvez également utiliser Markdown pour certains formatages. Par exemple, si l'élément retourné a un champ appelé name, vous pouvez utiliser `**{{item.name}}**` pour afficher le nom en gras."
+msgstr "Ceci définit comment les éléments trouvés seront affichés pour l'utilisat·eur·rice. Vous pouvez utiliser les propriétés de l'élément retourné en notation Jinja2, vous pouvez également utiliser Markdown pour certains formatages. Par exemple, si l'élément retourné a un champ appelé name, vous pouvez utiliser `**{{item.name}}**` pour afficher le nom en gras."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1516
 msgid "Defines the URL to the selected item. Use `${id}` to get the value defined in **Response Item ID** field, for example `https://example.com/${id}`."
@@ -3262,7 +3262,7 @@ msgstr "L'entité du modèle de connaissances que vous essayez d'ouvrir n'existe
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1948
 msgid "Click to copy UUID"
-msgstr "Cliquez pour copier l'UUID"
+msgstr "Cliquer pour copier l'UUID"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1963
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2155
@@ -4778,7 +4778,7 @@ msgstr "Modifier le logo"
 
 #: engine-wizard/elm/Wizard/Settings/LookAndFeel/LogoUploadModal.elm:179
 msgid "Choose logo"
-msgstr "Choisissez un logo"
+msgstr "Choisir un logo"
 
 #: engine-wizard/elm/Wizard/Settings/LookAndFeel/LogoUploadModal.elm:184
 msgid "Use default logo"
@@ -5021,7 +5021,7 @@ msgstr "Si cette option est activée, les utilisateur·rice·s peuvent étiquete
 
 #: engine-wizard/elm/Wizard/Settings/Registry/Update.elm:103
 msgid "You have signed up for the Registry, you should receive a confirmation email soon."
-msgstr "Vous vous êtes inscrit au Registry, vous devriez bientôt recevoir un courriel de confirmation."
+msgstr "Vous vous êtes inscrit au DSW Registry, vous devriez bientôt recevoir un courriel de confirmation."
 
 #: engine-wizard/elm/Wizard/Settings/Registry/Update.elm:109
 msgid "Sign up request failed."
@@ -5033,7 +5033,7 @@ msgstr "Token"
 
 #: engine-wizard/elm/Wizard/Settings/Registry/View.elm:80
 msgid "Fill in your DSW Registry token. If you don't have one, you need sign up first."
-msgstr "Renseignez votre jeton de Registry DSW. Si vous n'en avez pas, vous devez vous inscrire d'abord."
+msgstr "Renseignez votre jeton de DSW Registry. Si vous n'en avez pas, vous devez vous inscrire d'abord."
 
 #: engine-wizard/elm/Wizard/Settings/Registry/View.elm:89
 msgid "If enabled, you can import Knowledge Models and Document Templates directly from [DSW Registry](https://registry.ds-wizard.org)."
@@ -5082,7 +5082,7 @@ msgstr "Propriétés de l'utilisat.rice.eur"
 
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:113
 msgid "You can create properties that can be set by each user in their profile. Then, you can use these properties in the request settings. For example, if you want each user to use their own authorization token, you can create a property called `Token` and use it in request headers as `${Token}`. Users will be able to set the token in their profile settings."
-msgstr "Vous pouvez créer des propriétés qui peuvent être définies par chaque utilisat.rice.eur dans son profil. Ensuite, vous pouvez utiliser ces propriétés dans les paramètres de la requête. Par exemple, si vous voulez que chaque utilisat.rice.eur utilise son propre jeton d'autorisation, vous pouvez créer une propriété appelée `Token` et l'utiliser dans les en-têtes de requête sous la forme `${Token}`. Les utilisateur·rice·s pourront définir le jeton dans les paramètres de leur profil."
+msgstr "Vous pouvez créer des propriétés qui peuvent être définies par chaque utilisat·eur·rice dans son profil. Ensuite, vous pouvez utiliser ces propriétés dans les paramètres de la requête. Par exemple, si vous voulez que chaque utilisat·eur·rice utilise son propre jeton d'autorisation, vous pouvez créer une propriété appelée `Token` et l'utiliser dans les en-têtes de requête sous la forme `${Token}`. Les utilisateur·rice·s pourront définir le jeton dans les paramètres de leur profil."
 
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:218
 msgid "Multipart File Name"
@@ -5181,7 +5181,7 @@ msgstr "L'utilisat.rice.eur n'a pas pu être supprimé.e."
 
 #: engine-wizard/elm/Wizard/Users/Index/View.elm:53
 msgid "Click \"Create\" button to add a new User."
-msgstr "Cliquez sur le bouton \"Créer\" pour ajouter un nouvel utilisat.rice.eur."
+msgstr "Cliquez sur le bouton \"Créer\" pour ajouter un nouvel utilisat·eur·rice."
 
 #: engine-wizard/elm/Wizard/Users/Index/View.elm:63
 msgid "Last online"
