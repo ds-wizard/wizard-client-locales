@@ -1,17 +1,7 @@
 # Rob Hooft <rob.hooft@health-ri.nl>, 2023.
 # Marek Suchánek <marek.suchanek@ds-wizard.org>, 2023.
 msgid ""
-msgstr ""
-"Project-Id-Version: wizard-client:3.18.3\n"
-"POT-Creation-Date: 2023-03-07T10:30:15.037Z \n"
-"PO-Revision-Date: 2023-02-27 09:12+0000\n"
-"Last-Translator: Marek Suchánek <marek.suchanek@ds-wizard.org>\n"
-"Language-Team: Dutch <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-20-1/nl/>\n"
-"Language: nl\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.14.2\n"
+msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2023-03-07T10:30:15.037Z\nPO-Revision-Date: 2023-03-10 14:09+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Dutch <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-21-0/nl/>\nLanguage: nl\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.14.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -135,8 +125,9 @@ msgid "Private"
 msgstr "Privé"
 
 #: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireVisibility.elm:146
+#, fuzzy
 msgid "Visible only to the owner and invited users."
-msgstr ""
+msgstr "Alleen zichtbaar voor de eigenaar en uitgenodigde gebruikers."
 
 #: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireVisibility.elm:149
 msgid "Visible - View"
@@ -249,8 +240,9 @@ msgid "App ID is already used."
 msgstr "App ID is al gebruikt."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:162
+#, fuzzy
 msgid "File with this name already exists."
-msgstr ""
+msgstr "Bestand met deze naam bestaat al."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:165
 msgid "Authentication Code is not provided."
@@ -309,8 +301,9 @@ msgid "Incorrect email or password"
 msgstr "Incorrect e-mail of wachtwoord"
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:207
+#, fuzzy
 msgid "Incorrect authentication code"
-msgstr ""
+msgstr "Onjuiste verificatiecode"
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:210
 msgid "The account is not activated."
@@ -1109,8 +1102,9 @@ msgid "Feedback"
 msgstr "Feedback"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2882
+#, fuzzy
 msgid "Copied!"
-msgstr ""
+msgstr "Gekopieerd!"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2885
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:393
@@ -1484,8 +1478,9 @@ msgid "Collapse sidebar"
 msgstr "Zijbalk inklappen"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:511
+#, fuzzy
 msgid "If you find any problem, you can report an issue here:"
-msgstr ""
+msgstr "Als u een probleem vindt, kunt u dat hier melden:"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:523
 msgid "You can also write us an email to %s."
@@ -2136,8 +2131,9 @@ msgid "Upload"
 msgstr "Upload"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/FileEditor.elm:882
+#, fuzzy
 msgid "Move to opposite group"
-msgstr ""
+msgstr "Ga naar de tegenovergestelde groep"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/FileEditor.elm:1136
 msgid "Open a file from the file tree"
@@ -2148,8 +2144,9 @@ msgid "or"
 msgstr "of"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/FileEditor.elm:1139
+#, fuzzy
 msgid "Create new"
-msgstr ""
+msgstr "Nieuw aanmaken"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/FileEditor.elm:1161
 msgid "New file"
@@ -2160,12 +2157,14 @@ msgid "New folder"
 msgstr "Nieuwe map"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/FileEditor/AssetUploadModal.elm:146
+#, fuzzy
 msgid "Unable to upload file."
-msgstr ""
+msgstr "Kan geen bestand uploaden."
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/FileEditor/AssetUploadModal.elm:218
+#, fuzzy
 msgid "Upload file"
-msgstr ""
+msgstr "Bestand uploaden"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/FileEditor/AssetUploadModal.elm:248
 msgid "Choose file"
@@ -2315,16 +2314,18 @@ msgstr "Waarde"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Update.elm:59
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Update.elm:95
+#, fuzzy
 msgid "There are unsaved changes."
-msgstr ""
+msgstr "Er zijn niet opgeslagen veranderingen."
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Update.elm:142
 msgid "Unable to get document template"
 msgstr "Kan documentsjabloon niet ophalen"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/View.elm:90
+#, fuzzy
 msgid "Discard"
-msgstr ""
+msgstr "Gooi"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/View.elm:94
 msgid "unsaved changes"
@@ -2477,8 +2478,9 @@ msgid "Importing the document template failed."
 msgstr "Importeren van het documentsjabloon mislukt."
 
 #: engine-wizard/elm/Wizard/DocumentTemplates/Import/FileImport/View.elm:47
+#, fuzzy
 msgid "This doesn't look like a document template. Are you sure you picked the correct file?"
-msgstr ""
+msgstr "Dit lijkt niet op een documentsjabloon. Weet je zeker dat je het juiste bestand hebt gekozen?"
 
 #: engine-wizard/elm/Wizard/DocumentTemplates/Import/FileImport/View.elm:82
 #: engine-wizard/elm/Wizard/KnowledgeModels/Import/FileImport/View.elm:86
@@ -3762,12 +3764,14 @@ msgid "Registry Link"
 msgstr "Verwijzing naar het register"
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Import/FileImport/Update.elm:71
+#, fuzzy
 msgid "Importing the knowledge model failed."
-msgstr ""
+msgstr "Het importeren van het kennismodel is mislukt."
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Import/FileImport/View.elm:51
+#, fuzzy
 msgid "This doesn't look like a knowledge model. Are you sure you picked the correct file?"
-msgstr ""
+msgstr "Dit lijkt niet op een kennismodel. Weet je zeker dat je het juiste bestand hebt gekozen?"
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Import/OwlImport/Update.elm:85
 msgid "Importing the package failed."
@@ -3895,8 +3899,9 @@ msgid "Importing the locale failed."
 msgstr "Importeren van de vertaling is mislukt."
 
 #: engine-wizard/elm/Wizard/Locales/Import/FileImport/View.elm:47
+#, fuzzy
 msgid "This doesn't look like locale. Are you sure you picked the correct file?"
-msgstr ""
+msgstr "Dit lijkt niet op locale. Weet je zeker dat je het juiste bestand hebt gekozen?"
 
 #: engine-wizard/elm/Wizard/Locales/Import/RegistryImport/Update.elm:32
 msgid "Unable to import the locale."
@@ -4555,16 +4560,19 @@ msgid "Or connect with"
 msgstr "Of verbinden met"
 
 #: engine-wizard/elm/Wizard/Public/Login/View.elm:107
+#, fuzzy
 msgid "Please enter the authentication code from your email to verify your identity."
-msgstr ""
+msgstr "Voer de verificatiecode uit uw e-mail in om uw identiteit te verifiëren."
 
 #: engine-wizard/elm/Wizard/Public/Login/View.elm:117
+#, fuzzy
 msgid "Authentication Code"
-msgstr ""
+msgstr "Authenticatiecode"
 
 #: engine-wizard/elm/Wizard/Public/Login/View.elm:123
+#, fuzzy
 msgid "Verify"
-msgstr ""
+msgstr "Controleer"
 
 #: engine-wizard/elm/Wizard/Public/Signup/Update.elm:64
 #: engine-wizard/elm/Wizard/Public/SignupConfirmation/Update.elm:32
@@ -4637,16 +4645,19 @@ msgid "Authentication"
 msgstr "Authenticatie"
 
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:59
+#, fuzzy
 msgid "Code Length"
-msgstr ""
+msgstr "Code Lengte"
 
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:60
+#, fuzzy
 msgid "Expiration"
-msgstr ""
+msgstr "Vervaldatum"
 
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:61
+#, fuzzy
 msgid "Expiration time of the authentication code in **seconds**."
-msgstr ""
+msgstr "Verlooptijd van de authenticatiecode in **seconden**."
 
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:68
 msgid "Default role"
@@ -4669,12 +4680,14 @@ msgid "If enabled, users can create new internal accounts directly in the instan
 msgstr "Als dit is ingeschakeld, kunnen gebruikers nieuwe interne accounts maken direct in de instantie."
 
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:73
+#, fuzzy
 msgid "Two-Factor Authentication"
-msgstr ""
+msgstr "Authenticatie met twee factoren"
 
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:74
+#, fuzzy
 msgid "If enabled, users first enter a username and password at login, and then they receive a one-time code to confirm the login on their email."
-msgstr ""
+msgstr "Indien ingeschakeld, voeren gebruikers bij het inloggen eerst een gebruikersnaam en wachtwoord in, waarna zij een eenmalige code ter bevestiging van het inloggen op hun e-mail ontvangen."
 
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:76
 msgid "External"
@@ -4705,12 +4718,14 @@ msgid "Parameters"
 msgstr "Parameters"
 
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:198
+#, fuzzy
 msgid "Background Color"
-msgstr ""
+msgstr "Achtergrondkleur"
 
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:201
+#, fuzzy
 msgid "Text Color"
-msgstr ""
+msgstr "Tekstkleur"
 
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:207
 msgid "Button Preview"
@@ -4917,28 +4932,34 @@ msgid "Support email displayed in the help modal."
 msgstr "Het ondersteuningsemail-adres dat wordt getoond in de help-popup."
 
 #: engine-wizard/elm/Wizard/Settings/PrivacyAndSupport/View.elm:44
+#, fuzzy
 msgid "Support Site Name"
-msgstr ""
+msgstr "Support Site Naam"
 
 #: engine-wizard/elm/Wizard/Settings/PrivacyAndSupport/View.elm:45
+#, fuzzy
 msgid "Name of the support site where users can report issues related to the service."
-msgstr ""
+msgstr "Naam van de ondersteuningssite waar gebruikers problemen in verband met de dienst kunnen melden."
 
 #: engine-wizard/elm/Wizard/Settings/PrivacyAndSupport/View.elm:46
+#, fuzzy
 msgid "Support Site URL"
-msgstr ""
+msgstr "Support Site URL"
 
 #: engine-wizard/elm/Wizard/Settings/PrivacyAndSupport/View.elm:47
+#, fuzzy
 msgid "URL of the support site where users can report issues related to the service."
-msgstr ""
+msgstr "URL van de ondersteuningssite waar gebruikers problemen met de dienst kunnen melden."
 
 #: engine-wizard/elm/Wizard/Settings/PrivacyAndSupport/View.elm:48
+#, fuzzy
 msgid "Support Site Icon"
-msgstr ""
+msgstr "Support Site Pictogram"
 
 #: engine-wizard/elm/Wizard/Settings/PrivacyAndSupport/View.elm:49
+#, fuzzy
 msgid "Icon of the support site using [Font Awesome](%s)."
-msgstr ""
+msgstr "Pictogram van de ondersteuningssite die [Font Awesome](%s) gebruikt."
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:44
 msgid "Anonymous Projects"
