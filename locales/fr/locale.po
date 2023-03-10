@@ -1,5 +1,5 @@
 msgid ""
-msgstr "Project-Id-Version: wizard-client:3.17.1\nPOT-Creation-Date: 2022-11-14T14:17:48.494Z\nPO-Revision-Date: 2023-02-12 10:34+0000\nLast-Translator: Marek Suchánek <marek.suchanek@ds-wizard.org>\nLanguage-Team: French <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-17-1/fr/>\nLanguage: fr\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 4.14.2\n"
+msgstr "Project-Id-Version: wizard-client:3.17.1\nPOT-Creation-Date: 2022-11-14T14:17:48.494Z\nPO-Revision-Date: 2023-03-11 14:12+0000\nLast-Translator: Paulette Lieby <paulette.lieby@france-bioinformatique.fr>\nLanguage-Team: French <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-17-1/fr/>\nLanguage: fr\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 4.14.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -185,11 +185,11 @@ msgstr "Vous n'avez pas la permission de lire cette page."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:109
 msgid "Knowledge Model ID is already used."
-msgstr "L'ID du modèle de connaissance est déjà utilisé."
+msgstr "L'ID du modèle de connaissances est déjà utilisé."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:112
 msgid "Knowledge Model already exists."
-msgstr "Le modèle de connaissance existe déjà."
+msgstr "Le modèle de connaissances existe déjà."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:115
 msgid "Template already exists."
@@ -655,11 +655,11 @@ msgstr "Applications"
 
 #: engine-wizard/elm/Wizard/Apps/Index/View.elm:36
 msgid "Enabled only"
-msgstr "Seulement activé"
+msgstr "Activé uniquement"
 
 #: engine-wizard/elm/Wizard/Apps/Index/View.elm:37
 msgid "Disabled only"
-msgstr "Seulement désactivé"
+msgstr "Désactivé uniquement"
 
 #: engine-wizard/elm/Wizard/Apps/Index/View.elm:46
 msgid "Click \"Create\" button to add a new App."
@@ -683,7 +683,7 @@ msgstr "Ordonner par"
 
 #: engine-wizard/elm/Wizard/Common/Components/Listing/View.elm:367
 msgid "Clear selection"
-msgstr "Effacer la sélection"
+msgstr "Supprimer la sélection"
 
 #: engine-wizard/elm/Wizard/Common/Components/Listing/View.elm:445
 msgid "Last"
@@ -983,7 +983,7 @@ msgstr "Réponse à %s par %s."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2219
 msgid "Clear answer"
-msgstr "Effacer la réponse"
+msgstr "Supprimer la réponse"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2277
 msgid "There are no answers yet."
@@ -1045,7 +1045,7 @@ msgstr "À faire"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2807
 msgid "Remove TODO"
-msgstr "Effacer `À faire`"
+msgstr "Supprimer `À faire`"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2818
 msgid "Add TODO"
@@ -1110,7 +1110,7 @@ msgstr "Problème %s"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire/FeedbackModal.elm:132
 msgid "You can follow the GitHub %s."
-msgstr "Vous pouvez suivre le GitHub %s."
+msgstr "Vous pouvez visiter le site de support %s."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire/FeedbackModal.elm:141
 #: engine-wizard/elm/Wizard/Documents/Index/View.elm:361
@@ -1206,7 +1206,7 @@ msgstr "Supprimer cette version"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire/History.elm:305
 msgid "Name this version"
-msgstr "Nommez cette version"
+msgstr "Nommer cette version"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire/History.elm:319
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:211
@@ -1401,7 +1401,7 @@ msgstr "À propos"
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:452
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:500
 msgid "Report issue"
-msgstr "Signaler le problème"
+msgstr "Signaler un problème"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:469
 msgid "Collapse sidebar"
@@ -1417,7 +1417,7 @@ msgstr ""
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:496
 msgid "You can also write us an email to %s."
-msgstr "Vous pouvez également nous écrire un e-mail à %s."
+msgstr "Vous pouvez également nous écrire un courriel à %s."
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:504
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:525
@@ -1530,7 +1530,7 @@ msgstr "Seuls les documents PDF sont activés dans cette instance."
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:208
 #: engine-wizard/elm/Wizard/Projects/Common/QuestionnaireEditFormMemberPerms.elm:63
 msgid "Editor"
-msgstr "Rédacteur·rice"
+msgstr "Rédaction"
 
 #: engine-wizard/elm/Wizard/Common/View/FormGroup.elm:447
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:216
@@ -1787,7 +1787,7 @@ msgid ""
 "You can create a new project from a project template that data stewards "
 "prepare for you to have an easier start or from scratch where you set up "
 "everything yourself."
-msgstr "Le projet est un espace de travail où vous créez votre PGD, ou plus généralement le questionnaire oú sera renseigné le modèle de connaissances choisi. Le projet est donc basé sur un modèle de connaissances qui décline les questions qui détaillent les renseignements désirés en fonction du domaine de recherche ou des besoins de l'organisation. Vous pouvez utiliser des gabarits d'extraction pour transformer les réponses en un document. Beaucoup de types de documents sont disponibles, du PDF au JSON exploitable par une machine. \n\nVous pouvez créer un nouveau projet à partir d'un modèle de projet que les gestionnaires de données préparent pour vous afin de faciliter le démarrage ; vous pouvez aussi créer un nouveau projet à partir de zéro, où vous configurez tout vous-même."
+msgstr "Le projet est un espace de travail où vous créez votre PGD, ou plus généralement le questionnaire oú sera renseigné le modèle de connaissances choisi. Le projet est donc basé sur un modèle de connaissances qui décline les questions qui détaillent les renseignements désirés en fonction du domaine de recherche ou des besoins de l'organisation. Vous pouvez utiliser des gabarits d'extraction pour transformer les réponses en un document. Beaucoup de types de formats de documents sont disponibles, du PDF au JSON exploitable par une machine.\n\nVous pouvez créer un nouveau projet à partir d'un modèle de projet que les gestionnaires de données préparent pour vous afin de faciliter le démarrage ; vous pouvez aussi créer un nouveau projet à partir de zéro, où vous configurez tout vous-même."
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ImportDocumentTemplateWidget.elm:13
 #: engine-wizard/elm/Wizard/Templates/Import/View.elm:44
@@ -1846,8 +1846,7 @@ msgstr "Mettre à jour les modèles de connaissances"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/OutdatedPackagesWidget.elm:36
 msgid "There are updates available for some knowledge models."
-msgstr ""
-"Il y a des mises à jour disponibles pour certains modèles de connaissance."
+msgstr "Il y a des mises à jour disponibles pour certains modèles de connaissances."
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/OutdatedPackagesWidget.elm:52
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/OutdatedTemplatesWidget.elm:52
@@ -2050,11 +2049,11 @@ msgstr "Erreur de soumission"
 
 #: engine-wizard/elm/Wizard/KMEditor/Common/DeleteModal.elm:75
 msgid "Knowledge model could not be deleted."
-msgstr "Le modèle de connaissance n'a pas pu être supprimé."
+msgstr "Le modèle de connaissances n'a pas pu être supprimé."
 
 #: engine-wizard/elm/Wizard/KMEditor/Common/DeleteModal.elm:100
 msgid "Delete knowledge model editor"
-msgstr "Supprimer l'éditeur de modèle de connaissance"
+msgstr "Supprimer l'éditeur de modèle de connaissances"
 
 #: engine-wizard/elm/Wizard/KMEditor/Common/UpgradeModal.elm:106
 msgid "Migration could not be created."
@@ -2073,7 +2072,7 @@ msgstr "- sélectionner le paquet parent -"
 
 #: engine-wizard/elm/Wizard/KMEditor/Common/UpgradeModal.elm:157
 msgid "Select the new parent knowledge model for %s."
-msgstr "Sélectionnez le nouveau modèle de connaissances parent pour %s."
+msgstr "Sélectionner le nouveau modèle de connaissances parent pour %s."
 
 #: engine-wizard/elm/Wizard/KMEditor/Common/UpgradeModal.elm:158
 msgid "New parent package"
@@ -2096,7 +2095,7 @@ msgstr "Le modèle de connaissances n'a pas pu être créé."
 #: engine-wizard/elm/Wizard/KnowledgeModels/Import/RegistryImport/View.elm:47
 #: engine-wizard/elm/Wizard/Settings/KnowledgeModels/View.elm:47
 msgid "Knowledge Model ID"
-msgstr "ID du modèle de connaissance"
+msgstr "ID du modèle de connaissances"
 
 #: engine-wizard/elm/Wizard/KMEditor/Create/View.elm:76
 msgid ""
@@ -2114,9 +2113,7 @@ msgstr "Basé sur"
 msgid ""
 "You can create a new Knowledge Model based on the existing one or start from "
 "scratch."
-msgstr ""
-"Vous pouvez créer un nouveau modèle de connaissances basé sur un modèle "
-"existant ou partir de zéro."
+msgstr "Vous pouvez créer un nouveau modèle de connaissances basé sur un modèle existant ou à partir de zéro."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:242
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:497
@@ -2291,7 +2288,7 @@ msgstr "URL non renseigné de widget pour l'intégration"
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:485
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:566
 msgid "Knowledge Model"
-msgstr "Modèle de connaissance"
+msgstr "Modèle de connaissances"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:498
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:219
@@ -2730,12 +2727,7 @@ msgid ""
 "properties from the returned item in Jinja2 notation, you can also use "
 "Markdown for some formatting. For example, if the returned item has a field "
 "called name, you can use `**{{item.name}}**` to display the name in bold."
-msgstr ""
-"Ceci définit comment les éléments trouvés seront affichés pour l'utilisat."
-"rice.eur. Vous pouvez utiliser les propriétés de l'élément retourné en "
-"notation Jinja2, vous pouvez également utiliser Markdown pour certains "
-"formatages. Par exemple, si l'élément retourné a un champ appelé name, vous "
-"pouvez utiliser `**{{item.name}}**` pour afficher le nom en gras."
+msgstr "Ceci définit comment les éléments trouvés seront affichés pour l'utilisat·eur·rice. Vous pouvez utiliser les propriétés de l'élément retourné en notation Jinja2, vous pouvez également utiliser Markdown pour certains formatages. Par exemple, si l'élément retourné a un champ appelé name, vous pouvez utiliser `**{{item.name}}**` pour afficher le nom en gras."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1516
 msgid ""
@@ -2911,7 +2903,7 @@ msgstr ""
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1948
 msgid "Click to copy UUID"
-msgstr "Cliquez pour copier l'UUID"
+msgstr "Cliquer pour copier l'UUID"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1963
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2155
@@ -3020,7 +3012,7 @@ msgstr "Le modèle de connaissances n'a pas pu être enregistré."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/Settings.elm:172
 msgid "This is not the latest version of the parent knowledge model."
-msgstr "Ceci n'est pas la dernière version du modèle de connaissance parent."
+msgstr "Ceci n'est pas la dernière version du modèle de connaissances parent."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/Settings.elm:177
 #: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:205
@@ -3030,7 +3022,7 @@ msgstr "Mise à niveau"
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/Settings.elm:184
 #: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:166
 msgid "Parent Knowledge Model"
-msgstr "Modèle de connaissance parent"
+msgstr "Modèle de connaissances parent"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/Settings.elm:196
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:503
@@ -3039,7 +3031,7 @@ msgstr "Zone de danger"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/Settings.elm:200
 msgid "Delete this knowledge model editor"
-msgstr "Supprimer cet éditeur de modèle de connaissance"
+msgstr "Supprimer cet éditeur de modèle de connaissances"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/Settings.elm:202
 msgid "Deleted knowledge model editors cannot be recovered."
@@ -3134,7 +3126,7 @@ msgstr "Dernière version publiée"
 
 #: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:129
 msgid "There is a new version of parent Knowledge Model."
-msgstr "Il y a une nouvelle version du modèle de connaissances parentales."
+msgstr "Il y a une nouvelle version du modèle de connaissances parent."
 
 #: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:135
 msgid ""
@@ -3381,7 +3373,7 @@ msgstr "Brève description du modèle de connaissances."
 
 #: engine-wizard/elm/Wizard/KMEditor/Publish/View.elm:78
 msgid "Readme"
-msgstr "Lisezmoi"
+msgstr "Lisez-moi"
 
 #: engine-wizard/elm/Wizard/KMEditor/Publish/View.elm:79
 msgid "Describe the Knowledge Model, you can use markdown."
@@ -3438,8 +3430,7 @@ msgstr "Exporter"
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Detail/View.elm:142
 msgid "This is not the latest available version of this Knowledge Model."
-msgstr ""
-"Ceci n'est pas la dernière version disponible de ce modèle de connaissance."
+msgstr "Ceci n'est pas la dernière version disponible de ce modèle de connaissances."
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Detail/View.elm:163
 #: engine-wizard/elm/Wizard/Templates/Detail/View.elm:120
@@ -3492,14 +3483,14 @@ msgstr "Télécharger"
 #: engine-wizard/elm/Wizard/KnowledgeModels/Import/OwlImport/View.elm:91
 #: engine-wizard/elm/Wizard/Templates/Import/FileImport/View.elm:65
 msgid "Choose a file"
-msgstr "Choisissez un fichier"
+msgstr "Choisir un fichier"
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Import/FileImport/View.elm:68
 #: engine-wizard/elm/Wizard/KnowledgeModels/Import/OwlImport/View.elm:94
 #: engine-wizard/elm/Wizard/Settings/LookAndFeel/LogoUploadModal.elm:180
 #: engine-wizard/elm/Wizard/Templates/Import/FileImport/View.elm:68
 msgid "Or just drop it here"
-msgstr "Ou déposez le ici"
+msgstr "Ou déposer ici"
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Import/OwlImport/View.elm:36
 msgid "File"
@@ -3553,7 +3544,7 @@ msgstr "De OWL"
 #: engine-wizard/elm/Wizard/KnowledgeModels/Import/View.elm:33
 #: engine-wizard/elm/Wizard/Templates/Import/View.elm:61
 msgid "From DSW Registry"
-msgstr "Du Registry DSW"
+msgstr "Du DSW Registry"
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Import/View.elm:41
 #: engine-wizard/elm/Wizard/Templates/Import/View.elm:72
@@ -3726,7 +3717,7 @@ msgstr "À partir d'un modèle de projet"
 
 #: engine-wizard/elm/Wizard/Projects/Create/View.elm:74
 msgid "Custom"
-msgstr "À partir d'un KM"
+msgstr "À partir d'un modèle de connaissances"
 
 #: engine-wizard/elm/Wizard/Projects/CreateMigration/Update.elm:150
 msgid "Questionnaire migration could not be created."
@@ -3760,7 +3751,7 @@ msgstr "Projet"
 
 #: engine-wizard/elm/Wizard/Projects/CreateMigration/View.elm:87
 msgid "Original Knowledge Model"
-msgstr "Modèle de connaissance original"
+msgstr "Modèle de connaissances original"
 
 #: engine-wizard/elm/Wizard/Projects/CreateMigration/View.elm:88
 msgid "Original version"
@@ -3768,7 +3759,7 @@ msgstr "Version originale"
 
 #: engine-wizard/elm/Wizard/Projects/CreateMigration/View.elm:94
 msgid "New Knowledge Model"
-msgstr "Nouveau modèle de connaissance"
+msgstr "Nouveau modèle de connaissances"
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/NewDocument.elm:162
 msgid "Unable to get questionnaire event."
@@ -4076,11 +4067,11 @@ msgstr "Aucune étiquette de projet trouvée"
 
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:315
 msgid "Search knowledge models..."
-msgstr "Rechercher les modèles de connaissance..."
+msgstr "Rechercher les modèles de connaissances..."
 
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:339
 msgid "No knowledge models found"
-msgstr "Aucun modèle de connaissance trouvé"
+msgstr "Aucun modèle de connaissances trouvé"
 
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:426
 #: engine-wizard/elm/Wizard/Users/Index/View.elm:57
@@ -4458,7 +4449,7 @@ msgstr "Paquets autorisés"
 
 #: engine-wizard/elm/Wizard/Settings/KnowledgeModels/View.elm:60
 msgid "Public Knowledge Models"
-msgstr "Modèles de connaissances publiques"
+msgstr "Modèles de connaissances publics"
 
 #: engine-wizard/elm/Wizard/Settings/KnowledgeModels/View.elm:61
 msgid ""
@@ -4482,7 +4473,7 @@ msgstr "Modifier le logo"
 
 #: engine-wizard/elm/Wizard/Settings/LookAndFeel/LogoUploadModal.elm:179
 msgid "Choose logo"
-msgstr "Choisissez un logo"
+msgstr "Choisir un logo"
 
 #: engine-wizard/elm/Wizard/Settings/LookAndFeel/LogoUploadModal.elm:184
 msgid "Use default logo"
@@ -4651,7 +4642,7 @@ msgstr "Si cette option est activée, les utilisateur·rice·s qui ne sont pas c
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:57
 msgid "GitHub Repository Owner"
-msgstr "Propriétaire du repository GitHub"
+msgstr "Propriétaire du site de support"
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:58
 msgid "ht&#8203;tps://github.com/**exampleOwner**/exampleRepository"
@@ -4785,9 +4776,7 @@ msgstr ""
 msgid ""
 "You have signed up for the Registry, you should receive a confirmation email "
 "soon."
-msgstr ""
-"Vous vous êtes inscrit au Registry, vous devriez bientôt recevoir un "
-"courriel de confirmation."
+msgstr "Vous vous êtes inscrit au DSW Registry, vous devriez bientôt recevoir un courriel de confirmation."
 
 #: engine-wizard/elm/Wizard/Settings/Registry/Update.elm:109
 msgid "Sign up request failed."
@@ -4801,9 +4790,7 @@ msgstr "Token"
 msgid ""
 "Fill in your DSW Registry token. If you don't have one, you need sign up "
 "first."
-msgstr ""
-"Renseignez votre jeton de Registry DSW. Si vous n'en avez pas, vous devez "
-"vous inscrire d'abord."
+msgstr "Renseignez votre jeton de DSW Registry. Si vous n'en avez pas, vous devez vous inscrire d'abord."
 
 #: engine-wizard/elm/Wizard/Settings/Registry/View.elm:89
 msgid ""
@@ -4874,14 +4861,7 @@ msgid ""
 "you want each user to use their own authorization token, you can create a "
 "property called `Token` and use it in request headers as `${Token}`. Users "
 "will be able to set the token in their profile settings."
-msgstr ""
-"Vous pouvez créer des propriétés qui peuvent être définies par chaque "
-"utilisat.rice.eur dans son profil. Ensuite, vous pouvez utiliser ces "
-"propriétés dans les paramètres de la requête. Par exemple, si vous voulez "
-"que chaque utilisat.rice.eur utilise son propre jeton d'autorisation, vous "
-"pouvez créer une propriété appelée `Token` et l'utiliser dans les en-têtes "
-"de requête sous la forme `${Token}`. Les utilisateur·rice·s pourront définir "
-"le jeton dans les paramètres de leur profil."
+msgstr "Vous pouvez créer des propriétés qui peuvent être définies par chaque utilisat·eur·rice dans son profil. Ensuite, vous pouvez utiliser ces propriétés dans les paramètres de la requête. Par exemple, si vous voulez que chaque utilisat·eur·rice utilise son propre jeton d'autorisation, vous pouvez créer une propriété appelée `Token` et l'utiliser dans les en-têtes de requête sous la forme `${Token}`. Les utilisateur·rice·s pourront définir le jeton dans les paramètres de leur profil."
 
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:218
 msgid "Multipart File Name"
@@ -5058,8 +5038,7 @@ msgstr "L'utilisat.rice.eur n'a pas pu être supprimé.e."
 
 #: engine-wizard/elm/Wizard/Users/Index/View.elm:53
 msgid "Click \"Create\" button to add a new User."
-msgstr ""
-"Cliquez sur le bouton \"Créer\" pour ajouter un nouvel utilisat.rice.eur."
+msgstr "Cliquez sur le bouton \"Créer\" pour ajouter un nouvel utilisat·eur·rice."
 
 #: engine-wizard/elm/Wizard/Users/Index/View.elm:63
 msgid "Last online"
@@ -5067,7 +5046,7 @@ msgstr "Dernière connexion"
 
 #: engine-wizard/elm/Wizard/Users/Index/View.elm:92
 msgid "inactive"
-msgstr "inacti.ve.f"
+msgstr "inactif.ve"
 
 #: engine-wizard/elm/Wizard/Users/Index/View.elm:174
 msgid "Are you sure you want to permanently delete the following user?"
