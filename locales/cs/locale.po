@@ -1,17 +1,7 @@
 # Marek Suchánek <marek.suchanek@ds-wizard.org>, 2023.
 # Kryštof Komanec <krystof.komanec@gmail.com>, 2023.
 msgid ""
-msgstr ""
-"Project-Id-Version: wizard-client:3.17.1\n"
-"POT-Creation-Date: 2023-03-07T10:30:15.037Z \n"
-"PO-Revision-Date: 2023-03-06 14:26+0000\n"
-"Last-Translator: Kryštof Komanec <krystof.komanec@gmail.com>\n"
-"Language-Team: Czech <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-20-1/cs/>\n"
-"Language: cs\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 4.14.2\n"
+msgstr "Project-Id-Version: wizard-client:3.17.1\nPOT-Creation-Date: 2023-03-07T10:30:15.037Z\nPO-Revision-Date: 2023-03-10 13:24+0000\nLast-Translator: Kryštof Komanec <krystof.komanec@gmail.com>\nLanguage-Team: Czech <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-21-0/cs/>\nLanguage: cs\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 4.14.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -136,7 +126,7 @@ msgstr "Soukromý"
 
 #: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireVisibility.elm:146
 msgid "Visible only to the owner and invited users."
-msgstr ""
+msgstr "Viditelné pouze pro vlastníka a pozvané uživatele."
 
 #: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireVisibility.elm:149
 msgid "Visible - View"
@@ -250,7 +240,7 @@ msgstr "ID aplikace je již použité."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:162
 msgid "File with this name already exists."
-msgstr ""
+msgstr "Soubor s tímto jménem již existuje."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:165
 msgid "Authentication Code is not provided."
@@ -310,7 +300,7 @@ msgstr "Nesprávný email nebo heslo"
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:207
 msgid "Incorrect authentication code"
-msgstr ""
+msgstr "Nesprávný autentizační kód"
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:210
 msgid "The account is not activated."
@@ -1111,7 +1101,7 @@ msgstr "Zpětná vazba"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2882
 msgid "Copied!"
-msgstr ""
+msgstr "Zkopírováno!"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2885
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:393
@@ -1486,7 +1476,7 @@ msgstr "Sbalit panel"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:511
 msgid "If you find any problem, you can report an issue here:"
-msgstr ""
+msgstr "Pokud narazíte na nějaký problém, můžete ho nahlásit zde:"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:523
 msgid "You can also write us an email to %s."
@@ -2147,7 +2137,7 @@ msgstr "Nahrát"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/FileEditor.elm:882
 msgid "Move to opposite group"
-msgstr ""
+msgstr "Přesunout do vedlejší skupiny"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/FileEditor.elm:1136
 msgid "Open a file from the file tree"
@@ -2159,7 +2149,7 @@ msgstr "nebo"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/FileEditor.elm:1139
 msgid "Create new"
-msgstr ""
+msgstr "Vytvořit nový"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/FileEditor.elm:1161
 msgid "New file"
@@ -2171,11 +2161,11 @@ msgstr "Nová složka"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/FileEditor/AssetUploadModal.elm:146
 msgid "Unable to upload file."
-msgstr ""
+msgstr "Nahrávání souboru se nezdařilo."
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/FileEditor/AssetUploadModal.elm:218
 msgid "Upload file"
-msgstr ""
+msgstr "Nahrát soubor"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/FileEditor/AssetUploadModal.elm:248
 msgid "Choose file"
@@ -2326,7 +2316,7 @@ msgstr "Hodnota"
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Update.elm:59
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Update.elm:95
 msgid "There are unsaved changes."
-msgstr ""
+msgstr "Změny nejsou uloženy."
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Update.elm:142
 msgid "Unable to get document template"
@@ -2334,7 +2324,7 @@ msgstr "Nelze získat šablonu dokumentů"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/View.elm:90
 msgid "Discard"
-msgstr ""
+msgstr "Zahodit"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/View.elm:94
 msgid "unsaved changes"
@@ -2488,7 +2478,7 @@ msgstr "Import šablony dokumentu selhal."
 
 #: engine-wizard/elm/Wizard/DocumentTemplates/Import/FileImport/View.elm:47
 msgid "This doesn't look like a document template. Are you sure you picked the correct file?"
-msgstr ""
+msgstr "Tohle nevypadá jako šablona dokumentu. Opravdu jste vybrali správný soubor?"
 
 #: engine-wizard/elm/Wizard/DocumentTemplates/Import/FileImport/View.elm:82
 #: engine-wizard/elm/Wizard/KnowledgeModels/Import/FileImport/View.elm:86
@@ -3773,11 +3763,11 @@ msgstr "Odkaz do Registry"
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Import/FileImport/Update.elm:71
 msgid "Importing the knowledge model failed."
-msgstr ""
+msgstr "Importování znalostního modelu selhalo."
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Import/FileImport/View.elm:51
 msgid "This doesn't look like a knowledge model. Are you sure you picked the correct file?"
-msgstr ""
+msgstr "Tohle nevypadá jako znalostní model. Opravdu jste vybrali správný soubor?"
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Import/OwlImport/Update.elm:85
 msgid "Importing the package failed."
@@ -3906,7 +3896,7 @@ msgstr "Importování překladu selhalo."
 
 #: engine-wizard/elm/Wizard/Locales/Import/FileImport/View.elm:47
 msgid "This doesn't look like locale. Are you sure you picked the correct file?"
-msgstr ""
+msgstr "Tohle nevypadá jako překlad. Opravdu jste vybrali správný soubor?"
 
 #: engine-wizard/elm/Wizard/Locales/Import/RegistryImport/Update.elm:32
 msgid "Unable to import the locale."
@@ -4568,15 +4558,15 @@ msgstr "Nebo se připojit přes"
 
 #: engine-wizard/elm/Wizard/Public/Login/View.elm:107
 msgid "Please enter the authentication code from your email to verify your identity."
-msgstr ""
+msgstr "Pro ověření vaší identity prosím zadejte autentizační kód z vašeho emailu."
 
 #: engine-wizard/elm/Wizard/Public/Login/View.elm:117
 msgid "Authentication Code"
-msgstr ""
+msgstr "Autentizační kód"
 
 #: engine-wizard/elm/Wizard/Public/Login/View.elm:123
 msgid "Verify"
-msgstr ""
+msgstr "Ověřit"
 
 #: engine-wizard/elm/Wizard/Public/Signup/Update.elm:64
 #: engine-wizard/elm/Wizard/Public/SignupConfirmation/Update.elm:32
@@ -4650,15 +4640,15 @@ msgstr "Autentizace"
 
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:59
 msgid "Code Length"
-msgstr ""
+msgstr "Délka kódu"
 
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:60
 msgid "Expiration"
-msgstr ""
+msgstr "Expirace"
 
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:61
 msgid "Expiration time of the authentication code in **seconds**."
-msgstr ""
+msgstr "Čas expirace autentizačního kódu v **sekundách**."
 
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:68
 msgid "Default role"
@@ -4682,11 +4672,11 @@ msgstr "Pokud je povoleno, pak mohou uživatelé vytvářet nové interní účt
 
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:73
 msgid "Two-Factor Authentication"
-msgstr ""
+msgstr "Dvoufaktorová autentizace"
 
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:74
 msgid "If enabled, users first enter a username and password at login, and then they receive a one-time code to confirm the login on their email."
-msgstr ""
+msgstr "Pokud je povoleno, uživatel při přihlašování nejprve zadá své uživatelské jméno a heslo, a poté obdrží emailem jednorázový kód pro potvrzení přihlášení."
 
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:76
 msgid "External"
@@ -4718,11 +4708,11 @@ msgstr "Parametry"
 
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:198
 msgid "Background Color"
-msgstr ""
+msgstr "Barva pozadí"
 
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:201
 msgid "Text Color"
-msgstr ""
+msgstr "Barva textu"
 
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:207
 msgid "Button Preview"
@@ -4930,27 +4920,27 @@ msgstr "Email podpory zobrazený v okně nápovědy."
 
 #: engine-wizard/elm/Wizard/Settings/PrivacyAndSupport/View.elm:44
 msgid "Support Site Name"
-msgstr ""
+msgstr "Název stránky podpory"
 
 #: engine-wizard/elm/Wizard/Settings/PrivacyAndSupport/View.elm:45
 msgid "Name of the support site where users can report issues related to the service."
-msgstr ""
+msgstr "Název stránky podpory, kde mohou uživatelé hlásit problémy související s touto službou."
 
 #: engine-wizard/elm/Wizard/Settings/PrivacyAndSupport/View.elm:46
 msgid "Support Site URL"
-msgstr ""
+msgstr "URL stránky podpory"
 
 #: engine-wizard/elm/Wizard/Settings/PrivacyAndSupport/View.elm:47
 msgid "URL of the support site where users can report issues related to the service."
-msgstr ""
+msgstr "URL stránky podpory, kde mohou uživatelé hlásit problémy související s touto službou."
 
 #: engine-wizard/elm/Wizard/Settings/PrivacyAndSupport/View.elm:48
 msgid "Support Site Icon"
-msgstr ""
+msgstr "Ikona stránky podpory"
 
 #: engine-wizard/elm/Wizard/Settings/PrivacyAndSupport/View.elm:49
 msgid "Icon of the support site using [Font Awesome](%s)."
-msgstr ""
+msgstr "Ikona stránky podpory využívá [Font Awesome](%s)."
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:44
 msgid "Anonymous Projects"
