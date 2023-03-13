@@ -1,5 +1,5 @@
 msgid ""
-msgstr "Project-Id-Version: wizard-client:3.17.1\nPOT-Creation-Date: 2022-11-14T14:17:48.494Z\nPO-Revision-Date: 2023-01-04 10:34+0000\nLast-Translator: Rob Hooft <rob.hooft@health-ri.nl>\nLanguage-Team: Dutch <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-17-1/nl/>\nLanguage: nl\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.14.2\n"
+msgstr "Project-Id-Version: wizard-client:3.17.1\nPOT-Creation-Date: 2022-11-14T14:17:48.494Z\nPO-Revision-Date: 2023-03-14 18:12+0000\nLast-Translator: Rob Hooft <rob.hooft@health-ri.nl>\nLanguage-Team: Dutch <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-17-1/nl/>\nLanguage: nl\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.14.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -887,8 +887,7 @@ msgstr "Er zijn geen waarschuwingen meer."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1503
 msgid "Click the %s icon to add new comments to a question."
-msgstr ""
-"Klik op het %s ikoon om nieuwe commentaren toe te voegen aan een vraag."
+msgstr "Klik op het %s pictogram om nieuwe commentaren toe te voegen aan een vraag."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1535
 msgid "Editor notes are only visible to project Editors and Owners."
@@ -4353,7 +4352,7 @@ msgstr "Parameters"
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:168
 #: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:275
 msgid "Icon"
-msgstr "Ikoon"
+msgstr "Pictogram"
 
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:176
 msgid "Background"
