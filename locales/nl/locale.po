@@ -1,6 +1,6 @@
 # Rob Hooft <rob.hooft@health-ri.nl>, 2023.
 msgid ""
-msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2023-01-03T08:31:04.766Z\nPO-Revision-Date: 2023-01-04 10:34+0000\nLast-Translator: Rob Hooft <rob.hooft@health-ri.nl>\nLanguage-Team: Dutch <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-19-0/nl/>\nLanguage: nl\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.14.2\n"
+msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2023-01-03T08:31:04.766Z\nPO-Revision-Date: 2023-03-14 18:12+0000\nLast-Translator: Rob Hooft <rob.hooft@health-ri.nl>\nLanguage-Team: Dutch <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-19-0/nl/>\nLanguage: nl\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.14.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -897,7 +897,7 @@ msgstr "Er zijn geen waarschuwingen meer."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1483
 msgid "Click the %s icon to add new comments to a question."
-msgstr "Klik op het %s ikoon om nieuwe commentaren toe te voegen aan een vraag."
+msgstr "Klik op het %s pictogram om nieuwe commentaren toe te voegen aan een vraag."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1515
 msgid "Editor notes are only visible to project Editors and Owners."
@@ -4330,7 +4330,7 @@ msgstr "Parameters"
 #: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:283
 #: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:309
 msgid "Icon"
-msgstr "Ikoon"
+msgstr "Pictogram"
 
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:176
 msgid "Background"
@@ -4476,7 +4476,7 @@ msgstr "Aangepaste menukoppelingen"
 
 #: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:182
 msgid "Configure additional links in the menu. Choose any free icon from the [Font Awesome](%s), e.g. *fas fa-magic*. Check *New window* if you want to open the link in a new window."
-msgstr "Configureer extra koppelingen in het menu. Kies een gratis ikoon uit [Font Awesome](%s), bijvoorbeeld *fas fa-magic*. Kies *Nieuw venster* als je de koppeling wilt openen in een nieuw venster."
+msgstr "Configureer extra koppelingen in het menu. Kies een gratis pictogram uit [Font Awesome](%s), bijvoorbeeld *fas fa-magic*. Kies *Nieuw venster* als je de koppeling wilt openen in een nieuw venster."
 
 #: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:199
 msgid "Login Info"
