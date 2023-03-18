@@ -1,0 +1,41 @@
+name: Package Locales
+
+on:
+  push:
+
+jobs:
+  package:
+    runs-on: ubuntu-latest
+
+    strategy:
+      fail-fast: false
+      matrix:
+        locale:
+          - cs
+          - fr
+          - nl
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v2
+      
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '18.x'
+          registry-url: 'https://registry.npmjs.org'
+
+      - name: Install DSW Locale Packager
+        run: |
+          npm install @ds-wizard/locale-packager@0.2.0
+
+      - name: Create locale package (unzipped)
+        run: |
+          mkdir out
+          npx dsw-locale-packager locales/${{ matrix.locale }} -o out/
+
+      - name: Upload packages as artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: ${{ matrix.locale }}-locale
+          path: out/
