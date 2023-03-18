@@ -1,0 +1,5 @@
+node_modules/
+out/
+locale.zip
+package-lock.json
+package.json
