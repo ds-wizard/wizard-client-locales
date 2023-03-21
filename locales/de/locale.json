@@ -1,0 +1,10 @@
+{
+    "organizationId": "dsw",
+    "localeId": "de",
+    "version": "0.1.0",
+    "code": "de",
+    "recommendedAppVersion": "3.21.0",
+    "name": "German",
+    "description": "German locale for Wizard UI",
+    "license": "CC-BY-4.0"
+}
