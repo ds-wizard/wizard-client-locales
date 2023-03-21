@@ -1,7 +1,7 @@
 {
     "organizationId": "dsw",
     "localeId": "cs",
-    "version": "0.3.0",
+    "version": "0.4.0",
     "code": "cs",
     "recommendedAppVersion": "3.21.0",
     "name": "Czech",

@@ -16,6 +16,8 @@
 
 ### Unreleased
 
+### 0.4.0
+
 * Updated for version 3.21.0
 
 ### 0.3.0

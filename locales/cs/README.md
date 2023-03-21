@@ -10,11 +10,16 @@
 * **Marek Suchánek** <[marek.suchanek@ds-wizard.org](mailto:marek.suchanek@ds-wizard.org)>
   * ORCID: [0000-0001-7525-9218](https://orcid.org/0000-0001-7525-9218)
   * GitHub: [@MarekSuchanek](https://github.com/MarekSuchanek)
+* **Kryštof Komanec** <[krystof.komanec@ds-wizard.org](mailto:krystof.komanec@ds-wizard.org)>
+  * ORCID: [0000-0003-3856-1682](https://orcid.org/0000-0003-3856-1682)
+  * GitHub: [@krystofkomanec](https://github.com/krystofkomanec)
 
 
 ## Changelog
 
 ### Unreleased
+
+### 0.4.0
 
 * Updated for version 3.21.0
 
