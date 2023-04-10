@@ -1,6 +1,6 @@
 # Marek Suchánek <marek.suchanek@ds-wizard.org>, 2023.
 msgid ""
-msgstr "Project-Id-Version: wizard-client:3.21.0\nPOT-Creation-Date: 2023-03-07T10:30:15.037Z\nPO-Revision-Date: 2023-03-11 14:13+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: German <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-21-0/de/>\nLanguage: de\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.14.2\n"
+msgstr "Project-Id-Version: wizard-client:3.21.0\nPOT-Creation-Date: 2023-03-07T10:30:15.037Z\nPO-Revision-Date: 2023-04-11 02:13+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: German <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-21-0/de/>\nLanguage: de\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.14.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 #, fuzzy
@@ -85,7 +85,7 @@ msgstr "Vorlagen & Benutzerdefiniert"
 #: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireCreation.elm:117
 #, fuzzy
 msgid "Projects can be created from project templates or with custom settings."
-msgstr "Projekte können aus Projektvorlagen oder mit benutzerdefinierten Einstellungen erstellt werden."
+msgstr "Projekte können anhand von Projektvorlagen oder mit eigenen Einstellungen erstellt werden."
 
 #: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireCreation.elm:120
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:89
@@ -209,7 +209,7 @@ msgstr "bearbeiten"
 #: engine-shared/elm/Shared/Error/ServerError.elm:101
 #, fuzzy
 msgid "You do not have permission to view this page."
-msgstr "Sie haben nicht die Erlaubnis, diese Seite zu sehen."
+msgstr "Sie haben keine Erlaubnis, diese Seite zu sehen."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:109
 #, fuzzy
@@ -1114,7 +1114,7 @@ msgstr "Klicken Sie auf das Symbol %s, um neue Kommentare zu einer Frage hinzuzu
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1556
 #, fuzzy
 msgid "Editor notes are only visible to project Editors and Owners."
-msgstr "Editorische Notizen sind nur für Projektbearbeiter und -verantwortliche sichtbar."
+msgstr "Redaktionsnotizen sind nur für Projektredakteure und -verantwortliche sichtbar."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1572
 #, fuzzy
@@ -1546,7 +1546,7 @@ msgstr "Version umbenennen"
 #: engine-wizard/elm/Wizard/Projects/CreateMigration/View.elm:97
 #, fuzzy
 msgid "New version"
-msgstr "Neue Version"
+msgstr "Neue Fassung"
 
 #: engine-wizard/elm/Wizard/Common/Components/QuestionnaireVersionTag.elm:20
 #, fuzzy
@@ -1663,7 +1663,7 @@ msgstr "Dokumente"
 #: engine-wizard/elm/Wizard/Locales/Index/View.elm:30
 #, fuzzy
 msgid "Locales"
-msgstr "Schauplätze"
+msgstr "Lokalitäten"
 
 #: engine-wizard/elm/Wizard/Common/Components/UsageTable.elm:25
 #, fuzzy
@@ -2010,7 +2010,7 @@ msgstr "Frage-Tags"
 #: engine-wizard/elm/Wizard/Common/View/Tag.elm:108
 #, fuzzy
 msgid "You can filter questions in the questionnaire by question tags. If no question tags are selected, all questions will be used."
-msgstr "Sie können die Fragen im Fragebogen nach Fragen-Tags filtern. Wenn keine Frage-Tags ausgewählt sind, werden alle Fragen verwendet."
+msgstr "Sie können die Fragen im Fragebogen nach Frage-Tags filtern. Wenn keine Frage-Tags ausgewählt sind, werden alle Fragen verwendet."
 
 #: engine-wizard/elm/Wizard/Common/View/Tag.elm:114
 #, fuzzy
@@ -2156,7 +2156,7 @@ msgstr "Projekt erstellen"
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/CreateProjectWidget.elm:14
 #, fuzzy
 msgid "Project is a workspace where you create your DMP. It is based on a knowledge model, which contains knowledge about what should be asked and how based on the research field or organization's needs. You can use document templates to transform the answers into a document. This document can be anything, from PDF to machine-actionable JSON.\n\nYou can create a new project from a project template that data stewards prepare for you to have an easier start or from scratch where you set up everything yourself."
-msgstr "Projekt ist ein Arbeitsbereich, in dem Sie Ihr DMP erstellen. Es basiert auf einem Wissensmodell, das Wissen darüber enthält, was gefragt werden sollte und wie, basierend auf dem Forschungsgebiet oder den Bedürfnissen der Organisation. Sie können Dokumentvorlagen verwenden, um die Antworten in ein Dokument zu verwandeln. Dieses Dokument kann alles sein, von PDF bis zu maschinenverarbeitbarem JSON.\n\nSie können ein neues Projekt auf der Grundlage einer Projektvorlage erstellen, die die Datenverwalter für Sie vorbereiten, um Ihnen den Start zu erleichtern, oder von Grund auf neu, indem Sie alles selbst einrichten."
+msgstr "Projekt ist ein Arbeitsbereich, in dem Sie Ihr DMP erstellen. Es basiert auf einem Wissensmodell, das Wissen darüber enthält, was gefragt werden sollte und wie, basierend auf dem Forschungsgebiet oder den Bedürfnissen der Organisation. Sie können Dokumentvorlagen verwenden, um die Antworten in ein Dokument umzuwandeln. Dieses Dokument kann alles sein, von PDF bis zu maschinenverarbeitbarem JSON.\n\nSie können ein neues Projekt auf der Grundlage einer Projektvorlage erstellen, die die Datenverwalter für Sie vorbereiten, um Ihnen den Start zu erleichtern, oder von Grund auf neu, indem Sie alles selbst einrichten."
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ImportDocumentTemplateWidget.elm:13
 #: engine-wizard/elm/Wizard/DocumentTemplates/Import/View.elm:44
@@ -3257,7 +3257,7 @@ msgstr "Leere Anfrage HTTP-Methode für Integration"
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:1008
 #, fuzzy
 msgid "Empty response item ID for integration"
-msgstr "Leere Antwortposten-ID für die Integration"
+msgstr "Leere Antwort-Identifikationsnummer für die Integration"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:1015
 #, fuzzy
@@ -3408,7 +3408,7 @@ msgstr "Wenn Sie einen Fragetyp ändern, werden alle Antworten gelöscht."
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:794
 #, fuzzy
 msgid "Changing a question type will remove all item questions."
-msgstr "Wenn Sie einen Fragetyp ändern, werden alle Fragen zum Thema entfernt."
+msgstr "Wenn Sie einen Fragetyp ändern, werden alle Fragen zu einem Element entfernt."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:804
 #, fuzzy
@@ -4092,7 +4092,7 @@ msgstr "Aktualisieren"
 #: engine-wizard/elm/Wizard/Projects/Detail/View.elm:75
 #, fuzzy
 msgid "Oops!"
-msgstr "Ups!"
+msgstr "Huch!"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/View.elm:63
 #: engine-wizard/elm/Wizard/Projects/Detail/View.elm:77
@@ -4485,7 +4485,7 @@ msgstr "Das sieht nicht wie ein Wissensmodell aus. Sind Sie sicher, dass Sie die
 #: engine-wizard/elm/Wizard/KnowledgeModels/Import/OwlImport/Update.elm:85
 #, fuzzy
 msgid "Importing the package failed."
-msgstr "Das Importieren des Pakets ist fehlgeschlagen."
+msgstr "Der Import des Pakets ist fehlgeschlagen."
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Import/OwlImport/View.elm:47
 #, fuzzy
@@ -4648,7 +4648,7 @@ msgstr "Das Gebietsschema kann nicht importiert werden."
 #: engine-wizard/elm/Wizard/Locales/Import/RegistryImport/View.elm:67
 #, fuzzy
 msgid "You can find locales in %s."
-msgstr "Gebietsschemata finden Sie in %s."
+msgstr "Sie finden die Gebietsschemata in %s."
 
 #: engine-wizard/elm/Wizard/Locales/Import/RegistryImport/View.elm:82
 #, fuzzy
@@ -4981,7 +4981,7 @@ msgstr "Alle Änderungen wurden gespeichert."
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/RevertModal.elm:109
 #, fuzzy
 msgid "Heads up! This action cannot be undone."
-msgstr "Aufgepasst! Diese Aktion kann nicht rückgängig gemacht werden."
+msgstr "Achtung, Achtung! Diese Aktion kann nicht rückgängig gemacht werden."
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/RevertModal.elm:112
 #, fuzzy
@@ -5953,7 +5953,7 @@ msgstr "ht&#8203;tps://github.com/**exampleOwner**/exampleRepository"
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:59
 #, fuzzy
 msgid "GitHub Repository Name"
-msgstr "GitHub-Repository-Name"
+msgstr "GitHub Repository Name"
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:60
 #, fuzzy
