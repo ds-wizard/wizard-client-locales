@@ -1,5 +1,5 @@
 msgid ""
-msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2023-03-07T10:30:15.037Z\nPO-Revision-Date: 2023-03-11 14:13+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Turkish <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-21-0/tr/>\nLanguage: tr\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.14.2\n"
+msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2023-03-07T10:30:15.037Z\nPO-Revision-Date: 2023-04-11 02:13+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Turkish <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-21-0/tr/>\nLanguage: tr\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.14.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 #, fuzzy
@@ -105,7 +105,7 @@ msgstr "Yalnızca özel"
 #: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireCreation.elm:125
 #, fuzzy
 msgid "Project templates feature is disabled, researchers have to choose knowledge model and set up everything."
-msgstr "Proje şablonları özelliği devre dışı bırakılmıştır, araştırmacılar bilgi modelini seçmek ve her şeyi ayarlamak zorundadır."
+msgstr "Proje şablonları özelliği devre dışı bırakılmıştır, araştırmacılar bilgi modelini seçmeli ve her şeyi ayarlamalıdır."
 
 #: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireSharing.elm:135
 #, fuzzy
@@ -877,7 +877,7 @@ msgstr "Birinci"
 #: engine-wizard/elm/Wizard/Common/Components/Listing/View.elm:503
 #, fuzzy
 msgid "There are no results matching your search and filters."
-msgstr "Aramanızla ve filtrelerinizle eşleşen sonuç yok."
+msgstr "Aramanızla ve filtrelerinizle eşleşen bir sonuç yok."
 
 #: engine-wizard/elm/Wizard/Common/Components/Listing/View.elm:510
 #, fuzzy
@@ -949,7 +949,7 @@ msgstr "Anonim Su Samuru"
 #: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:65
 #, fuzzy
 msgid "Anonymous Spider"
-msgstr "Anonim Örümcek"
+msgstr "İsimsiz Örümcek"
 
 #: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:66
 #, fuzzy
@@ -1287,7 +1287,7 @@ msgstr "Bu seçenek bazı takip sorularına yol açmaktadır."
 #, fuzzy
 msgid "1 comment"
 msgid_plural "%s comments"
-msgstr[0] "1 Yorum"
+msgstr[0] "1 yorum"
 msgstr[1] ""
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2831
@@ -1425,7 +1425,7 @@ msgstr "Bu soruyla ilgili halihazırda bildirilen bazı sorunlar var."
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire/FeedbackModal.elm:181
 #, fuzzy
 msgid "If you found something wrong with the question, you can send us your recommendation on how to improve it."
-msgstr "Soruda yanlış bir şey bulduysanız, nasıl geliştirebileceğimize dair önerinizi bize gönderebilirsiniz."
+msgstr "Soruda yanlış bir şey bulursanız, nasıl geliştirebileceğimize dair önerinizi bize gönderebilirsiniz."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire/FeedbackModal.elm:183
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:617
@@ -2107,7 +2107,7 @@ msgstr "Organizasyon Bilgilerini Yapılandırma"
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ConfigureOrganizationWidget.elm:14
 #, fuzzy
 msgid "Fill in your organization name and organization ID. For example, these values will be used with knowledge models created in this instance."
-msgstr "Kuruluş adınızı ve kuruluş kimliğinizi girin. Örneğin, bu değerler bu örnekte oluşturulan bilgi modelleri ile kullanılacaktır."
+msgstr "Kuruluş adınızı ve kuruluş kimliğinizi girin. Örneğin, bu değerler bu örnekte oluşturulan bilgi modelleriyle kullanılacaktır."
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ConnectRegistryWidget.elm:13
 #, fuzzy
@@ -2580,7 +2580,7 @@ msgstr "Dosya seçin"
 #: engine-wizard/elm/Wizard/Settings/LookAndFeel/LogoUploadModal.elm:180
 #, fuzzy
 msgid "Or just drop it here"
-msgstr "Ya da sadece buraya bırak"
+msgstr "Ya da sadece buraya bırakın"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Preview.elm:208
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Preview.elm:104
@@ -3755,7 +3755,7 @@ msgstr "Entegrasyonu tanımlayan bir dize. Her entegrasyon için benzersiz olmal
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1600
 #, fuzzy
 msgid "A name visible everywhere else in the KM Editor, such as when choosing the integration for a question."
-msgstr "Bir soru için entegrasyon seçerken olduğu gibi, KM Düzenleyicinin başka her yerinde görülebilen bir ad."
+msgstr "Bir soru için entegrasyon seçerken olduğu gibi KM Düzenleyicinin başka her yerinde görülebilen bir ad."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1602
 #, fuzzy
@@ -4222,7 +4222,7 @@ msgstr "Bilgi Modelini Düzenle"
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:160
 #, fuzzy
 msgid "Edit metric"
-msgstr "Metrik düzenleme"
+msgstr "Metrik düzenle"
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:166
 #, fuzzy
@@ -4967,7 +4967,7 @@ msgstr "Varsayılan belge şablonu artık desteklenmiyor."
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/ProjectSaving.elm:113
 #, fuzzy
 msgid "Saving..."
-msgstr "Tasarruf..."
+msgstr "Tasarruf."
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/ProjectSaving.elm:118
 #, fuzzy
@@ -5500,7 +5500,7 @@ msgstr "Hizmet Koşulları"
 #: engine-wizard/elm/Wizard/Public/Signup/View.elm:94
 #, fuzzy
 msgid "I have read %s and %s."
-msgstr "Ben %s ve %s okudum."
+msgstr "Ben %s ve %s'yi okudum."
 
 #: engine-wizard/elm/Wizard/Public/Signup/View.elm:100
 #, fuzzy
@@ -5999,7 +5999,7 @@ msgstr "Varsayılan Proje Görünürlüğü"
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:85
 #, fuzzy
 msgid "If *Project Visibility* is enabled, this value is pre-selected when creating a new project. If *Project Visibility* is disabled, this value is used implicitly for new projects."
-msgstr "Proje Görünürlüğü* etkinse, yeni bir proje oluşturulurken bu değer önceden seçilir. Proje Görünürlüğü* devre dışı bırakılırsa, bu değer yeni projeler için örtük olarak kullanılır."
+msgstr "Proje Görünürlüğü* etkinleştirilmişse, yeni bir proje oluşturulurken bu değer önceden seçilir. Proje Görünürlüğü* devre dışı bırakılırsa, bu değer yeni projeler için örtük olarak kullanılır."
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:87
 #, fuzzy
@@ -6192,7 +6192,7 @@ msgstr "Rol"
 #: engine-wizard/elm/Wizard/Users/Edit/Update.elm:83
 #, fuzzy
 msgid "Unable to get the user."
-msgstr "Kullanıcıya ulaşılamıyor."
+msgstr "Kullanıcı alınamıyor."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Update.elm:117
 #, fuzzy
