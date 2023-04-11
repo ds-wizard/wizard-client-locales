@@ -1,7 +1,7 @@
 # Rob Hooft <rob.hooft@health-ri.nl>, 2023.
 # Marek Suchánek <marek.suchanek@ds-wizard.org>, 2023.
 msgid ""
-msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2023-03-07T10:30:15.037Z\nPO-Revision-Date: 2023-03-14 07:43+0000\nLast-Translator: Rob Hooft <rob.hooft@health-ri.nl>\nLanguage-Team: Dutch <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-21-0/nl/>\nLanguage: nl\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.14.2\n"
+msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2023-03-07T10:30:15.037Z\nPO-Revision-Date: 2023-04-12 21:13+0000\nLast-Translator: Rob Hooft <rob.hooft@health-ri.nl>\nLanguage-Team: Dutch <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-21-0/nl/>\nLanguage: nl\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.14.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -539,7 +539,7 @@ msgstr "Gemaakt om"
 #: engine-wizard/elm/Wizard/Apps/Detail/View.elm:115
 #: engine-wizard/elm/Wizard/Apps/Index/View.elm:59
 msgid "Updated at"
-msgstr "Aangepast om"
+msgstr "Bijgewerkt om"
 
 #: engine-wizard/elm/Wizard/Apps/Detail/View.elm:118
 #: engine-wizard/elm/Wizard/Settings/View.elm:93
@@ -751,7 +751,7 @@ msgstr "Geen gegevens"
 #: engine-wizard/elm/Wizard/Common/Components/Listing/View.elm:572
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/RecentProjectsWidget.elm:73
 msgid "Updated %s"
-msgstr "%s gewijzigd"
+msgstr "%s bijgewerkt"
 
 #: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:44
 #: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:54
@@ -1861,7 +1861,7 @@ msgstr "Werk kennismodellen bij"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/OutdatedPackagesWidget.elm:36
 msgid "There are updates available for some knowledge models."
-msgstr "Voor sommige kennismodellen zijn updates beschikbaar."
+msgstr "Voor sommige kennismodellen zijn nieuwe versies beschikbaar."
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/OutdatedPackagesWidget.elm:52
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/OutdatedTemplatesWidget.elm:52
@@ -1871,7 +1871,7 @@ msgstr "Voor sommige kennismodellen zijn updates beschikbaar."
 #: engine-wizard/elm/Wizard/Locales/Index/View.elm:90
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:695
 msgid "update available"
-msgstr "updates beschikbaar"
+msgstr "nieuwe versies beschikbaar"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/OutdatedTemplatesWidget.elm:35
 msgid "Update Document Templates"
@@ -1879,7 +1879,7 @@ msgstr "Werk documentsjablonen bij"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/OutdatedTemplatesWidget.elm:36
 msgid "There are updates available for some document templates."
-msgstr "Voor sommige documentsjablonen zijn updates beschikbaar."
+msgstr "Voor sommige documentsjablonen zijn nieuwe versies beschikbaar."
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/RecentProjectsWidget.elm:43
 msgid "Recent Projects"
@@ -2349,7 +2349,7 @@ msgstr "Zoeken…"
 #: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:70
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:131
 msgid "Updated"
-msgstr "Gewijzigd"
+msgstr "Bijgewerkt"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Index/View.elm:68
 #: engine-wizard/elm/Wizard/DocumentTemplates/Index/View.elm:82
@@ -4135,7 +4135,7 @@ msgstr "Standaard documentsjabloon is niet ingesteld."
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Preview.elm:213
 msgid "Log in to update the default document template."
-msgstr "Log in om het ingestelde documentsjabloon te wijzigen."
+msgstr "Log in om het ingestelde documentsjabloon bij te werken."
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Preview.elm:217
 msgid "Before you can use preview you need to update the default document template."
@@ -4143,7 +4143,7 @@ msgstr "Voordat je de voorvertoning kunt gebruiken moet eerst een ander standaar
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Preview.elm:229
 msgid "Ask the Project owner to update the default document template."
-msgstr "Vraag de projecteigenaar om het standaard documentsjabloon te wijzigen."
+msgstr "Vraag de projecteigenaar om het standaard documentsjabloon in te stellen."
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Preview.elm:234
 msgid "Default document template is no longer supported."
@@ -5143,7 +5143,7 @@ msgstr "Kan gebruiker niet ophalen."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Update.elm:117
 msgid "Profile was successfully updated."
-msgstr "Profiel is succesvol aangepast."
+msgstr "Profiel is succesvol bijgewerkt."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Update.elm:123
 msgid "Profile could not be saved."
