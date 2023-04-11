@@ -1,17 +1,7 @@
 # Rob Hooft <rob.hooft@health-ri.nl>, 2023.
 # Marek Suchánek <marek.suchanek@ds-wizard.org>, 2023.
 msgid ""
-msgstr ""
-"Project-Id-Version: wizard-client:3.18.3\n"
-"POT-Creation-Date: 2023-04-11T14:13:38.017Z \n"
-"PO-Revision-Date: 2023-03-14 07:43+0000\n"
-"Last-Translator: Rob Hooft <rob.hooft@health-ri.nl>\n"
-"Language-Team: Dutch <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-21-0/nl/>\n"
-"Language: nl\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.14.2\n"
+msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2023-04-11T14:13:38.017Z\nPO-Revision-Date: 2023-04-11 18:59+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Dutch <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-22-1/nl/>\nLanguage: nl\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.14.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -275,44 +265,54 @@ msgid "Limit of %s reached (current: %s, limit: %s)"
 msgstr "Limiet van %s bereikt (nu: %s, limiet: %s)"
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:188
+#, fuzzy
 msgid "storage"
-msgstr ""
+msgstr "opslag"
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:195
+#, fuzzy
 msgid "users"
-msgstr ""
+msgstr "gebruikers"
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:198
+#, fuzzy
 msgid "active users"
-msgstr ""
+msgstr "actieve gebruikers"
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:201
+#, fuzzy
 msgid "knowledge model editors"
-msgstr ""
+msgstr "bewerkers van kennismodellen"
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:204
+#, fuzzy
 msgid "knowledge models"
-msgstr ""
+msgstr "kennismodellen"
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:207
+#, fuzzy
 msgid "projects"
-msgstr ""
+msgstr "projecten"
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:210
+#, fuzzy
 msgid "document templates"
-msgstr ""
+msgstr "documentsjablonen"
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:213
+#, fuzzy
 msgid "document template editors"
-msgstr ""
+msgstr "redacteuren voor documentsjablonen"
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:216
+#, fuzzy
 msgid "documents"
-msgstr ""
+msgstr "documenten"
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:219
+#, fuzzy
 msgid "locales"
-msgstr ""
+msgstr "locales"
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:230
 msgid "\"locale.json\" was not found in archive."
@@ -936,12 +936,14 @@ msgid "Question tags"
 msgstr "Vraag-tags"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1221
+#, fuzzy
 msgid "Non-desirable questions"
-msgstr ""
+msgstr "Niet-wenselijke vragen"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1226
+#, fuzzy
 msgid "Metric values"
-msgstr ""
+msgstr "Metrische waarden"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1242
 msgid "Import answers"
@@ -1072,16 +1074,19 @@ msgid "Answered %s by %s."
 msgstr "Beantwoord %s door %s."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2275
+#, fuzzy
 msgid "This question has been answered"
-msgstr ""
+msgstr "Deze vraag is beantwoord"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2278
+#, fuzzy
 msgid "This question should be answered now"
-msgstr ""
+msgstr "Deze vraag moet nu beantwoord worden"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2281
+#, fuzzy
 msgid "This question can be answered later"
-msgstr ""
+msgstr "Deze vraag kan later worden beantwoord"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2353
 msgid "Clear answer"
@@ -1567,8 +1572,9 @@ msgid "OK"
 msgstr "OK"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:563
+#, fuzzy
 msgid "Copy"
-msgstr ""
+msgstr "Kopie"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:600
 msgid "Style Version"
@@ -2186,8 +2192,9 @@ msgid "Unable to get file content"
 msgstr "Kan bestandsinhoud niet ophalen"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/FileEditor.elm:410
+#, fuzzy
 msgid "Unable to get asset"
-msgstr ""
+msgstr "Kan activa niet krijgen"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/FileEditor.elm:615
 msgid "Unable to save file"
@@ -2229,16 +2236,18 @@ msgid "New file"
 msgstr "Nieuw bestand"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/FileEditor.elm:1247
+#, fuzzy
 msgid "Add file"
-msgstr ""
+msgstr "Bestand toevoegen"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/FileEditor.elm:1260
 msgid "New folder"
 msgstr "Nieuwe map"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/FileEditor.elm:1276
+#, fuzzy
 msgid "Add folder"
-msgstr ""
+msgstr "Map toevoegen"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/FileEditor/AssetUploadModal.elm:146
 msgid "Unable to upload file."
@@ -2295,8 +2304,9 @@ msgid "Unable to publish document template"
 msgstr "Kan documentsjabloon niet publiceren"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/PublishModal.elm:120
+#, fuzzy
 msgid "Check the document template's metadata before publishing. You change them in %s."
-msgstr ""
+msgstr "Controleer de metadata van de documentsjabloon voordat u ze publiceert. U wijzigt ze in %s."
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/PublishModal.elm:131
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/PublishModal.elm:143
@@ -2383,13 +2393,15 @@ msgid "Allowed Knowledge Models"
 msgstr "Toegestane kennismodellen"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:295
+#, fuzzy
 msgid "Add knoweldge model"
-msgstr ""
+msgstr "Kennismodel toevoegen"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:332
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:109
+#, fuzzy
 msgid "Add format"
-msgstr ""
+msgstr "Formaat toevoegen"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:372
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:190
@@ -2403,8 +2415,9 @@ msgid "Steps"
 msgstr "Stappen"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:379
+#, fuzzy
 msgid "Add step"
-msgstr ""
+msgstr "Stap toevoegen"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:409
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:744
@@ -2412,8 +2425,9 @@ msgid "Options"
 msgstr "Opties"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:411
+#, fuzzy
 msgid "Add option"
-msgstr ""
+msgstr "Optie toevoegen"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:425
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:448
@@ -2643,8 +2657,9 @@ msgid "From file"
 msgstr "Vanuit een bestand"
 
 #: engine-wizard/elm/Wizard/DocumentTemplates/Index/Update.elm:60
+#, fuzzy
 msgid "Document template could not be updated."
-msgstr ""
+msgstr "Documentsjabloon kon niet worden aangemaakt."
 
 #: engine-wizard/elm/Wizard/DocumentTemplates/Index/View.elm:115
 msgid "unsupported metamodel"
@@ -2680,16 +2695,18 @@ msgid "Unable to get the Knowledge Model."
 msgstr "Kennismodel kon niet opgehaald worden."
 
 #: engine-wizard/elm/Wizard/KMEditor/Common/UpgradeModal.elm:151
+#, fuzzy
 msgid "- select parent knowledge model -"
-msgstr ""
+msgstr "- selecteer ouder kennismodel -"
 
 #: engine-wizard/elm/Wizard/KMEditor/Common/UpgradeModal.elm:157
 msgid "Select the new parent knowledge model for %s."
 msgstr "Selecteer het kennismodel waar %s van afgeleid wordt."
 
 #: engine-wizard/elm/Wizard/KMEditor/Common/UpgradeModal.elm:158
+#, fuzzy
 msgid "New parent knowledge model"
-msgstr ""
+msgstr "Nieuw model voor ouderkennis"
 
 #: engine-wizard/elm/Wizard/KMEditor/Common/UpgradeModal.elm:163
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:507
@@ -3484,8 +3501,9 @@ msgstr "Headerwaarde"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:716
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:229
+#, fuzzy
 msgid "Add header"
-msgstr ""
+msgstr "Koptekst toevoegen"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:45
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/TreeInput.elm:99
@@ -3498,8 +3516,9 @@ msgid "Collapse all"
 msgstr "Vouw alles samen"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/PhaseEditor.elm:96
+#, fuzzy
 msgid "There are no phases, create them first."
-msgstr ""
+msgstr "Er zijn geen fasen, maak ze eerst."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/PhaseEditor.elm:99
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/TagEditor.elm:107
@@ -3519,12 +3538,14 @@ msgid "Select none"
 msgstr "Selecteer niets"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/PublishModal.elm:93
+#, fuzzy
 msgid "Unable to publish knowledge model"
-msgstr ""
+msgstr "Kan kennismodel niet publiceren"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/PublishModal.elm:111
+#, fuzzy
 msgid "Check the knowledge model's metadata before publishing. You change them in %s."
-msgstr ""
+msgstr "Controleer de metadata van het kennismodel voordat u het publiceert. Je wijzigt ze in %s."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/Settings.elm:122
 msgid "Knowledge Model could not be saved."
@@ -3652,8 +3673,9 @@ msgid "Open Editor"
 msgstr "Open editor"
 
 #: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:197
+#, fuzzy
 msgid "Update"
-msgstr ""
+msgstr "Update"
 
 #: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:206
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:638
@@ -3839,8 +3861,9 @@ msgid "You can publish the new version now."
 msgstr "De nieuwe versie is nu klaar om te publiceren."
 
 #: engine-wizard/elm/Wizard/KMEditor/Publish/Update.elm:75
+#, fuzzy
 msgid "Unable to get the knowledge model details."
-msgstr ""
+msgstr "Kan de details van het kennismodel niet krijgen."
 
 #: engine-wizard/elm/Wizard/KMEditor/Publish/Update.elm:146
 msgid "Publishing the new version failed."
@@ -3875,8 +3898,9 @@ msgid "Last version"
 msgstr "Nieuwste versie"
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Common/KnowledgeModelActionsDropdown.elm:48
+#, fuzzy
 msgid "Open"
-msgstr ""
+msgstr "Open"
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Common/KnowledgeModelActionsDropdown.elm:84
 msgid "Create KM editor"
@@ -3892,8 +3916,9 @@ msgid "Create project"
 msgstr "Maak een project"
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Detail/Update.elm:59
+#, fuzzy
 msgid "Unable to update the knowledge model."
-msgstr ""
+msgstr "Kan het kennismodel niet bijwerken."
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Detail/Update.elm:95
 #: engine-wizard/elm/Wizard/KnowledgeModels/Index/Update.elm:86
@@ -3950,8 +3975,9 @@ msgid "From OWL"
 msgstr "Vanuit OWL"
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Index/Update.elm:56
+#, fuzzy
 msgid "Knowledge Model could not be updated."
-msgstr ""
+msgstr "Kennismodel kon niet worden aangemaakt."
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Index/View.elm:65
 msgid "Click \"Import\" button to import a new Knowledge Model."
@@ -4216,8 +4242,9 @@ msgstr "Aangepast"
 
 #: engine-wizard/elm/Wizard/Projects/CreateMigration/Update.elm:107
 #: engine-wizard/elm/Wizard/Projects/CreateMigration/Update.elm:123
+#, fuzzy
 msgid "Unable to get the knowledge model."
-msgstr ""
+msgstr "Kennismodel kon niet opgehaald worden."
 
 #: engine-wizard/elm/Wizard/Projects/CreateMigration/Update.elm:196
 msgid "Project migration could not be created."
@@ -4355,8 +4382,9 @@ msgid "This document template is no longer supported."
 msgstr "Dit documentsjabloon wordt niet langer ondersteund."
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:336
+#, fuzzy
 msgid "This document template is now deprecated."
-msgstr ""
+msgstr "Deze documentsjabloon is nu verouderd."
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:349
 msgid "Default document format"
@@ -4376,8 +4404,9 @@ msgid "Project Tags"
 msgstr "Projecttags"
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:490
+#, fuzzy
 msgid "This knowledge model is now deprecated."
-msgstr ""
+msgstr "Dit kennismodel is nu afgeschreven."
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:519
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:527
@@ -4853,8 +4882,9 @@ msgstr "OpenID services"
 
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:77
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:55
+#, fuzzy
 msgid "Add service"
-msgstr ""
+msgstr "Service toevoegen"
 
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:173
 msgid "Callback URL"
@@ -4877,8 +4907,9 @@ msgid "Parameters"
 msgstr "Parameters"
 
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:183
+#, fuzzy
 msgid "Add parameter"
-msgstr ""
+msgstr "Parameter toevoegen"
 
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:198
 msgid "Background Color"
@@ -4946,8 +4977,9 @@ msgid "Allowed Packages"
 msgstr "Toegestane pakketten"
 
 #: engine-wizard/elm/Wizard/Settings/KnowledgeModels/View.elm:53
+#, fuzzy
 msgid "Add knowledge model"
-msgstr ""
+msgstr "Kennismodel toevoegen"
 
 #: engine-wizard/elm/Wizard/Settings/KnowledgeModels/View.elm:60
 msgid "Public Knowledge Models"
@@ -5027,8 +5059,9 @@ msgid "Configure additional links in the menu. Choose any free icon from the [Fo
 msgstr "Configureer extra koppelingen in het menu. Kies een gratis pictogram uit [Font Awesome](%s), bijvoorbeeld *fas fa-magic*. Kies *Nieuw venster* als je de koppeling wilt openen in een nieuw venster."
 
 #: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:190
+#, fuzzy
 msgid "Add link"
-msgstr ""
+msgstr "Link toevoegen"
 
 #: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:197
 msgid "Login Info"
@@ -5282,8 +5315,9 @@ msgid "You can create properties that can be set by each user in their profile. 
 msgstr "Je kunt eigenschappen maken die door elke gebruiker in zijn profiel kunnen worden ingesteld. Vervolgens kunnen deze eigenschappen worden gebruikt in de request-instellingen. Als u bijvoorbeeld wilt dat elke gebruiker zijn eigen autorisatietoken gebruikt, kunt u een eigenschap met de naam `Token` maken en deze in request-headers gebruiken als `${Token}`. Gebruikers kunnen het token instellen in hun profielinstellingen."
 
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:114
+#, fuzzy
 msgid "Add property"
-msgstr ""
+msgstr "Eigenschap toevoegen"
 
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:218
 msgid "Multipart File Name"
