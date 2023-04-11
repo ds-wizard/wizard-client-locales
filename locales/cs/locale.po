@@ -1,7 +1,7 @@
 # Marek Suchánek <marek.suchanek@ds-wizard.org>, 2023.
 # Kryštof Komanec <krystof.komanec@gmail.com>, 2023.
 msgid ""
-msgstr "Project-Id-Version: wizard-client:3.17.1\nPOT-Creation-Date: 2023-04-11T14:13:38.017Z\nPO-Revision-Date: 2023-04-11 18:59+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Czech <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-22-1/cs/>\nLanguage: cs\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 4.14.2\n"
+msgstr "Project-Id-Version: wizard-client:3.17.1\nPOT-Creation-Date: 2023-04-11T14:13:38.017Z\nPO-Revision-Date: 2023-04-12 21:13+0000\nLast-Translator: Marek Suchánek <marek.suchanek@ds-wizard.org>\nLanguage-Team: Czech <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-22-1/cs/>\nLanguage: cs\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 4.14.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -265,54 +265,44 @@ msgid "Limit of %s reached (current: %s, limit: %s)"
 msgstr "Limit %s překročen (aktuálně: %s, limit: %s)"
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:188
-#, fuzzy
 msgid "storage"
-msgstr "skladování"
+msgstr "úložiště"
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:195
-#, fuzzy
 msgid "users"
-msgstr "uživatelé"
+msgstr "uživatelů"
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:198
-#, fuzzy
 msgid "active users"
-msgstr "aktivní uživatelé"
+msgstr "aktivních uživatelů"
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:201
-#, fuzzy
 msgid "knowledge model editors"
-msgstr "editory znalostních modelů"
+msgstr "editorů znalostních modelů"
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:204
-#, fuzzy
 msgid "knowledge models"
-msgstr "znalostní modely"
+msgstr "znalostních modely"
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:207
-#, fuzzy
 msgid "projects"
-msgstr "projekty"
+msgstr "projektů"
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:210
-#, fuzzy
 msgid "document templates"
-msgstr "šablony dokumentů"
+msgstr "šablon dokumentů"
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:213
-#, fuzzy
 msgid "document template editors"
-msgstr "editory šablon dokumentů"
+msgstr "editorů šablon dokumentů"
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:216
-#, fuzzy
 msgid "documents"
-msgstr "dokumenty"
+msgstr "dokumentů"
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:219
-#, fuzzy
 msgid "locales"
-msgstr "locales"
+msgstr "překladů"
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:230
 msgid "\"locale.json\" was not found in archive."
@@ -936,14 +926,12 @@ msgid "Question tags"
 msgstr "Štítky otázek"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1221
-#, fuzzy
 msgid "Non-desirable questions"
-msgstr "Nežádoucí otázky"
+msgstr "Nevyžadované otázky"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1226
-#, fuzzy
 msgid "Metric values"
-msgstr "Metrické hodnoty"
+msgstr "Hodnoty metrik"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1242
 msgid "Import answers"
@@ -1074,17 +1062,14 @@ msgid "Answered %s by %s."
 msgstr "Zodpovězeno %s (%s)."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2275
-#, fuzzy
 msgid "This question has been answered"
 msgstr "Tato otázka byla zodpovězena"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2278
-#, fuzzy
 msgid "This question should be answered now"
-msgstr "Tato otázka by měla být zodpovězena nyní"
+msgstr "Tato otázka by nyní měla být zodpovězena"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2281
-#, fuzzy
 msgid "This question can be answered later"
 msgstr "Na tuto otázku lze odpovědět později"
 
@@ -1573,7 +1558,6 @@ msgid "OK"
 msgstr "OK"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:563
-#, fuzzy
 msgid "Copy"
 msgstr "Kopírovat"
 
@@ -2202,9 +2186,8 @@ msgid "Unable to get file content"
 msgstr "Nelze získat obsah souboru"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/FileEditor.elm:410
-#, fuzzy
 msgid "Unable to get asset"
-msgstr "Nelze získat aktivum"
+msgstr "Nelze získat soubor"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/FileEditor.elm:615
 msgid "Unable to save file"
@@ -2246,7 +2229,6 @@ msgid "New file"
 msgstr "Nový soubor"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/FileEditor.elm:1247
-#, fuzzy
 msgid "Add file"
 msgstr "Přidat soubor"
 
@@ -2255,7 +2237,6 @@ msgid "New folder"
 msgstr "Nová složka"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/FileEditor.elm:1276
-#, fuzzy
 msgid "Add folder"
 msgstr "Přidat složku"
 
@@ -2314,7 +2295,6 @@ msgid "Unable to publish document template"
 msgstr "Nelze publikovat šablonu dokumentů"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/PublishModal.elm:120
-#, fuzzy
 msgid "Check the document template's metadata before publishing. You change them in %s."
 msgstr "Před zveřejněním zkontrolujte metadata šablony dokumentu. Změníte je v %s."
 
@@ -2403,13 +2383,11 @@ msgid "Allowed Knowledge Models"
 msgstr "Povolené znalostní modely"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:295
-#, fuzzy
 msgid "Add knoweldge model"
-msgstr "Přidat model knoweldge"
+msgstr "Přidat znalostní model"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:332
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:109
-#, fuzzy
 msgid "Add format"
 msgstr "Přidat formát"
 
@@ -2425,7 +2403,6 @@ msgid "Steps"
 msgstr "Kroky"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:379
-#, fuzzy
 msgid "Add step"
 msgstr "Přidat krok"
 
@@ -2435,9 +2412,8 @@ msgid "Options"
 msgstr "Možnosti (1 z n)"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:411
-#, fuzzy
 msgid "Add option"
-msgstr "Přidat možnost"
+msgstr "Přidat nastavení"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:425
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:448
@@ -2667,9 +2643,8 @@ msgid "From file"
 msgstr "Ze souboru"
 
 #: engine-wizard/elm/Wizard/DocumentTemplates/Index/Update.elm:60
-#, fuzzy
 msgid "Document template could not be updated."
-msgstr "Šablona dokumentů nemohla být vytvořena."
+msgstr "Šablona dokumentů nemohla být aktualizována."
 
 #: engine-wizard/elm/Wizard/DocumentTemplates/Index/View.elm:115
 msgid "unsupported metamodel"
@@ -2705,18 +2680,16 @@ msgid "Unable to get the Knowledge Model."
 msgstr "Nelze získat znalostní model."
 
 #: engine-wizard/elm/Wizard/KMEditor/Common/UpgradeModal.elm:151
-#, fuzzy
 msgid "- select parent knowledge model -"
-msgstr "- vybrat nadřazený model znalostí -"
+msgstr "- vybrat nadřazený znalostní model -"
 
 #: engine-wizard/elm/Wizard/KMEditor/Common/UpgradeModal.elm:157
 msgid "Select the new parent knowledge model for %s."
 msgstr "Vyberte nový rodičovský znalostní model pro %s."
 
 #: engine-wizard/elm/Wizard/KMEditor/Common/UpgradeModal.elm:158
-#, fuzzy
 msgid "New parent knowledge model"
-msgstr "Nový model znalostí rodičů"
+msgstr "Nový nadřazený znalostní model"
 
 #: engine-wizard/elm/Wizard/KMEditor/Common/UpgradeModal.elm:163
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:507
@@ -3511,9 +3484,8 @@ msgstr "Hodnota hlavičky"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:716
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:229
-#, fuzzy
 msgid "Add header"
-msgstr "Přidání záhlaví"
+msgstr "Přidat hlavičku"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:45
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/TreeInput.elm:99
@@ -3526,7 +3498,6 @@ msgid "Collapse all"
 msgstr "Sbalit vše"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/PhaseEditor.elm:96
-#, fuzzy
 msgid "There are no phases, create them first."
 msgstr "Neexistují žádné fáze, nejprve je vytvořte."
 
@@ -3548,12 +3519,10 @@ msgid "Select none"
 msgstr "Nevybrat nic"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/PublishModal.elm:93
-#, fuzzy
 msgid "Unable to publish knowledge model"
-msgstr "Nelze publikovat model znalostí"
+msgstr "Nelze publikovat znalostní model"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/PublishModal.elm:111
-#, fuzzy
 msgid "Check the knowledge model's metadata before publishing. You change them in %s."
 msgstr "Před zveřejněním zkontrolujte metadata znalostního modelu. Změníte je v %s."
 
@@ -3683,7 +3652,6 @@ msgid "Open Editor"
 msgstr "Otevřít editor"
 
 #: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:197
-#, fuzzy
 msgid "Update"
 msgstr "Aktualizace"
 
@@ -3871,7 +3839,6 @@ msgid "You can publish the new version now."
 msgstr "Nyní můžete publikovat novou verzi."
 
 #: engine-wizard/elm/Wizard/KMEditor/Publish/Update.elm:75
-#, fuzzy
 msgid "Unable to get the knowledge model details."
 msgstr "Nelze získat podrobnosti znalostního modelu."
 
@@ -3908,7 +3875,6 @@ msgid "Last version"
 msgstr "Poslední verze"
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Common/KnowledgeModelActionsDropdown.elm:48
-#, fuzzy
 msgid "Open"
 msgstr "Otevřít"
 
@@ -3926,9 +3892,8 @@ msgid "Create project"
 msgstr "Vytvořit projekt"
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Detail/Update.elm:59
-#, fuzzy
 msgid "Unable to update the knowledge model."
-msgstr "Nelze aktualizovat model znalostí."
+msgstr "Nelze aktualizovat znalostní model."
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Detail/Update.elm:95
 #: engine-wizard/elm/Wizard/KnowledgeModels/Index/Update.elm:86
@@ -3985,9 +3950,8 @@ msgid "From OWL"
 msgstr "Z OWL"
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Index/Update.elm:56
-#, fuzzy
 msgid "Knowledge Model could not be updated."
-msgstr "Znalostní model nemohl být vytvořen."
+msgstr "Znalostní model nemohl být aktualizován."
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Index/View.elm:65
 msgid "Click \"Import\" button to import a new Knowledge Model."
@@ -4252,7 +4216,6 @@ msgstr "Vlastní"
 
 #: engine-wizard/elm/Wizard/Projects/CreateMigration/Update.elm:107
 #: engine-wizard/elm/Wizard/Projects/CreateMigration/Update.elm:123
-#, fuzzy
 msgid "Unable to get the knowledge model."
 msgstr "Nelze získat znalostní model."
 
@@ -4392,7 +4355,6 @@ msgid "This document template is no longer supported."
 msgstr "Tato šablona dokumentu již není podporována."
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:336
-#, fuzzy
 msgid "This document template is now deprecated."
 msgstr "Tato šablona dokumentu je nyní zastaralá."
 
@@ -4414,9 +4376,8 @@ msgid "Project Tags"
 msgstr "Štítky projektu"
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:490
-#, fuzzy
 msgid "This knowledge model is now deprecated."
-msgstr "Tento model znalostí je nyní zastaralý."
+msgstr "Tento znalostní model je nyní zastaralý."
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:519
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:527
@@ -4894,7 +4855,6 @@ msgstr "Služby OpenID"
 
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:77
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:55
-#, fuzzy
 msgid "Add service"
 msgstr "Přidat službu"
 
@@ -4919,7 +4879,6 @@ msgid "Parameters"
 msgstr "Parametry"
 
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:183
-#, fuzzy
 msgid "Add parameter"
 msgstr "Přidat parametr"
 
@@ -4989,9 +4948,8 @@ msgid "Allowed Packages"
 msgstr "Povolené balíčky"
 
 #: engine-wizard/elm/Wizard/Settings/KnowledgeModels/View.elm:53
-#, fuzzy
 msgid "Add knowledge model"
-msgstr "Přidání znalostního modelu"
+msgstr "Přidat znalostní model"
 
 #: engine-wizard/elm/Wizard/Settings/KnowledgeModels/View.elm:60
 msgid "Public Knowledge Models"
@@ -5071,7 +5029,6 @@ msgid "Configure additional links in the menu. Choose any free icon from the [Fo
 msgstr "Nastavení dalších odkazů v levém menu. Vyberte jakoukoliv ikonu zdarma z [Font Awesome](%s), např. *fas fa-magic*. Zaškrtněte *Nové okno* pokud se má odkaz otevřít v novém okně."
 
 #: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:190
-#, fuzzy
 msgid "Add link"
 msgstr "Přidat odkaz"
 
@@ -5327,7 +5284,6 @@ msgid "You can create properties that can be set by each user in their profile. 
 msgstr "Můžete vytvořit vlastnosti, které si každý uživatel nastaví ve svém profilu. Pak je možné tyto vlastnosti použít v nastavení požadavku. Například pokud chcete, aby použil každý uživatel svůj autorizační token, můžete vytvořit vlastnost `Token` a použít ji v hlavičkách požadavku jako `${Token}`. Uživatelé budou moci nastavit takový token v jejich uživatelském profilu."
 
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:114
-#, fuzzy
 msgid "Add property"
 msgstr "Přidat vlastnost"
 
