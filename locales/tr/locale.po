@@ -1,15 +1,5 @@
 msgid ""
-msgstr ""
-"Project-Id-Version: wizard-client:3.18.3\n"
-"POT-Creation-Date: 2023-04-11T14:13:38.017Z \n"
-"PO-Revision-Date: 2023-04-11 02:13+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Turkish <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-21-0/tr/>\n"
-"Language: tr\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.14.2\n"
+msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2023-04-11T14:13:38.017Z\nPO-Revision-Date: 2023-04-11 18:59+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Turkish <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-22-1/tr/>\nLanguage: tr\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.14.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 #, fuzzy
@@ -336,44 +326,54 @@ msgid "Limit of %s reached (current: %s, limit: %s)"
 msgstr "s sınırına ulaşıldı (geçerli: %s, sınır: %s)"
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:188
+#, fuzzy
 msgid "storage"
-msgstr ""
+msgstr "depolama"
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:195
+#, fuzzy
 msgid "users"
-msgstr ""
+msgstr "kullanıcılar"
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:198
+#, fuzzy
 msgid "active users"
-msgstr ""
+msgstr "aktif kullanıcılar"
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:201
+#, fuzzy
 msgid "knowledge model editors"
-msgstr ""
+msgstr "bilgi modeli editörleri"
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:204
+#, fuzzy
 msgid "knowledge models"
-msgstr ""
+msgstr "bilgi modelleri"
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:207
+#, fuzzy
 msgid "projects"
-msgstr ""
+msgstr "projeler"
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:210
+#, fuzzy
 msgid "document templates"
-msgstr ""
+msgstr "belge şablonları"
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:213
+#, fuzzy
 msgid "document template editors"
-msgstr ""
+msgstr "belge şablonu düzenleyicileri"
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:216
+#, fuzzy
 msgid "documents"
-msgstr ""
+msgstr "belgeler"
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:219
+#, fuzzy
 msgid "locales"
-msgstr ""
+msgstr "YERELLER"
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:230
 #, fuzzy
@@ -1106,12 +1106,14 @@ msgid "Question tags"
 msgstr "Soru etiketleri"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1221
+#, fuzzy
 msgid "Non-desirable questions"
-msgstr ""
+msgstr "İstenmeyen sorular"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1226
+#, fuzzy
 msgid "Metric values"
-msgstr ""
+msgstr "Metrik değerler"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1242
 #, fuzzy
@@ -1268,16 +1270,19 @@ msgid "Answered %s by %s."
 msgstr "%s tarafından cevaplandı."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2275
+#, fuzzy
 msgid "This question has been answered"
-msgstr ""
+msgstr "Bu soru yanıtlandı"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2278
+#, fuzzy
 msgid "This question should be answered now"
-msgstr ""
+msgstr "Bu soru şimdi cevaplanmalıdır"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2281
+#, fuzzy
 msgid "This question can be answered later"
-msgstr ""
+msgstr "Bu soru daha sonra cevaplanabilir"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2353
 #, fuzzy
@@ -1852,8 +1857,9 @@ msgid "OK"
 msgstr "TAMAM."
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:563
+#, fuzzy
 msgid "Copy"
-msgstr ""
+msgstr "Anlaşıldı"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:600
 #, fuzzy
@@ -2585,8 +2591,9 @@ msgid "Unable to get file content"
 msgstr "Dosya içeriği alınamıyor"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/FileEditor.elm:410
+#, fuzzy
 msgid "Unable to get asset"
-msgstr ""
+msgstr "Varlık alınamıyor"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/FileEditor.elm:615
 #, fuzzy
@@ -2637,8 +2644,9 @@ msgid "New file"
 msgstr "Yeni dosya"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/FileEditor.elm:1247
+#, fuzzy
 msgid "Add file"
-msgstr ""
+msgstr "Dosya ekle"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/FileEditor.elm:1260
 #, fuzzy
@@ -2646,8 +2654,9 @@ msgid "New folder"
 msgstr "Yeni klasör"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/FileEditor.elm:1276
+#, fuzzy
 msgid "Add folder"
-msgstr ""
+msgstr "Klasör ekle"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/FileEditor/AssetUploadModal.elm:146
 #, fuzzy
@@ -2715,8 +2724,9 @@ msgid "Unable to publish document template"
 msgstr "Belge şablonu yayınlanamıyor"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/PublishModal.elm:120
+#, fuzzy
 msgid "Check the document template's metadata before publishing. You change them in %s."
-msgstr ""
+msgstr "Yayınlamadan önce belge şablonunun meta verilerini kontrol edin. Bunları %s içinde değiştirirsiniz."
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/PublishModal.elm:131
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/PublishModal.elm:143
@@ -2815,13 +2825,15 @@ msgid "Allowed Knowledge Models"
 msgstr "İzin Verilen Bilgi Modelleri"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:295
+#, fuzzy
 msgid "Add knoweldge model"
-msgstr ""
+msgstr "Bilgi modeli ekle"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:332
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:109
+#, fuzzy
 msgid "Add format"
-msgstr ""
+msgstr "Biçim ekleyin"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:372
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:190
@@ -2837,8 +2849,9 @@ msgid "Steps"
 msgstr "Adımlar"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:379
+#, fuzzy
 msgid "Add step"
-msgstr ""
+msgstr "Adım ekle"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:409
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:744
@@ -2847,8 +2860,9 @@ msgid "Options"
 msgstr "Seçenekler"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:411
+#, fuzzy
 msgid "Add option"
-msgstr ""
+msgstr "Seçenek ekle"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:425
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:448
@@ -3119,8 +3133,9 @@ msgid "From file"
 msgstr "Dosyadan"
 
 #: engine-wizard/elm/Wizard/DocumentTemplates/Index/Update.elm:60
+#, fuzzy
 msgid "Document template could not be updated."
-msgstr ""
+msgstr "Belge şablonu güncellenemedi."
 
 #: engine-wizard/elm/Wizard/DocumentTemplates/Index/View.elm:115
 #, fuzzy
@@ -3163,8 +3178,9 @@ msgid "Unable to get the Knowledge Model."
 msgstr "Bilgi Modeli alınamıyor."
 
 #: engine-wizard/elm/Wizard/KMEditor/Common/UpgradeModal.elm:151
+#, fuzzy
 msgid "- select parent knowledge model -"
-msgstr ""
+msgstr "- ana bilgi modelini seçin -"
 
 #: engine-wizard/elm/Wizard/KMEditor/Common/UpgradeModal.elm:157
 #, fuzzy
@@ -3172,8 +3188,9 @@ msgid "Select the new parent knowledge model for %s."
 msgstr "s için yeni üst bilgi modelini seçin."
 
 #: engine-wizard/elm/Wizard/KMEditor/Common/UpgradeModal.elm:158
+#, fuzzy
 msgid "New parent knowledge model"
-msgstr ""
+msgstr "Yeni ebeveyn bilgi modeli"
 
 #: engine-wizard/elm/Wizard/KMEditor/Common/UpgradeModal.elm:163
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:507
@@ -3813,7 +3830,7 @@ msgstr "Arama isteğini yapılandırmak için bu bölümü kullanın. Entegre et
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1495
 #, fuzzy
 msgid "A URL of the integrated service API that supports the search. Use `${q}` for the actual string that will be filled when users search for items, such as *ht&#8203;tps://example.com/search?q=${q}*."
-msgstr "Aramayı destekleyen entegre hizmet API'sinin URL'si. Kullanıcılar öğeleri aradığında doldurulacak gerçek dize için `${q}` kullanın, örneğin *ht&#8203;tps://example.com/search?q=${q}*."
+msgstr "Aramayı destekleyen entegre hizmet API'sinin URL'si. Kullanıcılar öğeleri aradığında doldurulacak gerçek dize için `${q}` kullanın, örneğin *https://example.com/search?q=${q}*."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1500
 #, fuzzy
@@ -3897,7 +3914,7 @@ msgstr "Logo, anketlerde seçilen öğenin bağlantısının yanında görüntü
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1604
 #, fuzzy
 msgid "Props can be used to parametrize the integration for each question. Use this to define the props whose value can be filled on the questions using this integration. The props can then be used in the URL configuration. For example, if you define prop named *type*, you can use it as `${type}`, such as *ht&#8203;tps://example.com/${type}*."
-msgstr "Her bir soru için entegrasyonu parametrize etmek için proplar kullanılabilir. Bu entegrasyonu kullanan sorularda değeri doldurulabilecek propları tanımlamak için bunu kullanın. Bu proplar daha sonra URL yapılandırmasında kullanılabilir. Örneğin, *type* adında bir prop tanımlarsanız, bunu `${type}` şeklinde kullanabilirsiniz, örneğin *ht&#8203;tps://example.com/${type}*."
+msgstr "Her bir soru için entegrasyonu parametrize etmek için proplar kullanılabilir. Bu entegrasyonu kullanan sorularda değeri doldurulabilecek propları tanımlamak için bunu kullanın. Bu proplar daha sonra URL yapılandırmasında kullanılabilir. Örneğin, *type* adında bir prop tanımlarsanız, bunu `${type}` şeklinde kullanabilirsiniz, örneğin *https://example.com/${type}*."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1608
 #, fuzzy
@@ -4114,8 +4131,9 @@ msgstr "Başlık Değeri"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:716
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:229
+#, fuzzy
 msgid "Add header"
-msgstr ""
+msgstr "Başlık ekle"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:45
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/TreeInput.elm:99
@@ -4130,8 +4148,9 @@ msgid "Collapse all"
 msgstr "Tümünü daralt"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/PhaseEditor.elm:96
+#, fuzzy
 msgid "There are no phases, create them first."
-msgstr ""
+msgstr "Aşama yoktur, önce onları yaratın."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/PhaseEditor.elm:99
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/TagEditor.elm:107
@@ -4155,12 +4174,14 @@ msgid "Select none"
 msgstr "Hiçbirini seçmeyin"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/PublishModal.elm:93
+#, fuzzy
 msgid "Unable to publish knowledge model"
-msgstr ""
+msgstr "Bilgi modeli yayınlanamıyor"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/PublishModal.elm:111
+#, fuzzy
 msgid "Check the knowledge model's metadata before publishing. You change them in %s."
-msgstr ""
+msgstr "Yayınlamadan önce bilgi modelinin meta verilerini kontrol edin. Bunları %s içinde değiştirirsiniz."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/Settings.elm:122
 #, fuzzy
@@ -4316,8 +4337,9 @@ msgid "Open Editor"
 msgstr "Açık Editör"
 
 #: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:197
+#, fuzzy
 msgid "Update"
-msgstr ""
+msgstr "Güncelleme"
 
 #: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:206
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:638
@@ -4546,8 +4568,9 @@ msgid "You can publish the new version now."
 msgstr "Yeni sürümü şimdi yayınlayabilirsiniz."
 
 #: engine-wizard/elm/Wizard/KMEditor/Publish/Update.elm:75
+#, fuzzy
 msgid "Unable to get the knowledge model details."
-msgstr ""
+msgstr "Bilgi modeli ayrıntıları alınamıyor."
 
 #: engine-wizard/elm/Wizard/KMEditor/Publish/Update.elm:146
 #, fuzzy
@@ -4590,8 +4613,9 @@ msgid "Last version"
 msgstr "Son sürüm"
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Common/KnowledgeModelActionsDropdown.elm:48
+#, fuzzy
 msgid "Open"
-msgstr ""
+msgstr "Açık"
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Common/KnowledgeModelActionsDropdown.elm:84
 #, fuzzy
@@ -4610,8 +4634,9 @@ msgid "Create project"
 msgstr "Proje oluştur"
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Detail/Update.elm:59
+#, fuzzy
 msgid "Unable to update the knowledge model."
-msgstr ""
+msgstr "Bilgi modeli güncellenemiyor."
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Detail/Update.elm:95
 #: engine-wizard/elm/Wizard/KnowledgeModels/Index/Update.elm:86
@@ -4681,8 +4706,9 @@ msgid "From OWL"
 msgstr "OWL'den"
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Index/Update.elm:56
+#, fuzzy
 msgid "Knowledge Model could not be updated."
-msgstr ""
+msgstr "Bilgi Modeli güncellenemedi."
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Index/View.elm:65
 #, fuzzy
@@ -5007,8 +5033,9 @@ msgstr "Özel"
 
 #: engine-wizard/elm/Wizard/Projects/CreateMigration/Update.elm:107
 #: engine-wizard/elm/Wizard/Projects/CreateMigration/Update.elm:123
+#, fuzzy
 msgid "Unable to get the knowledge model."
-msgstr ""
+msgstr "Bilgi modeli alınamıyor."
 
 #: engine-wizard/elm/Wizard/Projects/CreateMigration/Update.elm:196
 #, fuzzy
@@ -5179,8 +5206,9 @@ msgid "This document template is no longer supported."
 msgstr "Bu belge şablonu artık desteklenmemektedir."
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:336
+#, fuzzy
 msgid "This document template is now deprecated."
-msgstr ""
+msgstr "Bu belge şablonu artık kullanımdan kaldırılmıştır."
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:349
 #, fuzzy
@@ -5204,8 +5232,9 @@ msgid "Project Tags"
 msgstr "Proje Etiketleri"
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:490
+#, fuzzy
 msgid "This knowledge model is now deprecated."
-msgstr ""
+msgstr "Bu bilgi modeli artık kullanımdan kaldırılmıştır."
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:519
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:527
@@ -5791,8 +5820,9 @@ msgstr "OpenID Hizmetleri"
 
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:77
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:55
+#, fuzzy
 msgid "Add service"
-msgstr ""
+msgstr "Hizmet ekle"
 
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:173
 #, fuzzy
@@ -5820,8 +5850,9 @@ msgid "Parameters"
 msgstr "Parametreler"
 
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:183
+#, fuzzy
 msgid "Add parameter"
-msgstr ""
+msgstr "Parametre ekle"
 
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:198
 #, fuzzy
@@ -5905,8 +5936,9 @@ msgid "Allowed Packages"
 msgstr "İzin Verilen Paketler"
 
 #: engine-wizard/elm/Wizard/Settings/KnowledgeModels/View.elm:53
+#, fuzzy
 msgid "Add knowledge model"
-msgstr ""
+msgstr "Bilgi modeli ekleyin"
 
 #: engine-wizard/elm/Wizard/Settings/KnowledgeModels/View.elm:60
 #, fuzzy
@@ -6005,8 +6037,9 @@ msgid "Configure additional links in the menu. Choose any free icon from the [Fo
 msgstr "Menüdeki ek bağlantıları yapılandırın. Font Awesome](%s)'den herhangi bir serbest simge seçin, örneğin *fas fa-magic*. Bağlantıyı yeni bir pencerede açmak istiyorsanız *Yeni pencere* seçeneğini işaretleyin."
 
 #: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:190
+#, fuzzy
 msgid "Add link"
-msgstr ""
+msgstr "Bağlantı ekle"
 
 #: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:197
 #, fuzzy
@@ -6143,7 +6176,7 @@ msgstr "GitHub Depo Sahibi"
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:58
 #, fuzzy
 msgid "ht&#8203;tps://github.com/**exampleOwner**/exampleRepository"
-msgstr "ht&#8203;tps://github.com/**exampleOwner**/exampleRepository"
+msgstr "https://github.com/**exampleOwner**/exampleRepository"
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:59
 #, fuzzy
@@ -6153,7 +6186,7 @@ msgstr "GitHub Depo Adı"
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:60
 #, fuzzy
 msgid "ht&#8203;tps://github.com/exampleOwner/**exampleRepository**"
-msgstr "ht&#8203;tps://github.com/exampleOwner/**exampleRepository**"
+msgstr "https://github.com/exampleOwner/**exampleRepository**"
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:61
 #, fuzzy
@@ -6322,8 +6355,9 @@ msgid "You can create properties that can be set by each user in their profile. 
 msgstr "Her kullanıcı tarafından profillerinde ayarlanabilecek özellikler oluşturabilirsiniz. Daha sonra bu özellikleri istek ayarlarında kullanabilirsiniz. Örneğin, her kullanıcının kendi yetkilendirme belirtecini kullanmasını istiyorsanız, `Token` adında bir özellik oluşturabilir ve bunu istek başlıklarında `${Token}` olarak kullanabilirsiniz. Kullanıcılar kendi profil ayarlarında belirteci ayarlayabilecektir."
 
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:114
+#, fuzzy
 msgid "Add property"
-msgstr ""
+msgstr "Mülk ekle"
 
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:218
 #, fuzzy
