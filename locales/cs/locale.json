@@ -1,9 +1,9 @@
 {
     "organizationId": "dsw",
     "localeId": "cs",
-    "version": "0.4.0",
+    "version": "0.5.0",
     "code": "cs",
-    "recommendedAppVersion": "3.21.0",
+    "recommendedAppVersion": "3.22.1",
     "name": "Czech",
     "description": "Czech locale for Wizard UI",
     "license": "CC-BY-4.0"
