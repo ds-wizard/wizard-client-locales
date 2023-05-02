@@ -1,5 +1,6 @@
+# Pinar Alper <pinarpink@yahoo.com>, 2023.
 msgid ""
-msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2023-04-11T14:13:38.017Z\nPO-Revision-Date: 2023-04-11 18:59+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Turkish <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-22-1/tr/>\nLanguage: tr\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.14.2\n"
+msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2023-04-11T14:13:38.017Z\nPO-Revision-Date: 2023-05-03 14:13+0000\nLast-Translator: Pinar Alper <pinarpink@yahoo.com>\nLanguage-Team: Turkish <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-22-1/tr/>\nLanguage: tr\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.14.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 #, fuzzy
@@ -7,9 +8,8 @@ msgid "Admin"
 msgstr "Yönetici"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:34
-#, fuzzy
 msgid "Data Steward"
-msgstr "Veri Sorumlusu"
+msgstr "Veri Yöneticisi"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:39
 #, fuzzy
@@ -77,14 +77,12 @@ msgid "December"
 msgstr "Aralık"
 
 #: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireCreation.elm:116
-#, fuzzy
 msgid "Templates & Custom"
-msgstr "Şablonlar ve Özel"
+msgstr "Şablonlar ve Uyarlama"
 
 #: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireCreation.elm:117
-#, fuzzy
 msgid "Projects can be created from project templates or with custom settings."
-msgstr "Projeler, proje şablonlarından veya özel ayarlarla oluşturulabilir."
+msgstr "Projeler, proje şablonlarından veya uyarlama ayarları ile oluşturulabilir."
 
 #: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireCreation.elm:120
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:90
@@ -98,14 +96,12 @@ msgid "Only project templates can be used for creating new projects."
 msgstr "Yeni projeler oluşturmak için yalnızca proje şablonları kullanılabilir."
 
 #: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireCreation.elm:124
-#, fuzzy
 msgid "Custom only"
-msgstr "Yalnızca özel"
+msgstr "Yalnızca uyarlama"
 
 #: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireCreation.elm:125
-#, fuzzy
 msgid "Project templates feature is disabled, researchers have to choose knowledge model and set up everything."
-msgstr "Proje şablonları özelliği devre dışı bırakılmıştır, araştırmacılar bilgi modelini seçmeli ve her şeyi ayarlamalıdır."
+msgstr "Proje şablonları özelliği etkin değil, araştırmacılar bilgi modelini seçip ve ayarlamaları yapmalıdır."
 
 #: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireSharing.elm:135
 #, fuzzy
@@ -118,9 +114,8 @@ msgid "Only logged-in users can access the project depending on the project visi
 msgstr "Proje görünürlüğüne bağlı olarak projeye yalnızca oturum açmış kullanıcılar erişebilir."
 
 #: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireSharing.elm:139
-#, fuzzy
 msgid "View with the link"
-msgstr "Bağlantı ile görüntüleyin"
+msgstr "Bağlantı ile görüntüle"
 
 #: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireSharing.elm:140
 #, fuzzy
@@ -128,9 +123,8 @@ msgid "Anyone on the internet with the link can view."
 msgstr "Bağlantıya sahip internet üzerindeki herkes görüntüleyebilir."
 
 #: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireSharing.elm:143
-#, fuzzy
 msgid "Comment with the link"
-msgstr "Bağlantı ile yorum yapın"
+msgstr "Bağlantı ile yorum yap"
 
 #: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireSharing.elm:144
 #, fuzzy
@@ -138,9 +132,8 @@ msgid "Anyone on the internet with the link can view and comment."
 msgstr "Bağlantıya sahip internet üzerindeki herkes görüntüleyebilir ve yorum yapabilir."
 
 #: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireSharing.elm:147
-#, fuzzy
 msgid "Edit with the link"
-msgstr "Bağlantı ile düzenleyin"
+msgstr "Bağlantı ile düzenle"
 
 #: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireSharing.elm:148
 #, fuzzy
@@ -169,9 +162,8 @@ msgid "Other logged-in users can view the project."
 msgstr "Oturum açmış diğer kullanıcılar projeyi görüntüleyebilir."
 
 #: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireVisibility.elm:153
-#, fuzzy
 msgid "Visible - Comment"
-msgstr "Görünür - Yorum"
+msgstr "Görünür - Yorum Yap"
 
 #: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireVisibility.elm:154
 #, fuzzy
@@ -185,25 +177,21 @@ msgstr "Görünür - Düzenle"
 
 #: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireVisibility.elm:158
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:22
-#, fuzzy
 msgid "Other logged-in users can edit the project."
 msgstr "Oturum açmış diğer kullanıcılar projeyi düzenleyebilir."
 
 #: engine-shared/elm/Shared/Data/QuestionnairePermission.elm:60
-#, fuzzy
 msgid "view"
-msgstr "görünüm"
+msgstr "görüntüle"
 
 #: engine-shared/elm/Shared/Data/QuestionnairePermission.elm:61
-#, fuzzy
 msgid "comment"
-msgstr "Yorum"
+msgstr "yorum yap"
 
 #: engine-shared/elm/Shared/Data/QuestionnairePermission.elm:62
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:349
-#, fuzzy
 msgid "edit"
-msgstr "Düzenle"
+msgstr "düzenle"
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:103
 #, fuzzy
@@ -211,14 +199,12 @@ msgid "You do not have permission to view this page."
 msgstr "Bu sayfayı görüntülemek için izniniz yok."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:111
-#, fuzzy
 msgid "Knowledge Model ID is already used."
-msgstr "Bilgi Modeli Kimliği zaten kullanılıyor."
+msgstr "Bilgi Modeli Tanımlayıcısı halihazırda kullanılıyor."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:114
-#, fuzzy
 msgid "Knowledge Model already exists."
-msgstr "Bilgi Modeli zaten mevcuttur."
+msgstr "Bilgi Modeli halihazırda mevcut."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:117
 #, fuzzy
@@ -226,20 +212,17 @@ msgid "Knowledge Model metamodel version is not supported."
 msgstr "Bilgi Modeli metamodel sürümü desteklenmiyor."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:120
-#, fuzzy
 msgid "Document template already exists."
-msgstr "Belge şablonu zaten mevcut."
+msgstr "Belge şablonu halihazırda mevcut."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:123
-#, fuzzy
 msgid "Locale already exists."
-msgstr "Yerel ayar zaten mevcut."
+msgstr "Yerel (Dil) ayarı halihazırda mevcut."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:126
 #: engine-shared/elm/Shared/Error/ServerError.elm:142
-#, fuzzy
 msgid "Email is already used."
-msgstr "E-posta zaten kullanılıyor."
+msgstr "E-posta halihazırda kullanılıyor."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:129
 #, fuzzy
@@ -267,19 +250,16 @@ msgid "Link is not valid."
 msgstr "Bağlantı geçerli değil."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:148
-#, fuzzy
 msgid "This email is not connected to any organization."
-msgstr "Bu e-posta herhangi bir kuruluşla bağlantılı değildir."
+msgstr "Bu e-posta herhangi bir kuruluşla bağlantılı değil."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:151
-#, fuzzy
 msgid "Organization email is already used."
-msgstr "Organizasyon e-postası zaten kullanılıyor."
+msgstr "Organizasyon e-postası haihazırda kullanılıyor."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:154
-#, fuzzy
 msgid "Organization ID is already used."
-msgstr "Organizasyon Kimliği zaten kullanılıyor."
+msgstr "Organizasyon Tanımlayıcı halihazırda kullanılıyor."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:157
 #: engine-shared/elm/Shared/Error/ServerError.elm:263
@@ -289,14 +269,12 @@ msgid "A hash query param has to be provided."
 msgstr "Bir karma sorgu parametresi sağlanmalıdır."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:161
-#, fuzzy
 msgid "App ID is already used."
-msgstr "Uygulama Kimliği zaten kullanılıyor."
+msgstr "Uygulama Tanımlayıcı halihazırda kullanılıyor."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:164
-#, fuzzy
 msgid "File with this name already exists."
-msgstr "Bu ada sahip dosya zaten mevcut."
+msgstr "Bu ada sahip dosya halihazırda mevcut."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:167
 #, fuzzy
@@ -321,9 +299,8 @@ msgstr "Belge şablonu metamodel sürümü desteklenmiyor."
 #: engine-shared/elm/Shared/Error/ServerError.elm:187
 #: engine-shared/elm/Shared/Error/ServerError.elm:224
 #: engine-shared/elm/Shared/Error/ServerError.elm:227
-#, fuzzy
 msgid "Limit of %s reached (current: %s, limit: %s)"
-msgstr "s sınırına ulaşıldı (geçerli: %s, sınır: %s)"
+msgstr "%s sınırına ulaşıldı (geçerli: %s, sınır: %s)"
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:188
 #, fuzzy
@@ -431,9 +408,8 @@ msgid "The account is not activated."
 msgstr "Hesap etkinleştirilmedi."
 
 #: engine-shared/elm/Shared/Form.elm:21 engine-shared/elm/Shared/Form.elm:24
-#, fuzzy
 msgid "%s cannot be empty."
-msgstr "s boş olamaz."
+msgstr "%s boş olamaz."
 
 #: engine-shared/elm/Shared/Form.elm:27
 #, fuzzy
@@ -522,9 +498,8 @@ msgstr "Oluştur"
 #: engine-wizard/elm/Wizard/Apps/Detail/View.elm:112
 #: engine-wizard/elm/Wizard/Apps/Detail/View.elm:157
 #: engine-wizard/elm/Wizard/Apps/Index/View.elm:57
-#, fuzzy
 msgid "App ID"
-msgstr "Uygulama Kimliği"
+msgstr "Uygulama Tanımlayıcı"
 
 #: engine-wizard/elm/Wizard/Apps/Create/View.elm:37
 #: engine-wizard/elm/Wizard/Apps/Detail/View.elm:158
@@ -602,18 +577,16 @@ msgstr "E-posta"
 #: engine-wizard/elm/Wizard/Users/Create/View.elm:38
 #: engine-wizard/elm/Wizard/Users/Edit/View.elm:169
 #: engine-wizard/elm/Wizard/Users/Index/View.elm:60
-#, fuzzy
 msgid "First name"
-msgstr "İlk isim"
+msgstr "Ad"
 
 #: engine-wizard/elm/Wizard/Apps/Create/View.elm:40
 #: engine-wizard/elm/Wizard/Public/Signup/View.elm:145
 #: engine-wizard/elm/Wizard/Users/Create/View.elm:39
 #: engine-wizard/elm/Wizard/Users/Edit/View.elm:170
 #: engine-wizard/elm/Wizard/Users/Index/View.elm:61
-#, fuzzy
 msgid "Last name"
-msgstr "Soyadı"
+msgstr "Soyad"
 
 #: engine-wizard/elm/Wizard/Apps/Detail/Update.elm:36
 #, fuzzy
@@ -683,21 +656,18 @@ msgstr "Etkin"
 #: engine-wizard/elm/Wizard/Apps/Detail/View.elm:109
 #: engine-wizard/elm/Wizard/Apps/Index/View.elm:74
 #: engine-wizard/elm/Wizard/Locales/Detail/View.elm:152
-#, fuzzy
 msgid "Disabled"
-msgstr "Engelli"
+msgstr "Etkin değil"
 
 #: engine-wizard/elm/Wizard/Apps/Detail/View.elm:114
 #: engine-wizard/elm/Wizard/Apps/Index/View.elm:58
-#, fuzzy
 msgid "Created at"
-msgstr "Şu adreste oluşturuldu"
+msgstr "Oluşturulduğu tarih"
 
 #: engine-wizard/elm/Wizard/Apps/Detail/View.elm:115
 #: engine-wizard/elm/Wizard/Apps/Index/View.elm:59
-#, fuzzy
 msgid "Updated at"
-msgstr "adresinde güncellendi"
+msgstr "Güncellendiği tarih"
 
 #: engine-wizard/elm/Wizard/Apps/Detail/View.elm:118
 #: engine-wizard/elm/Wizard/Settings/View.elm:93
@@ -706,9 +676,8 @@ msgid "Info"
 msgstr "Bilgi"
 
 #: engine-wizard/elm/Wizard/Apps/Detail/View.elm:125
-#, fuzzy
 msgid "Client URL"
-msgstr "Müşteri URL'si"
+msgstr "İstemci URL'si"
 
 #: engine-wizard/elm/Wizard/Apps/Detail/View.elm:126
 #, fuzzy
@@ -777,9 +746,8 @@ msgstr "Kimden"
 #: engine-wizard/elm/Wizard/Apps/Detail/View.elm:188
 #: engine-wizard/elm/Wizard/Apps/Detail/View.elm:219
 #: engine-wizard/elm/Wizard/Common/Components/PlansList.elm:99
-#, fuzzy
 msgid "To"
-msgstr "için"
+msgstr "Kime"
 
 #: engine-wizard/elm/Wizard/Apps/Detail/View.elm:189
 #: engine-wizard/elm/Wizard/Apps/Detail/View.elm:220
@@ -844,9 +812,8 @@ msgstr "Planı sil"
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:662
 #: engine-wizard/elm/Wizard/Users/Index/View.elm:158
 #: engine-wizard/elm/Wizard/Users/Index/View.elm:193
-#, fuzzy
 msgid "Delete"
-msgstr "Silme"
+msgstr "Sil"
 
 #: engine-wizard/elm/Wizard/Apps/Index/Update.elm:49
 #, fuzzy
@@ -865,9 +832,8 @@ msgid "Enabled only"
 msgstr "Yalnızca etkin"
 
 #: engine-wizard/elm/Wizard/Apps/Index/View.elm:37
-#, fuzzy
 msgid "Disabled only"
-msgstr "Yalnızca engelli"
+msgstr "Yalnızca etkin olmayan"
 
 #: engine-wizard/elm/Wizard/Apps/Index/View.elm:46
 #, fuzzy
@@ -875,9 +841,8 @@ msgid "Click \"Create\" button to add a new App."
 msgstr "Yeni bir Uygulama eklemek için \"Oluştur\" düğmesine tıklayın."
 
 #: engine-wizard/elm/Wizard/Apps/Index/View.elm:54
-#, fuzzy
 msgid "Search apps..."
-msgstr "Arama uygulamaları..."
+msgstr "Uygulama ara..."
 
 #: engine-wizard/elm/Wizard/Auth/Update.elm:79
 #, fuzzy
@@ -890,9 +855,8 @@ msgid "Filter by name..."
 msgstr "İsme göre filtrele..."
 
 #: engine-wizard/elm/Wizard/Common/Components/Listing/View.elm:167
-#, fuzzy
 msgid "Order by"
-msgstr "Tarafından sipariş"
+msgstr "Sırala"
 
 #: engine-wizard/elm/Wizard/Common/Components/Listing/View.elm:333
 #, fuzzy
@@ -910,9 +874,8 @@ msgid "Next"
 msgstr "Sonraki"
 
 #: engine-wizard/elm/Wizard/Common/Components/Listing/View.elm:438
-#, fuzzy
 msgid "Prev"
-msgstr "Prev"
+msgstr "Önceki"
 
 #: engine-wizard/elm/Wizard/Common/Components/Listing/View.elm:446
 #, fuzzy
@@ -920,9 +883,8 @@ msgid "First"
 msgstr "Birinci"
 
 #: engine-wizard/elm/Wizard/Common/Components/Listing/View.elm:469
-#, fuzzy
 msgid "There are no results matching your search and filters."
-msgstr "Aramanızla ve filtrelerinizle eşleşen bir sonuç yok."
+msgstr "Arama ve filtrelerinizle eşleşen sonuç yok."
 
 #: engine-wizard/elm/Wizard/Common/Components/Listing/View.elm:476
 #, fuzzy
@@ -962,9 +924,8 @@ msgid "Anonymous Dragon"
 msgstr "İsimsiz Ejderha"
 
 #: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:59
-#, fuzzy
 msgid "Anonymous Fish"
-msgstr "Anonim Balık"
+msgstr "İsimsiz Balık"
 
 #: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:60
 #, fuzzy
@@ -972,9 +933,8 @@ msgid "Anonymous Frog"
 msgstr "İsimsiz Kurbağa"
 
 #: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:61
-#, fuzzy
 msgid "Anonymous Hippo"
-msgstr "Anonim Hippo"
+msgstr "İsimsiz Hippo"
 
 #: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:62
 #, fuzzy
@@ -987,9 +947,8 @@ msgid "Anonymous Kiwi"
 msgstr "İsimsiz Kivi"
 
 #: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:64
-#, fuzzy
 msgid "Anonymous Otter"
-msgstr "Anonim Su Samuru"
+msgstr "İsimsiz Su Samuru"
 
 #: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:65
 #, fuzzy
@@ -1002,9 +961,8 @@ msgid "Anonymous Pig"
 msgstr "İsimsiz Domuz"
 
 #: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:67
-#, fuzzy
 msgid "Anonymous Bug"
-msgstr "Anonim Böcek"
+msgstr "İsimsiz Böcek"
 
 #: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:68
 #, fuzzy
@@ -1017,9 +975,8 @@ msgid "Anonymous Ghost"
 msgstr "İsimsiz Hayalet"
 
 #: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:70
-#, fuzzy
 msgid "Anonymous Robot"
-msgstr "Anonim Robot"
+msgstr "İsimsiz Robot"
 
 #: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:71
 #, fuzzy
@@ -1027,9 +984,8 @@ msgid "Anonymous Snowman"
 msgstr "İsimsiz Kardan Adam"
 
 #: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:72
-#, fuzzy
 msgid "Anonymous Tree"
-msgstr "Anonim Ağaç"
+msgstr "İsimsiz Ağaç"
 
 #: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:73
 #, fuzzy
@@ -1043,9 +999,8 @@ msgid "Active"
 msgstr "Aktif"
 
 #: engine-wizard/elm/Wizard/Common/Components/PlansList.elm:82
-#, fuzzy
 msgid "There are no plans for this instance."
-msgstr "Bu örnek için herhangi bir plan bulunmamaktadır."
+msgstr "Bu kurulum için herhangi bir plan bulunmamaktadır."
 
 #: engine-wizard/elm/Wizard/Common/Components/PlansList.elm:96
 #, fuzzy
@@ -1058,9 +1013,8 @@ msgid "Unable to get version history."
 msgstr "Sürüm geçmişi alınamıyor."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1016
-#, fuzzy
 msgid "Unable to get type hints."
-msgstr "Tip ipuçları alınamıyor."
+msgstr "Yazım ipuçları alınamıyor."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1135
 #, fuzzy
@@ -1068,14 +1022,12 @@ msgid "project migration"
 msgstr "proje geçişi"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1138
-#, fuzzy
 msgid "There is an ongoing %s. Finish it before you can continue editing this project."
-msgstr "Devam eden bir %s var. Bu projeyi düzenlemeye devam edebilmeniz için önce onu bitirin."
+msgstr "Devam eden bir %s var. Bu projeyi düzenlemeye devam edebilmek için önce onu bitirin."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1195
-#, fuzzy
 msgid "View"
-msgstr "Görünüm"
+msgstr "Görüntüle"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1199
 #, fuzzy
@@ -1088,9 +1040,8 @@ msgid "Hide all"
 msgstr "Tümünü gizle"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1206
-#, fuzzy
 msgid "Answered by"
-msgstr "Tarafından cevaplandı"
+msgstr "Cevaplayan"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1211
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:523
@@ -1121,9 +1072,8 @@ msgid "Import answers"
 msgstr "Yanıtları içe aktar"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1307
-#, fuzzy
 msgid "TODOs"
-msgstr "TODO'lar"
+msgstr "Yapılacaklar"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1328
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1730
@@ -1150,9 +1100,8 @@ msgid "Current Phase"
 msgstr "Mevcut Aşama"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1535
-#, fuzzy
 msgid "All TODOs have been completed."
-msgstr "Tüm TODO'lar tamamlanmıştır."
+msgstr "Tüm yapılacaklar tamamlanmıştır."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1618
 #, fuzzy
@@ -1170,9 +1119,8 @@ msgid "View resolved comments"
 msgstr "Çözülen yorumları görüntüle"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1682
-#, fuzzy
 msgid "Comment"
-msgstr "Yorum"
+msgstr "Yorum yap"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1683
 #, fuzzy
@@ -1186,9 +1134,8 @@ msgid "Editor notes"
 msgstr "Editör notları"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1757
-#, fuzzy
 msgid "Delete this comment thread?"
-msgstr "Bu yorum başlığını silelim mi?"
+msgstr "Bu yorum dizisini silelim mi?"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1770
 #, fuzzy
@@ -1196,9 +1143,8 @@ msgid "Reply"
 msgstr "Yanıtla"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1771
-#, fuzzy
 msgid "Reply..."
-msgstr "Cevap ver."
+msgstr "Yanıtla..."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1818
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1999
@@ -1219,9 +1165,8 @@ msgstr "Cevap ver."
 #: engine-wizard/elm/Wizard/Projects/Import/View.elm:119
 #: engine-wizard/elm/Wizard/Settings/LookAndFeel/LogoUploadModal.elm:150
 #: engine-wizard/elm/Wizard/Settings/Registry/View.elm:120
-#, fuzzy
 msgid "Cancel"
-msgstr "İptal"
+msgstr "İptal et"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1829
 #, fuzzy
@@ -1229,9 +1174,8 @@ msgid "Delete this comment?"
 msgstr "Bu yorumu sileyim mi?"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1853
-#, fuzzy
 msgid "Resolve comment thread"
-msgstr "Yorum dizisini çözün"
+msgstr "Yorum dizisini çözümle"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1863
 #, fuzzy
@@ -1245,9 +1189,8 @@ msgstr "düzenlenmiş"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1939
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire/History.elm:509
-#, fuzzy
 msgid "Anonymous user"
-msgstr "Anonim kullanıcı"
+msgstr "İsimsiz kullanıcı"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2122
 #, fuzzy
@@ -1260,14 +1203,12 @@ msgid "Next Chapter"
 msgstr "Sonraki Bölüm"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2238
-#, fuzzy
 msgid "anonymous user"
-msgstr "anonim kullanıcı"
+msgstr "isimsiz kullanıcı"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2250
-#, fuzzy
 msgid "Answered %s by %s."
-msgstr "%s tarafından cevaplandı."
+msgstr "%s %s tarafından cevaplandı."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2275
 #, fuzzy
@@ -1285,9 +1226,8 @@ msgid "This question can be answered later"
 msgstr "Bu soru daha sonra cevaplanabilir"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2353
-#, fuzzy
 msgid "Clear answer"
-msgstr "Net cevap"
+msgstr "Cevabı temizle"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2411
 #, fuzzy
@@ -1295,14 +1235,12 @@ msgid "There are no answers yet."
 msgstr "Henüz cevap yok."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2488
-#, fuzzy
 msgid "Move Up"
-msgstr "İlerleyin"
+msgstr "Yukarı taşı"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2501
-#, fuzzy
 msgid "Move Down"
-msgstr "Aşağı Hareket Et"
+msgstr "Aşağı Taşı"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2510
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire/NavigationTree.elm:246
@@ -1321,14 +1259,12 @@ msgid "This is not a valid URL."
 msgstr "Bu geçerli bir URL değil."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2618
-#, fuzzy
 msgid "This is not a valid color."
-msgstr "Bu geçerli bir renk değildir."
+msgstr "Bu geçerli bir renk değil."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2659
-#, fuzzy
 msgid "Select"
-msgstr "Seçiniz"
+msgstr "Seç"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2730
 #, fuzzy
@@ -1356,19 +1292,16 @@ msgstr[0] "1 yorum"
 msgstr[1] ""
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2946
-#, fuzzy
 msgid "TODO"
-msgstr "TODO"
+msgstr "Yapılacak"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2947
-#, fuzzy
 msgid "Remove TODO"
-msgstr "TODO'yu kaldırın"
+msgstr "Yapılacağı kaldır"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2957
-#, fuzzy
 msgid "Add TODO"
-msgstr "TODO ekleyin"
+msgstr "Yapılacak ekle"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2979
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire/FeedbackModal.elm:147
