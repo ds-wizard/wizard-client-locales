@@ -1,7 +1,7 @@
 # Marek Suchánek <marek.suchanek@ds-wizard.org>, 2023.
 # Rob Hooft <rob.hooft@health-ri.nl>, 2023.
 msgid ""
-msgstr "Project-Id-Version: wizard-client:3.21.0\nPOT-Creation-Date: 2023-05-02T13:20:50.339Z\nPO-Revision-Date: 2023-05-05 08:30+0000\nLast-Translator: Rob Hooft <rob.hooft@health-ri.nl>\nLanguage-Team: German <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-23-0/de/>\nLanguage: de\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.14.2\n"
+msgstr "Project-Id-Version: wizard-client:3.21.0\nPOT-Creation-Date: 2023-05-02T13:20:50.339Z\nPO-Revision-Date: 2023-05-05 08:30+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: German <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-23-0/de/>\nLanguage: de\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.14.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 #, fuzzy
@@ -2265,10 +2265,7 @@ msgid ""
 "Project is a workspace where you create your DMP. It is based on a knowledge model, which contains knowledge about what should be asked and how based on the research field or organization's needs. You can use document templates to transform the answers into a document. This document can be anything, from PDF to machine-actionable JSON.\n"
 "\n"
 "You can create a new project from a project template that data stewards prepare for you to have an easier start or from scratch where you set up everything yourself."
-msgstr ""
-"Projekt ist ein Arbeitsbereich, in dem Sie Ihr DMP erstellen. Es basiert auf einem Wissensmodell, das Wissen darüber enthält, was gefragt werden sollte und wie, basierend auf dem Forschungsgebiet oder den Bedürfnissen der Organisation. Sie können Dokumentvorlagen verwenden, um die Antworten in ein Dokument umzuwandeln. Dieses Dokument kann alles sein, von PDF bis zu maschinenverarbeitbarem JSON.\n"
-"\n"
-"Sie können ein neues Projekt auf der Grundlage einer Projektvorlage erstellen, die die Datenverwalter für Sie vorbereiten, um Ihnen den Start zu erleichtern, oder von Grund auf neu, indem Sie alles selbst einrichten."
+msgstr "Projekt ist ein Arbeitsbereich, in dem Sie Ihr DMP erstellen. Es basiert auf einem Wissensmodell, das Wissen darüber enthält, was gefragt werden sollte und wie, basierend auf dem Forschungsgebiet oder den Bedürfnissen der Organisation. Sie können Dokumentvorlagen verwenden, um die Antworten in ein Dokument umzuwandeln. Dieses Dokument kann alles sein, von PDF bis zu maschinenverarbeitbarem JSON.\n\nSie können ein neues Projekt auf der Grundlage einer Projektvorlage erstellen, die die Datenverwalter für Sie vorbereiten, um Ihnen den Start zu erleichtern, oder von Grund auf neu, indem Sie alles selbst einrichten."
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ImportDocumentTemplateWidget.elm:13
 #: engine-wizard/elm/Wizard/DocumentTemplates/Import/View.elm:44
