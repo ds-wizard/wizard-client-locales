@@ -1,16 +1,6 @@
 # Remedios Melero <rmelero@iata.csic.es>, 2023.
 msgid ""
-msgstr ""
-"Project-Id-Version: wizard-client:3.18.3\n"
-"POT-Creation-Date: 2023-05-02T13:20:50.339Z \n"
-"PO-Revision-Date: 2023-05-03 17:21+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Spanish <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-23-0/es/>\n"
-"Language: es\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.14.2\n"
+msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2023-05-02T13:20:50.339Z\nPO-Revision-Date: 2023-05-03 20:28+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Spanish <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-23-0/es/>\nLanguage: es\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.14.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -1454,12 +1444,14 @@ msgid "Cleared reply of"
 msgstr "Respuesta clara de"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire/History.elm:493
+#, fuzzy
 msgid "Unset phase"
-msgstr ""
+msgstr "Fase de desbloqueo"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire/History.elm:501
+#, fuzzy
 msgid "Unknown phase"
-msgstr ""
+msgstr "Fase desconocida"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire/History.elm:503
 #, fuzzy
@@ -1841,8 +1833,9 @@ msgstr[0] "casi 1 año"
 msgstr[1] ""
 
 #: engine-wizard/elm/Wizard/Common/View/FormActions.elm:70
+#, fuzzy
 msgid "You have unsaved changes."
-msgstr ""
+msgstr "Tienes cambios sin guardar."
 
 #: engine-wizard/elm/Wizard/Common/View/FormGroup.elm:62
 #, fuzzy
@@ -1860,8 +1853,9 @@ msgid "You can use Markdown and see the result in the preview tab."
 msgstr "Puede utilizar Markdown y ver el resultado en la pestaña de vista previa."
 
 #: engine-wizard/elm/Wizard/Common/View/FormGroup.elm:444
+#, fuzzy
 msgid "You can use HTML or Markdown and see the result in the preview tab."
-msgstr ""
+msgstr "Puede utilizar HTML o Markdown y ver el resultado en la pestaña de vista previa."
 
 #: engine-wizard/elm/Wizard/Common/View/FormGroup.elm:520
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:208
@@ -4154,8 +4148,9 @@ msgid "Migration was successfully canceled."
 msgstr "La migración se ha cancelado correctamente."
 
 #: engine-wizard/elm/Wizard/KMEditor/Index/Update.elm:75
+#, fuzzy
 msgid "Migration could not be cancelled."
-msgstr ""
+msgstr "La migración no pudo cancelarse."
 
 #: engine-wizard/elm/Wizard/KMEditor/Index/Update.elm:126
 #, fuzzy
@@ -5740,8 +5735,9 @@ msgstr "Vista previa del botón"
 
 #: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:29
 #: engine-wizard/elm/Wizard/Settings/View.elm:117
+#, fuzzy
 msgid "Dashboard & Login Screen"
-msgstr ""
+msgstr "Panel de control y pantalla de inicio de sesión"
 
 #: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:42
 #, fuzzy
@@ -5774,45 +5770,55 @@ msgid "Login Info"
 msgstr "Información de acceso"
 
 #: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:62
+#, fuzzy
 msgid "Additional information displayed on the login screen next to the login form."
-msgstr ""
+msgstr "Información adicional que aparece en la pantalla de acceso junto al formulario de acceso."
 
 #: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:70
+#, fuzzy
 msgid "Sidebar Login Info"
-msgstr ""
+msgstr "Información de acceso a la barra lateral"
 
 #: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:71
+#, fuzzy
 msgid "Additional information displayed on the login screen underneath the login form."
-msgstr ""
+msgstr "Información adicional que aparece en la pantalla de acceso debajo del formulario de acceso."
 
 #: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:78
 #: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:85
+#, fuzzy
 msgid "Announcements"
-msgstr ""
+msgstr "Anuncios"
 
 #: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:86
+#, fuzzy
 msgid "Add announcement"
-msgstr ""
+msgstr "Añadir anuncio"
 
 #: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:115
+#, fuzzy
 msgid "Warning"
-msgstr ""
+msgstr "Advertencia"
 
 #: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:116
+#, fuzzy
 msgid "Critical"
-msgstr ""
+msgstr "Crítica"
 
 #: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:127
+#, fuzzy
 msgid "Remove announcement"
-msgstr ""
+msgstr "Eliminar anuncio"
 
 #: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:132
+#, fuzzy
 msgid "Level"
-msgstr ""
+msgstr "Nivel"
 
 #: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:133
+#, fuzzy
 msgid "Content"
-msgstr ""
+msgstr "Contenido"
 
 #: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:134
 #, fuzzy
@@ -5820,16 +5826,19 @@ msgid "Dashboard"
 msgstr "Cuadro de mandos"
 
 #: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:135
+#, fuzzy
 msgid "Display on the dashboard after users log in."
-msgstr ""
+msgstr "Se muestra en el panel de control después de que los usuarios inicien sesión."
 
 #: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:136
+#, fuzzy
 msgid "Login Screen"
-msgstr ""
+msgstr "Pantalla de inicio de sesión"
 
 #: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:137
+#, fuzzy
 msgid "Display on the login screen, visible to everybody."
-msgstr ""
+msgstr "Se muestra en la pantalla de inicio de sesión, visible para todo el mundo."
 
 #: engine-wizard/elm/Wizard/Settings/Generic/Update.elm:68
 #, fuzzy
@@ -6318,110 +6327,135 @@ msgid "Role"
 msgstr "Papel"
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ActiveSessions.elm:80
+#, fuzzy
 msgid "Unable to get active sessions."
-msgstr ""
+msgstr "No se pueden obtener sesiones activas."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ActiveSessions.elm:112
+#, fuzzy
 msgid "Session could not be revoked."
-msgstr ""
+msgstr "No se ha podido revocar la sesión."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ActiveSessions.elm:130
 #: engine-wizard/elm/Wizard/Users/Edit/View.elm:92
+#, fuzzy
 msgid "Active Sessions"
-msgstr ""
+msgstr "Sesiones activas"
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ActiveSessions.elm:135
+#, fuzzy
 msgid ""
 "This is a list of active sessions logged into your account.\n"
 "\n"
 "If you don't recognize any, you should revoke them."
-msgstr ""
+msgstr "Esta es una lista de las sesiones activas registradas en su cuenta.\n\nSi no reconoces alguna, deberías revocarla."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ActiveSessions.elm:172
+#, fuzzy
 msgid "current"
-msgstr ""
+msgstr "actual"
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ActiveSessions.elm:176
+#, fuzzy
 msgid "Logged in on %s"
-msgstr ""
+msgstr "Conectado en %s"
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ActiveSessions.elm:182
+#, fuzzy
 msgid "Revoke session"
-msgstr ""
+msgstr "Revocar sesión"
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ActiveSessions.elm:193
+#, fuzzy
 msgid "Are you sure you want to revoke %s (logged in on %s)?"
-msgstr ""
+msgstr "¿Estás seguro de que quieres revocar %s (conectado en %s)?"
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ActiveSessions.elm:202
+#, fuzzy
 msgid "Revoke Active Session"
-msgstr ""
+msgstr "Revocar sesión activa"
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ActiveSessions.elm:206
+#, fuzzy
 msgid "Revoke"
-msgstr ""
+msgstr "Revocar"
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ActiveSessions.elm:218
+#, fuzzy
 msgid "%s on %s"
-msgstr ""
+msgstr "%s en %s"
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:86
+#, fuzzy
 msgid "Unable to get API keys."
-msgstr ""
+msgstr "No se pueden obtener las claves API."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:113
+#, fuzzy
 msgid "Unable to create API key."
-msgstr ""
+msgstr "No se ha podido crear la clave API."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:165
+#, fuzzy
 msgid "API key could not be deleted."
-msgstr ""
+msgstr "No se ha podido eliminar la clave API."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:174
 #: engine-wizard/elm/Wizard/Users/Edit/View.elm:82
+#, fuzzy
 msgid "API Keys"
-msgstr ""
+msgstr "Claves API"
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:185
+#, fuzzy
 msgid "You can generate an API key for every application you use that needs access to [DSW API](%s)."
-msgstr ""
+msgstr "Puede generar una clave API para cada aplicación que utilice y que necesite acceder a [DSW API](%s)."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:202
+#, fuzzy
 msgid "Your new API key"
-msgstr ""
+msgstr "Su nueva clave API"
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:203
+#, fuzzy
 msgid "Make sure to save it, you will not be able to access it again."
-msgstr ""
+msgstr "Asegúrate de guardarlo, ya que no podrás volver a acceder a él."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:214
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:256
+#, fuzzy
 msgid "API Key Name"
-msgstr ""
+msgstr "Nombre de la clave API"
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:215
+#, fuzzy
 msgid "Give the API key a name to identify it, such as the name of the application using it or the purpose of the key."
-msgstr ""
+msgstr "Asigne un nombre a la clave API para identificarla, como el nombre de la aplicación que la utiliza o la finalidad de la clave."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:217
+#, fuzzy
 msgid "The date when the API key will no longer be valid."
-msgstr ""
+msgstr "Fecha en la que la clave API dejará de ser válida."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:250
+#, fuzzy
 msgid "You have no active API keys."
-msgstr ""
+msgstr "No tiene claves API activas."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:268
+#, fuzzy
 msgid "Active API Keys (%s)"
-msgstr ""
+msgstr "Claves API activas (%s)"
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:279
+#, fuzzy
 msgid "Delete API Key"
-msgstr ""
+msgstr "Borrar clave API"
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:281
+#, fuzzy
 msgid "Are you sure you want to delete %s?"
-msgstr ""
+msgstr "¿Seguro que quieres borrar %s?"
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/Password.elm:95
 #, fuzzy
@@ -6475,8 +6509,9 @@ msgid "There is no settings for %s."
 msgstr "No hay ajustes para %s."
 
 #: engine-wizard/elm/Wizard/Users/Edit/View.elm:58
+#, fuzzy
 msgid "User Settings"
-msgstr ""
+msgstr "Configuración del usuario"
 
 #: engine-wizard/elm/Wizard/Users/Index/Update.elm:66
 #, fuzzy
@@ -6524,8 +6559,9 @@ msgid "Not Allowed"
 msgstr "No permitido"
 
 #: engine-wizard/elm/Wizard/View.elm:147
+#, fuzzy
 msgid "You don't have permission to view this page."
-msgstr ""
+msgstr "Usted no tiene permisos para ver esta página."
 
 #, fuzzy
 #~ msgid "Add knoweldge model"
