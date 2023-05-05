@@ -1340,12 +1340,10 @@ msgid "Cleared reply of"
 msgstr "Antwoord leeggemaakt van"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire/History.elm:493
-#, fuzzy
 msgid "Unset phase"
 msgstr "Niet-ingestelde fase"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire/History.elm:501
-#, fuzzy
 msgid "Unknown phase"
 msgstr "Onbekende fase"
 
@@ -1670,7 +1668,6 @@ msgstr[0] "bijna 1 jaar"
 msgstr[1] "bijna %s jaar"
 
 #: engine-wizard/elm/Wizard/Common/View/FormActions.elm:70
-#, fuzzy
 msgid "You have unsaved changes."
 msgstr "Je hebt niet opgeslagen veranderingen."
 
@@ -1687,7 +1684,6 @@ msgid "You can use Markdown and see the result in the preview tab."
 msgstr "Je kunt Markdown gebruiken en het resultaat in de voorbeeld-tab bekijken."
 
 #: engine-wizard/elm/Wizard/Common/View/FormGroup.elm:444
-#, fuzzy
 msgid "You can use HTML or Markdown and see the result in the preview tab."
 msgstr "U kunt HTML of Markdown gebruiken en het resultaat zien in het voorbeeldtabblad."
 
@@ -3620,7 +3616,6 @@ msgid "Migration was successfully canceled."
 msgstr "De migratie is afgebroken."
 
 #: engine-wizard/elm/Wizard/KMEditor/Index/Update.elm:75
-#, fuzzy
 msgid "Migration could not be cancelled."
 msgstr "De migratie kon niet worden geannuleerd."
 
@@ -4906,7 +4901,6 @@ msgstr "Knop voorvertoning"
 
 #: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:29
 #: engine-wizard/elm/Wizard/Settings/View.elm:117
-#, fuzzy
 msgid "Dashboard & Login Screen"
 msgstr "Dashboard & Inlogscherm"
 
@@ -4935,53 +4929,43 @@ msgid "Login Info"
 msgstr "Logininformatie"
 
 #: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:62
-#, fuzzy
 msgid "Additional information displayed on the login screen next to the login form."
 msgstr "Aanvullende informatie weergegeven op het aanmeldingsscherm naast het aanmeldingsformulier."
 
 #: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:70
-#, fuzzy
 msgid "Sidebar Login Info"
 msgstr "Zijbalk Inloggegevens"
 
 #: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:71
-#, fuzzy
 msgid "Additional information displayed on the login screen underneath the login form."
 msgstr "Aanvullende informatie op het aanmeldingsscherm onder het aanmeldingsformulier."
 
 #: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:78
 #: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:85
-#, fuzzy
 msgid "Announcements"
 msgstr "Aankondigingen"
 
 #: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:86
-#, fuzzy
 msgid "Add announcement"
 msgstr "Aankondiging toevoegen"
 
 #: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:115
-#, fuzzy
 msgid "Warning"
 msgstr "Waarschuwing"
 
 #: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:116
-#, fuzzy
 msgid "Critical"
 msgstr "Kritisch"
 
 #: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:127
-#, fuzzy
 msgid "Remove announcement"
 msgstr "Aankondiging verwijderen"
 
 #: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:132
-#, fuzzy
 msgid "Level"
 msgstr "Niveau"
 
 #: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:133
-#, fuzzy
 msgid "Content"
 msgstr "Inhoud"
 
@@ -4990,17 +4974,14 @@ msgid "Dashboard"
 msgstr "Dashboard"
 
 #: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:135
-#, fuzzy
 msgid "Display on the dashboard after users log in."
 msgstr "Weergave op het dashboard nadat gebruikers inloggen."
 
 #: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:136
-#, fuzzy
 msgid "Login Screen"
 msgstr "Inlogscherm"
 
 #: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:137
-#, fuzzy
 msgid "Display on the login screen, visible to everybody."
 msgstr "Weergave op het inlogscherm, zichtbaar voor iedereen."
 
@@ -5395,23 +5376,19 @@ msgid "Role"
 msgstr "Rol"
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ActiveSessions.elm:80
-#, fuzzy
 msgid "Unable to get active sessions."
 msgstr "Kan geen actieve sessies krijgen."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ActiveSessions.elm:112
-#, fuzzy
 msgid "Session could not be revoked."
 msgstr "Sessie kon niet worden herroepen."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ActiveSessions.elm:130
 #: engine-wizard/elm/Wizard/Users/Edit/View.elm:92
-#, fuzzy
 msgid "Active Sessions"
 msgstr "Actieve sessies"
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ActiveSessions.elm:135
-#, fuzzy
 msgid ""
 "This is a list of active sessions logged into your account.\n"
 "\n"
@@ -5419,109 +5396,88 @@ msgid ""
 msgstr "Dit is een lijst van actieve sessies die op uw account zijn ingelogd.\n\nAls je er geen herkent, moet je ze intrekken."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ActiveSessions.elm:172
-#, fuzzy
 msgid "current"
 msgstr "huidige"
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ActiveSessions.elm:176
-#, fuzzy
 msgid "Logged in on %s"
 msgstr "Aangemeld op %s"
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ActiveSessions.elm:182
-#, fuzzy
 msgid "Revoke session"
 msgstr "Sessie intrekken"
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ActiveSessions.elm:193
-#, fuzzy
 msgid "Are you sure you want to revoke %s (logged in on %s)?"
 msgstr "Weet u zeker dat u %s wilt herroepen (ingelogd op %s)?"
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ActiveSessions.elm:202
-#, fuzzy
 msgid "Revoke Active Session"
 msgstr "Actieve sessie intrekken"
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ActiveSessions.elm:206
-#, fuzzy
 msgid "Revoke"
 msgstr "Intrekken"
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ActiveSessions.elm:218
-#, fuzzy
 msgid "%s on %s"
 msgstr "%s op %s"
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:86
-#, fuzzy
 msgid "Unable to get API keys."
 msgstr "Kan geen API sleutels krijgen."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:113
-#, fuzzy
 msgid "Unable to create API key."
 msgstr "Kan geen API sleutel aanmaken."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:165
-#, fuzzy
 msgid "API key could not be deleted."
 msgstr "API sleutel kon niet worden verwijderd."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:174
 #: engine-wizard/elm/Wizard/Users/Edit/View.elm:82
-#, fuzzy
 msgid "API Keys"
 msgstr "API Sleutels"
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:185
-#, fuzzy
 msgid "You can generate an API key for every application you use that needs access to [DSW API](%s)."
 msgstr "U kunt een API-sleutel genereren voor elke toepassing die u gebruikt en die toegang nodig heeft tot [DSW API](%s)."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:202
-#, fuzzy
 msgid "Your new API key"
 msgstr "Uw nieuwe API-sleutel"
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:203
-#, fuzzy
 msgid "Make sure to save it, you will not be able to access it again."
 msgstr "Zorg ervoor dat u het opslaat, u zult er niet meer bij kunnen."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:214
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:256
-#, fuzzy
 msgid "API Key Name"
 msgstr "API Sleutel Naam"
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:215
-#, fuzzy
 msgid "Give the API key a name to identify it, such as the name of the application using it or the purpose of the key."
 msgstr "Geef de API-sleutel een naam om hem te identificeren, zoals de naam van de applicatie die hem gebruikt of het doel van de sleutel."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:217
-#, fuzzy
 msgid "The date when the API key will no longer be valid."
 msgstr "De datum waarop de API-sleutel niet langer geldig is."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:250
-#, fuzzy
 msgid "You have no active API keys."
 msgstr "Je hebt geen actieve API sleutels."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:268
-#, fuzzy
 msgid "Active API Keys (%s)"
 msgstr "Actieve API-sleutels (%s)"
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:279
-#, fuzzy
 msgid "Delete API Key"
 msgstr "API sleutel verwijderen"
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:281
-#, fuzzy
 msgid "Are you sure you want to delete %s?"
 msgstr "Weet u zeker dat u %s wilt verwijderen?"
 
@@ -5567,7 +5523,6 @@ msgid "There is no settings for %s."
 msgstr "Er zijn geen instellingen voor %s."
 
 #: engine-wizard/elm/Wizard/Users/Edit/View.elm:58
-#, fuzzy
 msgid "User Settings"
 msgstr "Gebruikersinstellingen"
 
@@ -5608,7 +5563,6 @@ msgid "Not Allowed"
 msgstr "Niet toegestaan"
 
 #: engine-wizard/elm/Wizard/View.elm:147
-#, fuzzy
 msgid "You don't have permission to view this page."
 msgstr "Je hebt geen toestemming deze pagina te bekijken."
 

@@ -1341,12 +1341,10 @@ msgid "Cleared reply of"
 msgstr "Vyčištění odpovědi"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire/History.elm:493
-#, fuzzy
 msgid "Unset phase"
 msgstr "Odstavená fáze"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire/History.elm:501
-#, fuzzy
 msgid "Unknown phase"
 msgstr "Neznámá fáze"
 
@@ -1680,7 +1678,6 @@ msgstr[1] "téměř %s roky"
 msgstr[2] "téměř %s roky"
 
 #: engine-wizard/elm/Wizard/Common/View/FormActions.elm:70
-#, fuzzy
 msgid "You have unsaved changes."
 msgstr "Máte neuložené změny."
 
@@ -1697,7 +1694,6 @@ msgid "You can use Markdown and see the result in the preview tab."
 msgstr "Je možné použít Markdown a podívat se na výsledek v náhledu."
 
 #: engine-wizard/elm/Wizard/Common/View/FormGroup.elm:444
-#, fuzzy
 msgid "You can use HTML or Markdown and see the result in the preview tab."
 msgstr "Můžete použít HTML nebo Markdown a výsledek si prohlédnout na kartě náhledu."
 
@@ -3630,7 +3626,6 @@ msgid "Migration was successfully canceled."
 msgstr "Migrace byla úspěšně zrušena."
 
 #: engine-wizard/elm/Wizard/KMEditor/Index/Update.elm:75
-#, fuzzy
 msgid "Migration could not be cancelled."
 msgstr "Migraci nebylo možné zrušit."
 
@@ -4918,7 +4913,6 @@ msgstr "Náhled tlačítka"
 
 #: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:29
 #: engine-wizard/elm/Wizard/Settings/View.elm:117
-#, fuzzy
 msgid "Dashboard & Login Screen"
 msgstr "Přístrojová deska a přihlašovací obrazovka"
 
@@ -4947,53 +4941,43 @@ msgid "Login Info"
 msgstr "Přihlašovací informace"
 
 #: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:62
-#, fuzzy
 msgid "Additional information displayed on the login screen next to the login form."
 msgstr "Další informace zobrazené na přihlašovací obrazovce vedle přihlašovacího formuláře."
 
 #: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:70
-#, fuzzy
 msgid "Sidebar Login Info"
 msgstr "Informace o přihlášení do postranního panelu"
 
 #: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:71
-#, fuzzy
 msgid "Additional information displayed on the login screen underneath the login form."
 msgstr "Další informace zobrazené na přihlašovací obrazovce pod přihlašovacím formulářem."
 
 #: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:78
 #: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:85
-#, fuzzy
 msgid "Announcements"
 msgstr "Oznámení"
 
 #: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:86
-#, fuzzy
 msgid "Add announcement"
 msgstr "Přidat oznámení"
 
 #: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:115
-#, fuzzy
 msgid "Warning"
 msgstr "Varování"
 
 #: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:116
-#, fuzzy
 msgid "Critical"
 msgstr "Kritické"
 
 #: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:127
-#, fuzzy
 msgid "Remove announcement"
 msgstr "Odstranění oznámení"
 
 #: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:132
-#, fuzzy
 msgid "Level"
 msgstr "Úroveň"
 
 #: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:133
-#, fuzzy
 msgid "Content"
 msgstr "Obsah"
 
@@ -5002,17 +4986,14 @@ msgid "Dashboard"
 msgstr "Přehled"
 
 #: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:135
-#, fuzzy
 msgid "Display on the dashboard after users log in."
 msgstr "Zobrazení na panelu po přihlášení uživatelů."
 
 #: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:136
-#, fuzzy
 msgid "Login Screen"
 msgstr "Přihlašovací obrazovka"
 
 #: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:137
-#, fuzzy
 msgid "Display on the login screen, visible to everybody."
 msgstr "Zobrazení na přihlašovací obrazovce, viditelné pro všechny."
 
@@ -5407,23 +5388,19 @@ msgid "Role"
 msgstr "Role"
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ActiveSessions.elm:80
-#, fuzzy
 msgid "Unable to get active sessions."
 msgstr "Nelze získat aktivní relace."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ActiveSessions.elm:112
-#, fuzzy
 msgid "Session could not be revoked."
 msgstr "Relace nemohla být odvolána."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ActiveSessions.elm:130
 #: engine-wizard/elm/Wizard/Users/Edit/View.elm:92
-#, fuzzy
 msgid "Active Sessions"
 msgstr "Aktivní relace"
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ActiveSessions.elm:135
-#, fuzzy
 msgid ""
 "This is a list of active sessions logged into your account.\n"
 "\n"
@@ -5431,109 +5408,88 @@ msgid ""
 msgstr "Jedná se o seznam aktivních relací přihlášených k vašemu účtu.\n\nPokud některou z nich nepoznáte, měli byste ji zrušit."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ActiveSessions.elm:172
-#, fuzzy
 msgid "current"
 msgstr "aktuální"
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ActiveSessions.elm:176
-#, fuzzy
 msgid "Logged in on %s"
 msgstr "Přihlášen na %s"
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ActiveSessions.elm:182
-#, fuzzy
 msgid "Revoke session"
 msgstr "Odvolání relace"
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ActiveSessions.elm:193
-#, fuzzy
 msgid "Are you sure you want to revoke %s (logged in on %s)?"
 msgstr "Opravdu chcete zrušit %s (přihlášeno na %s)?"
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ActiveSessions.elm:202
-#, fuzzy
 msgid "Revoke Active Session"
 msgstr "Odvolání aktivní relace"
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ActiveSessions.elm:206
-#, fuzzy
 msgid "Revoke"
 msgstr "Odvolání"
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ActiveSessions.elm:218
-#, fuzzy
 msgid "%s on %s"
 msgstr "%s na %s"
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:86
-#, fuzzy
 msgid "Unable to get API keys."
 msgstr "Nelze získat klíče API."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:113
-#, fuzzy
 msgid "Unable to create API key."
 msgstr "Nelze vytvořit klíč API."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:165
-#, fuzzy
 msgid "API key could not be deleted."
 msgstr "Klíč API se nepodařilo odstranit."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:174
 #: engine-wizard/elm/Wizard/Users/Edit/View.elm:82
-#, fuzzy
 msgid "API Keys"
 msgstr "Klíče API"
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:185
-#, fuzzy
 msgid "You can generate an API key for every application you use that needs access to [DSW API](%s)."
 msgstr "Klíč API můžete vygenerovat pro každou používanou aplikaci, která potřebuje přístup k [DSW API](%s)."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:202
-#, fuzzy
 msgid "Your new API key"
 msgstr "Váš nový klíč API"
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:203
-#, fuzzy
 msgid "Make sure to save it, you will not be able to access it again."
 msgstr "Ujistěte se, že jste si ji uložili, protože k ní již nebudete mít přístup."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:214
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:256
-#, fuzzy
 msgid "API Key Name"
 msgstr "Název klíče API"
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:215
-#, fuzzy
 msgid "Give the API key a name to identify it, such as the name of the application using it or the purpose of the key."
 msgstr "Klíč API pojmenujte, abyste jej mohli identifikovat, například názvem aplikace, která jej používá, nebo účelem klíče."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:217
-#, fuzzy
 msgid "The date when the API key will no longer be valid."
 msgstr "Datum, kdy klíč API přestane být platný."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:250
-#, fuzzy
 msgid "You have no active API keys."
 msgstr "Nemáte žádné aktivní klíče API."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:268
-#, fuzzy
 msgid "Active API Keys (%s)"
 msgstr "Aktivní klíče API (%s)"
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:279
-#, fuzzy
 msgid "Delete API Key"
 msgstr "Odstranění klíče API"
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:281
-#, fuzzy
 msgid "Are you sure you want to delete %s?"
 msgstr "Opravdu chcete odstranit %s?"
 
@@ -5579,7 +5535,6 @@ msgid "There is no settings for %s."
 msgstr "Není zde žádné nastavení pro %s."
 
 #: engine-wizard/elm/Wizard/Users/Edit/View.elm:58
-#, fuzzy
 msgid "User Settings"
 msgstr "Uživatelská nastavení"
 
@@ -5620,7 +5575,6 @@ msgid "Not Allowed"
 msgstr "Nepovoleno"
 
 #: engine-wizard/elm/Wizard/View.elm:147
-#, fuzzy
 msgid "You don't have permission to view this page."
 msgstr "Nemáte oprávnění přistoupit k této stránce."
 
