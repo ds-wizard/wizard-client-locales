@@ -1,7 +1,8 @@
 # Marek Suchánek <marek.suchanek@ds-wizard.org>, 2023.
 # Rob Hooft <rob.hooft@health-ri.nl>, 2023.
+# Eric Krüger <eric.krueger.ek@gmail.com>, 2023.
 msgid ""
-msgstr "Project-Id-Version: wizard-client:3.21.0\nPOT-Creation-Date: 2023-04-11T14:13:38.017Z\nPO-Revision-Date: 2023-05-05 12:13+0000\nLast-Translator: Rob Hooft <rob.hooft@health-ri.nl>\nLanguage-Team: German <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-22-1/de/>\nLanguage: de\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.14.2\n"
+msgstr "Project-Id-Version: wizard-client:3.21.0\nPOT-Creation-Date: 2023-04-11T14:13:38.017Z\nPO-Revision-Date: 2023-05-10 09:13+0000\nLast-Translator: Eric Krüger <eric.krueger.ek@gmail.com>\nLanguage-Team: German <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-22-1/de/>\nLanguage: de\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.14.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 #, fuzzy
@@ -19,50 +20,62 @@ msgid "Researcher"
 msgstr "Forscher"
 
 #: engine-shared/elm/Shared/Common/TimeUtils.elm:156
+#, fuzzy
 msgid "January"
 msgstr "Januar"
 
 #: engine-shared/elm/Shared/Common/TimeUtils.elm:159
+#, fuzzy
 msgid "February"
 msgstr "Februar"
 
 #: engine-shared/elm/Shared/Common/TimeUtils.elm:162
+#, fuzzy
 msgid "March"
 msgstr "März"
 
 #: engine-shared/elm/Shared/Common/TimeUtils.elm:165
+#, fuzzy
 msgid "April"
 msgstr "April"
 
 #: engine-shared/elm/Shared/Common/TimeUtils.elm:168
+#, fuzzy
 msgid "May"
 msgstr "Mai"
 
 #: engine-shared/elm/Shared/Common/TimeUtils.elm:171
+#, fuzzy
 msgid "June"
 msgstr "Juni"
 
 #: engine-shared/elm/Shared/Common/TimeUtils.elm:174
+#, fuzzy
 msgid "July"
 msgstr "Juli"
 
 #: engine-shared/elm/Shared/Common/TimeUtils.elm:177
+#, fuzzy
 msgid "August"
 msgstr "August"
 
 #: engine-shared/elm/Shared/Common/TimeUtils.elm:180
+#, fuzzy
 msgid "September"
 msgstr "September"
 
 #: engine-shared/elm/Shared/Common/TimeUtils.elm:183
+#, fuzzy
 msgid "October"
 msgstr "Oktober"
 
 #: engine-shared/elm/Shared/Common/TimeUtils.elm:186
+#, fuzzy
 msgid "November"
 msgstr "November"
 
 #: engine-shared/elm/Shared/Common/TimeUtils.elm:189
+#, fuzzy
 msgid "December"
 msgstr "Dezember"
 
@@ -79,7 +92,7 @@ msgstr "Projekte können anhand von Projektvorlagen oder mit eigenen Einstellung
 #: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireCreation.elm:120
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:90
 msgid "Templates only"
-msgstr "Nur Schablonen"
+msgstr "nur Vorlagen"
 
 #: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireCreation.elm:121
 #, fuzzy
@@ -503,9 +516,8 @@ msgstr "App erstellen"
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/NewDocument.elm:263
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:80
 #: engine-wizard/elm/Wizard/Users/Index/View.elm:44
-#, fuzzy
 msgid "Create"
-msgstr "erstellen."
+msgstr "erstellen"
 
 #: engine-wizard/elm/Wizard/Apps/Create/View.elm:36
 #: engine-wizard/elm/Wizard/Apps/Detail/View.elm:112
@@ -1223,9 +1235,8 @@ msgid "Resolve comment thread"
 msgstr "Kommentar-Thread auflösen"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1863
-#, fuzzy
 msgid "Reopen"
-msgstr "wieder öffnen."
+msgstr "erneut öffnen"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1918
 #, fuzzy
@@ -1338,11 +1349,10 @@ msgid "This option leads to some follow up questions."
 msgstr "Diese Option wirft einige Folgefragen auf."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2912
-#, fuzzy
 msgid "1 comment"
 msgid_plural "%s comments"
 msgstr[0] "1 Kommentar"
-msgstr[1] ""
+msgstr[1] "%s Kommentare"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2946
 #, fuzzy
@@ -1901,67 +1911,58 @@ msgid "in %s"
 msgstr "in %s"
 
 #: engine-wizard/elm/Wizard/Common/TimeDistance.elm:27
-#, fuzzy
 msgid "less than a minute"
 msgid_plural "less than %s minutes"
 msgstr[0] "weniger als eine Minute"
-msgstr[1] ""
+msgstr[1] "weniger als %s Minuten"
 
 #: engine-wizard/elm/Wizard/Common/TimeDistance.elm:41
-#, fuzzy
 msgid "1 minute"
 msgid_plural "%s minutes"
 msgstr[0] "1 Minute"
-msgstr[1] ""
+msgstr[1] "%s Minuten"
 
 #: engine-wizard/elm/Wizard/Common/TimeDistance.elm:44
-#, fuzzy
 msgid "about 1 hour"
 msgid_plural "about %s hours"
 msgstr[0] "etwa 1 Stunde"
-msgstr[1] ""
+msgstr[1] "etwa %s Stunden"
 
 #: engine-wizard/elm/Wizard/Common/TimeDistance.elm:47
-#, fuzzy
 msgid "1 day"
 msgid_plural "%s days"
 msgstr[0] "1 Tag"
-msgstr[1] ""
+msgstr[1] "%s Tage"
 
 #: engine-wizard/elm/Wizard/Common/TimeDistance.elm:50
-#, fuzzy
 msgid "about 1 month"
 msgid_plural "about %s months"
 msgstr[0] "etwa 1 Monat"
-msgstr[1] ""
+msgstr[1] "etwa %s Monate"
 
 #: engine-wizard/elm/Wizard/Common/TimeDistance.elm:53
-#, fuzzy
 msgid "1 month"
 msgid_plural "%s months"
 msgstr[0] "1 Monat"
-msgstr[1] ""
+msgstr[1] "%s Monate"
 
 #: engine-wizard/elm/Wizard/Common/TimeDistance.elm:56
-#, fuzzy
 msgid "about 1 year"
 msgid_plural "about %s years"
 msgstr[0] "etwa 1 Jahr"
-msgstr[1] ""
+msgstr[1] "etwa %s Jahre"
 
 #: engine-wizard/elm/Wizard/Common/TimeDistance.elm:59
-#, fuzzy
 msgid "over 1 year"
 msgid_plural "over %s years"
 msgstr[0] "über 1 Jahr"
-msgstr[1] ""
+msgstr[1] "über %s Jahre"
 
 #: engine-wizard/elm/Wizard/Common/TimeDistance.elm:62
-#, fuzzy
 msgid "almost 1 year"
 msgid_plural "almost %s years"
 msgstr[0] "fast 1 Jahr"
-msgstr[1] ""
+msgstr[1] "fast %s Jahre"
 
 #: engine-wizard/elm/Wizard/Common/View/FormGroup.elm:57
 #, fuzzy
@@ -2224,15 +2225,11 @@ msgid "Create Project"
 msgstr "Projekt erstellen"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/CreateProjectWidget.elm:14
-#, fuzzy
 msgid ""
 "Project is a workspace where you create your DMP. It is based on a knowledge model, which contains knowledge about what should be asked and how based on the research field or organization's needs. You can use document templates to transform the answers into a document. This document can be anything, from PDF to machine-actionable JSON.\n"
 "\n"
 "You can create a new project from a project template that data stewards prepare for you to have an easier start or from scratch where you set up everything yourself."
-msgstr ""
-"Projekt ist ein Arbeitsbereich, in dem Sie Ihr DMP erstellen. Es basiert auf einem Wissensmodell, das Wissen darüber enthält, was gefragt werden sollte und wie, basierend auf dem Forschungsgebiet oder den Bedürfnissen der Organisation. Sie können Dokumentvorlagen verwenden, um die Antworten in ein Dokument umzuwandeln. Dieses Dokument kann alles sein, von PDF bis zu maschinenverarbeitbarem JSON.\n"
-"\n"
-"Sie können ein neues Projekt auf der Grundlage einer Projektvorlage erstellen, die die Datenverwalter für Sie vorbereiten, um Ihnen den Start zu erleichtern, oder von Grund auf neu, indem Sie alles selbst einrichten."
+msgstr "Projekt ist ein Arbeitsbereich, in dem Sie Ihr DMP erstellen. Es basiert auf einem Wissensmodell, das Wissen darüber enthält, was gefragt werden sollte und wie, basierend auf dem Forschungsgebiet oder den Bedürfnissen der Organisation. Sie können Dokumentvorlagen verwenden, um die Antworten in ein Dokument umzuwandeln. Dieses Dokument kann verschiedene Formate annehmen, von PDF bis zu maschinenlesbaren JSON.\n\nSie können ein neues Projekt auf der Grundlage einer Projektvorlage erstellen, welcher durch die Datenverwalter für Sie vorbereitet werden, um so den Start zu erleichtern. Sie können aber auch von Grund auf neu starten, indem Sie alles selbst einrichten."
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ImportDocumentTemplateWidget.elm:13
 #: engine-wizard/elm/Wizard/DocumentTemplates/Import/View.elm:44
@@ -2725,9 +2722,8 @@ msgstr "Überprüfen Sie die Metadaten der Dokumentvorlage vor der Veröffentlic
 #: engine-wizard/elm/Wizard/KMEditor/Editor/View.elm:127
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:2349
 #: engine-wizard/elm/Wizard/KMEditor/Publish/View.elm:44
-#, fuzzy
 msgid "Publish"
-msgstr "veröffentlichen."
+msgstr "Veröffentlichen"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/PublishModal.elm:136
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:271
@@ -3511,9 +3507,8 @@ msgid "Integration"
 msgstr "Integration"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:748
-#, fuzzy
 msgid "Multi-Choice"
-msgstr "Multi-Choice"
+msgstr "Mehrfachauswahl"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:755
 #, fuzzy
@@ -3817,9 +3812,8 @@ msgid "Use this section to configure the search request. The service you want to
 msgstr "Verwenden Sie diesen Abschnitt, um die Suchanfrage zu konfigurieren. Der Dienst, den Sie integrieren möchten, muss eine HTTP-Such-API bereitstellen, an die Sie einen Suchstring senden und die ein JSON mit den gefundenen Elementen zurückgibt."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1495
-#, fuzzy
 msgid "A URL of the integrated service API that supports the search. Use `${q}` for the actual string that will be filled when users search for items, such as *ht&#8203;tps://example.com/search?q=${q}*."
-msgstr "Eine URL der integrierten Dienst-API, die die Suche unterstützt. Verwenden Sie \"${q}\" für die eigentliche Zeichenkette, die gefüllt wird, wenn Benutzer nach Elementen suchen, z. B. *https://example.com/search?q=${q}*."
+msgstr "Eine URL der integrierten Schnittstelle (Service-Api), welche die Suche unterstützt. Verwenden Sie \"${q}\" für die Zeichenkette, welche ersetzt wird, wenn Benutzer nach Elementen suchen, z. B. *https://example.com/search?q=${q}*."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1500
 #, fuzzy
@@ -3886,9 +3880,8 @@ msgid "Quick setup"
 msgstr "Schnelle Einrichtung"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1598
-#, fuzzy
 msgid "A string that identifies the integration. It has to be unique for each integration."
-msgstr "Eine Zeichenfolge, die die Integration identifiziert. Sie muss für jede Integration eindeutig sein."
+msgstr "Eine Zeichenfolge, welche die Integration identifiziert. Diese muss für jede Integration eindeutig sein."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1600
 #, fuzzy
@@ -5164,9 +5157,8 @@ msgid "All changes have been saved"
 msgstr "Alle Änderungen wurden gespeichert."
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/RevertModal.elm:109
-#, fuzzy
 msgid "Heads up! This action cannot be undone."
-msgstr "Achtung, Achtung! Diese Aktion kann nicht rückgängig gemacht werden."
+msgstr "Achtung! Diese Aktion kann nicht rückgängig gemacht werden."
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/RevertModal.elm:112
 #, fuzzy
@@ -5356,18 +5348,16 @@ msgid "Import status:"
 msgstr "Status der Einfuhr:"
 
 #: engine-wizard/elm/Wizard/Projects/Import/View.elm:90
-#, fuzzy
 msgid "%s questionnaire change will be imported"
 msgid_plural "%s questionnaire changes will be imported"
 msgstr[0] "%s Fragebogenänderung wird importiert"
-msgstr[1] ""
+msgstr[1] "%s Fragebogenänderungen werden importiert"
 
 #: engine-wizard/elm/Wizard/Projects/Import/View.elm:108
-#, fuzzy
 msgid "%s error encountered"
 msgid_plural "%s errors encountered"
 msgstr[0] "%s-Fehler aufgetreten"
-msgstr[1] ""
+msgstr[1] "%s-Fehler aufgetreten"
 
 #: engine-wizard/elm/Wizard/Projects/Import/View.elm:175
 #, fuzzy
@@ -5508,9 +5498,8 @@ msgid "Undo"
 msgstr "Rückgängig machen"
 
 #: engine-wizard/elm/Wizard/Projects/Migration/View.elm:130
-#, fuzzy
 msgid "Resolve"
-msgstr "Lösen Sie  auf."
+msgstr "Auflösen"
 
 #: engine-wizard/elm/Wizard/Projects/Migration/View.elm:138
 #, fuzzy
