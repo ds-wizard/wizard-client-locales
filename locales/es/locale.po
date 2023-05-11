@@ -1,6 +1,6 @@
 # Remedios Melero <rmelero@iata.csic.es>, 2023.
 msgid ""
-msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2023-04-11T14:13:38.017Z\nPO-Revision-Date: 2023-04-11 18:59+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Spanish <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-22-1/es/>\nLanguage: es\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.14.2\n"
+msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2023-04-11T14:13:38.017Z\nPO-Revision-Date: 2023-05-12 10:13+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Spanish <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-22-1/es/>\nLanguage: es\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.14.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -2222,7 +2222,7 @@ msgstr "No se ha podido eliminar el documento."
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/Update.elm:173
 #, fuzzy
 msgid "Unable to get submission services for the document."
-msgstr "Imposible obtener los servicios de presentación del documento."
+msgstr "Imposible obtener servicios de presentación del documento."
 
 #: engine-wizard/elm/Wizard/Documents/Index/Update.elm:232
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/Update.elm:211
@@ -2997,7 +2997,7 @@ msgstr "¿Estás seguro de que quieres borrar %s y todas sus versiones de forma 
 #: engine-wizard/elm/Wizard/DocumentTemplates/Index/View.elm:180
 #, fuzzy
 msgid "Delete document template"
-msgstr "Eliminar plantilla de documento"
+msgstr "Borrar plantilla de documento"
 
 #: engine-wizard/elm/Wizard/KMEditor/Common/DeleteModal.elm:75
 #, fuzzy
@@ -6101,7 +6101,7 @@ msgstr "Creación de proyectos"
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:97
 #, fuzzy
 msgid "If enabled, users can view a summary report showing various metrics for the questionnaire."
-msgstr "Si se activa, los usuarios pueden ver un informe resumido que muestra varias métricas del cuestionario."
+msgstr "Si se activa, los usuarios pueden ver un informe resumido que muestra diversas métricas del cuestionario."
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:99
 #, fuzzy
