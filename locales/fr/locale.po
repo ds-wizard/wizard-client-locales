@@ -1,5 +1,5 @@
 msgid ""
-msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2022-12-02T09:10:27.118Z\nPO-Revision-Date: 2023-04-19 17:13+0000\nLast-Translator: Paulette Lieby <paulette.lieby@france-bioinformatique.fr>\nLanguage-Team: French <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-18-3/fr/>\nLanguage: fr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 4.14.2\n"
+msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2022-12-02T09:10:27.118Z\nPO-Revision-Date: 2023-05-17 09:13+0000\nLast-Translator: Paulette Lieby <paulette.lieby@france-bioinformatique.fr>\nLanguage-Team: French <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-18-3/fr/>\nLanguage: fr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 4.14.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -2588,7 +2588,7 @@ msgstr "Utilisez cette section pour configurer la requête de recherche. Le serv
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1495
 msgid "A URL of the integrated service API that supports the search. Use `${q}` for the actual string that will be filled when users search for items, such as *ht&#8203;tps://example.com/search?q=${q}*."
-msgstr "Une URL de l'API de service intégré qui prend en charge la recherche. Utilisez `${q}` pour la chaîne réelle de caractères qui sera renseignées lorsque les utilisateur·rice·s rechercheront des éléments, comme *ht&#8203;tps://exemple.com/search?q=${q}*."
+msgstr "Une URL de l'API de service intégré qui prend en charge la recherche. Utilisez `${q}` pour la chaîne réelle de caractères qui sera renseignée lorsque les utilisateur·rice·s rechercheront des éléments, comme *ht&#8203;tps://exemple.com/search?q=${q}*."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1500
 msgid "Turn this off if the API cannot handle empty search requests. In that case, the requests will be made only after users type something."
