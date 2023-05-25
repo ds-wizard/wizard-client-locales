@@ -2,7 +2,7 @@
 # Rob Hooft <rob.hooft@health-ri.nl>, 2023.
 # Eric Krüger <eric.krueger.ek@gmail.com>, 2023.
 msgid ""
-msgstr "Project-Id-Version: wizard-client:3.21.0\nPOT-Creation-Date: 2023-03-07T10:30:15.037Z\nPO-Revision-Date: 2023-05-12 10:13+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: German <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-21-0/de/>\nLanguage: de\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.14.2\n"
+msgstr "Project-Id-Version: wizard-client:3.21.0\nPOT-Creation-Date: 2023-03-07T10:30:15.037Z\nPO-Revision-Date: 2023-05-26 14:13+0000\nLast-Translator: Eric Krüger <eric.krueger.ek@gmail.com>\nLanguage-Team: German <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-21-0/de/>\nLanguage: de\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.14.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -337,7 +337,6 @@ msgid "This is not a valid UUID."
 msgstr "Dies ist keine gültige UUID."
 
 #: engine-shared/elm/Shared/Form.elm:53
-#, fuzzy
 msgid "Invalid value."
 msgstr "Ungültiger Wert."
 
@@ -637,17 +636,14 @@ msgid "Add"
 msgstr "hinzufügen"
 
 #: engine-wizard/elm/Wizard/Apps/Detail/View.elm:227
-#, fuzzy
 msgid "Edit plan"
 msgstr "Plan bearbeiten"
 
 #: engine-wizard/elm/Wizard/Apps/Detail/View.elm:247
-#, fuzzy
 msgid "Are you sure you want to delete plan **%s**?"
 msgstr "Sind Sie sicher, dass Sie den Plan **%s** löschen wollen?"
 
 #: engine-wizard/elm/Wizard/Apps/Detail/View.elm:256
-#, fuzzy
 msgid "Delete plan"
 msgstr "Plan löschen"
 
@@ -686,68 +682,55 @@ msgstr "Plan löschen"
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:661
 #: engine-wizard/elm/Wizard/Users/Index/View.elm:154
 #: engine-wizard/elm/Wizard/Users/Index/View.elm:183
-#, fuzzy
 msgid "Delete"
 msgstr "Löschen"
 
 #: engine-wizard/elm/Wizard/Apps/Index/Update.elm:49
-#, fuzzy
 msgid "Unable to get apps."
-msgstr "Anwendungen können nicht abgerufen werden."
+msgstr "Apps können nicht abgerufen werden."
 
 #: engine-wizard/elm/Wizard/Apps/Index/View.elm:24
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:70
-#, fuzzy
 msgid "Apps"
 msgstr "Apps"
 
 #: engine-wizard/elm/Wizard/Apps/Index/View.elm:36
-#, fuzzy
 msgid "Enabled only"
 msgstr "Nur aktiviert"
 
 #: engine-wizard/elm/Wizard/Apps/Index/View.elm:37
-#, fuzzy
 msgid "Disabled only"
-msgstr "Nur für Behinderte"
+msgstr "Nur deaktiviert"
 
 #: engine-wizard/elm/Wizard/Apps/Index/View.elm:46
-#, fuzzy
 msgid "Click \"Create\" button to add a new App."
 msgstr "Klicken Sie auf die Schaltfläche \"Erstellen\", um eine neue App hinzuzufügen."
 
 #: engine-wizard/elm/Wizard/Apps/Index/View.elm:54
-#, fuzzy
 msgid "Search apps..."
 msgstr "Apps suchen..."
 
 #: engine-wizard/elm/Wizard/Auth/Update.elm:67
-#, fuzzy
 msgid "Loading the profile info failed."
 msgstr "Das Laden der Profilinformationen ist fehlgeschlagen."
 
 #: engine-wizard/elm/Wizard/Common/Components/Listing/View.elm:152
-#, fuzzy
 msgid "Filter by name..."
 msgstr "Nach Namen filtern..."
 
 #: engine-wizard/elm/Wizard/Common/Components/Listing/View.elm:201
-#, fuzzy
 msgid "Order by"
-msgstr "Bestellen nach"
+msgstr "Sortieren nach"
 
 #: engine-wizard/elm/Wizard/Common/Components/Listing/View.elm:367
-#, fuzzy
 msgid "Clear selection"
 msgstr "Auswahl löschen"
 
 #: engine-wizard/elm/Wizard/Common/Components/Listing/View.elm:445
-#, fuzzy
 msgid "Last"
-msgstr "Zuletzt"
+msgstr "Letztes"
 
 #: engine-wizard/elm/Wizard/Common/Components/Listing/View.elm:458
-#, fuzzy
 msgid "Next"
 msgstr "Weiter"
 
@@ -756,130 +739,105 @@ msgid "Prev"
 msgstr "Vor"
 
 #: engine-wizard/elm/Wizard/Common/Components/Listing/View.elm:480
-#, fuzzy
 msgid "First"
-msgstr "Erste"
+msgstr "Erstes"
 
 #: engine-wizard/elm/Wizard/Common/Components/Listing/View.elm:503
-#, fuzzy
 msgid "There are no results matching your search and filters."
 msgstr "Es gibt keine Ergebnisse, die Ihrer Suche und Ihren Filtern entsprechen."
 
 #: engine-wizard/elm/Wizard/Common/Components/Listing/View.elm:510
-#, fuzzy
 msgid "No data"
 msgstr "Keine Daten"
 
 #: engine-wizard/elm/Wizard/Common/Components/Listing/View.elm:572
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/RecentProjectsWidget.elm:73
-#, fuzzy
 msgid "Updated %s"
 msgstr "Aktualisiert %s"
 
 #: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:44
 #: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:54
-#, fuzzy
 msgid "Anonymous Cat"
 msgstr "Anonyme Katze"
 
 #: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:55
-#, fuzzy
 msgid "Anonymous Crow"
 msgstr "Anonyme Krähe"
 
 #: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:56
-#, fuzzy
 msgid "Anonymous Dog"
 msgstr "Anonymer Hund"
 
 #: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:57
-#, fuzzy
 msgid "Anonymous Dove"
 msgstr "Anonyme Taube"
 
 #: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:58
-#, fuzzy
 msgid "Anonymous Dragon"
 msgstr "Anonymer Drache"
 
 #: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:59
-#, fuzzy
 msgid "Anonymous Fish"
 msgstr "Anonymer Fisch"
 
 #: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:60
-#, fuzzy
 msgid "Anonymous Frog"
 msgstr "Anonymer Frosch"
 
 #: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:61
-#, fuzzy
 msgid "Anonymous Hippo"
 msgstr "Anonymes Nilpferd"
 
 #: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:62
-#, fuzzy
 msgid "Anonymous Horse"
 msgstr "Anonymes Pferd"
 
 #: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:63
-#, fuzzy
 msgid "Anonymous Kiwi"
 msgstr "Anonymer Kiwi"
 
 #: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:64
-#, fuzzy
 msgid "Anonymous Otter"
 msgstr "Anonyme Otter"
 
 #: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:65
-#, fuzzy
 msgid "Anonymous Spider"
 msgstr "Anonyme Spinne"
 
 #: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:66
-#, fuzzy
 msgid "Anonymous Pig"
 msgstr "Anonymes Schwein"
 
 #: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:67
-#, fuzzy
 msgid "Anonymous Bug"
-msgstr "Anonymer Fehler"
+msgstr "Anonymer Käfer"
 
 #: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:68
-#, fuzzy
 msgid "Anonymous Wizard"
 msgstr "Anonymer Zauberer"
 
 #: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:69
-#, fuzzy
 msgid "Anonymous Ghost"
 msgstr "Anonymer Geist"
 
 #: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:70
-#, fuzzy
 msgid "Anonymous Robot"
 msgstr "Anonymer Roboter"
 
 #: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:71
-#, fuzzy
 msgid "Anonymous Snowman"
 msgstr "Anonymer Schneemann"
 
 #: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:72
-#, fuzzy
 msgid "Anonymous Tree"
 msgstr "Anonymer Baum"
 
 #: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:73
-#, fuzzy
 msgid "Anonymous Cowboy"
 msgstr "Anonymer Cowboy"
 
 #: engine-wizard/elm/Wizard/Common/Components/PlansList.elm:50
 #: engine-wizard/elm/Wizard/Users/Edit/View.elm:111
-#, fuzzy
 msgid "Active"
 msgstr "Aktiv"
 
@@ -888,7 +846,6 @@ msgid "There are no plans for this instance."
 msgstr "Für diese Instanz gibt es keine Pläne."
 
 #: engine-wizard/elm/Wizard/Common/Components/PlansList.elm:96
-#, fuzzy
 msgid "Plan"
 msgstr "Plan"
 
@@ -968,9 +925,8 @@ msgstr "Alle TODOs wurden abgeschlossen."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1467
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:345
-#, fuzzy
 msgid "There are no more warnings."
-msgstr "Es gibt keine Warnungen mehr."
+msgstr "Keine weiteren Warnungen."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1524
 msgid "Click the %s icon to add new comments to a question."
@@ -1145,7 +1101,6 @@ msgid "Feedback"
 msgstr "Rückmeldung"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2882
-#, fuzzy
 msgid "Copied!"
 msgstr "Kopiert!"
 
@@ -1668,28 +1623,23 @@ msgid "Suggestions: "
 msgstr "Vorschläge: "
 
 #: engine-wizard/elm/Wizard/Common/View/FormGroup.elm:654
-#, fuzzy
 msgid "The version number is in format X.Y.Z. Increasing number Z indicates only some fixes, number Y minor changes, and number X indicates a major change."
 msgstr "Die Versionsnummer hat das Format X.Y.Z. Die Erhöhung der Zahl Z bedeutet nur einige Korrekturen, die Zahl Y kleinere Änderungen und die Zahl X eine größere Änderung."
 
 #: engine-wizard/elm/Wizard/Common/View/Layout.elm:32
 #: engine-wizard/elm/Wizard/Common/View/Layout.elm:40
-#, fuzzy
 msgid "Configuration Error"
 msgstr "Konfigurationsfehler"
 
 #: engine-wizard/elm/Wizard/Common/View/Layout.elm:34
-#, fuzzy
 msgid "Application is not configured correctly and cannot run."
 msgstr "Die Anwendung ist nicht korrekt konfiguriert und kann nicht ausgeführt werden."
 
 #: engine-wizard/elm/Wizard/Common/View/Layout.elm:35
-#, fuzzy
 msgid "Please, contact the administrator."
 msgstr "Bitte wenden Sie sich an den Administrator."
 
 #: engine-wizard/elm/Wizard/Common/View/Layout.elm:94
-#, fuzzy
 msgid "Go to App"
 msgstr "Zur App gehen"
 
@@ -1699,7 +1649,6 @@ msgstr "Zur App gehen"
 #: engine-wizard/elm/Wizard/Settings/Registry/View.elm:76
 #: engine-wizard/elm/Wizard/Settings/Registry/View.elm:104
 #: engine-wizard/elm/Wizard/Settings/Registry/View.elm:108
-#, fuzzy
 msgid "Sign Up"
 msgstr "Anmeldung"
 
@@ -1707,7 +1656,6 @@ msgstr "Anmeldung"
 #: engine-wizard/elm/Wizard/Public/Login/View.elm:75
 #: engine-wizard/elm/Wizard/Public/Login/View.elm:90
 #: engine-wizard/elm/Wizard/Public/Login/View.elm:104
-#, fuzzy
 msgid "Log In"
 msgstr "Einloggen"
 
@@ -1716,19 +1664,16 @@ msgstr "Einloggen"
 #: engine-wizard/elm/Wizard/Documents/Index/View.elm:279
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:274
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:292
-#, fuzzy
 msgid "Error"
 msgstr "Fehler"
 
 #: engine-wizard/elm/Wizard/Common/View/Tag.elm:33
-#, fuzzy
 msgid "There are no question tags configured for the Knowledge Model."
 msgstr "Es sind keine Frage-Tags für das Wissensmodell konfiguriert."
 
 #: engine-wizard/elm/Wizard/Common/View/Tag.elm:53
-#, fuzzy
 msgid "Untitled question tag"
-msgstr "Tag \"Unbenannte Frage"
+msgstr "Unbenannter Frage-Tag"
 
 #: engine-wizard/elm/Wizard/Common/View/Tag.elm:82
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:540
@@ -1739,30 +1684,25 @@ msgstr "Tag \"Unbenannte Frage"
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1067
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1215
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1312
-#, fuzzy
 msgid "Question Tags"
 msgstr "Frage-Tags"
 
 #: engine-wizard/elm/Wizard/Common/View/Tag.elm:108
-#, fuzzy
 msgid "You can filter questions in the questionnaire by question tags. If no question tags are selected, all questions will be used."
 msgstr "Sie können die Fragen im Fragebogen nach Frage-Tags filtern. Wenn keine Frage-Tags ausgewählt sind, werden alle Fragen verwendet."
 
 #: engine-wizard/elm/Wizard/Common/View/Tag.elm:114
-#, fuzzy
 msgid "There are no question tags for this knowledge model."
 msgstr "Für dieses Wissensmodell gibt es keine Frage-Tags."
 
 #: engine-wizard/elm/Wizard/Common/View/Tag.elm:126
-#, fuzzy
 msgid "No question tags"
-msgstr "Keine Fragezeichen"
+msgstr "Keine Frage-Tags"
 
 #: engine-wizard/elm/Wizard/Dashboard/Dashboards/AdminDashboard.elm:80
 #: engine-wizard/elm/Wizard/Settings/Usage/Update.elm:24
-#, fuzzy
 msgid "Unable to get usage."
-msgstr "Kann nicht verwendet werden."
+msgstr "Nutzungsstatistiken können nicht abgerufen werden."
 
 #: engine-wizard/elm/Wizard/Dashboard/Dashboards/AdminDashboard.elm:89
 #: engine-wizard/elm/Wizard/Dashboard/Dashboards/DataStewardDashboard.elm:61
@@ -1776,7 +1716,6 @@ msgstr "Kann nicht verwendet werden."
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:217
 #: engine-wizard/elm/Wizard/Projects/Index/Update.elm:208
 #: engine-wizard/elm/Wizard/Projects/Index/Update.elm:239
-#, fuzzy
 msgid "Unable to get Knowledge Models."
 msgstr "Es können keine Wissensmodelle abgerufen werden."
 
@@ -1785,107 +1724,87 @@ msgstr "Es können keine Wissensmodelle abgerufen werden."
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Index/Update.elm:87
 #: engine-wizard/elm/Wizard/DocumentTemplates/Index/Update.elm:97
 #: engine-wizard/elm/Wizard/Settings/Submission/Update.elm:40
-#, fuzzy
 msgid "Unable to get document templates."
 msgstr "Es können keine Dokumentvorlagen abgerufen werden."
 
 #: engine-wizard/elm/Wizard/Dashboard/Dashboards/ResearcherDashboard.elm:71
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Preview.elm:145
 #: engine-wizard/elm/Wizard/Projects/Index/Update.elm:341
-#, fuzzy
 msgid "Unable to get projects."
-msgstr "Sie können keine Projekte erhalten."
+msgstr "Projekte können nicht abgerufen werden."
 
 #: engine-wizard/elm/Wizard/Dashboard/Dashboards/WelcomeDashboard.elm:18
-#, fuzzy
 msgid "Welcome to the %s!"
-msgstr "Willkommen bei den %s!"
+msgstr "Willkommen zum %s!"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/AddOpenIDWidget.elm:13
-#, fuzzy
 msgid "Add OpenID Service"
 msgstr "OpenID-Dienst hinzufügen"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/AddOpenIDWidget.elm:14
-#, fuzzy
 msgid "OpenID is an open standard for authentication that allows using existing accounts to login to other services without creating a new password. Configure your organization's OpenID to make it easier for your users to log in."
 msgstr "OpenID ist ein offener Standard für die Authentifizierung, der es ermöglicht, bestehende Konten zu nutzen, um sich bei anderen Diensten anzumelden, ohne ein neues Passwort erstellen zu müssen. Konfigurieren Sie die OpenID Ihrer Organisation, um die Anmeldung für Ihre Benutzer zu erleichtern."
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/AddOpenIDWidget.elm:17
-#, fuzzy
 msgid "Add OpenID"
 msgstr "OpenID hinzufügen"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ConfigureLookAndFeelWidget.elm:15
-#, fuzzy
 msgid "You can configure the application name and easily change the logo and colors to match your organization's style. You can also add additional menu links, for example, to your guidelines or documentation."
 msgstr "Sie können den Namen der Anwendung konfigurieren und das Logo und die Farben leicht ändern, um sie an den Stil Ihrer Organisation anzupassen. Sie können auch zusätzliche Menülinks hinzufügen, zum Beispiel zu Ihren Richtlinien oder Ihrer Dokumentation."
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ConfigureLookAndFeelWidget.elm:18
-#, fuzzy
 msgid "You can configure the application name, or add additional menu links, for example, to your guidelines or documentation."
 msgstr "Sie können den Namen der Anwendung konfigurieren oder zusätzliche Menülinks hinzufügen, z. B. zu Ihren Richtlinien oder Ihrer Dokumentation."
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ConfigureLookAndFeelWidget.elm:21
-#, fuzzy
 msgid "Configure Look & Feel"
 msgstr "Look & Feel konfigurieren"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ConfigureLookAndFeelWidget.elm:25
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ConfigureOrganizationWidget.elm:17
-#, fuzzy
 msgid "Configure"
-msgstr "Konfigurieren Sie"
+msgstr "Konfigurieren"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ConfigureOrganizationWidget.elm:13
-#, fuzzy
 msgid "Configure Organization Info"
 msgstr "Organisationsinformationen konfigurieren"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ConfigureOrganizationWidget.elm:14
-#, fuzzy
 msgid "Fill in your organization name and organization ID. For example, these values will be used with knowledge models created in this instance."
 msgstr "Geben Sie den Namen Ihrer Organisation und die Organisations-ID ein. Diese Werte werden zum Beispiel bei Wissensmodellen verwendet, die in diesem Fall erstellt werden."
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ConnectRegistryWidget.elm:13
-#, fuzzy
 msgid "Connect to DSW Registry"
 msgstr "Verbindung zum DSW-Register"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ConnectRegistryWidget.elm:14
-#, fuzzy
 msgid "[DSW Registry](https://registry.ds-wizard.org) is a place for published knowledge models and document templates. When you connect your instance, data stewards can easily import them."
-msgstr "[DSW Registry] (https://registry.ds-wizard.org) ist ein Ort für veröffentlichte Wissensmodelle und Dokumentvorlagen. Wenn Sie Ihre Instanz anschließen, können die Datenverwalter diese einfach importieren."
+msgstr "[DSW Registry] (https://registry.ds-wizard.org) ist ein Ort für veröffentlichte Wissensmodelle und Dokumentvorlagen. Wenn Sie Ihre Instanz verbinden, können die Datenverwalter:innen diese einfach importieren."
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ConnectRegistryWidget.elm:17
-#, fuzzy
 msgid "Connect"
-msgstr "Verbinden Sie"
+msgstr "Verbinden"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/CreateKnowledgeModelWidget.elm:13
 #: engine-wizard/elm/Wizard/KMEditor/Create/View.elm:40
-#, fuzzy
 msgid "Create Knowledge Model"
 msgstr "Wissensmodell erstellen"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/CreateKnowledgeModelWidget.elm:14
-#, fuzzy
 msgid "Knowledge model is a tree-like structure containing the knowledge about what should be asked and how. It is used as a template for questionnaires in projects. You can create new ones from scratch or by modifying existing ones."
 msgstr "Das Wissensmodell ist eine baumähnliche Struktur, die das Wissen darüber enthält, was und wie gefragt werden sollte. Es wird als Vorlage für Fragebögen in Projekten verwendet. Sie können neue Fragebögen von Grund auf erstellen oder bestehende Fragebögen abändern."
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/CreateProjectTemplateWidget.elm:13
-#, fuzzy
 msgid "Create Project Template"
 msgstr "Projektvorlage erstellen"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/CreateProjectTemplateWidget.elm:14
-#, fuzzy
 msgid "Project template is a special type of project that can be used as a starting point for new projects. You can select a knowledge model, set up a document template and format, or prefill some answers to make it easier to start for researchers."
-msgstr "Die Projektvorlage ist ein spezieller Projekttyp, der als Ausgangspunkt für neue Projekte verwendet werden kann. Sie können ein Wissensmodell auswählen, eine Dokumentvorlage und ein Format einrichten oder einige Antworten vorausfüllen, um den Forschern den Einstieg zu erleichtern."
+msgstr "Die Projektvorlage ist ein spezieller Projekttyp, der als Ausgangspunkt für neue Projekte verwendet werden kann. Sie können ein Wissensmodell auswählen, eine Dokumentvorlage und ein Format einrichten oder einige Antworten vorausfüllen, um den Forschenden den Einstieg zu erleichtern."
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/CreateProjectWidget.elm:13
 #: engine-wizard/elm/Wizard/Projects/Create/View.elm:48
-#, fuzzy
 msgid "Create Project"
 msgstr "Projekt erstellen"
 
@@ -1895,14 +1814,12 @@ msgstr "Projekt ist ein Arbeitsbereich, in dem Sie Ihr DMP erstellen. Es basiert
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ImportDocumentTemplateWidget.elm:13
 #: engine-wizard/elm/Wizard/DocumentTemplates/Import/View.elm:44
-#, fuzzy
 msgid "Import Document Template"
 msgstr "Dokumentvorlage importieren"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ImportDocumentTemplateWidget.elm:14
-#, fuzzy
 msgid "Document templates transform answers from a questionnaire into a document. This document can be anything, from PDF to machine-actionable JSON. You can import existing document templates from [DSW Registry](https://registry.ds-wizard.org/templates) or create new ones using [DSW TDK](https://guide.ds-wizard.org/miscellaneous/development/template-development)."
-msgstr "Dokumentvorlagen wandeln Antworten aus einem Fragebogen in ein Dokument um. Dieses Dokument kann alles sein, von PDF bis zu maschinenverarbeitbarem JSON. Sie können vorhandene Dokumentvorlagen aus [DSW Registry](https://registry.ds-wizard.org/templates) importieren oder neue mit [DSW TDK](https://guide.ds-wizard.org/miscellaneous/development/template-development) erstellen."
+msgstr "Dokumentvorlagen wandeln Antworten aus einem Fragebogen in ein Dokument um. Dieses Dokument kann alles sein, von PDF bis zu maschinenlesebarem JSON. Sie können vorhandene Dokumentvorlagen aus [DSW Registry](https://registry.ds-wizard.org/templates) importieren oder neue mit [DSW TDK](https://guide.ds-wizard.org/miscellaneous/development/template-development) erstellen."
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ImportDocumentTemplateWidget.elm:17
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ImportKnowledgeModelWidget.elm:17
@@ -1922,28 +1839,23 @@ msgstr "Dokumentvorlagen wandeln Antworten aus einem Fragebogen in ein Dokument 
 #: engine-wizard/elm/Wizard/Locales/Index/View.elm:228
 #: engine-wizard/elm/Wizard/Projects/Import/View.elm:55
 #: engine-wizard/elm/Wizard/Projects/Import/View.elm:123
-#, fuzzy
 msgid "Import"
 msgstr "Importieren"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ImportKnowledgeModelWidget.elm:13
 #: engine-wizard/elm/Wizard/KnowledgeModels/Import/View.elm:83
-#, fuzzy
 msgid "Import Knowledge Model"
 msgstr "Wissensmodell importieren"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ImportKnowledgeModelWidget.elm:14
-#, fuzzy
 msgid "Knowledge models are published in [DSW Registry](https://registry.ds-wizard.org). You can easily import them into your instance to make them available for researchers. You can also import other knowledge models exported from different instances."
-msgstr "Wissensmodelle werden in [DSW Registry] (https://registry.ds-wizard.org) veröffentlicht. Sie können sie einfach in Ihre Instanz importieren, um sie für Forscher verfügbar zu machen. Sie können auch andere Wissensmodelle importieren, die aus anderen Instanzen exportiert wurden."
+msgstr "Wissensmodelle werden in [DSW Registry] (https://registry.ds-wizard.org) veröffentlicht. Sie können sie einfach in Ihre Instanz importieren, um sie für Forscher:innen verfügbar zu machen. Sie können auch andere Wissensmodelle importieren, die aus anderen Instanzen exportiert wurden."
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/OutdatedPackagesWidget.elm:35
-#, fuzzy
 msgid "Update Knowledge Models"
 msgstr "Wissensmodelle aktualisieren"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/OutdatedPackagesWidget.elm:36
-#, fuzzy
 msgid "There are updates available for some knowledge models."
 msgstr "Für einige Wissensmodelle sind Aktualisierungen verfügbar."
 
@@ -1954,98 +1866,80 @@ msgstr "Für einige Wissensmodelle sind Aktualisierungen verfügbar."
 #: engine-wizard/elm/Wizard/KnowledgeModels/Index/View.elm:98
 #: engine-wizard/elm/Wizard/Locales/Index/View.elm:90
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:695
-#, fuzzy
 msgid "update available"
 msgstr "Update verfügbar"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/OutdatedTemplatesWidget.elm:35
-#, fuzzy
 msgid "Update Document Templates"
 msgstr "Dokumentvorlagen aktualisieren"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/OutdatedTemplatesWidget.elm:36
-#, fuzzy
 msgid "There are updates available for some document templates."
 msgstr "Für einige Dokumentvorlagen sind Aktualisierungen verfügbar."
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/RecentProjectsWidget.elm:43
-#, fuzzy
 msgid "Recent Projects"
 msgstr "Neueste Projekte"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/RecentProjectsWidget.elm:46
-#, fuzzy
 msgid "View all"
 msgstr "Alle anzeigen"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/RecentProjectsWidget.elm:83
-#, fuzzy
 msgid "You have no projects yet, start by creating some."
 msgstr "Sie haben noch keine Projekte, fangen Sie an, welche zu erstellen."
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/WelcomeWidget.elm:19
-#, fuzzy
 msgid "Welcome, %s!"
 msgstr "Willkommen, %s!"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/WelcomeWidget.elm:22
-#, fuzzy
 msgid "Welcome!"
 msgstr "Herzlich willkommen!"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/WelcomeWidget.elm:26
-#, fuzzy
 msgid "As an admin, you configure the instance and manage user accounts."
 msgstr "Als Administrator konfigurieren Sie die Instanz und verwalten Benutzerkonten."
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/WelcomeWidget.elm:27
-#, fuzzy
 msgid "As a data steward, you prepare knowledge models, document templates, and project templates for researchers."
-msgstr "Als Datenverwalter bereiten Sie Wissensmodelle, Dokumentvorlagen und Projektvorlagen für Forscher vor."
+msgstr "Als Datenverwalter bereiten Sie Wissensmodelle, Dokumentvorlagen und Projektvorlagen für Forschende vor."
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/WelcomeWidget.elm:28
-#, fuzzy
 msgid "As a researcher, you create and collaborate on data management plans."
-msgstr "Als Forscher erstellen Sie Datenmanagementpläne und arbeiten daran mit."
+msgstr "Als Forscher:in erstellen Sie Datenmanagementpläne und arbeiten daran mit."
 
 #: engine-wizard/elm/Wizard/Documents/Index/Update.elm:98
 #: engine-wizard/elm/Wizard/Documents/Index/Update.elm:246
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/Update.elm:225
-#, fuzzy
 msgid "Unable to get documents."
-msgstr "Sie können keine Dokumente erhalten."
+msgstr "Dokumente konnten nicht abgerufen werden."
 
 #: engine-wizard/elm/Wizard/Documents/Index/Update.elm:139
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/Update.elm:118
-#, fuzzy
 msgid "Document could not be deleted."
 msgstr "Das Dokument konnte nicht gelöscht werden."
 
 #: engine-wizard/elm/Wizard/Documents/Index/Update.elm:194
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/Update.elm:173
-#, fuzzy
 msgid "Unable to get submission services for the document."
-msgstr "Es ist nicht möglich, die Einreichungsdienste für das Dokument zu erhalten."
+msgstr "Es ist nicht möglich, den Dienst für Einreichungen für das Dokument zu erhalten."
 
 #: engine-wizard/elm/Wizard/Documents/Index/Update.elm:232
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/Update.elm:211
-#, fuzzy
 msgid "Unable to submit the document."
 msgstr "Das Dokument kann nicht übermittelt werden."
 
 #: engine-wizard/elm/Wizard/Documents/Index/View.elm:94
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:76
-#, fuzzy
 msgid "Submissions"
 msgstr "Einreichungen"
 
 #: engine-wizard/elm/Wizard/Documents/Index/View.elm:106
-#, fuzzy
 msgid "There are no documents."
 msgstr "Es gibt keine Dokumente."
 
 #: engine-wizard/elm/Wizard/Documents/Index/View.elm:114
-#, fuzzy
 msgid "Search documents..."
 msgstr "Dokumente suchen..."
 
@@ -2056,13 +1950,11 @@ msgstr "Dokumente suchen..."
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:104
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:130
 #: engine-wizard/elm/Wizard/Users/Index/View.elm:62
-#, fuzzy
 msgid "Created"
 msgstr "Erstellt"
 
 #: engine-wizard/elm/Wizard/Documents/Index/View.elm:133
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:129
-#, fuzzy
 msgid "Click to download the document"
 msgstr "Klicken Sie zum Herunterladen des Dokuments"
 
@@ -2071,7 +1963,6 @@ msgstr "Klicken Sie zum Herunterladen des Dokuments"
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Preview.elm:297
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Preview.elm:168
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:188
-#, fuzzy
 msgid "Download"
 msgstr "Herunterladen"
 
@@ -2081,46 +1972,39 @@ msgstr "Herunterladen"
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:200
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:381
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:389
-#, fuzzy
 msgid "Submit"
 msgstr "Einreichen"
 
 #: engine-wizard/elm/Wizard/Documents/Index/View.elm:216
 #: engine-wizard/elm/Wizard/Documents/Index/View.elm:297
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:310
-#, fuzzy
 msgid "View error"
 msgstr "Fehler anzeigen"
 
 #: engine-wizard/elm/Wizard/Documents/Index/View.elm:247
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:261
-#, fuzzy
 msgid "Queued"
 msgstr "Warteschlange"
 
 #: engine-wizard/elm/Wizard/Documents/Index/View.elm:253
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:267
-#, fuzzy
 msgid "In Progress"
 msgstr "In Arbeit"
 
 #: engine-wizard/elm/Wizard/Documents/Index/View.elm:272
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:285
-#, fuzzy
 msgid "Submitting"
 msgstr "Einreichung"
 
 #: engine-wizard/elm/Wizard/Documents/Index/View.elm:276
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:289
-#, fuzzy
 msgid "Submitted"
 msgstr "Eingereicht"
 
 #: engine-wizard/elm/Wizard/Documents/Index/View.elm:291
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:304
-#, fuzzy
 msgid "View submission"
-msgstr "Ansicht Vorlage"
+msgstr "Ansicht Einreichung"
 
 #: engine-wizard/elm/Wizard/Documents/Index/View.elm:329
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/FileEditor.elm:1219
@@ -2132,176 +2016,144 @@ msgstr "Ansicht Vorlage"
 #: engine-wizard/elm/Wizard/Projects/Common/DeleteProjectModal/View.elm:26
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings/DeleteModal.elm:113
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:343
-#, fuzzy
 msgid "Are you sure you want to permanently delete %s?"
 msgstr "Sind Sie sicher, dass Sie %s dauerhaft löschen wollen?"
 
 #: engine-wizard/elm/Wizard/Documents/Index/View.elm:333
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:349
-#, fuzzy
 msgid "Delete document"
 msgstr "Dokument löschen"
 
 #: engine-wizard/elm/Wizard/Documents/Index/View.elm:402
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:418
-#, fuzzy
 msgid "There are no submission services configured for this type of document."
-msgstr "Für diese Art von Dokumenten sind keine Übermittlungsdienste konfiguriert."
+msgstr "Für diese Art von Dokumenten sind keine Einreichungsdienste konfiguriert."
 
 #: engine-wizard/elm/Wizard/Documents/Index/View.elm:418
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:434
-#, fuzzy
 msgid "You can find it here: "
 msgstr "Sie können es hier finden: "
 
 #: engine-wizard/elm/Wizard/Documents/Index/View.elm:428
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:444
-#, fuzzy
 msgid "The document was successfully submitted."
 msgstr "Das Dokument wurde erfolgreich übermittelt."
 
 #: engine-wizard/elm/Wizard/Documents/Index/View.elm:435
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:451
-#, fuzzy
 msgid "The document submission failed."
 msgstr "Die Übermittlung des Dokuments ist fehlgeschlagen."
 
 #: engine-wizard/elm/Wizard/Documents/Index/View.elm:450
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:466
-#, fuzzy
 msgid "Submit %s"
-msgstr "Vorlegen %s"
+msgstr "Übermitteln %s"
 
 #: engine-wizard/elm/Wizard/Documents/Index/View.elm:482
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:498
-#, fuzzy
 msgid "Document error"
 msgstr "Fehler im Dokument"
 
 #: engine-wizard/elm/Wizard/Documents/Index/View.elm:504
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:520
-#, fuzzy
 msgid "Submission error"
-msgstr "Fehler bei der Einreichung"
+msgstr "Fehler bei der Übermittlung"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Create/Update.elm:71
 #: engine-wizard/elm/Wizard/DocumentTemplates/Detail/Update.elm:33
-#, fuzzy
 msgid "Unable to get the document template."
 msgstr "Die Dokumentvorlage kann nicht abgerufen werden."
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Create/Update.elm:135
-#, fuzzy
 msgid "Document template could not be created."
 msgstr "Die Dokumentvorlage konnte nicht erstellt werden."
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Create/View.elm:40
-#, fuzzy
 msgid "Create Document Template"
 msgstr "Dokumentvorlage erstellen"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Create/View.elm:90
 #: engine-wizard/elm/Wizard/DocumentTemplates/Import/RegistryImport/View.elm:47
-#, fuzzy
 msgid "Document Template ID"
 msgstr "Dokumentvorlagen-ID"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Create/View.elm:91
-#, fuzzy
 msgid "Document template ID can contain alphanumeric characters and dashes but cannot start or end with a dash."
 msgstr "Die ID der Dokumentvorlage kann alphanumerische Zeichen und Bindestriche enthalten, darf aber nicht mit einem Bindestrich beginnen oder enden."
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Create/View.elm:93
 #: engine-wizard/elm/Wizard/KMEditor/Create/View.elm:77
-#, fuzzy
 msgid "Based on"
 msgstr "Basierend auf"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Create/View.elm:94
-#, fuzzy
 msgid "You can create a new document template based on the existing one or start from scratch."
 msgstr "Sie können eine neue Dokumentvorlage auf der Grundlage einer bestehenden Vorlage erstellen oder ganz neu beginnen."
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/FileEditor.elm:351
-#, fuzzy
 msgid "Unable to get template files"
 msgstr "Vorlagendateien können nicht abgerufen werden"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/FileEditor.elm:360
-#, fuzzy
 msgid "Unable to get template assets"
 msgstr "Vorlagen-Assets können nicht abgerufen werden"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/FileEditor.elm:373
-#, fuzzy
 msgid "Unable to get file content"
 msgstr "Dateiinhalt kann nicht abgerufen werden"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/FileEditor.elm:556
-#, fuzzy
 msgid "Unable to save file"
 msgstr "Datei kann nicht gespeichert werden"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/FileEditor.elm:854
-#, fuzzy
 msgid "Folder"
-msgstr "Mappe"
+msgstr "Ordner"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/FileEditor.elm:860
 #: engine-wizard/elm/Wizard/KnowledgeModels/Import/OwlImport/View.elm:36
-#, fuzzy
 msgid "File"
 msgstr "Datei"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/FileEditor.elm:867
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/FileEditor.elm:1140
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/FileEditor/AssetUploadModal.elm:197
-#, fuzzy
 msgid "Upload"
-msgstr "Hochladen"
+msgstr "Upload"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/FileEditor.elm:882
-#, fuzzy
 msgid "Move to opposite group"
-msgstr "Zur gegenüberliegenden Gruppe wechseln"
+msgstr "Zur gegenüberliegenden Gruppe verschieben"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/FileEditor.elm:1136
-#, fuzzy
 msgid "Open a file from the file tree"
 msgstr "Öffnen einer Datei aus dem Dateibaum"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/FileEditor.elm:1137
-#, fuzzy
 msgid "or"
 msgstr "oder"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/FileEditor.elm:1139
-#, fuzzy
 msgid "Create new"
 msgstr "Neu erstellen"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/FileEditor.elm:1161
-#, fuzzy
 msgid "New file"
 msgstr "Neue Datei"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/FileEditor.elm:1178
-#, fuzzy
 msgid "New folder"
 msgstr "Neuer Ordner"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/FileEditor/AssetUploadModal.elm:146
-#, fuzzy
 msgid "Unable to upload file."
 msgstr "Datei kann nicht hochgeladen werden."
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/FileEditor/AssetUploadModal.elm:218
-#, fuzzy
 msgid "Upload file"
 msgstr "Datei hochladen"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/FileEditor/AssetUploadModal.elm:248
-#, fuzzy
 msgid "Choose file"
 msgstr "Datei auswählen"
 
@@ -2312,40 +2164,33 @@ msgstr "Datei auswählen"
 #: engine-wizard/elm/Wizard/Locales/Create/View.elm:100
 #: engine-wizard/elm/Wizard/Locales/Import/FileImport/View.elm:85
 #: engine-wizard/elm/Wizard/Settings/LookAndFeel/LogoUploadModal.elm:180
-#, fuzzy
 msgid "Or just drop it here"
-msgstr "Oder werfen Sie es einfach hier ein"
+msgstr "Oder legen Sie es einfach hier ab"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Preview.elm:208
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Preview.elm:104
-#, fuzzy
 msgid "Unable to get the document preview."
 msgstr "Die Dokumentenvorschau kann nicht angezeigt werden."
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Preview.elm:267
-#, fuzzy
 msgid "Preview not set"
 msgstr "Vorschau nicht eingestellt"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Preview.elm:268
-#, fuzzy
 msgid "Select project and format you want to preview."
 msgstr "Wählen Sie das Projekt und das Format aus, das Sie in der Vorschau anzeigen möchten."
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Preview.elm:291
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Preview.elm:162
-#, fuzzy
 msgid "Download preview"
 msgstr "Vorschau herunterladen"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Preview.elm:293
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Preview.elm:164
-#, fuzzy
 msgid "The document format cannot be displayed in the web browser. You can still download and view it."
 msgstr "Das Dokumentformat kann im Webbrowser nicht angezeigt werden. Sie können es dennoch herunterladen und ansehen."
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/PublishModal.elm:96
-#, fuzzy
 msgid "Unable to publish document template"
 msgstr "Dokumentvorlage kann nicht veröffentlicht werden"
 
@@ -2364,24 +2209,20 @@ msgid "Publish"
 msgstr "Veröffentlichen"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/TemplateEditor.elm:207
-#, fuzzy
 msgid "Unable to save document template"
 msgstr "Dokumentvorlage kann nicht gespeichert werden"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/TemplateEditor.elm:242
-#, fuzzy
 msgid "General"
 msgstr "Allgemein"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/TemplateEditor.elm:244
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/TemplateEditor.elm:331
 #: engine-wizard/elm/Wizard/DocumentTemplates/Detail/View.elm:258
-#, fuzzy
 msgid "Formats"
 msgstr "Formate"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/TemplateEditor.elm:271
-#, fuzzy
 msgid "Template ID"
 msgstr "Vorlage-ID"
 
@@ -2391,23 +2232,20 @@ msgstr "Vorlage-ID"
 #: engine-wizard/elm/Wizard/KnowledgeModels/Detail/View.elm:207
 #: engine-wizard/elm/Wizard/Locales/Create/View.elm:52
 #: engine-wizard/elm/Wizard/Locales/Detail/View.elm:195
-#, fuzzy
 msgid "License"
 msgstr "Lizenz"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/TemplateEditor.elm:274
 #: engine-wizard/elm/Wizard/KMEditor/Publish/View.elm:85
 #: engine-wizard/elm/Wizard/Locales/Create/View.elm:53
-#, fuzzy
 msgid "Readme"
-msgstr "Liesmich"
+msgstr "Readme"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/TemplateEditor.elm:287
 #: engine-wizard/elm/Wizard/KnowledgeModels/Import/OwlImport/View.elm:44
 #: engine-wizard/elm/Wizard/Settings/KnowledgeModels/View.elm:46
 #: engine-wizard/elm/Wizard/Settings/Organization/View.elm:37
 #: engine-wizard/elm/Wizard/Settings/Registry/View.elm:137
-#, fuzzy
 msgid "Organization ID"
 msgstr "Organisations-ID"
 
@@ -2418,24 +2256,20 @@ msgstr "Organisations-ID"
 #: engine-wizard/elm/Wizard/KnowledgeModels/Import/OwlImport/View.elm:45
 #: engine-wizard/elm/Wizard/KnowledgeModels/Import/RegistryImport/View.elm:47
 #: engine-wizard/elm/Wizard/Settings/KnowledgeModels/View.elm:47
-#, fuzzy
 msgid "Knowledge Model ID"
-msgstr "Wissen Modell-ID"
+msgstr "Wissensmodell-ID"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/TemplateEditor.elm:289
 #: engine-wizard/elm/Wizard/Settings/KnowledgeModels/View.elm:48
-#, fuzzy
 msgid "Min Version"
-msgstr "Min-Version"
+msgstr "mindest Version"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/TemplateEditor.elm:290
 #: engine-wizard/elm/Wizard/Settings/KnowledgeModels/View.elm:49
-#, fuzzy
 msgid "Max Version"
-msgstr "Max-Version"
+msgstr "maximal Version"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/TemplateEditor.elm:295
-#, fuzzy
 msgid "Allowed Knowledge Models"
 msgstr "Erlaubte Wissensmodelle"
 
@@ -2443,18 +2277,15 @@ msgstr "Erlaubte Wissensmodelle"
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:190
 #: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:281
 #: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:307
-#, fuzzy
 msgid "Icon"
 msgstr "Icon"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/TemplateEditor.elm:378
-#, fuzzy
 msgid "Steps"
 msgstr "Schritte"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/TemplateEditor.elm:408
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:744
-#, fuzzy
 msgid "Options"
 msgstr "Optionen"
 
@@ -2466,65 +2297,54 @@ msgstr "Optionen"
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:253
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:253
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:257
-#, fuzzy
 msgid "Value"
 msgstr "Wert"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Update.elm:59
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Update.elm:95
-#, fuzzy
 msgid "There are unsaved changes."
 msgstr "Es gibt nicht gespeicherte Änderungen."
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Update.elm:142
-#, fuzzy
 msgid "Unable to get document template"
 msgstr "Dokumentvorlage kann nicht abgerufen werden"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/View.elm:90
-#, fuzzy
 msgid "Discard"
-msgstr "Ablegen"
+msgstr "Verwerfen"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/View.elm:94
-#, fuzzy
 msgid "unsaved changes"
 msgstr "ungespeicherte Änderungen"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/View.elm:131
 #: engine-wizard/elm/Wizard/Projects/Detail/View.elm:147
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:704
-#, fuzzy
 msgid "Template"
 msgstr "Vorlage"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/View.elm:140
-#, fuzzy
 msgid "Files"
 msgstr "Dateien"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Index/Update.elm:64
-#, fuzzy
 msgid "Document template editor could not be deleted."
 msgstr "Der Dokumentenvorlageneditor konnte nicht gelöscht werden."
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Index/View.elm:43
 #: engine-wizard/elm/Wizard/DocumentTemplates/Index/View.elm:59
-#, fuzzy
 msgid "Click \"Import\" button to import a new document template."
 msgstr "Klicken Sie auf die Schaltfläche \"Importieren\", um eine neue Dokumentvorlage zu importieren."
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Index/View.elm:51
 #: engine-wizard/elm/Wizard/DocumentTemplates/Index/View.elm:67
 #: engine-wizard/elm/Wizard/Locales/Index/View.elm:52
-#, fuzzy
 msgid "Search..."
 msgstr "Suche..."
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Index/View.elm:55
 #: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:70
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:131
-#, fuzzy
 msgid "Updated"
 msgstr "Aktualisiert"
 
@@ -2532,43 +2352,35 @@ msgstr "Aktualisiert"
 #: engine-wizard/elm/Wizard/DocumentTemplates/Index/View.elm:82
 #: engine-wizard/elm/Wizard/KnowledgeModels/Index/View.elm:82
 #: engine-wizard/elm/Wizard/Locales/Index/View.elm:97
-#, fuzzy
 msgid "Latest version"
 msgstr "Letzte Version"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Index/View.elm:88
-#, fuzzy
 msgid "Open editor"
 msgstr "Editor öffnen"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Index/View.elm:144
-#, fuzzy
 msgid "Delete document template editor"
 msgstr "Dokumentvorlagen-Editor löschen"
 
 #: engine-wizard/elm/Wizard/DocumentTemplates/Detail/Update.elm:54
-#, fuzzy
 msgid "Unable to update the document template."
 msgstr "Die Dokumentvorlage kann nicht aktualisiert werden."
 
 #: engine-wizard/elm/Wizard/DocumentTemplates/Detail/Update.elm:86
 #: engine-wizard/elm/Wizard/DocumentTemplates/Index/Update.elm:74
-#, fuzzy
 msgid "Document template could not be deleted."
 msgstr "Die Dokumentvorlage konnte nicht gelöscht werden."
 
 #: engine-wizard/elm/Wizard/DocumentTemplates/Detail/View.elm:55
-#, fuzzy
 msgid "Create editor"
 msgstr "Editor erstellen"
 
 #: engine-wizard/elm/Wizard/DocumentTemplates/Detail/View.elm:64
-#, fuzzy
 msgid "Set deprecated"
-msgstr "Veraltet einstellen"
+msgstr "Als Veraltet markieren"
 
 #: engine-wizard/elm/Wizard/DocumentTemplates/Detail/View.elm:73
-#, fuzzy
 msgid "Restore"
 msgstr "Wiederherstellen"
 
@@ -2578,12 +2390,10 @@ msgstr "Wiederherstellen"
 #: engine-wizard/elm/Wizard/KnowledgeModels/Index/View.elm:153
 #: engine-wizard/elm/Wizard/Locales/Detail/View.elm:50
 #: engine-wizard/elm/Wizard/Locales/Index/View.elm:156
-#, fuzzy
 msgid "Export"
 msgstr "Exportieren"
 
 #: engine-wizard/elm/Wizard/DocumentTemplates/Detail/View.elm:125
-#, fuzzy
 msgid "This is not the latest available version of this document template."
 msgstr "Dies ist nicht die letzte verfügbare Version dieser Dokumentvorlage."
 
@@ -2591,12 +2401,10 @@ msgstr "Dies ist nicht die letzte verfügbare Version dieser Dokumentvorlage."
 #: engine-wizard/elm/Wizard/DocumentTemplates/Detail/View.elm:196
 #: engine-wizard/elm/Wizard/KnowledgeModels/Detail/View.elm:177
 #: engine-wizard/elm/Wizard/Locales/Detail/View.elm:158
-#, fuzzy
 msgid "There is a newer version (%s) available."
 msgstr "Es ist eine neuere Version (%s) verfügbar."
 
 #: engine-wizard/elm/Wizard/DocumentTemplates/Detail/View.elm:208
-#, fuzzy
 msgid "This document template is not supported in this version of DSW."
 msgstr "Diese Dokumentvorlage wird in dieser Version von DSW nicht unterstützt."
 
@@ -2609,27 +2417,23 @@ msgstr "Diese Dokumentvorlage wird in dieser Version von DSW nicht unterstützt.
 #: engine-wizard/elm/Wizard/Locales/Detail/View.elm:191
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:160
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:96
-#, fuzzy
 msgid "ID"
 msgstr "ID"
 
 #: engine-wizard/elm/Wizard/DocumentTemplates/Detail/View.elm:239
 #: engine-wizard/elm/Wizard/KnowledgeModels/Detail/View.elm:206
-#, fuzzy
 msgid "Metamodel"
 msgstr "Metamodell"
 
 #: engine-wizard/elm/Wizard/DocumentTemplates/Detail/View.elm:243
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/NewDocument.elm:322
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:137
-#, fuzzy
 msgid "Document Template"
-msgstr "Dokument-Vorlage"
+msgstr "Dokumentvorlagen"
 
 #: engine-wizard/elm/Wizard/DocumentTemplates/Detail/View.elm:283
 #: engine-wizard/elm/Wizard/KnowledgeModels/Detail/View.elm:244
 #: engine-wizard/elm/Wizard/Locales/Detail/View.elm:221
-#, fuzzy
 msgid "Other versions"
 msgstr "Andere Versionen"
 
@@ -2639,33 +2443,27 @@ msgstr "Andere Versionen"
 #: engine-wizard/elm/Wizard/KnowledgeModels/Index/View.elm:119
 #: engine-wizard/elm/Wizard/Locales/Detail/View.elm:229
 #: engine-wizard/elm/Wizard/Locales/Index/View.elm:122
-#, fuzzy
 msgid "Published by"
 msgstr "Herausgegeben von"
 
 #: engine-wizard/elm/Wizard/DocumentTemplates/Detail/View.elm:298
-#, fuzzy
 msgid "Registry link"
-msgstr "Link zur Registrierung"
+msgstr "Link zur Registry"
 
 #: engine-wizard/elm/Wizard/DocumentTemplates/Detail/View.elm:302
 #: engine-wizard/elm/Wizard/KnowledgeModels/Detail/View.elm:267
-#, fuzzy
 msgid "View in registry"
-msgstr "Ansicht in der Registratur"
+msgstr "Ansicht in der Registry"
 
 #: engine-wizard/elm/Wizard/DocumentTemplates/Detail/View.elm:326
-#, fuzzy
 msgid "Usable with"
 msgstr "Verwendbar mit"
 
 #: engine-wizard/elm/Wizard/DocumentTemplates/Import/FileImport/Update.elm:71
-#, fuzzy
 msgid "Importing the document template failed."
 msgstr "Der Import der Dokumentvorlage ist fehlgeschlagen."
 
 #: engine-wizard/elm/Wizard/DocumentTemplates/Import/FileImport/View.elm:47
-#, fuzzy
 msgid "This doesn't look like a document template. Are you sure you picked the correct file?"
 msgstr "Dies sieht nicht wie eine Dokumentvorlage aus. Sind Sie sicher, dass Sie die richtige Datei ausgewählt haben?"
 
@@ -2674,17 +2472,14 @@ msgstr "Dies sieht nicht wie eine Dokumentvorlage aus. Sind Sie sicher, dass Sie
 #: engine-wizard/elm/Wizard/KnowledgeModels/Import/OwlImport/View.elm:91
 #: engine-wizard/elm/Wizard/Locales/Create/View.elm:97
 #: engine-wizard/elm/Wizard/Locales/Import/FileImport/View.elm:82
-#, fuzzy
 msgid "Choose a file"
 msgstr "Wählen Sie eine Datei"
 
 #: engine-wizard/elm/Wizard/DocumentTemplates/Import/RegistryImport/Update.elm:32
-#, fuzzy
 msgid "Unable to import the document template."
 msgstr "Die Dokumentvorlage kann nicht importiert werden."
 
 #: engine-wizard/elm/Wizard/DocumentTemplates/Import/RegistryImport/View.elm:67
-#, fuzzy
 msgid "You can find document templates in %s."
 msgstr "Dokumentvorlagen finden Sie in %s."
 
@@ -2693,12 +2488,10 @@ msgstr "Dokumentvorlagen finden Sie in %s."
 #: engine-wizard/elm/Wizard/Locales/Import/RegistryImport/View.elm:68
 #: engine-wizard/elm/Wizard/Settings/Registry/View.elm:35
 #: engine-wizard/elm/Wizard/Settings/View.elm:124
-#, fuzzy
 msgid "DSW Registry"
-msgstr "DSW-Register"
+msgstr "DSW-Registry"
 
 #: engine-wizard/elm/Wizard/DocumentTemplates/Import/RegistryImport/View.elm:82
-#, fuzzy
 msgid "Document template %s has been imported!"
 msgstr "Die Dokumentvorlage %s wurde importiert!"
 
@@ -2708,58 +2501,48 @@ msgstr "Die Dokumentvorlage %s wurde importiert!"
 #: engine-wizard/elm/Wizard/KnowledgeModels/Index/View.elm:141
 #: engine-wizard/elm/Wizard/Locales/Import/RegistryImport/View.elm:89
 #: engine-wizard/elm/Wizard/Locales/Index/View.elm:144
-#, fuzzy
 msgid "View detail"
 msgstr "Detail ansehen"
 
 #: engine-wizard/elm/Wizard/DocumentTemplates/Import/View.elm:61
 #: engine-wizard/elm/Wizard/KnowledgeModels/Import/View.elm:25
 #: engine-wizard/elm/Wizard/Locales/Import/View.elm:61
-#, fuzzy
 msgid "From DSW Registry"
 msgstr "Von DSW Registry"
 
 #: engine-wizard/elm/Wizard/DocumentTemplates/Import/View.elm:72
 #: engine-wizard/elm/Wizard/KnowledgeModels/Import/View.elm:33
 #: engine-wizard/elm/Wizard/Locales/Import/View.elm:72
-#, fuzzy
 msgid "From file"
-msgstr "Aus der Datei"
+msgstr "Aus Datei"
 
 #: engine-wizard/elm/Wizard/DocumentTemplates/Index/View.elm:109
-#, fuzzy
 msgid "unsupported metamodel"
 msgstr "nicht unterstütztes Metamodell"
 
 #: engine-wizard/elm/Wizard/DocumentTemplates/Index/View.elm:118
-#, fuzzy
 msgid "deprecated"
-msgstr "Abgelehnt"
+msgstr "Veraltet"
 
 #: engine-wizard/elm/Wizard/DocumentTemplates/Index/View.elm:214
 #: engine-wizard/elm/Wizard/KnowledgeModels/Index/View.elm:234
 #: engine-wizard/elm/Wizard/Locales/Index/View.elm:256
-#, fuzzy
 msgid "Are you sure you want to permanently delete %s and all its versions?"
-msgstr "Sind Sie sicher, dass Sie %s und alle seine Versionen dauerhaft löschen wollen?"
+msgstr "Sind Sie sicher, dass diese %s und alle ihre Versionen dauerhaft löschen wollen?"
 
 #: engine-wizard/elm/Wizard/DocumentTemplates/Index/View.elm:220
-#, fuzzy
 msgid "Delete document template"
 msgstr "Dokumentvorlage löschen"
 
 #: engine-wizard/elm/Wizard/KMEditor/Common/DeleteModal.elm:75
-#, fuzzy
 msgid "Knowledge model could not be deleted."
 msgstr "Das Wissensmodell konnte nicht gelöscht werden."
 
 #: engine-wizard/elm/Wizard/KMEditor/Common/DeleteModal.elm:100
-#, fuzzy
 msgid "Delete knowledge model editor"
 msgstr "Wissensmodell-Editor löschen"
 
 #: engine-wizard/elm/Wizard/KMEditor/Common/UpgradeModal.elm:106
-#, fuzzy
 msgid "Migration could not be created."
 msgstr "Die Migration konnte nicht erstellt werden."
 
@@ -2767,7 +2550,6 @@ msgstr "Die Migration konnte nicht erstellt werden."
 #: engine-wizard/elm/Wizard/KMEditor/Create/Update.elm:65
 #: engine-wizard/elm/Wizard/KnowledgeModels/Detail/Update.elm:32
 #: engine-wizard/elm/Wizard/KnowledgeModels/Preview/Update.elm:55
-#, fuzzy
 msgid "Unable to get the Knowledge Model."
 msgstr "Das Wissensmodell kann nicht abgerufen werden."
 
@@ -2777,9 +2559,8 @@ msgid "- select parent package -"
 msgstr "- übergeordnetes Paket auswählen -"
 
 #: engine-wizard/elm/Wizard/KMEditor/Common/UpgradeModal.elm:157
-#, fuzzy
 msgid "Select the new parent knowledge model for %s."
-msgstr "Wählen Sie das neue übergeordnete Wissensmodell für %s."
+msgstr "Wählen Sie das neue übergeordnete Wissensmodell für %s aus."
 
 #: engine-wizard/elm/Wizard/KMEditor/Common/UpgradeModal.elm:158
 #, fuzzy
@@ -2789,22 +2570,18 @@ msgstr "Neues Elternpaket"
 #: engine-wizard/elm/Wizard/KMEditor/Common/UpgradeModal.elm:163
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:495
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:625
-#, fuzzy
 msgid "Create migration"
 msgstr "Migration erstellen"
 
 #: engine-wizard/elm/Wizard/KMEditor/Create/Update.elm:117
-#, fuzzy
 msgid "Knowledge Model could not be created."
 msgstr "Das Wissensmodell konnte nicht erstellt werden."
 
 #: engine-wizard/elm/Wizard/KMEditor/Create/View.elm:76
-#, fuzzy
 msgid "Knowledge Model ID can contain alphanumeric characters and dashes but cannot start or end with a dash."
 msgstr "Die Wissensmodell-ID kann alphanumerische Zeichen und Bindestriche enthalten, darf aber nicht mit einem Bindestrich beginnen oder enden."
 
 #: engine-wizard/elm/Wizard/KMEditor/Create/View.elm:78
-#, fuzzy
 msgid "You can create a new Knowledge Model based on the existing one or start from scratch."
 msgstr "Sie können ein neues Wissensmodell auf der Grundlage eines bestehenden Modells erstellen oder von Grund auf neu beginnen."
 
@@ -2813,7 +2590,6 @@ msgstr "Sie können ein neues Wissensmodell auf der Grundlage eines bestehenden 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:116
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/TreeInput.elm:161
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/TagEditor.elm:310
-#, fuzzy
 msgid "Untitled chapter"
 msgstr "Unbenanntes Kapitel"
 
@@ -2824,37 +2600,32 @@ msgstr "Unbenanntes Kapitel"
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:214
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/TreeInput.elm:208
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/TagEditor.elm:255
-#, fuzzy
 msgid "Untitled question"
 msgstr "Unbenannte Frage"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:248
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:514
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:130
-#, fuzzy
 msgid "Untitled metric"
 msgstr "Unbenannte Metrik"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:251
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:531
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:144
-#, fuzzy
 msgid "Untitled phase"
-msgstr "Unbezeichnete Phase"
+msgstr "Unbenannte Phase"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:254
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:548
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:158
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/TagEditor.elm:168
-#, fuzzy
 msgid "Untitled tag"
-msgstr "Unbenanntes Tag"
+msgstr "Unbenannter Tag"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:257
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:565
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1002
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:172
-#, fuzzy
 msgid "Untitled integration"
 msgstr "Unbenannte Integration"
 
@@ -2863,143 +2634,116 @@ msgstr "Unbenannte Integration"
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:233
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/TreeInput.elm:239
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/TagEditor.elm:320
-#, fuzzy
 msgid "Untitled answer"
 msgstr "Unbenannte Antwort"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:263
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1077
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:247
-#, fuzzy
 msgid "Untitled choice"
 msgstr "Unbenannte Wahl"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:266
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:857
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:261
-#, fuzzy
 msgid "Untitled reference"
 msgstr "Unbenannte Referenz"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:269
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:874
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:275
-#, fuzzy
 msgid "Untitled expert"
 msgstr "Unbenannter Experte"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:760
-#, fuzzy
 msgid "Empty title for chapter"
 msgstr "Leerer Titel für Kapitel"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:789
-#, fuzzy
 msgid "Empty title for question"
 msgstr "Leerer Titel für die Frage"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:798
-#, fuzzy
 msgid "No answers for options question"
-msgstr "Keine Antworten für Optionen Frage"
+msgstr "Keine Antworten für Auwahlfrage"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:807
-#, fuzzy
 msgid "No item questions for list question"
-msgstr "Keine Positionsfragen für Listenfrage"
+msgstr "Keine Fragen für Listenfrage"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:816
-#, fuzzy
 msgid "No integration selected for integration question"
 msgstr "Keine Integration für Integrationsfrage ausgewählt"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:823
-#, fuzzy
 msgid "No choices for multi-choice question"
 msgstr "Keine Auswahlmöglichkeiten bei Multiple-Choice-Fragen"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:852
-#, fuzzy
 msgid "Empty label for answer"
-msgstr "Leeres Etikett für Antwort"
+msgstr "Leeres Label für Antwort"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:871
-#, fuzzy
 msgid "Empty label for choice"
-msgstr "Leeres Etikett zur Auswahl"
+msgstr "Leeres Label zur Auswahl"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:891
-#, fuzzy
 msgid "Empty short UUID for page reference"
-msgstr "Leere kurze UUID für die Seitenreferenz"
+msgstr "Leere Short-UUID für die Seitenreferenz"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:898
-#, fuzzy
 msgid "Empty URL for URL reference"
 msgstr "Leere URL für URL-Referenz"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:901
-#, fuzzy
 msgid "Invalid URL for URL reference"
 msgstr "Ungültige URL für URL-Referenz"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:920
-#, fuzzy
 msgid "Empty email for expert"
 msgstr "Leere E-Mail für Experten"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:923
-#, fuzzy
 msgid "Invalid email for expert"
 msgstr "Ungültige E-Mail für Experten"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:933
-#, fuzzy
 msgid "Empty title for metric"
 msgstr "Leerer Titel für Metrik"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:945
-#, fuzzy
 msgid "Empty title for phase"
 msgstr "Leerer Titel für Phase"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:957
-#, fuzzy
 msgid "Empty name for tag"
 msgstr "Leerer Name für Tag"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:976
-#, fuzzy
 msgid "Empty ID for integration"
 msgstr "Leere ID für die Integration"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:983
-#, fuzzy
 msgid "Empty item URL for integration"
-msgstr "Leere Artikel-URL für die Integration"
+msgstr "Leere Item-URL für die Integration"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:994
-#, fuzzy
 msgid "Empty request URL for integration"
 msgstr "Leere Anfrage-URL für die Integration"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:1001
-#, fuzzy
 msgid "Empty request HTTP method for integration"
 msgstr "Leere Anfrage HTTP-Methode für Integration"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:1008
-#, fuzzy
 msgid "Empty response item ID for integration"
 msgstr "Leere Antwort-Identifikationsnummer für die Integration"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:1015
-#, fuzzy
 msgid "Empty response item template for integration"
 msgstr "Leere Antwortvorlage für die Integration"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:1024
-#, fuzzy
 msgid "Empty widget URL for integration"
 msgstr "Leere Widget-URL für die Integration"
 
@@ -3010,47 +2754,39 @@ msgstr "Leere Widget-URL für die Integration"
 #: engine-wizard/elm/Wizard/Projects/Create/CustomCreate/View.elm:71
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:485
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:566
-#, fuzzy
 msgid "Knowledge Model"
-msgstr "Wissensmodell"
+msgstr "Wissensmodelle"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:498
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:219
-#, fuzzy
 msgid "Add chapter"
 msgstr "Kapitel hinzufügen"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:515
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:155
-#, fuzzy
 msgid "Add metric"
-msgstr "Metrisches Maß hinzufügen"
+msgstr "Metrik hinzufügen"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:532
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:171
-#, fuzzy
 msgid "Add phase"
 msgstr "Phase hinzufügen"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:549
-#, fuzzy
 msgid "Add tag"
 msgstr "Tag hinzufügen"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:557
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:427
-#, fuzzy
 msgid "Integrations"
 msgstr "Integrationen"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:566
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:203
-#, fuzzy
 msgid "Add integration"
 msgstr "Integration hinzufügen"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:607
-#, fuzzy
 msgid "Chapter"
 msgstr "Kapitel"
 
@@ -3064,7 +2800,6 @@ msgstr "Kapitel"
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:983
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1186
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1283
-#, fuzzy
 msgid "Text"
 msgstr "Text"
 
@@ -3078,7 +2813,6 @@ msgstr "Text"
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1434
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1479
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1517
-#, fuzzy
 msgid "Questions"
 msgstr "Fragen"
 
@@ -3086,14 +2820,12 @@ msgstr "Fragen"
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:945
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1670
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:235
-#, fuzzy
 msgid "Add question"
 msgstr "Frage hinzufügen"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:745
-#, fuzzy
 msgid "List of Items"
-msgstr "Liste der Posten"
+msgstr "Liste der Elemente"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:747
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1043
@@ -3102,7 +2834,6 @@ msgstr "Liste der Posten"
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1028
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1199
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1296
-#, fuzzy
 msgid "Integration"
 msgstr "Integration"
 
@@ -3111,12 +2842,10 @@ msgid "Multi-Choice"
 msgstr "Mehrfachauswahl"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:755
-#, fuzzy
 msgid "Never"
 msgstr "Niemals"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:759
-#, fuzzy
 msgid "Question"
 msgstr "Frage"
 
@@ -3129,27 +2858,22 @@ msgstr "Frage"
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:981
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1184
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1281
-#, fuzzy
 msgid "Type"
 msgstr "Typ"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:784
-#, fuzzy
 msgid "Changing a question type will remove all answers."
 msgstr "Wenn Sie einen Fragetyp ändern, werden alle Antworten gelöscht."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:794
-#, fuzzy
 msgid "Changing a question type will remove all item questions."
 msgstr "Wenn Sie einen Fragetyp ändern, werden alle Fragen zum Thema entfernt."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:804
-#, fuzzy
 msgid "Changing a question type will remove all choices."
 msgstr "Wenn Sie einen Fragetyp ändern, werden alle Auswahlmöglichkeiten entfernt."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:832
-#, fuzzy
 msgid "When does this question become desirable?"
 msgstr "Wann wird diese Frage wünschenswert?"
 
@@ -3157,19 +2881,16 @@ msgstr "Wann wird diese Frage wünschenswert?"
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1138
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1255
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1352
-#, fuzzy
 msgid "References"
 msgstr "Referenzen"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:858
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:283
-#, fuzzy
 msgid "Add reference"
 msgstr "Referenz hinzufügen"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:875
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:299
-#, fuzzy
 msgid "Add expert"
 msgstr "Experte hinzufügen"
 
@@ -3177,44 +2898,36 @@ msgstr "Experte hinzufügen"
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1086
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1221
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1318
-#, fuzzy
 msgid "Answers"
 msgstr "Antworten"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:913
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:251
-#, fuzzy
 msgid "Add answer"
 msgstr "Antwort hinzufügen"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:953
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/TagEditor.elm:329
-#, fuzzy
 msgid "Item Template"
-msgstr "Artikelvorlage"
+msgstr "Itemvorlage"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:969
-#, fuzzy
 msgid "String"
 msgstr "Zeichenfolge"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:970
-#, fuzzy
 msgid "Number"
 msgstr "Nummer"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:971
-#, fuzzy
 msgid "Date"
 msgstr "Datum"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:972
-#, fuzzy
 msgid "Date Time"
 msgstr "Datum Uhrzeit"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:973
-#, fuzzy
 msgid "Time"
 msgstr "Zeit"
 
@@ -3236,7 +2949,6 @@ msgstr "Zeit"
 #: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:285
 #: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:313
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:228
-#, fuzzy
 msgid "URL"
 msgstr "URL"
 
@@ -3245,7 +2957,6 @@ msgstr "URL"
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:574
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:596
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:621
-#, fuzzy
 msgid "Color"
 msgstr "Farbe"
 
@@ -3254,69 +2965,57 @@ msgstr "Farbe"
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1009
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1196
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1293
-#, fuzzy
 msgid "Value Type"
 msgstr "Wert Typ"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1003
-#, fuzzy
 msgid "- select integration -"
 msgstr "- Integration wählen -"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1031
-#, fuzzy
 msgid "Integration Configuration"
-msgstr "Integration Konfiguration"
+msgstr "Integrationskonfiguration"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1069
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1098
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1232
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1329
-#, fuzzy
 msgid "Choices"
 msgstr "Auswahlmöglichkeiten"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1078
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:267
-#, fuzzy
 msgid "Add choice"
 msgstr "Auswahl hinzufügen"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1116
-#, fuzzy
 msgid "Metric"
-msgstr "Metrisch"
+msgstr "Metrik"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1134
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:446
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:467
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:492
-#, fuzzy
 msgid "Abbreviation"
 msgstr "Abkürzung"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1179
-#, fuzzy
 msgid "Phase"
 msgstr "Phase"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1233
-#, fuzzy
 msgid "Tag"
 msgstr "Tag"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1349
-#, fuzzy
 msgid "API"
 msgstr "API"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1350
-#, fuzzy
 msgid "Widget"
 msgstr "Widget"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1390
-#, fuzzy
 msgid "Logo URL"
 msgstr "Logo URL"
 
@@ -3326,23 +3025,20 @@ msgstr "Logo URL"
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:770
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:936
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1051
-#, fuzzy
 msgid "Props"
-msgstr "Requisiten"
+msgstr "Merkmale"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1405
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:643
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:698
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:771
-#, fuzzy
 msgid "Item URL"
-msgstr "Artikel-URL"
+msgstr "Item-URL"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1429
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:657
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:718
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:785
-#, fuzzy
 msgid "Request URL"
 msgstr "URL anfordern"
 
@@ -3350,7 +3046,6 @@ msgstr "URL anfordern"
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:656
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:717
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:784
-#, fuzzy
 msgid "Request HTTP Method"
 msgstr "HTTP-Methode anfordern"
 
@@ -3358,7 +3053,6 @@ msgstr "HTTP-Methode anfordern"
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:658
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:719
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:786
-#, fuzzy
 msgid "Request HTTP Headers"
 msgstr "HTTP-Header der Anfrage"
 
@@ -3366,12 +3060,10 @@ msgstr "HTTP-Header der Anfrage"
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:659
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:720
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:787
-#, fuzzy
 msgid "Request HTTP Body"
-msgstr "Anfrage HTTP Body"
+msgstr "HTTP Anfrage-Body"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1461
-#, fuzzy
 msgid "Allow Empty Search"
 msgstr "Leere Suche zulassen"
 
@@ -3379,7 +3071,6 @@ msgstr "Leere Suche zulassen"
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:661
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:722
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:789
-#, fuzzy
 msgid "Response Item ID"
 msgstr "Antwort Item ID"
 
@@ -3387,7 +3078,6 @@ msgstr "Antwort Item ID"
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:660
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:721
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:788
-#, fuzzy
 msgid "Response List Field"
 msgstr "Antwortlistenfeld"
 
@@ -3395,57 +3085,47 @@ msgstr "Antwortlistenfeld"
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:662
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:723
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:790
-#, fuzzy
 msgid "Response Item Template"
 msgstr "Antwortvorlage"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1491
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:225
-#, fuzzy
 msgid "Request"
 msgstr "Anfrage"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1493
-#, fuzzy
 msgid "Use this section to configure the search request. The service you want to integrate has to provide a search HTTP API where you send a search string and it returns a JSON with found items."
-msgstr "Verwenden Sie diesen Abschnitt, um die Suchanfrage zu konfigurieren. Der Dienst, den Sie integrieren möchten, muss eine HTTP-Such-API bereitstellen, an die Sie einen Suchstring senden und die ein JSON mit den gefundenen Elementen zurückgibt."
+msgstr "Verwenden Sie diesen Abschnitt, um die Suchanfrage zu konfigurieren. Der Dienst, den Sie integrieren möchten, muss eine API-URL bereitstellen, an die Sie einen Suchstring senden und welche ein JSON-Objekt mit den gefundenen Elementen zurückgibt."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1495
 msgid "A URL of the integrated service API that supports the search. Use `${q}` for the actual string that will be filled when users search for items, such as *ht&#8203;tps://example.com/search?q=${q}*."
 msgstr "Eine URL der integrierten Schnittstelle (Service-Api), welche die Suche unterstützt. Verwenden Sie \"${q}\" für die Zeichenkette, welche ersetzt wird, wenn Benutzer nach Elementen suchen, z. B. *https://example.com/search?q=${q}*."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1500
-#, fuzzy
 msgid "Turn this off if the API cannot handle empty search requests. In that case, the requests will be made only after users type something."
 msgstr "Deaktivieren Sie diese Option, wenn die API keine leeren Suchanfragen verarbeiten kann. In diesem Fall werden die Anfragen erst gestellt, nachdem die Benutzer etwas eingegeben haben."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1504
-#, fuzzy
 msgid "Response"
 msgstr "Antwort"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1506
-#, fuzzy
 msgid "Use this section to configure how to process the response returned from the search API."
 msgstr "In diesem Abschnitt können Sie konfigurieren, wie die von der Such-API zurückgegebene Antwort verarbeitet werden soll."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1508
-#, fuzzy
 msgid "If the returned JSON is not an array of items directly but the items are nested, use this to define the name or path to the field in the response that contains the list of items. Keep empty otherwise."
-msgstr "Wenn das zurückgegebene JSON nicht direkt ein Array von Elementen ist, sondern die Elemente verschachtelt sind, verwenden Sie dies, um den Namen oder Pfad zu dem Feld in der Antwort zu definieren, das die Liste der Elemente enthält. Ansonsten leer lassen."
+msgstr "Wenn das zurückgegebene JSON-Objekt nicht direkt ein Array von Elementen ist, sondern die Elemente verschachtelt sind, verwenden Sie dies, um den Namen oder Pfad zu dem Feld in der Antwort zu definieren, das die Liste der Elemente enthält. Ansonsten leer lassen."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1510
-#, fuzzy
 msgid "Use this to define an identifier for the item. This will be used in **Item URL** as `${id}` to compose a URL to the found item. You can use properties from the returned item in Jinja2 notation. For example, if the item has a field `id` use `{{item.id}}` here. You can also compose multiple fields together, e.g., `{{item.field1}}-{{item.field2}}`."
-msgstr "Verwenden Sie dies, um einen Bezeichner für das Element zu definieren. Dieser wird in der **Element-URL** als `${id}` verwendet, um eine URL zum gefundenen Element zu erstellen. Sie können die Eigenschaften des zurückgegebenen Eintrags in Jinja2-Notation verwenden. Wenn der Artikel zum Beispiel ein Feld \"id\" hat, verwenden Sie hier \"{{item.id}}\". Sie können auch mehrere Felder zusammenfassen, z. B. `{{Eintrag.Feld1}}-{{Eintrag.Feld2}}`."
+msgstr "Verwenden Sie dies, um eine ID für das Element zu definieren. Diese wird in der **Element-URL** als `${id}` verwendet, um eine URL zum gefundenen Element zu erstellen. Sie können die Eigenschaften des zurückgegebenen Eintrags in Jinja2-Notation verwenden. Wenn der Artikel zum Beispiel ein Feld \"id\" hat, verwenden Sie hier \"{{item.id}}\". Sie können auch mehrere Felder zusammenfassen, z. B. `{{Eintrag.Feld1}}-{{Eintrag.Feld2}}`."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1512
-#, fuzzy
 msgid "This defines how the found items will be displayed for the user. You can use properties from the returned item in Jinja2 notation, you can also use Markdown for some formatting. For example, if the returned item has a field called name, you can use `**{{item.name}}**` to display the name in bold."
 msgstr "Hier wird festgelegt, wie die gefundenen Elemente für den Benutzer angezeigt werden sollen. Sie können die Eigenschaften des zurückgegebenen Elements in Jinja2-Notation verwenden, Sie können auch Markdown für einige Formatierungen verwenden. Wenn das zurückgegebene Element beispielsweise ein Feld mit dem Namen \"Name\" hat, können Sie \"**{{Element.Name}}**\" verwenden, um den Namen in Fettdruck anzuzeigen."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1516
-#, fuzzy
 msgid "Defines the URL to the selected item. Use `${id}` to get the value defined in **Response Item ID** field, for example `https://example.com/${id}`."
 msgstr "Legt die URL zum ausgewählten Element fest. Verwenden Sie \"${id}\", um den im Feld **Response Item ID** definierten Wert zu erhalten, zum Beispiel \"https://example.com/${id}\"."
 
@@ -3453,57 +3133,47 @@ msgstr "Legt die URL zum ausgewählten Element fest. Verwenden Sie \"${id}\", um
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:675
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:744
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:803
-#, fuzzy
 msgid "Widget URL"
 msgstr "Widget-URL"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1536
-#, fuzzy
 msgid "The URL of the widget implemented using [DSW Integration Widget SDK](https://github.com/ds-wizard/dsw-integration-widget-sdk)."
 msgstr "Die URL des mit [DSW Integration Widget SDK] implementierten Widgets (https://github.com/ds-wizard/dsw-integration-widget-sdk)."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1538
-#, fuzzy
 msgid "Defines the URL to the selected item. Use `${id}` value returned from the widget, for example `https://example.com/${id}`."
 msgstr "Legt die URL zum ausgewählten Element fest. Verwenden Sie den vom Widget zurückgegebenen Wert \"${id}\", zum Beispiel \"https://example.com/${id}\"."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1551
-#, fuzzy
 msgid "No questions"
 msgstr "Keine Fragen"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1586
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:148
-#, fuzzy
 msgid "Quick setup"
-msgstr "Schnelle Einrichtung"
+msgstr "Schnelleinrichtung"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1598
 msgid "A string that identifies the integration. It has to be unique for each integration."
 msgstr "Eine Zeichenfolge, welche die Integration identifiziert. Diese muss für jede Integration eindeutig sein."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1600
-#, fuzzy
 msgid "A name visible everywhere else in the KM Editor, such as when choosing the integration for a question."
-msgstr "Ein Name, der an anderen Stellen im KM-Editor sichtbar ist, z. B. bei der Auswahl der Integration für eine Frage."
+msgstr "Ein Name, der an anderen Stellen im Wissensmodell-Editor sichtbar ist, z. B. bei der Auswahl der Integration für eine Frage."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1602
-#, fuzzy
 msgid "Logo is displayed next to the link to the selected item in questionnaires. It can be either URL or base64 image."
-msgstr "Das Logo wird neben dem Link zum ausgewählten Element in Fragebögen angezeigt. Es kann entweder eine URL oder ein base64-Bild sein."
+msgstr "Das Logo wird neben dem Link zum ausgewählten Element in Fragebögen angezeigt. Es kann entweder eine URL oder ein base64 enkodiertes Bild sein."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1604
-#, fuzzy
 msgid "Props can be used to parametrize the integration for each question. Use this to define the props whose value can be filled on the questions using this integration. The props can then be used in the URL configuration. For example, if you define prop named *type*, you can use it as `${type}`, such as *ht&#8203;tps://example.com/${type}*."
-msgstr "Requisiten können verwendet werden, um die Integration für jede Frage zu parametrisieren. Verwenden Sie dies, um die Requisiten zu definieren, deren Wert bei den Fragen, die diese Integration verwenden, ausgefüllt werden kann. Die Requisiten können dann in der URL-Konfiguration verwendet werden. Wenn Sie z. B. eine Requisite mit dem Namen *type* definieren, können Sie sie als `${type}` verwenden, z. B. *ht&#8203;tps://example.com/${type}*."
+msgstr "Merkmale können verwendet werden, um die Integration für jede Frage zu parametrisieren. Verwenden Sie dies, um die Merkmale zu definieren, deren Wert bei den Fragen, die diese Integration verwenden, ausgefüllt werden kann. Die Merkmale können dann in der URL-Konfiguration verwendet werden. Wenn Sie z. B. ein Merkmal mit dem Namen *type* definieren, können Sie sie als `${type}` verwenden, z. B. *https://example.com/${type}*."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1608
-#, fuzzy
 msgid "Questions using this integration"
 msgstr "Fragen zu dieser Integration"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1632
-#, fuzzy
 msgid "Answer"
 msgstr "Antwort"
 
@@ -3523,26 +3193,22 @@ msgstr "Antwort"
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1798
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1867
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1936
-#, fuzzy
 msgid "Label"
-msgstr "Etikett"
+msgstr "Label"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1650
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1389
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1415
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1466
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1504
-#, fuzzy
 msgid "Advice"
-msgstr "Beratung"
+msgstr "Hinweis"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1661
-#, fuzzy
 msgid "Follow-Up Questions"
-msgstr "Nachfassende Fragen"
+msgstr "Follow-Up Fragen"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1720
-#, fuzzy
 msgid "Choice"
 msgstr "Auswahl"
 
@@ -3553,12 +3219,10 @@ msgstr "Auswahl"
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1780
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1849
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1918
-#, fuzzy
 msgid "Resource Page"
 msgstr "Ressourcen-Seite"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1775
-#, fuzzy
 msgid "Reference"
 msgstr "Referenz"
 
@@ -3578,7 +3242,6 @@ msgstr "Referenz"
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1915
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1934
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1955
-#, fuzzy
 msgid "Reference Type"
 msgstr "Referenztyp"
 
@@ -3588,162 +3251,131 @@ msgstr "Referenztyp"
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1778
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1847
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1916
-#, fuzzy
 msgid "Short UUID"
-msgstr "Kurze UUID"
+msgstr "Short-UUID"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1877
-#, fuzzy
 msgid "Expert"
 msgstr "Experte"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1917
-#, fuzzy
 msgid "The knowledge model entity you are trying to open does not exist."
 msgstr "Die Wissensmodell-Entität, die Sie zu öffnen versuchen, existiert nicht."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1948
-#, fuzzy
 msgid "Click to copy UUID"
 msgstr "Zum Kopieren der UUID anklicken"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1963
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2155
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2168
-#, fuzzy
 msgid "Move"
 msgstr "Verschieben"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2009
-#, fuzzy
 msgid "Are you sure you want to delete this chapter?"
 msgstr "Sind Sie sicher, dass Sie dieses Kapitel löschen wollen?"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2016
-#, fuzzy
 msgid "Are you sure you want to delete this question?"
 msgstr "Sind Sie sicher, dass Sie diese Frage löschen möchten?"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2023
-#, fuzzy
 msgid "Are you sure you want to delete this metric?"
 msgstr "Sind Sie sicher, dass Sie diese Metrik löschen wollen?"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2030
-#, fuzzy
 msgid "Are you sure you want to delete this phase?"
 msgstr "Sind Sie sicher, dass Sie diese Phase löschen wollen?"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2037
-#, fuzzy
 msgid "Are you sure you want to delete this question tag?"
-msgstr "Sind Sie sicher, dass Sie dieses Frage-Tag löschen möchten?"
+msgstr "Sind Sie sicher, dass Sie diesen Frage-Tag löschen möchten?"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2044
-#, fuzzy
 msgid "Are you sure you want to delete this integration?"
 msgstr "Sind Sie sicher, dass Sie diese Integration löschen möchten?"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2051
-#, fuzzy
 msgid "Are you sure you want to delete this answer?"
 msgstr "Sind Sie sicher, dass Sie diese Antwort löschen möchten?"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2058
-#, fuzzy
 msgid "Are you sure you want to delete this choice?"
 msgstr "Sind Sie sicher, dass Sie diese Auswahl löschen möchten?"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2065
-#, fuzzy
 msgid "Are you sure you want to delete this reference?"
 msgstr "Sind Sie sicher, dass Sie diesen Verweis löschen wollen?"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2072
-#, fuzzy
 msgid "Are you sure you want to delete this expert?"
 msgstr "Sind Sie sicher, dass Sie diesen Experten löschen wollen?"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2081
-#, fuzzy
 msgid "Heads up!"
 msgstr "Aufgepasst!"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2158
-#, fuzzy
 msgid "Select a new parent"
 msgstr "Wählen Sie ein neues Elternteil"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:222
-#, fuzzy
 msgid "You can use markdown and see the result in the preview tab."
-msgstr "Sie können Markdown verwenden und das Ergebnis auf der Registerkarte Vorschau sehen."
+msgstr "Sie können Markdown verwenden und das Ergebnis auf dem Reiter Vorschau sehen."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:356
-#, fuzzy
 msgid "Key"
 msgstr "Schlüssel"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:388
-#, fuzzy
 msgid "Add annotation"
 msgstr "Bemerkung hinzufügen"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:392
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:2282
-#, fuzzy
 msgid "Annotations"
 msgstr "Anmerkungen"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:510
-#, fuzzy
 msgid "Weight"
 msgstr "Gewicht"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:686
-#, fuzzy
 msgid "Header Name"
-msgstr "Kopfzeile Name"
+msgstr "Kopfzeilenname"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:695
-#, fuzzy
 msgid "Header Value"
-msgstr "Kopfzeile Wert"
+msgstr "Kopfzeilenwert"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:45
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/TreeInput.elm:99
-#, fuzzy
 msgid "Expand all"
-msgstr "Erweitern Sie alle"
+msgstr "Alle erweitern"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:49
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/TreeInput.elm:106
-#, fuzzy
 msgid "Collapse all"
 msgstr "Alle einklappen"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/Preview.elm:208
-#, fuzzy
 msgid "Tags"
 msgstr "Tags"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/Preview.elm:209
-#, fuzzy
 msgid "Select all"
 msgstr "Alle auswählen"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/Preview.elm:210
-#, fuzzy
 msgid "Select none"
 msgstr "Keine auswählen"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/Settings.elm:102
-#, fuzzy
 msgid "Knowledge Model could not be saved."
-msgstr "Das Wissensmodell konnte nicht gerettet werden."
+msgstr "Das Wissensmodell konnte nicht gespeichert werden."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/Settings.elm:172
-#, fuzzy
 msgid "This is not the latest version of the parent knowledge model."
 msgstr "Dies ist nicht die neueste Version des übergeordneten Wissensmodells."
 
@@ -3755,59 +3387,49 @@ msgstr "Upgrade"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/Settings.elm:184
 #: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:166
-#, fuzzy
 msgid "Parent Knowledge Model"
-msgstr "Wissensmodell der Eltern"
+msgstr "Eltern-Wissensmodell"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/Settings.elm:196
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:503
-#, fuzzy
 msgid "Danger Zone"
 msgstr "Gefahrenzone"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/Settings.elm:200
-#, fuzzy
 msgid "Delete this knowledge model editor"
 msgstr "Diesen Wissensmodell-Editor löschen"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/Settings.elm:202
-#, fuzzy
 msgid "Deleted knowledge model editors cannot be recovered."
 msgstr "Gelöschte Wissensmodell-Editoren können nicht wiederhergestellt werden."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/TagEditor.elm:109
-#, fuzzy
 msgid "There are no question tags, create them first."
-msgstr "Es gibt keine Frage-Tags, erstellen Sie sie zuerst."
+msgstr "Es gibt noch keine Frage-Tags, erstellen Sie diese zuerst."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/TagEditor.elm:112
-#, fuzzy
 msgid "There are no questions, create them first."
-msgstr "Es gibt keine Fragen, erstellen Sie sie zuerst."
+msgstr "Es gibt noch keine Fragen, erstellen Sie diese zuerst."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Update.elm:79
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Update.elm:250
 #: engine-wizard/elm/Wizard/Projects/Detail/Update.elm:109
 #: engine-wizard/elm/Wizard/Projects/Detail/Update.elm:188
-#, fuzzy
 msgid "Some changes are still saving."
 msgstr "Einige Änderungen werden noch gespeichert."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Update.elm:139
 #: engine-wizard/elm/Wizard/KMEditor/Publish/Update.elm:74
-#, fuzzy
 msgid "Unable to get the knowledge model editor."
 msgstr "Der Wissensmodell-Editor kann nicht aufgerufen werden."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/View.elm:48
 #: engine-wizard/elm/Wizard/Projects/Detail/View.elm:62
-#, fuzzy
 msgid "Disconnected"
 msgstr "Getrennt"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/View.elm:50
 #: engine-wizard/elm/Wizard/Projects/Detail/View.elm:64
-#, fuzzy
 msgid "You have been disconnected, try to refresh the page."
 msgstr "Die Verbindung wurde unterbrochen. Versuchen Sie, die Seite zu aktualisieren."
 
@@ -3815,24 +3437,20 @@ msgstr "Die Verbindung wurde unterbrochen. Versuchen Sie, die Seite zu aktualisi
 #: engine-wizard/elm/Wizard/KMEditor/Editor/View.elm:64
 #: engine-wizard/elm/Wizard/Projects/Detail/View.elm:65
 #: engine-wizard/elm/Wizard/Projects/Detail/View.elm:78
-#, fuzzy
 msgid "Refresh"
 msgstr "Aktualisieren"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/View.elm:61
 #: engine-wizard/elm/Wizard/Projects/Detail/View.elm:75
-#, fuzzy
 msgid "Oops!"
 msgstr "Huch!"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/View.elm:63
 #: engine-wizard/elm/Wizard/Projects/Detail/View.elm:77
-#, fuzzy
 msgid "Something went wrong, try to refresh the page."
 msgstr "Etwas ist schief gelaufen, versuchen Sie, die Seite zu aktualisieren."
 
 #: engine-wizard/elm/Wizard/KMEditor/Index/Update.elm:68
-#, fuzzy
 msgid "Migration was successfully canceled."
 msgstr "Die Migration wurde erfolgreich abgebrochen."
 
@@ -3842,249 +3460,201 @@ msgid "Migration could not be deleted."
 msgstr "Die Migration konnte nicht gelöscht werden."
 
 #: engine-wizard/elm/Wizard/KMEditor/Index/Update.elm:126
-#, fuzzy
 msgid "Unable to get knowledge model editors."
 msgstr "Wissensmodell-Editoren können nicht abgerufen werden."
 
 #: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:58
-#, fuzzy
 msgid "Click \"Create\" button to add a new Knowledge Model Editor."
 msgstr "Klicken Sie auf die Schaltfläche \"Erstellen\", um einen neuen Wissensmodell-Editor hinzuzufügen."
 
 #: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:66
-#, fuzzy
 msgid "Search KM editors..."
-msgstr "KM-Redakteure suchen..."
+msgstr "Wissensmodell-Editoren suchen..."
 
 #: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:112
-#, fuzzy
 msgid "Last published version"
 msgstr "Zuletzt veröffentlichte Version"
 
 #: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:129
-#, fuzzy
 msgid "There is a new version of parent Knowledge Model."
 msgstr "Es gibt eine neue Version des übergeordneten Wissensmodells."
 
 #: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:135
-#, fuzzy
 msgid "This Editor is in the process of migration to a new parent Knowledge Model."
 msgstr "Dieser Editor wird derzeit auf ein neues übergeordnetes Wissensmodell umgestellt."
 
 #: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:136
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:689
-#, fuzzy
 msgid "migrating"
 msgstr "Migration"
 
 #: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:140
-#, fuzzy
 msgid "This Editor has been migrated to a new parent Knowledge Model, you can publish it now."
-msgstr "Dieser Editor wurde in ein neues übergeordnetes Wissensmodell migriert, Sie können ihn jetzt veröffentlichen."
+msgstr "Dieser Editor wurde in ein neues übergeordnetes Wissensmodell migriert, Sie können diesen jetzt veröffentlichen."
 
 #: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:141
-#, fuzzy
 msgid "migrated"
 msgstr "migriert"
 
 #: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:144
-#, fuzzy
 msgid "This Editor contains unpublished changes."
 msgstr "Dieser Editor enthält unveröffentlichte Änderungen."
 
 #: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:187
-#, fuzzy
 msgid "Open Editor"
 msgstr "Editor öffnen"
 
 #: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:214
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:637
-#, fuzzy
 msgid "Continue migration"
 msgstr "Migration fortsetzen"
 
 #: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:223
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:649
-#, fuzzy
 msgid "Cancel migration"
 msgstr "Migration abbrechen"
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/Update.elm:54
-#, fuzzy
 msgid "Unable to get migration."
 msgstr "Die Migration kann nicht durchgeführt werden."
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/Update.elm:92
-#, fuzzy
 msgid "Unable to resolve conflict."
-msgstr "Unfähig, den Konflikt zu lösen."
+msgstr "Konflikt konnte nicht aufgelöst werden."
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:82
-#, fuzzy
 msgid "Migration state is corrupted."
 msgstr "Der Migrationsstatus ist beschädigt."
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:111
-#, fuzzy
 msgid "Migration is still running, try again later."
 msgstr "Die Migration läuft noch, versuchen Sie es später noch einmal."
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:117
-#, fuzzy
 msgid "Migration"
 msgstr "Migration"
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:127
-#, fuzzy
 msgid "Migration of %s from %s to %s."
 msgstr "Migration von %s von %s nach %s."
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:141
-#, fuzzy
 msgid "The event is not connected to any entity in the Knowledge Model."
 msgstr "Das Ereignis ist mit keiner Entität des Wissensmodells verbunden."
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:151
-#, fuzzy
 msgid "Edit Knowledge Model"
 msgstr "Wissensmodell bearbeiten"
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:160
-#, fuzzy
 msgid "Edit metric"
 msgstr "Metrik bearbeiten"
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:166
-#, fuzzy
 msgid "Delete metric"
 msgstr "Metrik löschen"
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:176
-#, fuzzy
 msgid "Edit phase"
 msgstr "Phase bearbeiten"
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:182
-#, fuzzy
 msgid "Delete phase"
 msgstr "Phase löschen"
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:187
-#, fuzzy
 msgid "Add question tag"
 msgstr "Frage-Tag hinzufügen"
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:192
-#, fuzzy
 msgid "Edit question tag"
 msgstr "Frage-Tag bearbeiten"
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:198
-#, fuzzy
 msgid "Delete question tag"
 msgstr "Frage-Tag löschen"
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:208
-#, fuzzy
 msgid "Edit integration"
 msgstr "Integration bearbeiten"
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:214
-#, fuzzy
 msgid "Delete integration"
 msgstr "Integration löschen"
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:224
-#, fuzzy
 msgid "Edit chapter"
 msgstr "Kapitel bearbeiten"
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:230
-#, fuzzy
 msgid "Delete chapter"
 msgstr "Kapitel löschen"
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:240
-#, fuzzy
 msgid "Edit question"
 msgstr "Frage bearbeiten"
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:246
-#, fuzzy
 msgid "Delete question"
 msgstr "Frage löschen"
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:256
-#, fuzzy
 msgid "Edit answer"
 msgstr "Antwort bearbeiten"
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:262
-#, fuzzy
 msgid "Delete answer"
 msgstr "Antwort löschen"
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:272
-#, fuzzy
 msgid "Edit choice"
 msgstr "Auswahl bearbeiten"
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:278
-#, fuzzy
 msgid "Delete choice"
 msgstr "Auswahl löschen"
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:288
-#, fuzzy
 msgid "Edit reference"
 msgstr "Referenz bearbeiten"
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:294
-#, fuzzy
 msgid "Delete reference"
 msgstr "Referenz löschen"
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:304
-#, fuzzy
 msgid "Edit expert"
 msgstr "Experte bearbeiten"
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:310
-#, fuzzy
 msgid "Delete expert"
 msgstr "Experte löschen"
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:316
-#, fuzzy
 msgid "Move question"
 msgstr "Frage verschieben"
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:322
-#, fuzzy
 msgid "Move answer"
 msgstr "Antwort verschieben"
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:328
-#, fuzzy
 msgid "Move choice"
-msgstr "Auswahl bewegen"
+msgstr "Auswahl verschieben"
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:334
-#, fuzzy
 msgid "Move reference"
 msgstr "Referenz verschieben"
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:340
-#, fuzzy
 msgid "Move expert"
-msgstr "Experte für Umzüge"
+msgstr "Experte verschieben"
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1673
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1739
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1818
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1887
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1956
-#, fuzzy
 msgid "Target UUID"
 msgstr "Ziel-UUID"
 
@@ -4094,179 +3664,145 @@ msgstr "Ziel-UUID"
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1821
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1890
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1959
-#, fuzzy
 msgid "Cross Reference"
 msgstr "Querverweis"
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:2292
-#, fuzzy
 msgid "Reject"
 msgstr "Ablehnen"
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:2295
-#, fuzzy
 msgid "Apply"
-msgstr "Bewerbung"
+msgstr "Anwenden"
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:2298
-#, fuzzy
 msgid "Apply all"
 msgstr "Alle anwenden"
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:2340
-#, fuzzy
 msgid "Migration successfully completed."
 msgstr "Migration erfolgreich abgeschlossen."
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:2342
-#, fuzzy
 msgid "You can publish the new version now."
 msgstr "Sie können die neue Version jetzt veröffentlichen."
 
 #: engine-wizard/elm/Wizard/KMEditor/Publish/Update.elm:145
-#, fuzzy
 msgid "Publishing the new version failed."
 msgstr "Die Veröffentlichung der neuen Version ist fehlgeschlagen."
 
 #: engine-wizard/elm/Wizard/KMEditor/Publish/View.elm:37
-#, fuzzy
 msgid "Publish new version"
 msgstr "Neue Version veröffentlichen"
 
 #: engine-wizard/elm/Wizard/KMEditor/Publish/View.elm:79
-#, fuzzy
 msgid "Choose a %s so others can use your Knowledge Model."
 msgstr "Wählen Sie ein %s, damit andere Ihr Wissensmodell nutzen können."
 
 #: engine-wizard/elm/Wizard/KMEditor/Publish/View.elm:81
-#, fuzzy
 msgid "license"
 msgstr "Lizenz"
 
 #: engine-wizard/elm/Wizard/KMEditor/Publish/View.elm:84
-#, fuzzy
 msgid "Short description of the Knowledge Model."
 msgstr "Kurze Beschreibung des Wissensmodells."
 
 #: engine-wizard/elm/Wizard/KMEditor/Publish/View.elm:86
-#, fuzzy
 msgid "Describe the Knowledge Model, you can use Markdown."
 msgstr "Beschreiben Sie das Wissensmodell, Sie können Markdown verwenden."
 
 #: engine-wizard/elm/Wizard/KMEditor/Publish/View.elm:94
-#, fuzzy
 msgid "No version of this package has been published yet."
-msgstr "Eine Version dieses Pakets ist noch nicht veröffentlicht worden."
+msgstr "Es ist noch keine Version dieses Packages veröffentlicht worden."
 
 #: engine-wizard/elm/Wizard/KMEditor/Publish/View.elm:95
-#, fuzzy
 msgid "Last version"
 msgstr "Letzte Version"
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Detail/Update.elm:73
 #: engine-wizard/elm/Wizard/KnowledgeModels/Index/Update.elm:71
-#, fuzzy
 msgid "Knowledge Model could not be deleted."
 msgstr "Das Wissensmodell konnte nicht gelöscht werden."
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Detail/View.elm:65
 #: engine-wizard/elm/Wizard/KnowledgeModels/Index/View.elm:165
-#, fuzzy
 msgid "Create KM editor"
-msgstr "KM-Editor erstellen"
+msgstr "Wissensmodell-Editor erstellen"
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Detail/View.elm:77
 #: engine-wizard/elm/Wizard/KnowledgeModels/Index/View.elm:177
-#, fuzzy
 msgid "Fork KM"
-msgstr "Gabel KM"
+msgstr "Abzweig des Wissensmodell"
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Detail/View.elm:90
 #: engine-wizard/elm/Wizard/KnowledgeModels/Index/View.elm:189
 #: engine-wizard/elm/Wizard/KnowledgeModels/Preview/View.elm:59
-#, fuzzy
 msgid "Create project"
 msgstr "Projekt erstellen"
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Detail/View.elm:142
-#, fuzzy
 msgid "This is not the latest available version of this Knowledge Model."
 msgstr "Dies ist nicht die letzte verfügbare Version dieses Wissensmodells."
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Detail/View.elm:213
-#, fuzzy
 msgid "Fork of"
-msgstr "Gabel von"
+msgstr "Abzweig von"
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Detail/View.elm:263
-#, fuzzy
 msgid "Registry Link"
-msgstr "Link zur Registrierung"
+msgstr "Registry Link"
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Import/FileImport/Update.elm:71
-#, fuzzy
 msgid "Importing the knowledge model failed."
 msgstr "Das Importieren des Wissensmodells ist fehlgeschlagen."
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Import/FileImport/View.elm:51
-#, fuzzy
 msgid "This doesn't look like a knowledge model. Are you sure you picked the correct file?"
 msgstr "Das sieht nicht wie ein Wissensmodell aus. Sind Sie sicher, dass Sie die richtige Datei ausgewählt haben?"
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Import/OwlImport/Update.elm:85
-#, fuzzy
 msgid "Importing the package failed."
 msgstr "Der Import des Pakets ist fehlgeschlagen."
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Import/OwlImport/View.elm:47
-#, fuzzy
 msgid "Previous Package ID"
 msgstr "Vorherige Paket-ID"
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Import/OwlImport/View.elm:48
-#, fuzzy
 msgid "Root Element"
 msgstr "Wurzel-Element"
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Import/RegistryImport/Update.elm:32
-#, fuzzy
 msgid "Unable to import the package."
 msgstr "Das Paket kann nicht importiert werden."
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Import/RegistryImport/View.elm:67
-#, fuzzy
 msgid "You can find Knowledge Models in %s."
 msgstr "Wissensmodelle finden Sie in %s."
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Import/RegistryImport/View.elm:83
-#, fuzzy
 msgid "Knowledge Model %s has been imported!"
 msgstr "Wissensmodell %s wurde importiert!"
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Import/View.elm:41
-#, fuzzy
 msgid "From OWL"
 msgstr "Aus OWL"
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Index/View.elm:58
-#, fuzzy
 msgid "Click \"Import\" button to import a new Knowledge Model."
 msgstr "Klicken Sie auf die Schaltfläche \"Importieren\", um ein neues Wissensmodell zu importieren."
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Index/View.elm:66
-#, fuzzy
 msgid "Search KMs..."
-msgstr "KMs suchen..."
+msgstr "Wissensmodelle suchen..."
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Index/View.elm:240
-#, fuzzy
 msgid "Delete package"
 msgstr "Paket löschen"
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Preview/Update.elm:136
 #: engine-wizard/elm/Wizard/Projects/Create/CustomCreate/Update.elm:140
 #: engine-wizard/elm/Wizard/Projects/Create/TemplateCreate/Update.elm:84
-#, fuzzy
 msgid "Questionnaire could not be created."
 msgstr "Der Fragebogen konnte nicht erstellt werden."
 
@@ -4274,222 +3810,180 @@ msgstr "Der Fragebogen konnte nicht erstellt werden."
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:189
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:233
 #: engine-wizard/elm/Wizard/Projects/Detail/Update.elm:652
-#, fuzzy
 msgid "Questionnaire could not be saved."
 msgstr "Der Fragebogen konnte nicht gespeichert werden."
 
 #: engine-wizard/elm/Wizard/Locales/Create/Update.elm:92
-#, fuzzy
 msgid "Creating of the locale failed."
-msgstr "Das Erstellen des Gebietsschemas ist fehlgeschlagen."
+msgstr "Das Erstellen des Lokalisierungsschemas ist fehlgeschlagen."
 
 #: engine-wizard/elm/Wizard/Locales/Create/View.elm:40
-#, fuzzy
 msgid "PO File"
 msgstr "PO-Datei"
 
 #: engine-wizard/elm/Wizard/Locales/Create/View.elm:49
 #: engine-wizard/elm/Wizard/Locales/Detail/View.elm:192
-#, fuzzy
 msgid "Language Code"
-msgstr "Sprache Code"
+msgstr "Sprachcode"
 
 #: engine-wizard/elm/Wizard/Locales/Create/View.elm:50
 #: engine-wizard/elm/Wizard/Locales/Import/RegistryImport/View.elm:47
-#, fuzzy
 msgid "Locale ID"
 msgstr "Standort-ID"
 
 #: engine-wizard/elm/Wizard/Locales/Create/View.elm:51
-#, fuzzy
 msgid "Locale Version"
 msgstr "Lokale Version"
 
 #: engine-wizard/elm/Wizard/Locales/Create/View.elm:54
-#, fuzzy
 msgid "Recommended App Version"
 msgstr "Empfohlene App-Version"
 
 #: engine-wizard/elm/Wizard/Locales/Create/View.elm:63
-#, fuzzy
 msgid "Create Locale"
-msgstr "Gebietsschema erstellen"
+msgstr "Lokalisierungsschema erstellen"
 
 #: engine-wizard/elm/Wizard/Locales/Detail/Update.elm:33
-#, fuzzy
 msgid "Unable to get the locale."
-msgstr "Das Gebietsschema kann nicht abgerufen werden."
+msgstr "Das Lokalisierungsschema kann nicht abgerufen werden."
 
 #: engine-wizard/elm/Wizard/Locales/Detail/Update.elm:100
 #: engine-wizard/elm/Wizard/Locales/Index/Update.elm:91
-#, fuzzy
 msgid "Locale could not be deleted."
-msgstr "Das Gebietsschema konnte nicht gelöscht werden."
+msgstr "Das Lokalisierungsschema konnte nicht gelöscht werden."
 
 #: engine-wizard/elm/Wizard/Locales/Detail/View.elm:59
 #: engine-wizard/elm/Wizard/Locales/Index/View.elm:168
-#, fuzzy
 msgid "Set default"
 msgstr "Standard einstellen"
 
 #: engine-wizard/elm/Wizard/Locales/Detail/View.elm:69
 #: engine-wizard/elm/Wizard/Locales/Index/View.elm:181
 #: engine-wizard/elm/Wizard/ProjectImporters/Index/View.elm:82
-#, fuzzy
 msgid "Disable"
-msgstr "Deaktivieren Sie"
+msgstr "Deaktivieren"
 
 #: engine-wizard/elm/Wizard/Locales/Detail/View.elm:75
 #: engine-wizard/elm/Wizard/Locales/Index/View.elm:190
 #: engine-wizard/elm/Wizard/ProjectImporters/Index/View.elm:87
-#, fuzzy
 msgid "Enable"
-msgstr "Aktivieren Sie"
+msgstr "Aktivieren"
 
 #: engine-wizard/elm/Wizard/Locales/Detail/View.elm:123
-#, fuzzy
 msgid "This is not the latest available version of this locale."
-msgstr "Dies ist nicht die letzte verfügbare Version dieses Gebietsschemas."
+msgstr "Dies ist nicht die aktuellste Version dieses Lokalisierungsschemas."
 
 #: engine-wizard/elm/Wizard/Locales/Detail/View.elm:194
-#, fuzzy
 msgid "DSW Version"
 msgstr "DSW-Version"
 
 #: engine-wizard/elm/Wizard/Locales/Detail/View.elm:199
-#, fuzzy
 msgid "Locale"
-msgstr "Schauplatz"
+msgstr "Lokalisierung"
 
 #: engine-wizard/elm/Wizard/Locales/Import/FileImport/Update.elm:71
-#, fuzzy
 msgid "Importing the locale failed."
-msgstr "Das Importieren des Gebietsschemas ist fehlgeschlagen."
+msgstr "Das Importieren des Lokalisierungsschemas ist fehlgeschlagen."
 
 #: engine-wizard/elm/Wizard/Locales/Import/FileImport/View.elm:47
-#, fuzzy
 msgid "This doesn't look like locale. Are you sure you picked the correct file?"
-msgstr "Das sieht nicht wie ein Gebietsschema aus. Sind Sie sicher, dass Sie die richtige Datei ausgewählt haben?"
+msgstr "Das sieht nicht wie ein Lokalisierungsschema aus. Sind Sie sicher, dass Sie die richtige Datei ausgewählt haben?"
 
 #: engine-wizard/elm/Wizard/Locales/Import/RegistryImport/Update.elm:32
-#, fuzzy
 msgid "Unable to import the locale."
-msgstr "Das Gebietsschema kann nicht importiert werden."
+msgstr "Das Lokalisierungsschema kann nicht importiert werden."
 
 #: engine-wizard/elm/Wizard/Locales/Import/RegistryImport/View.elm:67
-#, fuzzy
 msgid "You can find locales in %s."
-msgstr "Sie finden die Gebietsschemata in %s."
+msgstr "Sie finden die Lokalisierungsschemata in %s."
 
 #: engine-wizard/elm/Wizard/Locales/Import/RegistryImport/View.elm:82
-#, fuzzy
 msgid "Locale %s has been imported!"
-msgstr "Das Gebietsschema %s wurde importiert!"
+msgstr "Das Lokalisierungsschema %s wurde importiert!"
 
 #: engine-wizard/elm/Wizard/Locales/Import/View.elm:44
-#, fuzzy
 msgid "Import Locale"
-msgstr "Gebietsschema importieren"
+msgstr "Lokalisierungsschema importieren"
 
 #: engine-wizard/elm/Wizard/Locales/Index/Update.elm:54
-#, fuzzy
 msgid "Unable to change locale."
-msgstr "Das Gebietsschema kann nicht geändert werden."
+msgstr "Das Lokalisierungsschema kann nicht geändert werden."
 
 #: engine-wizard/elm/Wizard/Locales/Index/Update.elm:58
-#, fuzzy
 msgid "Locale was changed successfully."
-msgstr "Das Gebietsschema wurde erfolgreich geändert."
+msgstr "Das Lokalisierungsschema wurde erfolgreich geändert."
 
 #: engine-wizard/elm/Wizard/Locales/Index/Update.elm:110
-#, fuzzy
 msgid "Unable to get locales."
-msgstr "Es können keine Gebietsschemata abgerufen werden."
+msgstr "Es können keine Lokalisierungsschemata abgerufen werden."
 
 #: engine-wizard/elm/Wizard/Locales/Index/View.elm:44
-#, fuzzy
 msgid "Click \"Import\" or \"Create\" button to add a new locale."
-msgstr "Klicken Sie auf die Schaltfläche \"Importieren\" oder \"Erstellen\", um ein neues Gebietsschema hinzuzufügen."
+msgstr "Klicken Sie auf die Schaltfläche \"Importieren\" oder \"Erstellen\", um ein neues Lokalisierungsschema hinzuzufügen."
 
 #: engine-wizard/elm/Wizard/Locales/Index/View.elm:67
-#, fuzzy
 msgid "Default locale to be used"
-msgstr "Zu verwendendes Standardgebietsschema"
+msgstr "Zu verwendendes Standardlokalisierungsschema"
 
 #: engine-wizard/elm/Wizard/Locales/Index/View.elm:79
 #: engine-wizard/elm/Wizard/ProjectImporters/Index/View.elm:66
-#, fuzzy
 msgid "disabled"
 msgstr "deaktiviert"
 
 #: engine-wizard/elm/Wizard/Locales/Index/View.elm:262
-#, fuzzy
 msgid "Delete locale"
-msgstr "Gebietsschema löschen"
+msgstr "Lokalisierung löschen"
 
 #: engine-wizard/elm/Wizard/ProjectImporters/Index/Update.elm:44
-#, fuzzy
 msgid "Unable to change project importer."
-msgstr "Der Projektimporteur kann nicht geändert werden."
+msgstr "Der Projekt-Importer kann nicht geändert werden."
 
 #: engine-wizard/elm/Wizard/ProjectImporters/Index/Update.elm:48
-#, fuzzy
 msgid "Project importer was changed successfully."
-msgstr "Der Projektimporteur wurde erfolgreich geändert."
+msgstr "Der Projekt-Importer wurde erfolgreich geändert."
 
 #: engine-wizard/elm/Wizard/ProjectImporters/Index/Update.elm:71
-#, fuzzy
 msgid "Unable to get project importers."
-msgstr "Es können keine Projektimporteure abgerufen werden."
+msgstr "Es können keine Projekt-Importer abgerufen werden."
 
 #: engine-wizard/elm/Wizard/ProjectImporters/Index/View.elm:25
-#, fuzzy
 msgid "Project Importers"
-msgstr "Projekt-Importeure"
+msgstr "Projekt-Importer"
 
 #: engine-wizard/elm/Wizard/ProjectImporters/Index/View.elm:38
-#, fuzzy
 msgid "There are no project importers available."
-msgstr "Es sind keine Projektimporteure verfügbar."
+msgstr "Es sind keine Projekt-Importer verfügbar."
 
 #: engine-wizard/elm/Wizard/ProjectImporters/Index/View.elm:42
-#, fuzzy
 msgid "Search importers..."
-msgstr "Importeure suchen..."
+msgstr "Importer suchen..."
 
 #: engine-wizard/elm/Wizard/ProjectImporters/Index/View.elm:63
-#, fuzzy
 msgid "enabled"
 msgstr "aktiviert"
 
 #: engine-wizard/elm/Wizard/Projects/Common/CloneProjectModal/Update.elm:68
-#, fuzzy
 msgid "%s has been created."
 msgstr "%s wurde erstellt."
 
 #: engine-wizard/elm/Wizard/Projects/Common/CloneProjectModal/Update.elm:75
-#, fuzzy
 msgid "Unable to clone project."
 msgstr "Projekt kann nicht geklont werden."
 
 #: engine-wizard/elm/Wizard/Projects/Common/CloneProjectModal/View.elm:27
-#, fuzzy
 msgid "Do you want to create a copy of %s?"
 msgstr "Möchten Sie eine Kopie von %s erstellen?"
 
 #: engine-wizard/elm/Wizard/Projects/Common/CloneProjectModal/View.elm:31
-#, fuzzy
 msgid "The original project will remain unchanged."
 msgstr "Das ursprüngliche Projekt wird unverändert bleiben."
 
 #: engine-wizard/elm/Wizard/Projects/Common/CloneProjectModal/View.elm:35
-#, fuzzy
 msgid "Clone Project"
-msgstr "Klon-Projekt"
+msgstr "Projekt klonen"
 
 #: engine-wizard/elm/Wizard/Projects/Common/CloneProjectModal/View.elm:39
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:608
-#, fuzzy
 msgid "Clone"
 msgstr "Klonen"
 
@@ -4499,44 +3993,36 @@ msgid "Project was successfully deleted."
 msgstr "Das Projekt wurde erfolgreich gelöscht."
 
 #: engine-wizard/elm/Wizard/Projects/Common/DeleteProjectModal/Update.elm:74
-#, fuzzy
 msgid "Project could not be deleted."
 msgstr "Das Projekt konnte nicht gelöscht werden."
 
 #: engine-wizard/elm/Wizard/Projects/Common/DeleteProjectModal/View.elm:32
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings/DeleteModal.elm:119
-#, fuzzy
 msgid "Delete Project"
 msgstr "Projekt löschen"
 
 #: engine-wizard/elm/Wizard/Projects/Common/QuestionnaireEditFormMemberPerms.elm:61
-#, fuzzy
 msgid "Viewer"
 msgstr "Betrachter"
 
 #: engine-wizard/elm/Wizard/Projects/Common/QuestionnaireEditFormMemberPerms.elm:62
-#, fuzzy
 msgid "Commenter"
 msgstr "Kommentator"
 
 #: engine-wizard/elm/Wizard/Projects/Common/QuestionnaireEditFormMemberPerms.elm:64
-#, fuzzy
 msgid "Owner"
-msgstr "Eigentümer"
+msgstr "Eigentümer:in"
 
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:33
-#, fuzzy
 msgid "Anyone with the link can edit the project."
 msgstr "Jeder, der den Link hat, kann das Projekt bearbeiten."
 
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:36
-#, fuzzy
 msgid "Anyone with the link can view the project."
 msgstr "Jeder, der den Link hat, kann sich das Projekt ansehen."
 
 #: engine-wizard/elm/Wizard/Projects/Create/CustomCreate/Update.elm:85
 #: engine-wizard/elm/Wizard/Projects/CreateMigration/Update.elm:166
-#, fuzzy
 msgid "Unable to get question tags for the Knowledge Model."
 msgstr "Es ist nicht möglich, Frage-Tags für das Wissensmodell zu erhalten."
 
@@ -4545,239 +4031,194 @@ msgstr "Es ist nicht möglich, Frage-Tags für das Wissensmodell zu erhalten."
 #: engine-wizard/elm/Wizard/Projects/Detail/Update.elm:483
 #: engine-wizard/elm/Wizard/Projects/Import/Update.elm:66
 #: engine-wizard/elm/Wizard/Projects/Import/Update.elm:106
-#, fuzzy
 msgid "Unable to get the project."
-msgstr "Sie können das Projekt nicht erhalten."
+msgstr "Projekt konnte nicht abgerufen werden."
 
 #: engine-wizard/elm/Wizard/Projects/Create/TemplateCreate/Update.elm:108
-#, fuzzy
 msgid "Unable to get project templates."
-msgstr "Es ist nicht möglich, Projektvorlagen zu erhalten."
+msgstr "Projektvorlagen konnten nicht abgerufen werden."
 
 #: engine-wizard/elm/Wizard/Projects/Create/TemplateCreate/View.elm:56
 #: engine-wizard/elm/Wizard/Projects/Create/TemplateCreate/View.elm:70
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:353
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:87
-#, fuzzy
 msgid "Project Template"
 msgstr "Projektvorlage"
 
 #: engine-wizard/elm/Wizard/Projects/Create/View.elm:64
-#, fuzzy
 msgid "From Project Template"
-msgstr "Von der Projektvorlage"
+msgstr "Basierend auf Projektvorlage"
 
 #: engine-wizard/elm/Wizard/Projects/Create/View.elm:74
-#, fuzzy
 msgid "Custom"
 msgstr "Benutzerdefiniert"
 
 #: engine-wizard/elm/Wizard/Projects/CreateMigration/Update.elm:152
-#, fuzzy
 msgid "Project migration could not be created."
 msgstr "Die Projektmigration konnte nicht erstellt werden."
 
 #: engine-wizard/elm/Wizard/Projects/CreateMigration/View.elm:56
-#, fuzzy
 msgid "Original question tags"
-msgstr "Original-Frage-Anhänger"
+msgstr "Original-Frage-Tags"
 
 #: engine-wizard/elm/Wizard/Projects/CreateMigration/View.elm:76
-#, fuzzy
 msgid "Select Knowledge Model first"
 msgstr "Zuerst Wissensmodell auswählen"
 
 #: engine-wizard/elm/Wizard/Projects/CreateMigration/View.elm:79
-#, fuzzy
 msgid "Create Migration"
 msgstr "Migration erstellen"
 
 #: engine-wizard/elm/Wizard/Projects/CreateMigration/View.elm:80
-#, fuzzy
 msgid "A new Project is created for the migration. The original will remain unchanged until the migration is finished."
 msgstr "Für die Migration wird ein neues Projekt erstellt. Das Original bleibt unverändert, bis die Migration abgeschlossen ist."
 
 #: engine-wizard/elm/Wizard/Projects/CreateMigration/View.elm:82
-#, fuzzy
 msgid "Project"
 msgstr "Projekt"
 
 #: engine-wizard/elm/Wizard/Projects/CreateMigration/View.elm:87
-#, fuzzy
 msgid "Original Knowledge Model"
 msgstr "Ursprüngliches Wissensmodell"
 
 #: engine-wizard/elm/Wizard/Projects/CreateMigration/View.elm:88
-#, fuzzy
 msgid "Original version"
 msgstr "Originalfassung"
 
 #: engine-wizard/elm/Wizard/Projects/CreateMigration/View.elm:94
-#, fuzzy
 msgid "New Knowledge Model"
 msgstr "Neues Wissensmodell"
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/NewDocument.elm:162
-#, fuzzy
 msgid "Unable to get questionnaire event."
 msgstr "Fragebogen-Ereignis kann nicht abgerufen werden."
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/NewDocument.elm:230
-#, fuzzy
 msgid "Document could not be created."
 msgstr "Das Dokument konnte nicht erstellt werden."
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/NewDocument.elm:257
-#, fuzzy
 msgid "New Document"
 msgstr "Neues Dokument"
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/NewDocument.elm:288
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:140
-#, fuzzy
 msgid "Format"
 msgstr "Format"
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/NewDocument.elm:305
-#, fuzzy
 msgid "Create for current version"
 msgstr "Anlegen für aktuelle Version"
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/NewDocument.elm:310
-#, fuzzy
 msgid "You are creating a document for a project version from %s"
 msgstr "Sie erstellen ein Dokument für eine Projektversion von %s"
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Preview.elm:181
-#, fuzzy
 msgid "Log in to set a default document template and format."
 msgstr "Melden Sie sich an, um eine Standarddokumentvorlage und ein Standardformat festzulegen."
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Preview.elm:185
-#, fuzzy
 msgid "Before you can use preview you need to set a default document template and format."
 msgstr "Bevor Sie die Vorschau verwenden können, müssen Sie eine Standarddokumentvorlage und ein Standardformat festlegen."
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Preview.elm:190
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Preview.elm:222
-#, fuzzy
 msgid "Go to settings"
-msgstr "Zu den Einstellungen gehen"
+msgstr "Zu den Einstellungen wechseln"
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Preview.elm:197
-#, fuzzy
 msgid "Ask the Project owner to set a default document template and format."
 msgstr "Bitten Sie den Projekteigentümer, eine Standarddokumentvorlage und ein Standardformat festzulegen."
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Preview.elm:202
-#, fuzzy
 msgid "Default document template is not set."
 msgstr "Die Standarddokumentvorlage ist nicht eingestellt."
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Preview.elm:213
-#, fuzzy
 msgid "Log in to update the default document template."
 msgstr "Melden Sie sich an, um die Standarddokumentvorlage zu aktualisieren."
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Preview.elm:217
-#, fuzzy
 msgid "Before you can use preview you need to update the default document template."
 msgstr "Bevor Sie die Vorschau verwenden können, müssen Sie die Standarddokumentvorlage aktualisieren."
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Preview.elm:229
-#, fuzzy
 msgid "Ask the Project owner to update the default document template."
 msgstr "Bitten Sie den Projekteigentümer, die Standarddokumentvorlage zu aktualisieren."
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Preview.elm:234
-#, fuzzy
 msgid "Default document template is no longer supported."
 msgstr "Die Standarddokumentvorlage wird nicht mehr unterstützt."
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/ProjectSaving.elm:113
-#, fuzzy
 msgid "Saving..."
-msgstr "Sparen..."
+msgstr "Speichern..."
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/ProjectSaving.elm:118
-#, fuzzy
 msgid "Saved"
-msgstr "Gerettet"
+msgstr "Gespeichert"
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/ProjectSaving.elm:123
-#, fuzzy
 msgid "All changes have been saved"
-msgstr "Alle Änderungen wurden gespeichert."
+msgstr "Alle Änderungen wurden gespeichert"
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/RevertModal.elm:109
 msgid "Heads up! This action cannot be undone."
 msgstr "Achtung! Diese Aktion kann nicht rückgängig gemacht werden."
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/RevertModal.elm:112
-#, fuzzy
 msgid "Are you sure you want to revert the projects to its state from %s?"
 msgstr "Sind Sie sicher, dass Sie die Projekte in den Zustand von %s zurückversetzen wollen?"
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/RevertModal.elm:118
-#, fuzzy
 msgid "Revert questionnaire"
-msgstr "Fragebogen zurücksenden"
+msgstr "Fragebogen zurücksetzen"
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/RevertModal.elm:122
-#, fuzzy
 msgid "Revert"
-msgstr "Zurückkehren"
+msgstr "Zurücksetzen"
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:260
 #: engine-wizard/elm/Wizard/Projects/Index/Update.elm:161
-#, fuzzy
 msgid "Unable to get project tags."
 msgstr "Es können keine Projekt-Tags abgerufen werden."
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:332
-#, fuzzy
 msgid "This document template is no longer supported."
 msgstr "Diese Dokumentvorlage wird nicht mehr unterstützt."
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:345
-#, fuzzy
 msgid "Default document format"
 msgstr "Standard-Dokumentenformat"
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:354
-#, fuzzy
 msgid "Project templates can be used by other users so they don't have to start their new projects from scratch."
 msgstr "Projektvorlagen können von anderen Nutzern verwendet werden, damit diese ihre Projekte nicht von Grund auf neu beginnen müssen."
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:374
-#, fuzzy
 msgid "Default document template"
 msgstr "Standard-Dokumentenvorlage"
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:393
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:250
-#, fuzzy
 msgid "Project Tags"
 msgstr "Projekt-Tags"
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:507
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:515
-#, fuzzy
 msgid "Delete this project"
 msgstr "Dieses Projekt löschen"
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:509
-#, fuzzy
 msgid "Deleted projects cannot be recovered."
 msgstr "Gelöschte Projekte können nicht wiederhergestellt werden."
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings/DeleteModal.elm:87
-#, fuzzy
 msgid "Questionnaire was successfully deleted."
 msgstr "Der Fragebogen wurde erfolgreich gelöscht."
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings/DeleteModal.elm:94
-#, fuzzy
 msgid "Questionnaire could not be deleted."
 msgstr "Der Fragebogen konnte nicht gelöscht werden."
 
@@ -4785,104 +4226,84 @@ msgstr "Der Fragebogen konnte nicht gelöscht werden."
 #: engine-wizard/elm/Wizard/Projects/Index/Update.elm:168
 #: engine-wizard/elm/Wizard/Projects/Index/Update.elm:199
 #: engine-wizard/elm/Wizard/Users/Index/Update.elm:89
-#, fuzzy
 msgid "Unable to get users."
 msgstr "Es können keine Benutzer abgerufen werden."
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:261
-#, fuzzy
 msgid "Share Project"
 msgstr "Projekt teilen"
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:281
-#, fuzzy
 msgid "Add users"
 msgstr "Benutzer hinzufügen"
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:363
-#, fuzzy
 msgid "Other logged-in users can %s the project."
 msgstr "Andere eingeloggte Benutzer können das Projekt %s."
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:368
-#, fuzzy
 msgid "Visible by all other logged-in users"
 msgstr "Sichtbar für alle anderen eingeloggten Benutzer"
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:406
-#, fuzzy
 msgid "Anyone with the link can %s the project."
 msgstr "Jeder, der den Link hat, kann das Projekt %s."
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:411
-#, fuzzy
 msgid "Public link"
 msgstr "Öffentlicher Link"
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/Update.elm:110
-#, fuzzy
 msgid "Document was successfully deleted."
 msgstr "Das Dokument wurde erfolgreich gelöscht."
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:90
-#, fuzzy
 msgid "Click \"New document\" button to add a new document."
 msgstr "Klicken Sie auf die Schaltfläche \"Neues Dokument\", um ein neues Dokument hinzuzufügen."
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:93
-#, fuzzy
 msgid "Log in to add a new document."
 msgstr "Melden Sie sich an, um ein neues Dokument hinzuzufügen."
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:114
-#, fuzzy
 msgid "New document"
 msgstr "Neues Dokument"
 
 #: engine-wizard/elm/Wizard/Projects/Detail/View.elm:167
-#, fuzzy
 msgid "Add to my projects"
 msgstr "Zu meinen Projekten hinzufügen"
 
 #: engine-wizard/elm/Wizard/Projects/Detail/View.elm:183
-#, fuzzy
 msgid "Share"
-msgstr "Teilen Sie"
+msgstr "Teilen"
 
 #: engine-wizard/elm/Wizard/Projects/Detail/View.elm:225
-#, fuzzy
 msgid "Questionnaire"
 msgstr "Fragebogen"
 
 #: engine-wizard/elm/Wizard/Projects/Detail/View.elm:293
-#, fuzzy
 msgid "You are not allowed to view this page."
 msgstr "Sie sind nicht berechtigt, diese Seite zu sehen."
 
 #: engine-wizard/elm/Wizard/Projects/Import/Update.elm:97
-#, fuzzy
 msgid "Unable to get importer."
-msgstr "Importeur kann nicht geholt werden."
+msgstr "Importer kann nicht abgerufen werden."
 
 #: engine-wizard/elm/Wizard/Projects/Import/Update.elm:186
-#, fuzzy
 msgid "Questionnaire changes could not be saved."
 msgstr "Änderungen am Fragebogen konnten nicht gespeichert werden."
 
 #: engine-wizard/elm/Wizard/Projects/Import/View.elm:56
-#, fuzzy
 msgid "Follow the instructions in the importer window."
-msgstr "Folgen Sie den Anweisungen im Fenster des Importeurs."
+msgstr "Folgen Sie den Anweisungen im Fenster des Importers."
 
 #: engine-wizard/elm/Wizard/Projects/Import/View.elm:75
-#, fuzzy
 msgid "Importing to %s"
 msgstr "Importieren nach %s"
 
 #: engine-wizard/elm/Wizard/Projects/Import/View.elm:79
-#, fuzzy
 msgid "Import status:"
-msgstr "Status der Einfuhr:"
+msgstr "Status der Imports:"
 
 #: engine-wizard/elm/Wizard/Projects/Import/View.elm:90
 msgid "%s questionnaire change will be imported"
@@ -4897,145 +4318,117 @@ msgstr[0] "%s-Fehler aufgetreten"
 msgstr[1] "%s-Fehler aufgetreten"
 
 #: engine-wizard/elm/Wizard/Projects/Import/View.elm:175
-#, fuzzy
 msgid "Questionnaire Changes"
 msgstr "Änderungen im Fragebogen"
 
 #: engine-wizard/elm/Wizard/Projects/Import/View.elm:178
-#, fuzzy
 msgid "Errors"
 msgstr "Fehler"
 
 #: engine-wizard/elm/Wizard/Projects/Import/View.elm:184
-#, fuzzy
 msgid "No changes to be imported"
 msgstr "Keine zu importierenden Änderungen"
 
 #: engine-wizard/elm/Wizard/Projects/Import/View.elm:271
-#, fuzzy
 msgid "Added item"
 msgstr "Hinzugefügtes Element"
 
 #: engine-wizard/elm/Wizard/Projects/Index/Update.elm:278
-#, fuzzy
 msgid "Project migration was successfully canceled."
 msgstr "Die Projektmigration wurde erfolgreich abgebrochen."
 
 #: engine-wizard/elm/Wizard/Projects/Index/Update.elm:285
-#, fuzzy
 msgid "Project migration could not be deleted."
 msgstr "Die Projektmigration konnte nicht gelöscht werden."
 
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:90
-#, fuzzy
 msgid "Projects only"
 msgstr "Nur Projekte"
 
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:119
-#, fuzzy
 msgid "Click \"Create\" button to add a new project."
 msgstr "Klicken Sie auf die Schaltfläche \"Erstellen\", um ein neues Projekt hinzuzufügen."
 
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:127
-#, fuzzy
 msgid "Search projects..."
 msgstr "Projekte suchen..."
 
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:196
-#, fuzzy
 msgid "Search project tags..."
 msgstr "Projekt-Tags suchen..."
 
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:212
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:442
-#, fuzzy
 msgid "OR"
 msgstr "OR"
 
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:219
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:449
-#, fuzzy
 msgid "AND"
-msgstr "UND"
+msgstr "AND"
 
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:238
-#, fuzzy
 msgid "No project tags found"
 msgstr "Keine Projekt-Tags gefunden"
 
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:315
-#, fuzzy
 msgid "Search knowledge models..."
 msgstr "Wissensmodelle suchen..."
 
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:339
-#, fuzzy
 msgid "No knowledge models found"
 msgstr "Keine Wissensmodelle gefunden"
 
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:426
 #: engine-wizard/elm/Wizard/Users/Index/View.elm:57
-#, fuzzy
 msgid "Search users..."
-msgstr "Benutzer suchen..."
+msgstr "Benutzer:in suchen..."
 
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:468
-#, fuzzy
 msgid "No users found"
-msgstr "Keine Benutzer gefunden"
+msgstr "Keine Benutzer:in gefunden"
 
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:596
-#, fuzzy
 msgid "Open project"
 msgstr "Offenes Projekt"
 
 #: engine-wizard/elm/Wizard/Projects/Migration/Update.elm:83
-#, fuzzy
 msgid "Unable to get the project migration."
-msgstr "Es ist nicht möglich, die Projektmigration zu erhalten."
+msgstr "Es ist nicht möglich, die Projektmigration abzurufen."
 
 #: engine-wizard/elm/Wizard/Projects/Migration/Update.elm:99
-#, fuzzy
 msgid "Unable to save migration."
 msgstr "Die Migration kann nicht gespeichert werden."
 
 #: engine-wizard/elm/Wizard/Projects/Migration/View.elm:37
-#, fuzzy
 msgid "Finalize migration"
 msgstr "Migration abschließen"
 
 #: engine-wizard/elm/Wizard/Projects/Migration/View.elm:47
-#, fuzzy
 msgid "No changes to review"
 msgstr "Keine Änderungen zur Überprüfung"
 
 #: engine-wizard/elm/Wizard/Projects/Migration/View.elm:49
-#, fuzzy
 msgid "There are no changes affecting your answers."
 msgstr "Es gibt keine Änderungen, die Ihre Antworten betreffen."
 
 #: engine-wizard/elm/Wizard/Projects/Migration/View.elm:50
-#, fuzzy
 msgid "You can safely finalize the migration."
 msgstr "Sie können die Migration sicher abschließen."
 
 #: engine-wizard/elm/Wizard/Projects/Migration/View.elm:87
-#, fuzzy
 msgid "Source KM"
-msgstr "Quelle KM"
+msgstr "Ausgangswissensmodell"
 
 #: engine-wizard/elm/Wizard/Projects/Migration/View.elm:91
-#, fuzzy
 msgid "Target KM"
-msgstr "Ziel KM"
+msgstr "Ziel-Wissensmodell"
 
 #: engine-wizard/elm/Wizard/Projects/Migration/View.elm:123
-#, fuzzy
 msgid "Change already resolved"
-msgstr "Änderung bereits beschlossen"
+msgstr "Änderung bereits aufgelöst"
 
 #: engine-wizard/elm/Wizard/Projects/Migration/View.elm:125
-#, fuzzy
 msgid "Undo"
 msgstr "Rückgängig machen"
 
@@ -5044,368 +4437,299 @@ msgid "Resolve"
 msgstr "Auflösen"
 
 #: engine-wizard/elm/Wizard/Projects/Migration/View.elm:138
-#, fuzzy
 msgid "Resolve all"
-msgstr "Lösen Sie alle"
+msgstr "Alle auflösen"
 
 #: engine-wizard/elm/Wizard/Projects/Migration/View.elm:142
-#, fuzzy
 msgid "Resolved changes %s/%s"
 msgstr "Gelöste Änderungen %s/%s"
 
 #: engine-wizard/elm/Wizard/Projects/Migration/View.elm:189
-#, fuzzy
 msgid "New Question"
 msgstr "Neue Frage"
 
 #: engine-wizard/elm/Wizard/Projects/Migration/View.elm:192
-#, fuzzy
 msgid "Question Changed"
 msgstr "Frage Geändert"
 
 #: engine-wizard/elm/Wizard/Projects/Migration/View.elm:195
-#, fuzzy
 msgid "Moved Question"
 msgstr "Verschobene Frage"
 
 #: engine-wizard/elm/Wizard/Projects/Migration/View.elm:199
-#, fuzzy
 msgid "Resolved"
 msgstr "Aufgelöst"
 
 #: engine-wizard/elm/Wizard/Public/Auth/Update.elm:32
 #: engine-wizard/elm/Wizard/Public/Auth/Update.elm:35
 #: engine-wizard/elm/Wizard/Public/Login/Update.elm:64
-#, fuzzy
 msgid "Login failed."
 msgstr "Anmeldung fehlgeschlagen."
 
 #: engine-wizard/elm/Wizard/Public/BookReference/Update.elm:27
-#, fuzzy
 msgid "Unable to get a book reference."
-msgstr "Es ist nicht möglich, eine Buchreferenz zu erhalten."
+msgstr "Es ist nicht möglich, eine Buchreferenz abzurufen."
 
 #: engine-wizard/elm/Wizard/Public/BookReference/View.elm:37
-#, fuzzy
 msgid "Data Stewardship for Open Science"
-msgstr "Data Stewardship für offene Wissenschaft"
+msgstr "Data Stewardship für Open Science"
 
 #: engine-wizard/elm/Wizard/Public/BookReference/View.elm:39
-#, fuzzy
 msgid "Chapter %s"
 msgstr "Kapitel %s"
 
 #: engine-wizard/elm/Wizard/Public/BookReference/View.elm:42
-#, fuzzy
 msgid "With kind permission of"
-msgstr "Mit freundlicher Genehmigung von"
+msgstr "Mit freundlicher Erlaubnis von"
 
 #: engine-wizard/elm/Wizard/Public/ForgottenPassword/Update.elm:60
 #: engine-wizard/elm/Wizard/Public/ForgottenPasswordConfirmation/Update.elm:60
-#, fuzzy
 msgid "Forgotten password recovery failed."
 msgstr "Die Wiederherstellung eines vergessenen Passworts ist fehlgeschlagen."
 
 #: engine-wizard/elm/Wizard/Public/ForgottenPassword/View.elm:25
-#, fuzzy
 msgid "We've sent you a recover link. Follow the instructions in your email."
 msgstr "Wir haben Ihnen einen Wiederherstellungslink geschickt. Folgen Sie den Anweisungen in Ihrer E-Mail."
 
 #: engine-wizard/elm/Wizard/Public/ForgottenPassword/View.elm:38
-#, fuzzy
 msgid "Forgotten Password"
 msgstr "Vergessenes Passwort"
 
 #: engine-wizard/elm/Wizard/Public/ForgottenPassword/View.elm:41
-#, fuzzy
 msgid "Recover"
 msgstr "Wiederherstellen"
 
 #: engine-wizard/elm/Wizard/Public/ForgottenPassword/View.elm:53
-#, fuzzy
 msgid "Enter the email you use to log in and we will send you a recover link."
 msgstr "Geben Sie die E-Mail ein, die Sie für die Anmeldung verwenden, und wir senden Ihnen einen Wiederherstellungslink."
 
 #: engine-wizard/elm/Wizard/Public/ForgottenPasswordConfirmation/View.elm:42
-#, fuzzy
 msgid "Password Recovery"
 msgstr "Passwort-Wiederherstellung"
 
 #: engine-wizard/elm/Wizard/Public/ForgottenPasswordConfirmation/View.elm:56
-#, fuzzy
 msgid "Enter a new password you want to use to log in."
 msgstr "Geben Sie ein neues Passwort ein, mit dem Sie sich anmelden möchten."
 
 #: engine-wizard/elm/Wizard/Public/ForgottenPasswordConfirmation/View.elm:57
 #: engine-wizard/elm/Wizard/Users/Edit/View.elm:196
-#, fuzzy
 msgid "New password"
 msgstr "Neues Passwort"
 
 #: engine-wizard/elm/Wizard/Public/ForgottenPasswordConfirmation/View.elm:58
 #: engine-wizard/elm/Wizard/Users/Edit/View.elm:197
-#, fuzzy
 msgid "New password again"
-msgstr "Wieder neues Passwort"
+msgstr "Neues Passwort nochmal"
 
 #: engine-wizard/elm/Wizard/Public/ForgottenPasswordConfirmation/View.elm:68
-#, fuzzy
 msgid "Your password has been changed. You can now %s."
 msgstr "Ihr Passwort wurde geändert. Sie können jetzt %s."
 
 #: engine-wizard/elm/Wizard/Public/ForgottenPasswordConfirmation/View.elm:72
 #: engine-wizard/elm/Wizard/Public/SignupConfirmation/View.elm:33
-#, fuzzy
 msgid "log in"
-msgstr "sich anmelden"
+msgstr "Anmelden"
 
 #: engine-wizard/elm/Wizard/Public/Login/View.elm:71
 #: engine-wizard/elm/Wizard/Public/Signup/View.elm:149
 #: engine-wizard/elm/Wizard/Users/Create/View.elm:42
 #: engine-wizard/elm/Wizard/Users/Edit/View.elm:63
 #: engine-wizard/elm/Wizard/Users/Edit/View.elm:185
-#, fuzzy
 msgid "Password"
 msgstr "Passwort"
 
 #: engine-wizard/elm/Wizard/Public/Login/View.elm:74
-#, fuzzy
 msgid "Forgot your password?"
-msgstr "Haben Sie Ihr Passwort vergessen?"
+msgstr "Passwort vergessen?"
 
 #: engine-wizard/elm/Wizard/Public/Login/View.elm:82
-#, fuzzy
 msgid "Or connect with"
 msgstr "Oder verbinden Sie sich mit"
 
 #: engine-wizard/elm/Wizard/Public/Login/View.elm:107
-#, fuzzy
 msgid "Please enter the authentication code from your email to verify your identity."
 msgstr "Bitte geben Sie den Authentifizierungscode aus Ihrer E-Mail ein, um Ihre Identität zu überprüfen."
 
 #: engine-wizard/elm/Wizard/Public/Login/View.elm:117
-#, fuzzy
 msgid "Authentication Code"
 msgstr "Authentifizierungscode"
 
 #: engine-wizard/elm/Wizard/Public/Login/View.elm:123
-#, fuzzy
 msgid "Verify"
-msgstr "Überprüfen Sie"
+msgstr "Überprüfen"
 
 #: engine-wizard/elm/Wizard/Public/Signup/Update.elm:64
 #: engine-wizard/elm/Wizard/Public/SignupConfirmation/Update.elm:32
-#, fuzzy
 msgid "Sign up process failed."
 msgstr "Der Anmeldevorgang ist fehlgeschlagen."
 
 #: engine-wizard/elm/Wizard/Public/Signup/View.elm:31
-#, fuzzy
 msgid "Sign up was successful. Check your email for the activation link."
 msgstr "Die Anmeldung war erfolgreich. Prüfen Sie Ihre E-Mail auf den Aktivierungslink."
 
 #: engine-wizard/elm/Wizard/Public/Signup/View.elm:49
-#, fuzzy
 msgid "I already have an account"
 msgstr "Ich habe bereits ein Konto"
 
 #: engine-wizard/elm/Wizard/Public/Signup/View.elm:83
 #: engine-wizard/elm/Wizard/Public/Signup/View.elm:101
 #: engine-wizard/elm/Wizard/Public/Signup/View.elm:115
-#, fuzzy
 msgid "Privacy"
 msgstr "Datenschutz"
 
 #: engine-wizard/elm/Wizard/Public/Signup/View.elm:87
 #: engine-wizard/elm/Wizard/Public/Signup/View.elm:102
 #: engine-wizard/elm/Wizard/Public/Signup/View.elm:127
-#, fuzzy
 msgid "Terms of Service"
-msgstr "Bedingungen der Dienstleistung"
+msgstr "Nutzungsbedingungen"
 
 #: engine-wizard/elm/Wizard/Public/Signup/View.elm:94
-#, fuzzy
 msgid "I have read %s and %s."
 msgstr "Ich habe %s und %s gelesen."
 
 #: engine-wizard/elm/Wizard/Public/Signup/View.elm:100
-#, fuzzy
 msgid "You have to read %s and %s first"
 msgstr "Sie müssen zuerst %s und %s lesen"
 
 #: engine-wizard/elm/Wizard/Public/Signup/View.elm:110
 #: engine-wizard/elm/Wizard/Public/Signup/View.elm:122
-#, fuzzy
 msgid "I have read %s."
 msgstr "Ich habe %s gelesen."
 
 #: engine-wizard/elm/Wizard/Public/Signup/View.elm:114
 #: engine-wizard/elm/Wizard/Public/Signup/View.elm:126
-#, fuzzy
 msgid "You have to read %s first"
 msgstr "Sie müssen zuerst %s lesen"
 
 #: engine-wizard/elm/Wizard/Public/Signup/View.elm:148
 #: engine-wizard/elm/Wizard/Users/Create/View.elm:40
 #: engine-wizard/elm/Wizard/Users/Edit/View.elm:171
-#, fuzzy
 msgid "Affiliation"
 msgstr "Zugehörigkeit"
 
 #: engine-wizard/elm/Wizard/Public/Signup/View.elm:150
-#, fuzzy
 msgid "Password again"
-msgstr "Passwort erneut"
+msgstr "Passwort nochmal"
 
 #: engine-wizard/elm/Wizard/Public/SignupConfirmation/View.elm:29
-#, fuzzy
 msgid "Your email was successfully confirmed. You can now %s."
 msgstr "Ihre E-Mail wurde erfolgreich bestätigt. Sie können jetzt %s."
 
 #: engine-wizard/elm/Wizard/Registry/RegistrySignupConfirmation/Update.elm:35
-#, fuzzy
 msgid "Unable to confirm the DSW Registry account."
-msgstr "Das DSW-Registerkonto kann nicht bestätigt werden."
+msgstr "Das DSW-Registrykonto kann nicht bestätigt werden."
 
 #: engine-wizard/elm/Wizard/Registry/RegistrySignupConfirmation/View.elm:28
-#, fuzzy
 msgid "Your email was successfuly confirmed, you can go back to %s."
 msgstr "Ihre E-Mail wurde erfolgreich bestätigt, Sie können zu %s zurückkehren."
 
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:39
 #: engine-wizard/elm/Wizard/Settings/View.elm:110
-#, fuzzy
 msgid "Authentication"
 msgstr "Authentifizierung"
 
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:59
-#, fuzzy
 msgid "Code Length"
 msgstr "Code Länge"
 
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:60
-#, fuzzy
 msgid "Expiration"
-msgstr "Verfallsdatum"
+msgstr "Ablaufdatum"
 
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:61
-#, fuzzy
 msgid "Expiration time of the authentication code in **seconds**."
-msgstr "Verfallszeit des Authentifizierungscodes in **Sekunden**."
+msgstr "Ablaufzeit des Authentifizierungscodes in **Sekunden**."
 
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:68
-#, fuzzy
 msgid "Default role"
 msgstr "Standard-Rolle"
 
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:69
-#, fuzzy
 msgid "Define the role that is assigned to new users."
 msgstr "Definieren Sie die Rolle, die neuen Benutzern zugewiesen wird."
 
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:70
-#, fuzzy
 msgid "Internal"
 msgstr "Intern"
 
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:71
-#, fuzzy
 msgid "Registration"
-msgstr "Anmeldung"
+msgstr "Registrierung"
 
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:72
-#, fuzzy
 msgid "If enabled, users can create new internal accounts directly in the instance."
 msgstr "Wenn diese Option aktiviert ist, können Benutzer neue interne Konten direkt in der Instanz erstellen."
 
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:73
-#, fuzzy
 msgid "Two-Factor Authentication"
-msgstr "Zwei-Faktoren-Authentifizierung"
+msgstr "Zwei-Faktor-Authentifizierung"
 
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:74
-#, fuzzy
 msgid "If enabled, users first enter a username and password at login, and then they receive a one-time code to confirm the login on their email."
 msgstr "Wenn diese Funktion aktiviert ist, geben die Benutzer bei der Anmeldung zunächst einen Benutzernamen und ein Passwort ein und erhalten dann einen einmaligen Code zur Bestätigung der Anmeldung per E-Mail."
 
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:76
-#, fuzzy
 msgid "External"
 msgstr "Extern"
 
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:77
-#, fuzzy
 msgid "OpenID Services"
 msgstr "OpenID-Dienste"
 
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:173
-#, fuzzy
 msgid "Callback URL"
-msgstr "Rückruf-URL"
+msgstr "Callback-URL"
 
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:174
-#, fuzzy
 msgid "Logout URL"
 msgstr "Abmelde-URL"
 
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:176
-#, fuzzy
 msgid "Client ID"
-msgstr "Kunden-ID"
+msgstr "Client-ID"
 
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:177
-#, fuzzy
 msgid "Client Secret"
-msgstr "Geheimnis des Kunden"
+msgstr "Client Secret"
 
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:181
-#, fuzzy
 msgid "Parameters"
 msgstr "Parameter"
 
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:198
-#, fuzzy
 msgid "Background Color"
 msgstr "Hintergrundfarbe"
 
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:201
-#, fuzzy
 msgid "Text Color"
 msgstr "Textfarbe"
 
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:207
-#, fuzzy
 msgid "Button Preview"
-msgstr "Schaltfläche Vorschau"
+msgstr "Vorschauschaltfläche"
 
 #: engine-wizard/elm/Wizard/Settings/Dashboard/View.elm:25
 #: engine-wizard/elm/Wizard/Settings/View.elm:117
-#, fuzzy
 msgid "Dashboard"
 msgstr "Dashboard"
 
 #: engine-wizard/elm/Wizard/Settings/Dashboard/View.elm:38
-#, fuzzy
 msgid "Welcome"
 msgstr "Willkommen"
 
 #: engine-wizard/elm/Wizard/Settings/Dashboard/View.elm:39
-#, fuzzy
 msgid "Standard welcome screen."
 msgstr "Standard-Begrüßungsbildschirm."
 
 #: engine-wizard/elm/Wizard/Settings/Dashboard/View.elm:45
-#, fuzzy
 msgid "Role-Based"
 msgstr "Rollenbasiert"
 
 #: engine-wizard/elm/Wizard/Settings/Dashboard/View.elm:46
-#, fuzzy
 msgid "Relevant content based on user's role."
 msgstr "Relevante Inhalte basierend auf der Rolle des Nutzers."
 
 #: engine-wizard/elm/Wizard/Settings/Dashboard/View.elm:53
-#, fuzzy
 msgid "Dashboard Style"
 msgstr "Dashboard Stil"
 
@@ -5430,118 +4754,95 @@ msgid "Welcome warning is visible at the dashboard after login as a yellow box."
 msgstr "Die Willkommenswarnung ist nach der Anmeldung auf dem Dashboard als gelber Kasten sichtbar."
 
 #: engine-wizard/elm/Wizard/Settings/Generic/Update.elm:68
-#, fuzzy
 msgid "Unable to load settings."
 msgstr "Die Einstellungen können nicht geladen werden."
 
 #: engine-wizard/elm/Wizard/Settings/Generic/Update.elm:92
-#, fuzzy
 msgid "Settings could not be saved."
 msgstr "Die Einstellungen konnten nicht gespeichert werden."
 
 #: engine-wizard/elm/Wizard/Settings/KnowledgeModels/View.elm:53
-#, fuzzy
 msgid "Allowed Packages"
 msgstr "Erlaubte Pakete"
 
 #: engine-wizard/elm/Wizard/Settings/KnowledgeModels/View.elm:60
-#, fuzzy
 msgid "Public Knowledge Models"
-msgstr "Modelle für öffentliches Wissen"
+msgstr "öffentliche Wissensmodelle"
 
 #: engine-wizard/elm/Wizard/Settings/KnowledgeModels/View.elm:61
-#, fuzzy
 msgid "If enabled you can define knowledge models that are publicly available for reading."
 msgstr "Falls aktiviert, können Sie Wissensmodelle definieren, die öffentlich zugänglich sind."
 
 #: engine-wizard/elm/Wizard/Settings/KnowledgeModels/View.elm:64
-#, fuzzy
 msgid "Integration Config"
-msgstr "Integration Konfig"
+msgstr "Integrationskonfiguration"
 
 #: engine-wizard/elm/Wizard/Settings/LookAndFeel/LogoUploadModal.elm:123
-#, fuzzy
 msgid "Unable to upload logo."
 msgstr "Logo kann nicht hochgeladen werden."
 
 #: engine-wizard/elm/Wizard/Settings/LookAndFeel/LogoUploadModal.elm:168
-#, fuzzy
 msgid "Change logo"
 msgstr "Logo ändern"
 
 #: engine-wizard/elm/Wizard/Settings/LookAndFeel/LogoUploadModal.elm:179
-#, fuzzy
 msgid "Choose logo"
 msgstr "Logo wählen"
 
 #: engine-wizard/elm/Wizard/Settings/LookAndFeel/LogoUploadModal.elm:184
-#, fuzzy
 msgid "Use default logo"
 msgstr "Standardlogo verwenden"
 
 #: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:41
 #: engine-wizard/elm/Wizard/Settings/View.elm:118
-#, fuzzy
 msgid "Look & Feel"
-msgstr "Aussehen und Gefühl"
+msgstr "Look & Feel"
 
 #: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:118
-#, fuzzy
 msgid "Change"
-msgstr "Ändern Sie"
+msgstr "Ändern"
 
 #: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:124
-#, fuzzy
 msgid "Logo"
 msgstr "Logo"
 
 #: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:125
-#, fuzzy
 msgid "Logo is used next to the application name in the menu. It is recommended to use a square image."
 msgstr "Das Logo wird neben dem Anwendungsnamen im Menü verwendet. Es wird empfohlen, ein quadratisches Bild zu verwenden."
 
 #: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:133
-#, fuzzy
 msgid "Primary Color"
 msgstr "Primärfarbe"
 
 #: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:137
-#, fuzzy
 msgid "Illustrations Color"
-msgstr "Illustrationen Farbe"
+msgstr "Illustrationsfarbe"
 
 #: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:154
-#, fuzzy
 msgid "Application Title"
 msgstr "Titel der Anwendung"
 
 #: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:155
-#, fuzzy
 msgid "Full name of the DSW instance (displayed, for example, in the browser tab title or before login)."
 msgstr "Vollständiger Name der DSW-Instanz (wird z. B. im Titel der Browser-Registerkarte oder vor der Anmeldung angezeigt)."
 
 #: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:164
-#, fuzzy
 msgid "Short Application Title"
-msgstr "Titel der Kurzbewerbung"
+msgstr "Kurzer Anwendungstitel"
 
 #: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:165
-#, fuzzy
 msgid "Short name of the DSW instance (displayed, for example, on top of the navigation bar). Short title can be the same as the application title if it is short enough."
-msgstr "Kurzer Name der DSW-Instanz (wird z. B. oben in der Navigationsleiste angezeigt). Der Kurztitel kann derselbe sein wie der Titel der Anwendung, wenn er kurz genug ist."
+msgstr "Kurzer Name der DSW-Instanz (wird z. B. oben in der Navigationsleiste angezeigt). Der Kurztitel kann derselbe sein wie der Titel der Anwendung, wenn dieser kurz genug ist."
 
 #: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:177
-#, fuzzy
 msgid "Custom Menu Links"
 msgstr "Benutzerdefinierte Menü-Links"
 
 #: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:180
-#, fuzzy
 msgid "Configure additional links in the menu. Choose any free icon from the [Font Awesome](%s), e.g. *fas fa-magic*. Check *New window* if you want to open the link in a new window."
 msgstr "Konfigurieren Sie zusätzliche Links im Menü. Wählen Sie ein beliebiges freies Symbol aus dem [Font Awesome](%s), z.B. *fas fa-magic*. Markieren Sie *Neues Fenster*, wenn Sie den Link in einem neuen Fenster öffnen möchten."
 
 #: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:197
-#, fuzzy
 msgid "Login Info"
 msgstr "Anmelde-Informationen"
 
@@ -5551,463 +4852,372 @@ msgid "Additional information displayed at the login screen."
 msgstr "Zusätzliche Informationen, die auf dem Anmeldebildschirm angezeigt werden."
 
 #: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:287
-#, fuzzy
 msgid "New window"
 msgstr "Neues Fenster"
 
 #: engine-wizard/elm/Wizard/Settings/Organization/View.elm:24
 #: engine-wizard/elm/Wizard/Settings/View.elm:109
-#, fuzzy
 msgid "Organization"
 msgstr "Organisation"
 
 #: engine-wizard/elm/Wizard/Settings/Organization/View.elm:35
-#, fuzzy
 msgid "Name of the organization running this instance."
 msgstr "Name der Organisation, die diese Instanz betreibt."
 
 #: engine-wizard/elm/Wizard/Settings/Organization/View.elm:38
-#, fuzzy
 msgid "Organization ID is used to identify Knowledge Models created in this instance. It can contain alphanumeric characters and dots but cannot start or end with a dot."
 msgstr "Die Organisations-ID wird verwendet, um die in dieser Instanz erstellten Wissensmodelle zu identifizieren. Sie kann alphanumerische Zeichen und Punkte enthalten, darf aber nicht mit einem Punkt beginnen oder enden."
 
 #: engine-wizard/elm/Wizard/Settings/Organization/View.elm:39
-#, fuzzy
 msgid "Affiliations"
 msgstr "Zugehörigkeiten"
 
 #: engine-wizard/elm/Wizard/Settings/Organization/View.elm:40
-#, fuzzy
 msgid "Affiliation options will be used to help users choose their affiliation while signing up or editing their profile. Write one affiliation option per line."
 msgstr "Zugehörigkeitsoptionen werden verwendet, um Nutzern bei der Anmeldung oder der Bearbeitung ihres Profils die Wahl ihrer Zugehörigkeit zu erleichtern. Schreiben Sie eine Zugehörigkeitsoption pro Zeile."
 
 #: engine-wizard/elm/Wizard/Settings/Plans/Update.elm:24
-#, fuzzy
 msgid "Unable to get plans."
-msgstr "Es ist nicht möglich, Pläne zu erhalten."
+msgstr "Es ist nicht möglich, Pläne abzurufen."
 
 #: engine-wizard/elm/Wizard/Settings/PrivacyAndSupport/View.elm:27
 #: engine-wizard/elm/Wizard/Settings/View.elm:111
-#, fuzzy
 msgid "Privacy & Support"
-msgstr "Datenschutz & Unterstützung"
+msgstr "Datenschutz & Support"
 
 #: engine-wizard/elm/Wizard/Settings/PrivacyAndSupport/View.elm:37
-#, fuzzy
 msgid "Privacy URL"
 msgstr "Datenschutz-URL"
 
 #: engine-wizard/elm/Wizard/Settings/PrivacyAndSupport/View.elm:38
-#, fuzzy
 msgid "URL to page with the privacy policy of the service."
 msgstr "URL zur Seite mit den Datenschutzbestimmungen des Dienstes."
 
 #: engine-wizard/elm/Wizard/Settings/PrivacyAndSupport/View.elm:39
-#, fuzzy
 msgid "Terms of Service URL"
 msgstr "URL für die Nutzungsbedingungen"
 
 #: engine-wizard/elm/Wizard/Settings/PrivacyAndSupport/View.elm:40
-#, fuzzy
 msgid "URL to page with the terms of the service."
-msgstr "URL zur Seite mit den Bedingungen des Dienstes."
+msgstr "URL zur Seite mit den Nutzungsbedingungen des Dienstes."
 
 #: engine-wizard/elm/Wizard/Settings/PrivacyAndSupport/View.elm:41
-#, fuzzy
 msgid "Support"
-msgstr "Unterstützung"
+msgstr "Support"
 
 #: engine-wizard/elm/Wizard/Settings/PrivacyAndSupport/View.elm:42
-#, fuzzy
 msgid "Support Email"
-msgstr "Unterstützung E-Mail"
+msgstr "Support E-Mail"
 
 #: engine-wizard/elm/Wizard/Settings/PrivacyAndSupport/View.elm:43
-#, fuzzy
 msgid "Support email displayed in the help modal."
 msgstr "Die Support-E-Mail wird im Hilfemodal angezeigt."
 
 #: engine-wizard/elm/Wizard/Settings/PrivacyAndSupport/View.elm:44
-#, fuzzy
 msgid "Support Site Name"
 msgstr "Name der Support-Site"
 
 #: engine-wizard/elm/Wizard/Settings/PrivacyAndSupport/View.elm:45
-#, fuzzy
 msgid "Name of the support site where users can report issues related to the service."
 msgstr "Name der Support-Site, auf der Benutzer Probleme im Zusammenhang mit dem Dienst melden können."
 
 #: engine-wizard/elm/Wizard/Settings/PrivacyAndSupport/View.elm:46
-#, fuzzy
 msgid "Support Site URL"
 msgstr "URL der Support-Site"
 
 #: engine-wizard/elm/Wizard/Settings/PrivacyAndSupport/View.elm:47
-#, fuzzy
 msgid "URL of the support site where users can report issues related to the service."
 msgstr "URL der Support-Site, auf der Benutzer Probleme im Zusammenhang mit dem Dienst melden können."
 
 #: engine-wizard/elm/Wizard/Settings/PrivacyAndSupport/View.elm:48
-#, fuzzy
 msgid "Support Site Icon"
 msgstr "Icon der Support-Site"
 
 #: engine-wizard/elm/Wizard/Settings/PrivacyAndSupport/View.elm:49
-#, fuzzy
 msgid "Icon of the support site using [Font Awesome](%s)."
 msgstr "Icon der Support-Site mit [Font Awesome](%s)."
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:44
-#, fuzzy
 msgid "Anonymous Projects"
 msgstr "Anonyme Projekte"
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:45
-#, fuzzy
 msgid "If enabled, users that are not logged in are allowed to create projects from public knowledge models."
 msgstr "Wenn diese Option aktiviert ist, können auch nicht angemeldete Benutzer Projekte aus öffentlichen Wissensmodellen erstellen."
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:57
-#, fuzzy
 msgid "GitHub Repository Owner"
 msgstr "GitHub-Repository-Besitzer"
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:58
-#, fuzzy
 msgid "ht&#8203;tps://github.com/**exampleOwner**/exampleRepository"
-msgstr "ht&#8203;tps://github.com/**exampleOwner**/exampleRepository"
+msgstr "https://github.com/**exampleOwner**/exampleRepository"
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:59
-#, fuzzy
 msgid "GitHub Repository Name"
 msgstr "GitHub Repository Name"
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:60
-#, fuzzy
 msgid "ht&#8203;tps://github.com/exampleOwner/**exampleRepository**"
-msgstr "ht&#8203;tps://github.com/exampleOwner/**exampleRepository**"
+msgstr "https://github.com/exampleOwner/**exampleRepository**"
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:61
-#, fuzzy
 msgid "Access Token"
 msgstr "Zugangs-Token"
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:62
-#, fuzzy
 msgid "[Personal Access Token](https://help.github.com/en/github/authenticating-to-github/creating-a-personal-access-token-for-the-command-line) for GitHub account creating the issues. Make sure to select **public_repo** scope if the repository is public or **repo** if it is private. We recommend creating a bot account with the access to the feedback repository instead of using your own GitHub account."
-msgstr "[Personal Access Token](https://help.github.com/en/github/authenticating-to-github/creating-a-personal-access-token-for-the-command-line) für das GitHub-Konto, das die Issues erstellt. Stellen Sie sicher, dass Sie den Bereich **public_repo** auswählen, wenn das Repository öffentlich ist, oder **repo**, wenn es privat ist. Wir empfehlen, ein Bot-Konto mit Zugriff auf das Feedback-Repository zu erstellen, anstatt Ihr eigenes GitHub-Konto zu verwenden."
+msgstr "[persönlicher Zugangstoken](https://help.github.com/en/github/authenticating-to-github/creating-a-personal-access-token-for-the-command-line) für das GitHub-Konto, das die Issues erstellt. Stellen Sie sicher, dass Sie den Bereich **public_repo** auswählen, wenn das Repository öffentlich ist, oder **repo**, wenn es privat ist. Wir empfehlen, ein Bot-Konto mit Zugriff auf das Feedback-Repository zu erstellen, anstatt Ihr eigenes GitHub-Konto zu verwenden."
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:74
-#, fuzzy
 msgid "Default Project Tags"
 msgstr "Standard-Projekt-Tags"
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:75
-#, fuzzy
 msgid "Default projects tags can be provided to users so they don't have to come up with them on their own. Write one tag per line."
 msgstr "Den Benutzern können Standard-Projekt-Tags zur Verfügung gestellt werden, damit sie sich diese nicht selbst ausdenken müssen. Schreiben Sie ein Tag pro Zeile."
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:82
-#, fuzzy
 msgid "Project Visibility"
 msgstr "Sichtbarkeit des Projekts"
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:83
-#, fuzzy
 msgid "If enabled, project visibility can be set for each project. Otherwise, all projects use the *Default Project Visibility*."
 msgstr "Wenn diese Option aktiviert ist, kann die Projektsichtbarkeit für jedes einzelne Projekt festgelegt werden. Andernfalls verwenden alle Projekte die *Standard-Projektsichtbarkeit*."
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:84
-#, fuzzy
 msgid "Default Project Visibility"
 msgstr "Standard-Projektsichtbarkeit"
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:85
-#, fuzzy
 msgid "If *Project Visibility* is enabled, this value is pre-selected when creating a new project. If *Project Visibility* is disabled, this value is used implicitly for new projects."
 msgstr "Wenn *Projektsichtbarkeit* aktiviert ist, wird dieser Wert bei der Erstellung eines neuen Projekts vorausgewählt. Wenn *Projektsichtbarkeit* deaktiviert ist, wird dieser Wert implizit für neue Projekte verwendet."
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:87
-#, fuzzy
 msgid "Project Sharing"
 msgstr "Gemeinsames Projekt"
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:88
-#, fuzzy
 msgid "If enabled, users can choose if project can be shared with people outside of DSW or not. Otherwise, all projects use the *Default Project Sharing*."
 msgstr "Wenn diese Option aktiviert ist, können die Benutzer wählen, ob das Projekt mit Personen außerhalb von DSW geteilt werden kann oder nicht. Andernfalls verwenden alle Projekte die *Standard-Projektfreigabe*."
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:89
-#, fuzzy
 msgid "Default Project Sharing"
 msgstr "Standard-Projektfreigabe"
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:90
-#, fuzzy
 msgid "If *Project Sharing* is enabled, this value is pre-selected when creating a new project. If *Project Sharing* is disabled, this value is used implicitly for new projects."
 msgstr "Wenn *Projektfreigabe* aktiviert ist, wird dieser Wert bei der Erstellung eines neuen Projekts vorausgewählt. Wenn *Projektfreigabe* deaktiviert ist, wird dieser Wert implizit für neue Projekte verwendet."
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:94
-#, fuzzy
 msgid "Project Creation"
-msgstr "Erstellung von Projekten"
+msgstr "Projekterstellung"
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:97
-#, fuzzy
 msgid "If enabled, users can view a summary report showing various metrics for the questionnaire."
 msgstr "Wenn diese Option aktiviert ist, können die Benutzer einen zusammenfassenden Bericht mit verschiedenen Metriken für den Fragebogen anzeigen."
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:99
-#, fuzzy
 msgid "If enabled, users can submit a feedback to questions to the specified GitHub repository."
 msgstr "Wenn diese Option aktiviert ist, können Benutzer ein Feedback zu Fragen an das angegebene GitHub-Repository senden."
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:101
-#, fuzzy
 msgid "Project Tagging"
-msgstr "Projektkennzeichnung"
+msgstr "Projekt-Tags"
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:102
-#, fuzzy
 msgid "If enabled, users can tag their projects and use these tags to filter them."
 msgstr "Wenn diese Funktion aktiviert ist, können Benutzer ihre Projekte mit Tags versehen und diese Tags zum Filtern verwenden."
 
 #: engine-wizard/elm/Wizard/Settings/Registry/Update.elm:103
-#, fuzzy
 msgid "You have signed up for the Registry, you should receive a confirmation email soon."
-msgstr "Sie haben sich für das Register angemeldet. Sie sollten bald eine Bestätigungs-E-Mail erhalten."
+msgstr "Sie haben sich für die Registry angemeldet. Sie sollten bald eine Bestätigungs-E-Mail erhalten."
 
 #: engine-wizard/elm/Wizard/Settings/Registry/Update.elm:109
-#, fuzzy
 msgid "Sign up request failed."
 msgstr "Registrierungsanfrage fehlgeschlagen."
 
 #: engine-wizard/elm/Wizard/Settings/Registry/View.elm:79
-#, fuzzy
 msgid "Token"
 msgstr "Token"
 
 #: engine-wizard/elm/Wizard/Settings/Registry/View.elm:80
-#, fuzzy
 msgid "Fill in your DSW Registry token. If you don't have one, you need sign up first."
-msgstr "Füllen Sie Ihr DSW-Register-Token aus. Wenn Sie noch keinen haben, müssen Sie sich zuerst anmelden."
+msgstr "Füllen Sie Ihr DSW-Registry-Token aus. Wenn Sie noch keinen haben, müssen Sie sich zuerst anmelden."
 
 #: engine-wizard/elm/Wizard/Settings/Registry/View.elm:89
-#, fuzzy
 msgid "If enabled, you can import Knowledge Models and Document Templates directly from [DSW Registry](https://registry.ds-wizard.org)."
 msgstr "Wenn diese Funktion aktiviert ist, können Sie Wissensmodelle und Dokumentvorlagen direkt aus [DSW Registry] (https://registry.ds-wizard.org) importieren."
 
 #: engine-wizard/elm/Wizard/Settings/Registry/View.elm:138
-#, fuzzy
 msgid "Organization Name"
 msgstr "Name der Organisation"
 
 #: engine-wizard/elm/Wizard/Settings/Registry/View.elm:139
-#, fuzzy
 msgid "Organization Description"
-msgstr "Organisation Beschreibung"
+msgstr "Organisationsbeschreibung"
 
 #: engine-wizard/elm/Wizard/Settings/Registry/View.elm:141
-#, fuzzy
 msgid "The email will be used for a confirmation link and an eventual token recovery."
 msgstr "Die E-Mail wird für einen Bestätigungslink und eine eventuelle Wiederherstellung des Tokens verwendet."
 
 #: engine-wizard/elm/Wizard/Settings/Registry/View.elm:146
-#, fuzzy
 msgid "Registry Sign Up"
-msgstr "Anmeldung zur Registrierung"
+msgstr "Anmeldung zur Registry"
 
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:40
 #: engine-wizard/elm/Wizard/Settings/View.elm:127
-#, fuzzy
 msgid "Document Submission"
 msgstr "Einreichung von Dokumenten"
 
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:55
-#, fuzzy
 msgid "Services"
-msgstr "Dienstleistungen"
+msgstr "Services"
 
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:63
-#, fuzzy
 msgid "If enabled, you can configure external services for uploading documents from the instance."
 msgstr "Wenn diese Option aktiviert ist, können Sie externe Dienste für das Hochladen von Dokumenten aus der Instanz konfigurieren."
 
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:107
-#, fuzzy
 msgid "Supported Formats"
 msgstr "Unterstützte Formate"
 
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:108
-#, fuzzy
 msgid "Select document templates and formats that can be submitted using this submission service."
-msgstr "Wählen Sie die Dokumentvorlagen und -formate aus, die über diesen Einreichungsdienst eingereicht werden können."
+msgstr "Wählen Sie die Dokumentvorlagen und -formate aus, die über diesen Übermittlungsdienst eingereicht werden können."
 
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:112
-#, fuzzy
 msgid "User Properties"
 msgstr "Benutzer-Eigenschaften"
 
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:113
-#, fuzzy
 msgid "You can create properties that can be set by each user in their profile. Then, you can use these properties in the request settings. For example, if you want each user to use their own authorization token, you can create a property called `Token` and use it in request headers as `${Token}`. Users will be able to set the token in their profile settings."
-msgstr "Sie können Eigenschaften erstellen, die von jedem Benutzer in seinem Profil eingestellt werden können. Anschließend können Sie diese Eigenschaften in den Anfrageeinstellungen verwenden. Wenn Sie z. B. möchten, dass jeder Benutzer sein eigenes Autorisierungs-Token verwendet, können Sie eine Eigenschaft namens \"Token\" erstellen und sie in den Anforderungs-Headern als \"${Token}\" verwenden. Die Benutzer können das Token in ihren Profileinstellungen festlegen."
+msgstr "Sie können Eigenschaften erstellen, die von jeder Benutzer in seinem Profil eingestellt werden können. Anschließend können Sie diese Eigenschaften in den Anfrageeinstellungen verwenden. Wenn Sie z. B. möchten, dass jeder Benutzer seinen eigenen Autorisierungs-Token verwendet, können Sie eine Eigenschaft namens \"Token\" erstellen und sie in den Anforderungs-Headern als \"${Token}\" verwenden. Die Benutzer können den Token in ihren Profileinstellungen festlegen."
 
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:218
-#, fuzzy
 msgid "Multipart File Name"
-msgstr "Mehrteiliger Dateiname"
+msgstr "Multipart Dateiname"
 
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:227
-#, fuzzy
 msgid "Method"
 msgstr "Methode"
 
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:229
-#, fuzzy
 msgid "Headers"
-msgstr "Kopfzeilen"
+msgstr "Kopfzeilen (Headers)"
 
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:230
-#, fuzzy
 msgid "Multipart"
-msgstr "Mehrteilig"
+msgstr "Multipart"
 
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:231
-#, fuzzy
 msgid "If enabled, file will be sent using multipart request. Otherwise, it will be directly in the request body."
-msgstr "Wenn diese Option aktiviert ist, wird die Datei über eine mehrteilige Anfrage gesendet. Andernfalls wird sie direkt in den Body der Anfrage aufgenommen."
+msgstr "Wenn diese Option aktiviert ist, wird die Datei über eine Multipart-Anfrage gesendet. Andernfalls wird sie direkt in den Body der Anfrage aufgenommen."
 
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:250
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:256
-#, fuzzy
 msgid "Header"
-msgstr "Kopfzeile"
+msgstr "Kopfzeile (Header)"
 
 #: engine-wizard/elm/Wizard/Settings/View.elm:84
-#, fuzzy
 msgid "System Settings"
 msgstr "System-Einstellungen"
 
 #: engine-wizard/elm/Wizard/Settings/View.elm:87
-#, fuzzy
 msgid "User Interface Settings"
 msgstr "Einstellungen der Benutzeroberfläche"
 
 #: engine-wizard/elm/Wizard/Settings/View.elm:90
-#, fuzzy
 msgid "Content Settings"
 msgstr "Inhaltliche Einstellungen"
 
 #: engine-wizard/elm/Wizard/Users/Create/Update.elm:63
-#, fuzzy
 msgid "User could not be created."
-msgstr "Benutzer konnte nicht erstellt werden."
+msgstr "Benutzer:in konnte nicht erstellt werden."
 
 #: engine-wizard/elm/Wizard/Users/Create/View.elm:25
-#, fuzzy
 msgid "Create user"
 msgstr "Benutzer erstellen"
 
 #: engine-wizard/elm/Wizard/Users/Create/View.elm:41
 #: engine-wizard/elm/Wizard/Users/Edit/View.elm:104
-#, fuzzy
 msgid "Role"
 msgstr "Rolle"
 
 #: engine-wizard/elm/Wizard/Users/Edit/Update.elm:83
-#, fuzzy
 msgid "Unable to get the user."
-msgstr "Der Benutzer kann nicht ermittelt werden."
+msgstr "Der Benutzer kann nicht abgerufen werden."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Update.elm:117
-#, fuzzy
 msgid "Profile was successfully updated."
 msgstr "Das Profil wurde erfolgreich aktualisiert."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Update.elm:123
-#, fuzzy
 msgid "Profile could not be saved."
 msgstr "Das Profil konnte nicht gespeichert werden."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Update.elm:139
-#, fuzzy
 msgid "Password was successfully changed."
 msgstr "Das Passwort wurde erfolgreich geändert."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Update.elm:142
-#, fuzzy
 msgid "Password could not be changed."
 msgstr "Das Passwort konnte nicht geändert werden."
 
 #: engine-wizard/elm/Wizard/Users/Edit/View.elm:55
 #: engine-wizard/elm/Wizard/Users/Edit/View.elm:75
-#, fuzzy
 msgid "Profile"
 msgstr "Profil"
 
 #: engine-wizard/elm/Wizard/Users/Edit/View.elm:85
-#, fuzzy
 msgid "User Image"
-msgstr "Benutzerbild"
+msgstr "Profilbild"
 
 #: engine-wizard/elm/Wizard/Users/Edit/View.elm:89
-#, fuzzy
 msgid "Image is taken from OpenID profile or [Gravatar](https://gravatar.com)."
 msgstr "Das Bild stammt aus dem OpenID-Profil oder von [Gravatar] (https://gravatar.com)."
 
 #: engine-wizard/elm/Wizard/Users/Edit/View.elm:119
-#, fuzzy
 msgid "Submission Settings"
-msgstr "Einstellungen für die Einreichung"
+msgstr "Einstellungen für die Übermittlung"
 
 #: engine-wizard/elm/Wizard/Users/Edit/View.elm:143
-#, fuzzy
 msgid "There is no settings for %s."
 msgstr "Es gibt keine Einstellungen für %s."
 
 #: engine-wizard/elm/Wizard/Users/Index/Update.elm:66
-#, fuzzy
 msgid "User could not be deleted."
-msgstr "Der Benutzer konnte nicht gelöscht werden."
+msgstr "Benutzer:in konnte nicht gelöscht werden."
 
 #: engine-wizard/elm/Wizard/Users/Index/View.elm:53
-#, fuzzy
 msgid "Click \"Create\" button to add a new User."
-msgstr "Klicken Sie auf die Schaltfläche \"Erstellen\", um einen neuen Benutzer hinzuzufügen."
+msgstr "Klicken Sie auf die Schaltfläche \"Erstellen\", um eine:n neuen Benutzer:in hinzuzufügen."
 
 #: engine-wizard/elm/Wizard/Users/Index/View.elm:63
-#, fuzzy
 msgid "Last online"
 msgstr "Zuletzt online"
 
 #: engine-wizard/elm/Wizard/Users/Index/View.elm:92
-#, fuzzy
 msgid "inactive"
 msgstr "inaktiv"
 
 #: engine-wizard/elm/Wizard/Users/Index/View.elm:174
-#, fuzzy
 msgid "Are you sure you want to permanently delete the following user?"
 msgstr "Sind Sie sicher, dass Sie den folgenden Benutzer dauerhaft löschen möchten?"
 
 #: engine-wizard/elm/Wizard/Users/Index/View.elm:179
-#, fuzzy
 msgid "Delete user"
-msgstr "Benutzer löschen"
+msgstr "Benutzer:in löschen"
 
 #: engine-wizard/elm/Wizard/View.elm:136
-#, fuzzy
 msgid "Not Found"
 msgstr "Nicht gefunden"
 
 #: engine-wizard/elm/Wizard/View.elm:137
-#, fuzzy
 msgid "The page you are looking for was not found."
 msgstr "Die von Ihnen gesuchte Seite wurde nicht gefunden."
 
 #: engine-wizard/elm/Wizard/View.elm:146
-#, fuzzy
 msgid "Not Allowed"
 msgstr "Nicht erlaubt"
 
