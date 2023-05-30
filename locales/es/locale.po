@@ -1,16 +1,6 @@
 # Remedios Melero <rmelero@iata.csic.es>, 2023.
 msgid ""
-msgstr ""
-"Project-Id-Version: wizard-client:3.18.3\n"
-"POT-Creation-Date: 2023-05-30T11:32:33.804Z \n"
-"PO-Revision-Date: 2023-05-30 09:12+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Spanish <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-23-0/es/>\n"
-"Language: es\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.14.2\n"
+msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2023-05-30T11:32:33.804Z\nPO-Revision-Date: 2023-05-30 13:23+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Spanish <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-24-0/es/>\nLanguage: es\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.14.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -1497,26 +1487,31 @@ msgid "Current"
 msgstr "Actual"
 
 #: engine-wizard/elm/Wizard/Common/Components/SessionModal.elm:29
+#, fuzzy
 msgid "Session Expires Soon"
-msgstr ""
+msgstr "La sesión expira pronto"
 
 #: engine-wizard/elm/Wizard/Common/Components/SessionModal.elm:33
+#, fuzzy
 msgid "Your session expires in less than %s minutes. Log in again to refresh it."
-msgstr ""
+msgstr "Su sesión expira en menos de %s minutos. Inicie sesión de nuevo para actualizarla."
 
 #: engine-wizard/elm/Wizard/Common/Components/SessionModal.elm:39
 #: engine-wizard/elm/Wizard/Common/Components/SessionModal.elm:63
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:455
+#, fuzzy
 msgid "Log in again"
-msgstr ""
+msgstr "Iniciar sesión de nuevo"
 
 #: engine-wizard/elm/Wizard/Common/Components/SessionModal.elm:57
+#, fuzzy
 msgid "Session Expired"
-msgstr ""
+msgstr "Sesión expirada"
 
 #: engine-wizard/elm/Wizard/Common/Components/SessionModal.elm:59
+#, fuzzy
 msgid "Your session has expired. You need to log in again."
-msgstr ""
+msgstr "Su sesión ha expirado. Debe iniciar sesión de nuevo."
 
 #: engine-wizard/elm/Wizard/Common/Components/SummaryReport.elm:81
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/NewDocument.elm:148
@@ -1704,8 +1699,9 @@ msgid "Settings"
 msgstr "Ajustes"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:448
+#, fuzzy
 msgid "Your session expires in %s"
-msgstr ""
+msgstr "Su sesión expira en %s"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:515
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:771
