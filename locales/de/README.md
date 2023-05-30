@@ -2,17 +2,19 @@
 
 [![LICENSE](https://img.shields.io/github/license/ds-wizard/wizard-client-locales)](LICENSE)
 [![Language](https://img.shields.io/badge/ISO%20639--1-de-blue)](https://en.wikipedia.org/wiki/German_language)
-[![Translation status](https://img.shields.io/badge/translated-N/A%25-brightgreen)](https://localize.ds-wizard.org/engage/wizard-client/de/)
-[![Translation status](https://localize.ds-wizard.org/widgets/wizard-client/de/wizard-client-3-21-0/svg-badge.svg)](https://localize.ds-wizard.org/engage/wizard-client/de/)
+[![Translation status](https://img.shields.io/badge/translated-100%25-brightgreen)](https://localize.ds-wizard.org/engage/wizard-client/de/)
+[![Translation status](https://localize.ds-wizard.org/widgets/wizard-client/de/wizard-client-3-23-0/svg-badge.svg)](https://localize.ds-wizard.org/engage/wizard-client/de/)
 
 ## Contributors
 
-* *Contributors needed*
+* **Eric Krüger** <[eric.krueger.ek@gmail.com](mailto:eric.krueger.ek@gmail.com)>
+  * ORCID: [0009-0008-9120-6309](https://orcid.org/0009-0008-9120-6309)
+  * GitHub: [@EricKrg](https://github.com/EricKrg)
 
 
 ## Changelog
 
-### Unreleased
+### 0.1.0
 
 * Initial translation to German
 
