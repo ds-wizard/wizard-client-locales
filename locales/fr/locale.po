@@ -1,7 +1,7 @@
 # Marek Suchánek <marek.suchanek@ds-wizard.org>, 2023.
 # Paulette Lieby <paulette.lieby@france-bioinformatique.fr>, 2023.
 msgid ""
-msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2023-05-30T11:32:33.804Z\nPO-Revision-Date: 2023-05-30 13:23+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: French <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-24-0/fr/>\nLanguage: fr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 4.14.2\n"
+msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2023-05-30T11:32:33.804Z\nPO-Revision-Date: 2023-06-03 10:13+0000\nLast-Translator: Paulette Lieby <paulette.lieby@france-bioinformatique.fr>\nLanguage-Team: French <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-24-0/fr/>\nLanguage: fr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 4.14.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -1376,31 +1376,26 @@ msgid "Current"
 msgstr "Actuel"
 
 #: engine-wizard/elm/Wizard/Common/Components/SessionModal.elm:29
-#, fuzzy
 msgid "Session Expires Soon"
 msgstr "La session expire bientôt"
 
 #: engine-wizard/elm/Wizard/Common/Components/SessionModal.elm:33
-#, fuzzy
 msgid "Your session expires in less than %s minutes. Log in again to refresh it."
-msgstr "Votre session expire dans moins de %s minutes. Reconnectez-vous pour l'actualiser."
+msgstr "Votre session expire dans moins de %s minutes. Reconnectez-vous pour la ré-actualiser."
 
 #: engine-wizard/elm/Wizard/Common/Components/SessionModal.elm:39
 #: engine-wizard/elm/Wizard/Common/Components/SessionModal.elm:63
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:455
-#, fuzzy
 msgid "Log in again"
 msgstr "Se reconnecter"
 
 #: engine-wizard/elm/Wizard/Common/Components/SessionModal.elm:57
-#, fuzzy
 msgid "Session Expired"
 msgstr "Session expirée"
 
 #: engine-wizard/elm/Wizard/Common/Components/SessionModal.elm:59
-#, fuzzy
 msgid "Your session has expired. You need to log in again."
-msgstr "Votre session a expiré. Vous devez vous connecter à nouveau."
+msgstr "Votre session a expiré. Vous devez vous reconnecter."
 
 #: engine-wizard/elm/Wizard/Common/Components/SummaryReport.elm:81
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/NewDocument.elm:148
@@ -1560,7 +1555,6 @@ msgid "Settings"
 msgstr "Paramètres"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:448
-#, fuzzy
 msgid "Your session expires in %s"
 msgstr "Votre session expire dans %s"
 
