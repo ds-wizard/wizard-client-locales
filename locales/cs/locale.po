@@ -1,7 +1,8 @@
 # Marek Suchánek <marek.suchanek@ds-wizard.org>, 2023.
 # Kryštof Komanec <krystof.komanec@gmail.com>, 2023.
+# Jan Slifka <jan.slifka@ds-wizard.org>, 2023.
 msgid ""
-msgstr "Project-Id-Version: wizard-client:3.17.1\nPOT-Creation-Date: 2023-05-30T11:32:33.804Z\nPO-Revision-Date: 2023-06-01 10:13+0000\nLast-Translator: Marek Suchánek <marek.suchanek@ds-wizard.org>\nLanguage-Team: Czech <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-24-0/cs/>\nLanguage: cs\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 4.14.2\n"
+msgstr "Project-Id-Version: wizard-client:3.17.1\nPOT-Creation-Date: 2023-05-30T11:32:33.804Z\nPO-Revision-Date: 2023-06-30 11:13+0000\nLast-Translator: Jan Slifka <jan.slifka@ds-wizard.org>\nLanguage-Team: Czech <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-24-0/cs/>\nLanguage: cs\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 4.14.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -1141,9 +1142,9 @@ msgstr "Tato možnost vede k dalším návazným otázkám."
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2912
 msgid "1 comment"
 msgid_plural "%s comments"
-msgstr[0] "komentář"
-msgstr[1] "komentáře"
-msgstr[2] "komentářů"
+msgstr[0] "1 komentář"
+msgstr[1] "%s komentáře"
+msgstr[2] "%s komentářů"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2946
 msgid "TODO"
