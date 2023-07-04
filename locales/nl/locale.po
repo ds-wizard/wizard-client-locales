@@ -1,7 +1,7 @@
 # Rob Hooft <rob.hooft@health-ri.nl>, 2023.
 # Marek Suchánek <marek.suchanek@ds-wizard.org>, 2023.
 msgid ""
-msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2023-07-04T07:44:11.975Z\nPO-Revision-Date: 2023-07-04 16:01+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Dutch <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-25-0/nl/>\nLanguage: nl\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.14.2\n"
+msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2023-07-04T07:44:11.975Z\nPO-Revision-Date: 2023-07-05 16:13+0000\nLast-Translator: Rob Hooft <rob.hooft@health-ri.nl>\nLanguage-Team: Dutch <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-25-0/nl/>\nLanguage: nl\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.14.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -1801,17 +1801,14 @@ msgid "Question Tags"
 msgstr "Vraag-tags"
 
 #: engine-wizard/elm/Wizard/Common/View/Tag.elm:131
-#, fuzzy
 msgid "You can either use all questions from the knowledge model or filter them by question tags."
-msgstr "Je kunt alle vragen uit het kennismodel gebruiken of ze filteren op vraagtags."
+msgstr "Je kunt alle vragen uit het kennismodel gebruiken of vragen selecteren door het kiezen van tags."
 
 #: engine-wizard/elm/Wizard/Common/View/Tag.elm:139
-#, fuzzy
 msgid "Use all questions"
 msgstr "Gebruik alle vragen"
 
 #: engine-wizard/elm/Wizard/Common/View/Tag.elm:148
-#, fuzzy
 msgid "Filter by question tags"
 msgstr "Filter op vraagtags"
 
@@ -1821,7 +1818,6 @@ msgid "There are no question tags for this knowledge model."
 msgstr "Er zijn geen tags voor de vragen in dit kennismodel."
 
 #: engine-wizard/elm/Wizard/Common/View/Tag.elm:168
-#, fuzzy
 msgid "All questions are used."
 msgstr "Alle vragen worden gebruikt."
 
@@ -2297,17 +2293,14 @@ msgid "Unable to upload file."
 msgstr "Kan het bestand niet uploaden."
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/FileEditor/AssetUploadModal.elm:278
-#, fuzzy
 msgid "Upload files"
 msgstr "Bestand uploaden"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/FileEditor/AssetUploadModal.elm:308
-#, fuzzy
 msgid "Choose files"
-msgstr "Kies bestand"
+msgstr "Kies bestanden"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/FileEditor/AssetUploadModal.elm:309
-#, fuzzy
 msgid "Or just drop them here"
 msgstr "Of drop ze hier"
 
@@ -4686,7 +4679,6 @@ msgstr "Opgelost"
 
 #: engine-wizard/elm/Wizard/Public/Auth/Update.elm:36
 #: engine-wizard/elm/Wizard/Public/Auth/Update.elm:66
-#, fuzzy
 msgid "Unexpected response from the server."
 msgstr "Onverwachte reactie van de server."
 
@@ -4723,7 +4715,6 @@ msgid "I have read %s."
 msgstr "Ik heb %s gelezen."
 
 #: engine-wizard/elm/Wizard/Public/Auth/View.elm:77
-#, fuzzy
 msgid "Continue"
 msgstr "Ga verder"
 
@@ -5444,15 +5435,13 @@ msgid "Session could not be revoked."
 msgstr "Sessie kon niet worden herroepen."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ActiveSessions.elm:145
-#, fuzzy
 msgid "Failed to revoke all active sessions."
 msgstr "Het is niet gelukt om alle actieve sessies in te trekken."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ActiveSessions.elm:169
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ActiveSessions.elm:276
-#, fuzzy
 msgid "Revoke all"
-msgstr "Alle"
+msgstr "Allemaal intrekken"
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ActiveSessions.elm:178
 #: engine-wizard/elm/Wizard/Users/Edit/View.elm:92
@@ -5494,12 +5483,10 @@ msgid "Revoke"
 msgstr "Intrekken"
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ActiveSessions.elm:269
-#, fuzzy
 msgid "Are you sure you want to revoke all active sessions? This will log you out of all devices except for the current one."
-msgstr "Weet je zeker dat je alle actieve sessies wilt intrekken? Dit zal je afmelden van alle apparaten behalve het huidige."
+msgstr "Weet je zeker dat je alle actieve sessies wilt intrekken? Dit zal je afmelden op alle apparaten behalve het huidige."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ActiveSessions.elm:272
-#, fuzzy
 msgid "Revoke All Active Sessions"
 msgstr "Alle actieve sessies intrekken"
 
