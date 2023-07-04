@@ -2,7 +2,7 @@
 # Kryštof Komanec <krystof.komanec@gmail.com>, 2023.
 # Jan Slifka <jan.slifka@ds-wizard.org>, 2023.
 msgid ""
-msgstr "Project-Id-Version: wizard-client:3.17.1\nPOT-Creation-Date: 2023-07-04T07:44:11.975Z\nPO-Revision-Date: 2023-07-04 08:24+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Czech <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-25-0/cs/>\nLanguage: cs\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 4.14.2\n"
+msgstr "Project-Id-Version: wizard-client:3.17.1\nPOT-Creation-Date: 2023-07-04T07:44:11.975Z\nPO-Revision-Date: 2023-07-04 16:01+0000\nLast-Translator: Marek Suchánek <marek.suchanek@ds-wizard.org>\nLanguage-Team: Czech <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-25-0/cs/>\nLanguage: cs\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 4.14.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -1812,19 +1812,16 @@ msgid "Question Tags"
 msgstr "Štítky otázek"
 
 #: engine-wizard/elm/Wizard/Common/View/Tag.elm:131
-#, fuzzy
 msgid "You can either use all questions from the knowledge model or filter them by question tags."
-msgstr "Můžete použít všechny otázky ze znalostního modelu nebo je filtrovat podle značek otázek."
+msgstr "Můžete použít všechny otázky ze znalostního modelu nebo je filtrovat podle značek štítků."
 
 #: engine-wizard/elm/Wizard/Common/View/Tag.elm:139
-#, fuzzy
 msgid "Use all questions"
-msgstr "Použijte všechny otázky"
+msgstr "Použít všechny otázky"
 
 #: engine-wizard/elm/Wizard/Common/View/Tag.elm:148
-#, fuzzy
 msgid "Filter by question tags"
-msgstr "Filtrovat podle značek otázek"
+msgstr "Filtrovat podle štítků"
 
 #: engine-wizard/elm/Wizard/Common/View/Tag.elm:157
 #: engine-wizard/elm/Wizard/Common/View/Tag.elm:165
@@ -1832,7 +1829,6 @@ msgid "There are no question tags for this knowledge model."
 msgstr "Tento znalostní model nemá žádné štítky otázek."
 
 #: engine-wizard/elm/Wizard/Common/View/Tag.elm:168
-#, fuzzy
 msgid "All questions are used."
 msgstr "Používají se všechny otázky."
 
@@ -2308,19 +2304,16 @@ msgid "Unable to upload file."
 msgstr "Nahrávání souboru se nezdařilo."
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/FileEditor/AssetUploadModal.elm:278
-#, fuzzy
 msgid "Upload files"
-msgstr "Nahrát soubor"
+msgstr "Nahrát soubory"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/FileEditor/AssetUploadModal.elm:308
-#, fuzzy
 msgid "Choose files"
-msgstr "Vybrat soubor"
+msgstr "Vybrat soubory"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/FileEditor/AssetUploadModal.elm:309
-#, fuzzy
 msgid "Or just drop them here"
-msgstr "Nebo je prostě napište sem"
+msgstr "Nebo je prostě přetáhněte sem"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Preview.elm:201
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Preview.elm:104
@@ -4699,9 +4692,8 @@ msgstr "Vyřešeno"
 
 #: engine-wizard/elm/Wizard/Public/Auth/Update.elm:36
 #: engine-wizard/elm/Wizard/Public/Auth/Update.elm:66
-#, fuzzy
 msgid "Unexpected response from the server."
-msgstr "Neočekávaná odpověď serveru."
+msgstr "Neočekávaná odpověď ze serveru."
 
 #: engine-wizard/elm/Wizard/Public/Auth/Update.elm:39
 #: engine-wizard/elm/Wizard/Public/Auth/Update.elm:69
@@ -4736,7 +4728,6 @@ msgid "I have read %s."
 msgstr "Přečetl/a jsem %s."
 
 #: engine-wizard/elm/Wizard/Public/Auth/View.elm:77
-#, fuzzy
 msgid "Continue"
 msgstr "Pokračovat"
 
@@ -5457,13 +5448,11 @@ msgid "Session could not be revoked."
 msgstr "Relace nemohla být odvolána."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ActiveSessions.elm:145
-#, fuzzy
 msgid "Failed to revoke all active sessions."
-msgstr "Nepodařilo se odvolat všechny aktivní relace."
+msgstr "Nepodařilo se zrušit všechny aktivní relace."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ActiveSessions.elm:169
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ActiveSessions.elm:276
-#, fuzzy
 msgid "Revoke all"
 msgstr "Zrušit všechny"
 
@@ -5507,14 +5496,12 @@ msgid "Revoke"
 msgstr "Odvolání"
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ActiveSessions.elm:269
-#, fuzzy
 msgid "Are you sure you want to revoke all active sessions? This will log you out of all devices except for the current one."
 msgstr "Opravdu chcete zrušit všechny aktivní relace? Tím se odhlásíte ze všech zařízení kromě aktuálního."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ActiveSessions.elm:272
-#, fuzzy
 msgid "Revoke All Active Sessions"
-msgstr "Odvolání všech aktivních relací"
+msgstr "Zrušení všech aktivních relací"
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ActiveSessions.elm:288
 msgid "%s on %s"
