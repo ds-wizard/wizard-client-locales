@@ -3,7 +3,7 @@
 [![LICENSE](https://img.shields.io/github/license/ds-wizard/wizard-client-locales)](LICENSE)
 [![Language](https://img.shields.io/badge/ISO%20639--1-cs-blue)](https://en.wikipedia.org/wiki/Czech_language)
 [![Translation status](https://img.shields.io/badge/translated-100%25-brightgreen)](https://localize.ds-wizard.org/engage/wizard-client/cs/)
-[![Translation status](https://localize.ds-wizard.org/widgets/wizard-client/cs/wizard-client-3-23-0/svg-badge.svg)](https://localize.ds-wizard.org/engage/wizard-client/cs/)
+[![Translation status](https://localize.ds-wizard.org/widgets/wizard-client/cs/wizard-client-3-24-0/svg-badge.svg)](https://localize.ds-wizard.org/engage/wizard-client/cs/)
 
 ## Contributors
 
@@ -13,11 +13,16 @@
 * **Kryštof Komanec** <[krystof.komanec@ds-wizard.org](mailto:krystof.komanec@ds-wizard.org)>
   * ORCID: [0000-0003-3856-1682](https://orcid.org/0000-0003-3856-1682)
   * GitHub: [@krystofkomanec](https://github.com/krystofkomanec)
+* **Jan Slifka** <[jan.slifka@ds-wizard.org](mailto:jan.slifka@ds-wizard.org)>
+  * ORCID: [0000-0002-4941-0575](https://orcid.org/0000-0002-4941-0575)
+  * GitHub: [@janslifka](https://github.com/janslifka)
 
 
 ## Changelog
 
-### Unreleased
+### 0.7.0
+
+* Updated for version 3.24.0
 
 ### 0.6.0
 
