@@ -1,7 +1,7 @@
 # Marek Suchánek <marek.suchanek@ds-wizard.org>, 2023.
 # Paulette Lieby <paulette.lieby@france-bioinformatique.fr>, 2023.
 msgid ""
-msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2023-07-04T07:44:11.975Z\nPO-Revision-Date: 2023-07-04 16:01+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: French <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-25-0/fr/>\nLanguage: fr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 4.14.2\n"
+msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2023-07-04T07:44:11.975Z\nPO-Revision-Date: 2023-07-08 09:13+0000\nLast-Translator: Paulette Lieby <paulette.lieby@france-bioinformatique.fr>\nLanguage-Team: French <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-25-0/fr/>\nLanguage: fr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 4.14.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -1801,17 +1801,14 @@ msgid "Question Tags"
 msgstr "Étiquettes de questions"
 
 #: engine-wizard/elm/Wizard/Common/View/Tag.elm:131
-#, fuzzy
 msgid "You can either use all questions from the knowledge model or filter them by question tags."
-msgstr "Vous pouvez utiliser toutes les questions du modèle de connaissances ou les filtrer en fonction des étiquettes des questions."
+msgstr "Vous pouvez utiliser toutes les questions du modèle de connaissances ou les filtrer en fonction des étiquettes de questions."
 
 #: engine-wizard/elm/Wizard/Common/View/Tag.elm:139
-#, fuzzy
 msgid "Use all questions"
 msgstr "Utiliser toutes les questions"
 
 #: engine-wizard/elm/Wizard/Common/View/Tag.elm:148
-#, fuzzy
 msgid "Filter by question tags"
 msgstr "Filtrer par étiquettes de questions"
 
@@ -1821,7 +1818,6 @@ msgid "There are no question tags for this knowledge model."
 msgstr "Il n'y a pas d'étiquettes de questions pour ce modèle de connaissances."
 
 #: engine-wizard/elm/Wizard/Common/View/Tag.elm:168
-#, fuzzy
 msgid "All questions are used."
 msgstr "Toutes les questions sont utilisées."
 
@@ -2297,17 +2293,14 @@ msgid "Unable to upload file."
 msgstr "Le fichier n'a pas pu être téléversé."
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/FileEditor/AssetUploadModal.elm:278
-#, fuzzy
 msgid "Upload files"
-msgstr "Téléverser le fichier"
+msgstr "Téléverser les fichiers"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/FileEditor/AssetUploadModal.elm:308
-#, fuzzy
 msgid "Choose files"
-msgstr "Choisir le fichier"
+msgstr "Choisir les fichiers"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/FileEditor/AssetUploadModal.elm:309
-#, fuzzy
 msgid "Or just drop them here"
 msgstr "Ou déposez-les ici"
 
@@ -4686,7 +4679,6 @@ msgstr "Résolu"
 
 #: engine-wizard/elm/Wizard/Public/Auth/Update.elm:36
 #: engine-wizard/elm/Wizard/Public/Auth/Update.elm:66
-#, fuzzy
 msgid "Unexpected response from the server."
 msgstr "Réponse inattendue du serveur."
 
@@ -4723,7 +4715,6 @@ msgid "I have read %s."
 msgstr "J'ai lu %s."
 
 #: engine-wizard/elm/Wizard/Public/Auth/View.elm:77
-#, fuzzy
 msgid "Continue"
 msgstr "Continuer"
 
@@ -5444,15 +5435,13 @@ msgid "Session could not be revoked."
 msgstr "La session n'a pas pu être révoquée."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ActiveSessions.elm:145
-#, fuzzy
 msgid "Failed to revoke all active sessions."
 msgstr "Échec de la révocation de toutes les sessions actives."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ActiveSessions.elm:169
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ActiveSessions.elm:276
-#, fuzzy
 msgid "Revoke all"
-msgstr "Révoquer tous les"
+msgstr "Tout révoquer"
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ActiveSessions.elm:178
 #: engine-wizard/elm/Wizard/Users/Edit/View.elm:92
@@ -5494,12 +5483,10 @@ msgid "Revoke"
 msgstr "Révoquer"
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ActiveSessions.elm:269
-#, fuzzy
 msgid "Are you sure you want to revoke all active sessions? This will log you out of all devices except for the current one."
-msgstr "Êtes-vous sûr de vouloir révoquer toutes les sessions actives ? Cela vous déconnectera de tous les appareils, à l'exception de l'appareil actuel."
+msgstr "Êtes-vous sûr·e de vouloir révoquer toutes les sessions actives ? Cela vous déconnectera de les terminaux, à l'exception du terminal actuel."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ActiveSessions.elm:272
-#, fuzzy
 msgid "Revoke All Active Sessions"
 msgstr "Révoquer toutes les sessions actives"
 
