@@ -1,6 +1,6 @@
 # Remedios Melero <rmelero@iata.csic.es>, 2023.
 msgid ""
-msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2023-07-04T07:44:11.975Z\nPO-Revision-Date: 2023-07-04 16:01+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Spanish <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-25-0/es/>\nLanguage: es\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.14.2\n"
+msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2023-07-04T07:44:11.975Z\nPO-Revision-Date: 2023-07-16 02:13+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Spanish <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-25-0/es/>\nLanguage: es\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.14.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -2153,10 +2153,7 @@ msgid ""
 "Project is a workspace where you create your DMP. It is based on a knowledge model, which contains knowledge about what should be asked and how based on the research field or organization's needs. You can use document templates to transform the answers into a document. This document can be anything, from PDF to machine-actionable JSON.\n"
 "\n"
 "You can create a new project from a project template that data stewards prepare for you to have an easier start or from scratch where you set up everything yourself."
-msgstr ""
-"El proyecto es un espacio de trabajo en el que se crea el PDM. Se basa en un modelo de conocimiento, que contiene conocimientos sobre qué debe preguntarse y cómo en función del campo de investigación o las necesidades de la organización. Puede utilizar plantillas de documentos para transformar las respuestas en un documento. Este documento puede ser cualquier cosa, desde PDF hasta JSON procesable por máquina.\n"
-"\n"
-"Puedes crear un nuevo proyecto a partir de una plantilla de proyecto que los administradores de datos preparan para que tengas un comienzo más fácil o desde cero, donde tú mismo configuras todo."
+msgstr "El proyecto es un espacio de trabajo en el que se crea el PDM. Se basa en un modelo de conocimiento, que contiene conocimientos sobre qué debe preguntarse y cómo en función del campo de investigación o las necesidades de la organización. Puedes utilizar plantillas de documentos para transformar las respuestas en un documento. Este documento puede ser cualquier cosa, desde PDF hasta JSON procesable por máquina.\n\nPuedes crear un nuevo proyecto a partir de una plantilla de proyecto que los administradores de datos preparan para que tengas un comienzo más fácil o desde cero, donde tú mismo configuras todo."
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ImportDocumentTemplateWidget.elm:13
 #: engine-wizard/elm/Wizard/DocumentTemplates/Import/View.elm:44
@@ -3074,7 +3071,7 @@ msgstr "¿Estás seguro de que quieres borrar %s y todas sus versiones de forma 
 #: engine-wizard/elm/Wizard/DocumentTemplates/Index/View.elm:179
 #, fuzzy
 msgid "Delete document template"
-msgstr "Eliminar plantilla de documento"
+msgstr "Borrar plantilla de documento"
 
 #: engine-wizard/elm/Wizard/KMEditor/Common/DeleteModal.elm:75
 #, fuzzy
@@ -4672,7 +4669,7 @@ msgstr "Activar"
 #: engine-wizard/elm/Wizard/Locales/Create/Update.elm:92
 #, fuzzy
 msgid "Creating of the locale failed."
-msgstr "Error en la creación de la configuración regional."
+msgstr "Falló la creación de la configuración regional."
 
 #: engine-wizard/elm/Wizard/Locales/Create/View.elm:40
 #, fuzzy
@@ -5403,7 +5400,7 @@ msgstr "No hay cambios que afecten a sus respuestas."
 #: engine-wizard/elm/Wizard/Projects/Migration/View.elm:50
 #, fuzzy
 msgid "You can safely finalize the migration."
-msgstr "Ya puedes finalizar la migración con seguridad."
+msgstr "Ya puedes finalizar la migración con total seguridad."
 
 #: engine-wizard/elm/Wizard/Projects/Migration/View.elm:87
 #, fuzzy
