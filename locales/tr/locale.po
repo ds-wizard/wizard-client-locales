@@ -1,6 +1,7 @@
 # Pinar Alper <pinarpink@yahoo.com>, 2023.
+# Marek Suchánek <marek.suchanek@ds-wizard.org>, 2023.
 msgid ""
-msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2023-07-04T07:44:11.975Z\nPO-Revision-Date: 2023-07-04 16:01+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Turkish <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-25-0/tr/>\nLanguage: tr\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.14.2\n"
+msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2023-07-04T07:44:11.975Z\nPO-Revision-Date: 2023-07-24 06:22+0000\nLast-Translator: Marek Suchánek <marek.suchanek@ds-wizard.org>\nLanguage-Team: Turkish <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-25-0/tr/>\nLanguage: tr\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.14.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -1800,17 +1801,14 @@ msgid "Question Tags"
 msgstr "Soru Etiketleri"
 
 #: engine-wizard/elm/Wizard/Common/View/Tag.elm:131
-#, fuzzy
 msgid "You can either use all questions from the knowledge model or filter them by question tags."
 msgstr "Bilgi modelindeki tüm soruları kullanabilir veya bunları soru etiketlerine göre filtreleyebilirsiniz."
 
 #: engine-wizard/elm/Wizard/Common/View/Tag.elm:139
-#, fuzzy
 msgid "Use all questions"
 msgstr "Tüm soruları kullanın"
 
 #: engine-wizard/elm/Wizard/Common/View/Tag.elm:148
-#, fuzzy
 msgid "Filter by question tags"
 msgstr "Soru etiketlerine göre filtrele"
 
@@ -1820,7 +1818,6 @@ msgid "There are no question tags for this knowledge model."
 msgstr "Bu bilgi modeli için herhangi bir soru etiketi bulunmamaktadır."
 
 #: engine-wizard/elm/Wizard/Common/View/Tag.elm:168
-#, fuzzy
 msgid "All questions are used."
 msgstr "Tüm sorular kullanılmıştır."
 
@@ -2296,17 +2293,14 @@ msgid "Unable to upload file."
 msgstr "Dosya yüklenemiyor."
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/FileEditor/AssetUploadModal.elm:278
-#, fuzzy
 msgid "Upload files"
-msgstr "Dosya yükle"
+msgstr "Dosyaları yükle"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/FileEditor/AssetUploadModal.elm:308
-#, fuzzy
 msgid "Choose files"
-msgstr "Dosya seçin"
+msgstr "Dosyaları seçin"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/FileEditor/AssetUploadModal.elm:309
-#, fuzzy
 msgid "Or just drop them here"
 msgstr "Ya da sadece buraya bırakın"
 
@@ -4685,7 +4679,6 @@ msgstr "Çözüldü"
 
 #: engine-wizard/elm/Wizard/Public/Auth/Update.elm:36
 #: engine-wizard/elm/Wizard/Public/Auth/Update.elm:66
-#, fuzzy
 msgid "Unexpected response from the server."
 msgstr "Sunucudan beklenmeyen yanıt."
 
@@ -4722,9 +4715,8 @@ msgid "I have read %s."
 msgstr "%s'yi okudum."
 
 #: engine-wizard/elm/Wizard/Public/Auth/View.elm:77
-#, fuzzy
 msgid "Continue"
-msgstr "Devam et"
+msgstr "Devam etmek"
 
 #: engine-wizard/elm/Wizard/Public/BookReference/Update.elm:27
 msgid "Unable to get a book reference."
@@ -5443,13 +5435,11 @@ msgid "Session could not be revoked."
 msgstr "Oturum iptal edilemedi."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ActiveSessions.elm:145
-#, fuzzy
 msgid "Failed to revoke all active sessions."
 msgstr "Tüm etkin oturumlar iptal edilemedi."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ActiveSessions.elm:169
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ActiveSessions.elm:276
-#, fuzzy
 msgid "Revoke all"
 msgstr "Tümünü iptal et"
 
@@ -5493,12 +5483,10 @@ msgid "Revoke"
 msgstr "İptal"
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ActiveSessions.elm:269
-#, fuzzy
 msgid "Are you sure you want to revoke all active sessions? This will log you out of all devices except for the current one."
-msgstr "Tüm aktif oturumları iptal etmek istediğinizden emin misiniz? Bu, mevcut cihaz hariç tüm cihazlardan çıkış yapmanızı sağlayacaktır."
+msgstr "Tüm etkin oturumları iptal etmek istediğinizden emin misiniz? Bu, mevcut cihaz dışındaki tüm cihazlardan çıkış yapmanızı sağlayacaktır."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ActiveSessions.elm:272
-#, fuzzy
 msgid "Revoke All Active Sessions"
 msgstr "Tüm Etkin Oturumları İptal Et"
 
