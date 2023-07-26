@@ -1,7 +1,7 @@
 # Marek Suchánek <marek.suchanek@ds-wizard.org>, 2023.
 # Paulette Lieby <paulette.lieby@france-bioinformatique.fr>, 2023.
 msgid ""
-msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2023-04-11T14:13:38.017Z\nPO-Revision-Date: 2023-05-17 09:13+0000\nLast-Translator: Paulette Lieby <paulette.lieby@france-bioinformatique.fr>\nLanguage-Team: French <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-22-1/fr/>\nLanguage: fr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 4.14.2\n"
+msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2023-04-11T14:13:38.017Z\nPO-Revision-Date: 2023-07-28 08:13+0000\nLast-Translator: Paulette Lieby <paulette.lieby@france-bioinformatique.fr>\nLanguage-Team: French <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-22-1/fr/>\nLanguage: fr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 4.14.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -185,7 +185,7 @@ msgstr "La version du métamodèle du modèle de connaissances n'est pas prise e
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:120
 msgid "Document template already exists."
-msgstr "Le gabarit d'extraction existe déjà."
+msgstr "Le modèle de documents existe déjà."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:123
 msgid "Locale already exists."
@@ -256,7 +256,7 @@ msgstr "Le modèle de document ne peut être supprimé car il est utilisé pour 
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:176
 msgid "Document template metamodel version is not supported."
-msgstr "La version du métamodèle du gabarit d'extraction n'est pas (plus) prise en charge."
+msgstr "La version du métamodèle du modèle de documents n'est pas (plus) prise en charge."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:187
 #: engine-shared/elm/Shared/Error/ServerError.elm:224
@@ -583,7 +583,7 @@ msgstr "Créé le"
 #: engine-wizard/elm/Wizard/Apps/Detail/View.elm:115
 #: engine-wizard/elm/Wizard/Apps/Index/View.elm:59
 msgid "Updated at"
-msgstr "Mis à jour le"
+msgstr "Mise à jour le"
 
 #: engine-wizard/elm/Wizard/Apps/Detail/View.elm:118
 #: engine-wizard/elm/Wizard/Settings/View.elm:93
@@ -1952,7 +1952,7 @@ msgstr "Projets récents"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/RecentProjectsWidget.elm:46
 msgid "View all"
-msgstr "Voir tout"
+msgstr "Tout voir"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/RecentProjectsWidget.elm:83
 msgid "You have no projects yet, start by creating some."
@@ -2149,7 +2149,7 @@ msgstr "ID du modèle de documents"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Create/View.elm:91
 msgid "Document template ID can contain alphanumeric characters and dashes but cannot start or end with a dash."
-msgstr "L'ID du gabarit d'extraction peut contenir des caractères alphanumériques et des tirets, mais ne peut pas commencer ou se terminer par un tiret."
+msgstr "L'ID du modèle de documents peut contenir des caractères alphanumériques et des tirets, mais ne peut pas commencer ou se terminer par un tiret."
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Create/View.elm:93
 #: engine-wizard/elm/Wizard/KMEditor/Create/View.elm:97
@@ -3477,12 +3477,12 @@ msgstr "Ajouter un en-tête"
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:45
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/TreeInput.elm:99
 msgid "Expand all"
-msgstr "Développer tout"
+msgstr "Tout développer"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:49
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/TreeInput.elm:106
 msgid "Collapse all"
-msgstr "Réduire tout"
+msgstr "Tout réduire"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/PhaseEditor.elm:96
 msgid "There are no phases, create them first."
@@ -3815,7 +3815,7 @@ msgstr "Appliquer"
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:2298
 msgid "Apply all"
-msgstr "Appliquer tout"
+msgstr "Tout appliquer"
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:2340
 msgid "Migration successfully completed."
@@ -4036,7 +4036,7 @@ msgstr "L'importation de la localisation a échoué."
 
 #: engine-wizard/elm/Wizard/Locales/Import/FileImport/View.elm:47
 msgid "This doesn't look like locale. Are you sure you picked the correct file?"
-msgstr "The fichier ne ressemble pas à une localisation. Est-ce le correct fichier ?"
+msgstr "The fichier ne ressemble pas à une localisation. Est-ce le fichier correct ?"
 
 #: engine-wizard/elm/Wizard/Locales/Import/RegistryImport/Update.elm:32
 msgid "Unable to import the locale."
@@ -4290,7 +4290,7 @@ msgstr "Le modèle de documents par défaut n'est pas défini."
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Preview.elm:213
 msgid "Log in to update the default document template."
-msgstr "Connectez-vous pour mettre à jour le gabarit d'extraction défaut."
+msgstr "Connectez-vous pour mettre à jour le modèle de documents par défaut."
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Preview.elm:217
 msgid "Before you can use preview you need to update the default document template."
@@ -5221,7 +5221,7 @@ msgstr "Renseignez votre jeton de DSW Registry. Si vous n'en avez pas, vous deve
 
 #: engine-wizard/elm/Wizard/Settings/Registry/View.elm:89
 msgid "If enabled, you can import Knowledge Models and Document Templates directly from [DSW Registry](https://registry.ds-wizard.org)."
-msgstr "Si cette option est activée, vous pouvez importer des modèles de connaissances et des gabarits d'extractions directement depuis [DSW Registry] (https://registry.ds-wizard.org)."
+msgstr "Si cette option est activée, vous pouvez importer des modèles de connaissances et des modèles de documents directement depuis [DSW Registry] (https://registry.ds-wizard.org)."
 
 #: engine-wizard/elm/Wizard/Settings/Registry/View.elm:138
 msgid "Organization Name"
