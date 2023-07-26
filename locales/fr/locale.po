@@ -1,7 +1,7 @@
 # Marek Suchánek <marek.suchanek@ds-wizard.org>, 2023.
 # Paulette Lieby <paulette.lieby@france-bioinformatique.fr>, 2023.
 msgid ""
-msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2023-01-03T08:31:04.766Z\nPO-Revision-Date: 2023-05-17 09:13+0000\nLast-Translator: Paulette Lieby <paulette.lieby@france-bioinformatique.fr>\nLanguage-Team: French <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-19-0/fr/>\nLanguage: fr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 4.14.2\n"
+msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2023-01-03T08:31:04.766Z\nPO-Revision-Date: 2023-07-28 08:13+0000\nLast-Translator: Paulette Lieby <paulette.lieby@france-bioinformatique.fr>\nLanguage-Team: French <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-19-0/fr/>\nLanguage: fr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 4.14.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -516,7 +516,7 @@ msgstr "Créé le"
 #: engine-wizard/elm/Wizard/Apps/Detail/View.elm:115
 #: engine-wizard/elm/Wizard/Apps/Index/View.elm:59
 msgid "Updated at"
-msgstr "Mis à jour le"
+msgstr "Mise à jour le"
 
 #: engine-wizard/elm/Wizard/Apps/Detail/View.elm:118
 #: engine-wizard/elm/Wizard/Settings/View.elm:98
@@ -1824,7 +1824,7 @@ msgstr "Projets récents"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/RecentProjectsWidget.elm:45
 msgid "View all"
-msgstr "Voir tout"
+msgstr "Tout voir"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/RecentProjectsWidget.elm:82
 msgid "You have no projects yet, start by creating some."
@@ -2850,12 +2850,12 @@ msgstr "Valeur de l'en-tête"
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:45
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/TreeInput.elm:99
 msgid "Expand all"
-msgstr "Développer tout"
+msgstr "Tout développer"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:49
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/TreeInput.elm:106
 msgid "Collapse all"
-msgstr "Réduire tout"
+msgstr "Tout réduire"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/Preview.elm:207
 msgid "Tags"
@@ -3185,7 +3185,7 @@ msgstr "Appliquer"
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:2298
 msgid "Apply all"
-msgstr "Appliquer tout"
+msgstr "Tout appliquer"
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:2340
 msgid "Migration successfully completed."
@@ -3789,7 +3789,7 @@ msgstr "Le modèle de documents par défaut n'est pas défini."
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Preview.elm:216
 msgid "Log in to update the default document template."
-msgstr "Connectez-vous pour mettre à jour le gabarit d'extraction défaut."
+msgstr "Connectez-vous pour mettre à jour le modèle de documents par défaut."
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Preview.elm:220
 msgid "Before you can use preview you need to update the default document template."
@@ -4672,7 +4672,7 @@ msgstr "Renseignez votre jeton de DSW Registry. Si vous n'en avez pas, vous deve
 
 #: engine-wizard/elm/Wizard/Settings/Registry/View.elm:89
 msgid "If enabled, you can import Knowledge Models and Document Templates directly from [DSW Registry](https://registry.ds-wizard.org)."
-msgstr "Si cette option est activée, vous pouvez importer des modèles de connaissances et des gabarits d'extractions directement depuis [DSW Registry] (https://registry.ds-wizard.org)."
+msgstr "Si cette option est activée, vous pouvez importer des modèles de connaissances et des modèles de documents directement depuis [DSW Registry] (https://registry.ds-wizard.org)."
 
 #: engine-wizard/elm/Wizard/Settings/Registry/View.elm:138
 msgid "Organization Name"
