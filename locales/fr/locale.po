@@ -1,7 +1,7 @@
 # Marek Suchánek <marek.suchanek@ds-wizard.org>, 2023.
 # Paulette Lieby <paulette.lieby@france-bioinformatique.fr>, 2023.
 msgid ""
-msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2023-08-01T07:10:45.958Z\nPO-Revision-Date: 2023-08-01 09:14+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: French <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-26-0/fr/>\nLanguage: fr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 4.18.2\n"
+msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2023-08-01T07:10:45.958Z\nPO-Revision-Date: 2023-08-02 11:37+0000\nLast-Translator: Paulette Lieby <paulette.lieby@france-bioinformatique.fr>\nLanguage-Team: French <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-26-0/fr/>\nLanguage: fr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 4.18.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -1059,14 +1059,12 @@ msgid "Anonymous user"
 msgstr "Utilisateur·rice anonyme"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2190
-#, fuzzy
 msgid "This chapter contains no questions."
-msgstr "Ce chapitre ne contient pas de questions."
+msgstr "Ce chapitre ne comprend pas de questions."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2204
-#, fuzzy
 msgid "There are no questions in this phase."
-msgstr "Il n'y a pas de questions dans cette phase."
+msgstr "Cette phase ne comprend aucune question."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2258
 msgid "Previous Chapter"
@@ -1957,9 +1955,8 @@ msgid "Import Document Template"
 msgstr "Importer un modèle de documents"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ImportDocumentTemplateWidget.elm:14
-#, fuzzy
 msgid "Document templates transform answers from a questionnaire into a document. This document can be anything, from PDF to machine-actionable JSON. You can import existing document templates from [DSW Registry](https://registry.ds-wizard.org/templates) or [develop new ones](https://guide.ds-wizard.org/en/latest/more/development/document-templates/index.html)."
-msgstr "Les modèles de document transforment les réponses à un questionnaire en un document. Ce document peut être n'importe quoi, du PDF au JSON exploitable par une machine. Vous pouvez importer des modèles de documents existants à partir du [Registre DSW](https://registry.ds-wizard.org/templates) ou [en développer de nouveaux](https://guide.ds-wizard.org/en/latest/more/development/document-templates/index.html)."
+msgstr "Les modèles de document transforment les réponses à un questionnaire en un document. Ce document peut être de n'importe quel format, du PDF au JSON exploitable par une machine. Vous pouvez importer des modèles de documents existants à partir du [Registre DSW](https://registry.ds-wizard.org/templates) ou [en développer de nouveaux](https://guide.ds-wizard.org/en/latest/more/development/document-templates/index.html)."
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ImportDocumentTemplateWidget.elm:17
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ImportKnowledgeModelWidget.elm:17
@@ -2266,7 +2263,7 @@ msgstr "Fichier"
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/FileEditor.elm:1222
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/FileEditor/AssetUploadModal.elm:257
 msgid "Upload"
-msgstr "Télécharger"
+msgstr "Téléverser"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/FileEditor.elm:941
 msgid "Move to opposite group"
