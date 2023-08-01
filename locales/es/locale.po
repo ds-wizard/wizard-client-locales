@@ -1,16 +1,6 @@
 # Remedios Melero <rmelero@iata.csic.es>, 2023.
 msgid ""
-msgstr ""
-"Project-Id-Version: wizard-client:3.18.3\n"
-"POT-Creation-Date: 2023-08-01T07:10:45.958Z \n"
-"PO-Revision-Date: 2023-08-01 08:42+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Spanish <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-26-0/es/>\n"
-"Language: es\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.18.2\n"
+msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2023-08-01T07:10:45.958Z\nPO-Revision-Date: 2023-08-01 09:14+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Spanish <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-26-0/es/>\nLanguage: es\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.18.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -1120,12 +1110,14 @@ msgid "Anonymous user"
 msgstr "Usuario anónimo"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2190
+#, fuzzy
 msgid "This chapter contains no questions."
-msgstr ""
+msgstr "Este capítulo no contiene preguntas."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2204
+#, fuzzy
 msgid "There are no questions in this phase."
-msgstr ""
+msgstr "En esta fase no hay preguntas."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2258
 #, fuzzy
@@ -2184,8 +2176,9 @@ msgid "Import Document Template"
 msgstr "Importar plantilla de documento"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ImportDocumentTemplateWidget.elm:14
+#, fuzzy
 msgid "Document templates transform answers from a questionnaire into a document. This document can be anything, from PDF to machine-actionable JSON. You can import existing document templates from [DSW Registry](https://registry.ds-wizard.org/templates) or [develop new ones](https://guide.ds-wizard.org/en/latest/more/development/document-templates/index.html)."
-msgstr ""
+msgstr "Las plantillas de documentos transforman las respuestas de un cuestionario en un documento. Este documento puede ser cualquier cosa, desde PDF hasta JSON procesable por máquina. Puede importar plantillas de documentos existentes desde [Registro DSW](https://registry.ds-wizard.org/templates) o [desarrollar nuevas](https://guide.ds-wizard.org/en/latest/more/development/document-templates/index.html)."
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ImportDocumentTemplateWidget.elm:17
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ImportKnowledgeModelWidget.elm:17
