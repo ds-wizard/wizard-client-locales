@@ -1,7 +1,7 @@
 # Rob Hooft <rob.hooft@health-ri.nl>, 2023.
 # Marek Suchánek <marek.suchanek@ds-wizard.org>, 2023.
 msgid ""
-msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2023-08-01T07:10:45.958Z\nPO-Revision-Date: 2023-08-01 09:14+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Dutch <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-26-0/nl/>\nLanguage: nl\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.18.2\n"
+msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2023-08-01T07:10:45.958Z\nPO-Revision-Date: 2023-08-03 19:37+0000\nLast-Translator: Rob Hooft <rob.hooft@health-ri.nl>\nLanguage-Team: Dutch <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-26-0/nl/>\nLanguage: nl\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.18.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -917,7 +917,7 @@ msgstr "Bekijk"
 #: engine-wizard/elm/Wizard/DocumentTemplates/Detail/View.elm:307
 #: engine-wizard/elm/Wizard/KnowledgeModels/Detail/View.elm:198
 msgid "Show all"
-msgstr "Alles bekijken"
+msgstr "Alles laten zien"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1241
 msgid "Hide all"
@@ -1059,12 +1059,10 @@ msgid "Anonymous user"
 msgstr "Anonieme gebruiker"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2190
-#, fuzzy
 msgid "This chapter contains no questions."
 msgstr "Dit hoofdstuk bevat geen vragen."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2204
-#, fuzzy
 msgid "There are no questions in this phase."
 msgstr "Er zijn geen vragen in deze fase."
 
@@ -1957,9 +1955,8 @@ msgid "Import Document Template"
 msgstr "Importeer een documentsjabloon"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ImportDocumentTemplateWidget.elm:14
-#, fuzzy
 msgid "Document templates transform answers from a questionnaire into a document. This document can be anything, from PDF to machine-actionable JSON. You can import existing document templates from [DSW Registry](https://registry.ds-wizard.org/templates) or [develop new ones](https://guide.ds-wizard.org/en/latest/more/development/document-templates/index.html)."
-msgstr "Documentsjablonen zetten antwoorden uit een vragenlijst om in een document. Dit document kan van alles zijn, van PDF tot machine-actionable JSON. U kunt bestaande documentsjablonen importeren uit [DSW-register](https://registry.ds-wizard.org/templates) of [nieuwe sjablonen ontwikkelen](https://guide.ds-wizard.org/en/latest/more/development/document-templates/index.html)."
+msgstr "Documentsjablonen zetten antwoorden uit een vragenlijst om in een document. Dit document kan van alles zijn, van PDF tot JSON waar een computer zelf iets mee kan. U kunt bestaande documentsjablonen importeren uit [DSW-register](https://registry.ds-wizard.org/templates) of [nieuwe sjablonen ontwikkelen](https://guide.ds-wizard.org/en/latest/more/development/document-templates/index.html)."
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ImportDocumentTemplateWidget.elm:17
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ImportKnowledgeModelWidget.elm:17
@@ -2306,7 +2303,7 @@ msgstr "Kan het bestand niet uploaden."
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/FileEditor/AssetUploadModal.elm:278
 msgid "Upload files"
-msgstr "Bestand uploaden"
+msgstr "Bestanden uploaden"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/FileEditor/AssetUploadModal.elm:308
 msgid "Choose files"
@@ -3290,7 +3287,7 @@ msgstr "Antwoord item-sjabloon"
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1495
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:225
 msgid "Request"
-msgstr "Request"
+msgstr "Verzoek"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1497
 msgid "Use this section to configure the search request. The service you want to integrate has to provide a search HTTP API where you send a search string and it returns a JSON with found items."
@@ -3712,7 +3709,7 @@ msgstr "Deze editor bevat ongepubliceerde veranderingen."
 
 #: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:188
 msgid "Open Editor"
-msgstr "Open editor"
+msgstr "Open Editor"
 
 #: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:206
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:640
@@ -3931,7 +3928,7 @@ msgstr "Er is nog geen gepubliceerde versie van dit pakket."
 
 #: engine-wizard/elm/Wizard/KMEditor/Publish/View.elm:95
 msgid "Last version"
-msgstr "Nieuwste versie"
+msgstr "Laatste versie"
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Common/KnowledgeModelActionsDropdown.elm:48
 msgid "Open"
@@ -4247,7 +4244,7 @@ msgstr "Kan het project niet laden."
 
 #: engine-wizard/elm/Wizard/Projects/Create/TemplateCreate/Update.elm:107
 msgid "Unable to get project templates."
-msgstr "Kan documentsjablonen niet ophalen."
+msgstr "Kan projectsjablonen niet ophalen."
 
 #: engine-wizard/elm/Wizard/Projects/Create/TemplateCreate/View.elm:56
 #: engine-wizard/elm/Wizard/Projects/Create/TemplateCreate/View.elm:70
@@ -4479,7 +4476,7 @@ msgstr "Publieke link"
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/Update.elm:108
 msgid "Document was successfully deleted."
-msgstr "Het project is succesvol verwijderd."
+msgstr "Het document is verwijderd."
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:90
 msgid "Click \"New document\" button to add a new document."
@@ -4659,11 +4656,11 @@ msgstr "Ongedaan maken"
 
 #: engine-wizard/elm/Wizard/Projects/Migration/View.elm:130
 msgid "Resolve"
-msgstr "Toepassen"
+msgstr "Oplossen"
 
 #: engine-wizard/elm/Wizard/Projects/Migration/View.elm:138
 msgid "Resolve all"
-msgstr "Alles toepassen"
+msgstr "Alles oplossen"
 
 #: engine-wizard/elm/Wizard/Projects/Migration/View.elm:142
 msgid "Resolved changes %s/%s"
@@ -5249,7 +5246,7 @@ msgstr "ht&#8203;tps://github.com/**exampleOwner**/exampleRepository"
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:61
 msgid "Access Token"
-msgstr "Access Token"
+msgstr "Toegangstoken"
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:62
 msgid "[Personal Access Token](https://help.github.com/en/github/authenticating-to-github/creating-a-personal-access-token-for-the-command-line) for GitHub account creating the issues. Make sure to select **public_repo** scope if the repository is public or **repo** if it is private. We recommend creating a bot account with the access to the feedback repository instead of using your own GitHub account."
@@ -5309,7 +5306,7 @@ msgstr "Als dit is ingeschakeld kunnen gebruikers feedback geven op vragen naar 
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:101
 msgid "Project Tagging"
-msgstr "Projecttags"
+msgstr "Projecttagging"
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:102
 msgid "If enabled, users can tag their projects and use these tags to filter them."
