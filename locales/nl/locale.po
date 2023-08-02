@@ -1,6 +1,6 @@
 # Rob Hooft <rob.hooft@health-ri.nl>, 2023.
 msgid ""
-msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2023-01-03T08:31:04.766Z\nPO-Revision-Date: 2023-04-12 21:13+0000\nLast-Translator: Rob Hooft <rob.hooft@health-ri.nl>\nLanguage-Team: Dutch <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-19-0/nl/>\nLanguage: nl\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.14.2\n"
+msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2023-01-03T08:31:04.766Z\nPO-Revision-Date: 2023-08-03 19:37+0000\nLast-Translator: Rob Hooft <rob.hooft@health-ri.nl>\nLanguage-Team: Dutch <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-19-0/nl/>\nLanguage: nl\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.18.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -839,7 +839,7 @@ msgstr "Bekijk"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1073
 msgid "Show all"
-msgstr "Alles bekijken"
+msgstr "Alles laten zien"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1076
 msgid "Hide all"
@@ -2591,7 +2591,7 @@ msgstr "Antwoord item-sjabloon"
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1491
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:225
 msgid "Request"
-msgstr "Request"
+msgstr "Verzoek"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1493
 msgid "Use this section to configure the search request. The service you want to integrate has to provide a search HTTP API where you send a search string and it returns a JSON with found items."
@@ -3012,7 +3012,7 @@ msgstr "Deze editor bevat ongepubliceerde veranderingen."
 
 #: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:187
 msgid "Open Editor"
-msgstr "Open editor"
+msgstr "Open Editor"
 
 #: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:214
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:641
@@ -3240,7 +3240,7 @@ msgstr "Er is nog geen gepubliceerde versie van dit pakket."
 
 #: engine-wizard/elm/Wizard/KMEditor/Publish/View.elm:88
 msgid "Last version"
-msgstr "Nieuwste versie"
+msgstr "Laatste versie"
 
 #: engine-wizard/elm/Wizard/KMEditor/Publish/View.elm:136
 msgid "Suggestions: "
@@ -3913,7 +3913,7 @@ msgstr "Publieke link"
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/Update.elm:107
 msgid "Document was successfully deleted."
-msgstr "Het project is succesvol verwijderd."
+msgstr "Het document is verwijderd."
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:90
 msgid "Click \"New document\" button to add a new document."
@@ -4097,11 +4097,11 @@ msgstr "Ongedaan maken"
 
 #: engine-wizard/elm/Wizard/Projects/Migration/View.elm:130
 msgid "Resolve"
-msgstr "Toepassen"
+msgstr "Oplossen"
 
 #: engine-wizard/elm/Wizard/Projects/Migration/View.elm:138
 msgid "Resolve all"
-msgstr "Alles toepassen"
+msgstr "Alles oplossen"
 
 #: engine-wizard/elm/Wizard/Projects/Migration/View.elm:142
 msgid "Resolved changes %s/%s"
@@ -4590,7 +4590,7 @@ msgstr "ht&#8203;tps://github.com/**exampleOwner**/exampleRepository"
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:61
 msgid "Access Token"
-msgstr "Access Token"
+msgstr "Toegangstoken"
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:62
 msgid "[Personal Access Token](https://help.github.com/en/github/authenticating-to-github/creating-a-personal-access-token-for-the-command-line) for GitHub account creating the issues. Make sure to select **public_repo** scope if the repository is public or **repo** if it is private. We recommend creating a bot account with the access to the feedback repository instead of using your own GitHub account."
@@ -4650,7 +4650,7 @@ msgstr "Als dit is ingeschakeld kunnen gebruikers feedback geven op vragen naar 
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:101
 msgid "Project Tagging"
-msgstr "Projecttags"
+msgstr "Projecttagging"
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:102
 msgid "If enabled, users can tag their projects and use these tags to filter them."
