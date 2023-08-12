@@ -1,6 +1,6 @@
 # Remedios Melero <rmelero@iata.csic.es>, 2023.
 msgid ""
-msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2023-05-02T13:20:50.339Z\nPO-Revision-Date: 2023-07-13 02:13+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Spanish <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-23-0/es/>\nLanguage: es\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.14.2\n"
+msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2023-05-02T13:20:50.339Z\nPO-Revision-Date: 2023-08-13 05:37+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Spanish <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-23-0/es/>\nLanguage: es\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.18.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -1211,7 +1211,7 @@ msgstr "Esta opción lleva a algunas preguntas de seguimiento."
 msgid "1 comment"
 msgid_plural "%s comments"
 msgstr[0] "1 comentario"
-msgstr[1] ""
+msgstr[1] "%s comentarios"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2946
 #, fuzzy
@@ -1774,63 +1774,63 @@ msgstr "en %s"
 msgid "less than a minute"
 msgid_plural "less than %s minutes"
 msgstr[0] "menos de un minuto"
-msgstr[1] ""
+msgstr[1] "menos de %s minutos"
 
 #: engine-wizard/elm/Wizard/Common/TimeDistance.elm:41
 #, fuzzy
 msgid "1 minute"
 msgid_plural "%s minutes"
 msgstr[0] "1 minuto"
-msgstr[1] ""
+msgstr[1] "%s minutos"
 
 #: engine-wizard/elm/Wizard/Common/TimeDistance.elm:44
 #, fuzzy
 msgid "about 1 hour"
 msgid_plural "about %s hours"
 msgstr[0] "aproximadamente 1 hora"
-msgstr[1] ""
+msgstr[1] "sobre %s horas"
 
 #: engine-wizard/elm/Wizard/Common/TimeDistance.elm:47
 #, fuzzy
 msgid "1 day"
 msgid_plural "%s days"
 msgstr[0] "1 día"
-msgstr[1] ""
+msgstr[1] "%s días"
 
 #: engine-wizard/elm/Wizard/Common/TimeDistance.elm:50
 #, fuzzy
 msgid "about 1 month"
 msgid_plural "about %s months"
 msgstr[0] "alrededor de 1 mes"
-msgstr[1] ""
+msgstr[1] "sobre %s meses"
 
 #: engine-wizard/elm/Wizard/Common/TimeDistance.elm:53
 #, fuzzy
 msgid "1 month"
 msgid_plural "%s months"
 msgstr[0] "1 mes"
-msgstr[1] ""
+msgstr[1] "meses"
 
 #: engine-wizard/elm/Wizard/Common/TimeDistance.elm:56
 #, fuzzy
 msgid "about 1 year"
 msgid_plural "about %s years"
 msgstr[0] "alrededor de 1 año"
-msgstr[1] ""
+msgstr[1] "sobre %s años"
 
 #: engine-wizard/elm/Wizard/Common/TimeDistance.elm:59
 #, fuzzy
 msgid "over 1 year"
 msgid_plural "over %s years"
 msgstr[0] "más de 1 año"
-msgstr[1] ""
+msgstr[1] "más de %s años"
 
 #: engine-wizard/elm/Wizard/Common/TimeDistance.elm:62
 #, fuzzy
 msgid "almost 1 year"
 msgid_plural "almost %s years"
 msgstr[0] "casi 1 año"
-msgstr[1] ""
+msgstr[1] "casi %s años"
 
 #: engine-wizard/elm/Wizard/Common/View/FormActions.elm:70
 #, fuzzy
@@ -4624,7 +4624,7 @@ msgstr "Activar"
 #: engine-wizard/elm/Wizard/Locales/Create/Update.elm:92
 #, fuzzy
 msgid "Creating of the locale failed."
-msgstr "Falló la creación de la configuración regional."
+msgstr "Error en la creación de la configuración regional."
 
 #: engine-wizard/elm/Wizard/Locales/Create/View.elm:40
 #, fuzzy
@@ -5230,14 +5230,14 @@ msgstr "Estado de la importación:"
 msgid "%s questionnaire change will be imported"
 msgid_plural "%s questionnaire changes will be imported"
 msgstr[0] "%s cambio de cuestionario será importado"
-msgstr[1] ""
+msgstr[1] "%s se importarán los cambios del cuestionario"
 
 #: engine-wizard/elm/Wizard/Projects/Import/View.elm:108
 #, fuzzy
 msgid "%s error encountered"
 msgid_plural "%s errors encountered"
 msgstr[0] "%s error encontrado"
-msgstr[1] ""
+msgstr[1] "%s errores encontrados"
 
 #: engine-wizard/elm/Wizard/Projects/Import/View.elm:175
 #, fuzzy
@@ -5355,7 +5355,7 @@ msgstr "No hay cambios que afecten a sus respuestas."
 #: engine-wizard/elm/Wizard/Projects/Migration/View.elm:50
 #, fuzzy
 msgid "You can safely finalize the migration."
-msgstr "Ya puedes finalizar la migración con total seguridad."
+msgstr "Ya puedes finalizar la migración con seguridad."
 
 #: engine-wizard/elm/Wizard/Projects/Migration/View.elm:87
 #, fuzzy
