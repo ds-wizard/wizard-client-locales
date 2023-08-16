@@ -1,6 +1,6 @@
 # Remedios Melero <rmelero@iata.csic.es>, 2023.
 msgid ""
-msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2023-08-01T07:10:45.958Z\nPO-Revision-Date: 2023-08-01 09:14+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Spanish <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-26-0/es/>\nLanguage: es\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.18.2\n"
+msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2023-08-01T07:10:45.958Z\nPO-Revision-Date: 2023-08-17 05:37+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Spanish <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-26-0/es/>\nLanguage: es\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.18.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -4678,7 +4678,7 @@ msgstr "Activar"
 #: engine-wizard/elm/Wizard/Locales/Create/Update.elm:92
 #, fuzzy
 msgid "Creating of the locale failed."
-msgstr "Falló la creación de la configuración regional."
+msgstr "Error en la creación de la configuración regional."
 
 #: engine-wizard/elm/Wizard/Locales/Create/View.elm:40
 #, fuzzy
@@ -5409,7 +5409,7 @@ msgstr "No hay cambios que afecten a sus respuestas."
 #: engine-wizard/elm/Wizard/Projects/Migration/View.elm:50
 #, fuzzy
 msgid "You can safely finalize the migration."
-msgstr "Ya puedes finalizar la migración con total seguridad."
+msgstr "Ya puedes finalizar la migración con seguridad."
 
 #: engine-wizard/elm/Wizard/Projects/Migration/View.elm:87
 #, fuzzy
