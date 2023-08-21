@@ -1,9 +1,9 @@
 {
     "organizationId": "dsw",
     "localeId": "fr",
-    "version": "0.8.0",
+    "version": "0.9.0",
     "code": "fr",
-    "recommendedAppVersion": "3.25.0",
+    "recommendedAppVersion": "3.26.0",
     "name": "French",
     "description": "French locale for Wizard UI",
     "license": "CC-BY-4.0"
