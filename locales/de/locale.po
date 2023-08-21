@@ -2,7 +2,7 @@
 # Rob Hooft <rob.hooft@health-ri.nl>, 2023.
 # Eric Krüger <eric.krueger.ek@gmail.com>, 2023.
 msgid ""
-msgstr "Project-Id-Version: wizard-client:3.21.0\nPOT-Creation-Date: 2023-04-11T14:13:38.017Z\nPO-Revision-Date: 2023-06-12 02:13+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: German <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-22-1/de/>\nLanguage: de\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.14.2\n"
+msgstr "Project-Id-Version: wizard-client:3.21.0\nPOT-Creation-Date: 2023-04-11T14:13:38.017Z\nPO-Revision-Date: 2023-08-22 11:38+0000\nLast-Translator: Eric Krüger <eric.krueger.ek@gmail.com>\nLanguage-Team: German <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-22-1/de/>\nLanguage: de\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.18.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -758,7 +758,7 @@ msgstr "Sortieren nach"
 
 #: engine-wizard/elm/Wizard/Common/Components/Listing/View.elm:333
 msgid "Clear selection"
-msgstr "Auswahl löschen"
+msgstr "Auswahl aufheben"
 
 #: engine-wizard/elm/Wizard/Common/Components/Listing/View.elm:411
 msgid "Last"
@@ -2552,7 +2552,7 @@ msgstr "Metamodell"
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/NewDocument.elm:322
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:137
 msgid "Document Template"
-msgstr "Dokumentvorlagen"
+msgstr "Dokumentvorlage"
 
 #: engine-wizard/elm/Wizard/DocumentTemplates/Detail/View.elm:240
 #: engine-wizard/elm/Wizard/KnowledgeModels/Detail/View.elm:181
@@ -3624,7 +3624,7 @@ msgstr "Dieser Editor wird derzeit auf ein neues übergeordnetes Wissensmodell u
 #: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:137
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:692
 msgid "migrating"
-msgstr "Migration"
+msgstr "migrieren"
 
 #: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:141
 msgid "This Editor has been migrated to a new parent Knowledge Model, you can publish it now."
