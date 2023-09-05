@@ -1,17 +1,7 @@
 # Pinar Alper <pinarpink@yahoo.com>, 2023.
 # Marek Suchánek <marek.suchanek@ds-wizard.org>, 2023.
 msgid ""
-msgstr ""
-"Project-Id-Version: wizard-client:3.18.3\n"
-"POT-Creation-Date: 2023-09-05T06:15:27.816Z \n"
-"PO-Revision-Date: 2023-08-19 13:37+0000\n"
-"Last-Translator: Marek Suchánek <marek.suchanek@ds-wizard.org>\n"
-"Language-Team: Turkish <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-26-0/tr/>\n"
-"Language: tr\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.18.2\n"
+msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2023-09-05T06:15:27.816Z\nPO-Revision-Date: 2023-09-05 08:12+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Turkish <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-27-0/tr/>\nLanguage: tr\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.18.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -1114,8 +1104,9 @@ msgid "There are no answers yet."
 msgstr "Henüz cevap yok."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2594
+#, fuzzy
 msgid "This item contains no questions."
-msgstr ""
+msgstr "Bu ürün soru içermemektedir."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2639
 msgid "Move Up"
@@ -2598,12 +2589,14 @@ msgstr "kullanımdan kaldırılmış"
 #: engine-wizard/elm/Wizard/DocumentTemplates/Index/View.elm:133
 #: engine-wizard/elm/Wizard/KnowledgeModels/Detail/View.elm:58
 #: engine-wizard/elm/Wizard/KnowledgeModels/Index/View.elm:123
+#, fuzzy
 msgid "non-editable"
-msgstr ""
+msgstr "düzenlenemez"
 
 #: engine-wizard/elm/Wizard/DocumentTemplates/Detail/View.elm:90
+#, fuzzy
 msgid "This is a non-editable document template, i.e., it cannot be edited, or exported."
-msgstr ""
+msgstr "Bu düzenlenebilir olmayan bir belge şablonudur, yani düzenlenemez veya dışa aktarılamaz."
 
 #: engine-wizard/elm/Wizard/DocumentTemplates/Detail/View.elm:100
 msgid "This is not the latest available version of this document template."
@@ -3983,8 +3976,9 @@ msgid "Knowledge Model could not be deleted."
 msgstr "Bilgi Modeli silinemedi."
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Detail/View.elm:88
+#, fuzzy
 msgid "This is a non-editable knowledge model, i.e., it cannot be edited, forked, or exported."
-msgstr ""
+msgstr "Bu düzenlenebilir olmayan bir bilgi modelidir, yani düzenlenemez, çatallanamaz veya dışa aktarılamaz."
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Detail/View.elm:97
 msgid "This is not the latest available version of this Knowledge Model."
