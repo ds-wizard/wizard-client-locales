@@ -1,17 +1,7 @@
 # Rob Hooft <rob.hooft@health-ri.nl>, 2023.
 # Marek Suchánek <marek.suchanek@ds-wizard.org>, 2023.
 msgid ""
-msgstr ""
-"Project-Id-Version: wizard-client:3.18.3\n"
-"POT-Creation-Date: 2023-09-05T06:15:27.816Z \n"
-"PO-Revision-Date: 2023-08-03 19:37+0000\n"
-"Last-Translator: Rob Hooft <rob.hooft@health-ri.nl>\n"
-"Language-Team: Dutch <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-26-0/nl/>\n"
-"Language: nl\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.18.2\n"
+msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2023-09-05T06:15:27.816Z\nPO-Revision-Date: 2023-09-05 08:12+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Dutch <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-27-0/nl/>\nLanguage: nl\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.18.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -1114,8 +1104,9 @@ msgid "There are no answers yet."
 msgstr "Er zijn nog geen antwoorden."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2594
+#, fuzzy
 msgid "This item contains no questions."
-msgstr ""
+msgstr "Dit artikel bevat geen vragen."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2639
 msgid "Move Up"
@@ -2598,12 +2589,14 @@ msgstr "verouderd"
 #: engine-wizard/elm/Wizard/DocumentTemplates/Index/View.elm:133
 #: engine-wizard/elm/Wizard/KnowledgeModels/Detail/View.elm:58
 #: engine-wizard/elm/Wizard/KnowledgeModels/Index/View.elm:123
+#, fuzzy
 msgid "non-editable"
-msgstr ""
+msgstr "niet-wijzigbaar"
 
 #: engine-wizard/elm/Wizard/DocumentTemplates/Detail/View.elm:90
+#, fuzzy
 msgid "This is a non-editable document template, i.e., it cannot be edited, or exported."
-msgstr ""
+msgstr "Dit is een niet-bewerkbaar documentsjabloon, dat wil zeggen dat het niet bewerkt of geëxporteerd kan worden."
 
 #: engine-wizard/elm/Wizard/DocumentTemplates/Detail/View.elm:100
 msgid "This is not the latest available version of this document template."
@@ -3983,8 +3976,9 @@ msgid "Knowledge Model could not be deleted."
 msgstr "Het kennismodel kon niet verwijderd worden."
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Detail/View.elm:88
+#, fuzzy
 msgid "This is a non-editable knowledge model, i.e., it cannot be edited, forked, or exported."
-msgstr ""
+msgstr "Dit is een niet-bewerkbaar kennismodel, dat wil zeggen dat het niet bewerkt, gevorkt of geëxporteerd kan worden."
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Detail/View.elm:97
 msgid "This is not the latest available version of this Knowledge Model."
