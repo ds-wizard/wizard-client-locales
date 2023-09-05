@@ -1,16 +1,6 @@
 # Remedios Melero <rmelero@iata.csic.es>, 2023.
 msgid ""
-msgstr ""
-"Project-Id-Version: wizard-client:3.18.3\n"
-"POT-Creation-Date: 2023-09-05T06:15:27.816Z \n"
-"PO-Revision-Date: 2023-08-17 05:37+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Spanish <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-26-0/es/>\n"
-"Language: es\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.18.2\n"
+msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2023-09-05T06:15:27.816Z\nPO-Revision-Date: 2023-09-05 08:12+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Spanish <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-27-0/es/>\nLanguage: es\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.18.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -1176,8 +1166,9 @@ msgid "There are no answers yet."
 msgstr "Aún no hay respuestas."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2594
+#, fuzzy
 msgid "This item contains no questions."
-msgstr ""
+msgstr "Este artículo no contiene preguntas."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2639
 #, fuzzy
@@ -2937,12 +2928,14 @@ msgstr "obsoleto"
 #: engine-wizard/elm/Wizard/DocumentTemplates/Index/View.elm:133
 #: engine-wizard/elm/Wizard/KnowledgeModels/Detail/View.elm:58
 #: engine-wizard/elm/Wizard/KnowledgeModels/Index/View.elm:123
+#, fuzzy
 msgid "non-editable"
-msgstr ""
+msgstr "no editable"
 
 #: engine-wizard/elm/Wizard/DocumentTemplates/Detail/View.elm:90
+#, fuzzy
 msgid "This is a non-editable document template, i.e., it cannot be edited, or exported."
-msgstr ""
+msgstr "Se trata de una plantilla de documento no editable, es decir, no se puede editar ni exportar."
 
 #: engine-wizard/elm/Wizard/DocumentTemplates/Detail/View.elm:100
 #, fuzzy
@@ -4595,8 +4588,9 @@ msgid "Knowledge Model could not be deleted."
 msgstr "No se ha podido eliminar el modelo de conocimiento."
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Detail/View.elm:88
+#, fuzzy
 msgid "This is a non-editable knowledge model, i.e., it cannot be edited, forked, or exported."
-msgstr ""
+msgstr "Se trata de un modelo de conocimiento no editable, es decir, que no puede editarse, bifurcarse ni exportarse."
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Detail/View.elm:97
 #, fuzzy
