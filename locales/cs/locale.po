@@ -2,7 +2,7 @@
 # Kryštof Komanec <krystof.komanec@gmail.com>, 2023.
 # Jan Slifka <jan.slifka@ds-wizard.org>, 2023.
 msgid ""
-msgstr "Project-Id-Version: wizard-client:3.17.1\nPOT-Creation-Date: 2023-09-05T06:15:27.816Z\nPO-Revision-Date: 2023-09-05 08:12+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Czech <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-27-0/cs/>\nLanguage: cs\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 4.18.2\n"
+msgstr "Project-Id-Version: wizard-client:3.17.1\nPOT-Creation-Date: 2023-09-05T06:15:27.816Z\nPO-Revision-Date: 2023-09-06 09:38+0000\nLast-Translator: Marek Suchánek <marek.suchanek@ds-wizard.org>\nLanguage-Team: Czech <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-27-0/cs/>\nLanguage: cs\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 4.18.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -1105,7 +1105,6 @@ msgid "There are no answers yet."
 msgstr "Zatím nezodpovězeno."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2594
-#, fuzzy
 msgid "This item contains no questions."
 msgstr "Tato položka neobsahuje žádné otázky."
 
@@ -2600,12 +2599,10 @@ msgstr "zastaralé"
 #: engine-wizard/elm/Wizard/DocumentTemplates/Index/View.elm:133
 #: engine-wizard/elm/Wizard/KnowledgeModels/Detail/View.elm:58
 #: engine-wizard/elm/Wizard/KnowledgeModels/Index/View.elm:123
-#, fuzzy
 msgid "non-editable"
 msgstr "neupravitelné"
 
 #: engine-wizard/elm/Wizard/DocumentTemplates/Detail/View.elm:90
-#, fuzzy
 msgid "This is a non-editable document template, i.e., it cannot be edited, or exported."
 msgstr "Jedná se o neupravitelnou šablonu dokumentu, tj. nelze ji upravovat ani exportovat."
 
@@ -3987,9 +3984,8 @@ msgid "Knowledge Model could not be deleted."
 msgstr "Znalostní model nemohl být odstraněn."
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Detail/View.elm:88
-#, fuzzy
 msgid "This is a non-editable knowledge model, i.e., it cannot be edited, forked, or exported."
-msgstr "Jedná se o neupravitelný znalostní model, tj. nelze jej upravovat, rozvětvovat ani exportovat."
+msgstr "Jedná se o neupravitelný znalostní model, tj. nelze jej upravovat, forkovat ani exportovat."
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Detail/View.elm:97
 msgid "This is not the latest available version of this Knowledge Model."
