@@ -3,7 +3,7 @@
 # Eric Krüger <eric.krueger.ek@gmail.com>, 2023.
 # timsu100 <tim.surber96@gmail.com>, 2023.
 msgid ""
-msgstr "Project-Id-Version: wizard-client:3.21.0\nPOT-Creation-Date: 2023-09-05T06:15:27.816Z\nPO-Revision-Date: 2023-09-05 08:12+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: German <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-27-0/de/>\nLanguage: de\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.18.2\n"
+msgstr "Project-Id-Version: wizard-client:3.21.0\nPOT-Creation-Date: 2023-09-05T06:15:27.816Z\nPO-Revision-Date: 2023-09-12 13:38+0000\nLast-Translator: Eric Krüger <eric.krueger.ek@gmail.com>\nLanguage-Team: German <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-27-0/de/>\nLanguage: de\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.18.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -1106,7 +1106,6 @@ msgid "There are no answers yet."
 msgstr "Es liegen noch keine Antworten vor."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2594
-#, fuzzy
 msgid "This item contains no questions."
 msgstr "Dieser Artikel enthält keine Fragen."
 
@@ -1548,7 +1547,7 @@ msgstr "Dev"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:165
 msgid "Operations"
-msgstr "Operations"
+msgstr "Operationen"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:170
 msgid "Persistent Commands"
@@ -2591,12 +2590,10 @@ msgstr "Veraltet"
 #: engine-wizard/elm/Wizard/DocumentTemplates/Index/View.elm:133
 #: engine-wizard/elm/Wizard/KnowledgeModels/Detail/View.elm:58
 #: engine-wizard/elm/Wizard/KnowledgeModels/Index/View.elm:123
-#, fuzzy
 msgid "non-editable"
 msgstr "nicht editierbar"
 
 #: engine-wizard/elm/Wizard/DocumentTemplates/Detail/View.elm:90
-#, fuzzy
 msgid "This is a non-editable document template, i.e., it cannot be edited, or exported."
 msgstr "Dies ist eine nicht editierbare Dokumentvorlage, d.h. sie kann nicht bearbeitet oder exportiert werden."
 
@@ -2971,7 +2968,7 @@ msgstr "Keine weiteren Warnungen."
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:516
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:579
 msgid "Knowledge Model"
-msgstr "Wissensmodelle"
+msgstr "Wissensmodell"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:499
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:219
@@ -3978,7 +3975,6 @@ msgid "Knowledge Model could not be deleted."
 msgstr "Das Wissensmodell konnte nicht gelöscht werden."
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Detail/View.elm:88
-#, fuzzy
 msgid "This is a non-editable knowledge model, i.e., it cannot be edited, forked, or exported."
 msgstr "Es handelt sich um ein nicht editierbares Wissensmodell, d.h. es kann nicht bearbeitet, verzweigt oder exportiert werden."
 
@@ -5332,7 +5328,7 @@ msgstr "Wenn diese Option aktiviert ist, können Benutzer ein Feedback zu Fragen
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:101
 msgid "Project Tagging"
-msgstr "Projekt-Tags"
+msgstr "Projekt-Tagging"
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:102
 msgid "If enabled, users can tag their projects and use these tags to filter them."
