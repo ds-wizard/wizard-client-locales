@@ -2,7 +2,7 @@
 # Rob Hooft <rob.hooft@health-ri.nl>, 2023.
 # Eric Krüger <eric.krueger.ek@gmail.com>, 2023.
 msgid ""
-msgstr "Project-Id-Version: wizard-client:3.21.0\nPOT-Creation-Date: 2023-05-02T13:20:50.339Z\nPO-Revision-Date: 2023-08-22 11:37+0000\nLast-Translator: Eric Krüger <eric.krueger.ek@gmail.com>\nLanguage-Team: German <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-23-0/de/>\nLanguage: de\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.18.2\n"
+msgstr "Project-Id-Version: wizard-client:3.21.0\nPOT-Creation-Date: 2023-05-02T13:20:50.339Z\nPO-Revision-Date: 2023-09-13 05:38+0000\nLast-Translator: Eric Krüger <eric.krueger.ek@gmail.com>\nLanguage-Team: German <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-23-0/de/>\nLanguage: de\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.18.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -1509,7 +1509,7 @@ msgstr "Dev"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:164
 msgid "Operations"
-msgstr "Operations"
+msgstr "Operationen"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:169
 msgid "Persistent Commands"
@@ -2897,7 +2897,7 @@ msgstr "Keine weiteren Warnungen."
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:516
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:566
 msgid "Knowledge Model"
-msgstr "Wissensmodelle"
+msgstr "Wissensmodell"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:498
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:219
@@ -5248,7 +5248,7 @@ msgstr "Wenn diese Option aktiviert ist, können Benutzer ein Feedback zu Fragen
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:101
 msgid "Project Tagging"
-msgstr "Projekt-Tags"
+msgstr "Projekt-Tagging"
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:102
 msgid "If enabled, users can tag their projects and use these tags to filter them."
