@@ -1,18 +1,7 @@
 # Marek Suchánek <marek.suchanek@ds-wizard.org>, 2023.
 # Paulette Lieby <paulette.lieby@france-bioinformatique.fr>, 2023.
 msgid ""
-msgstr ""
-"Project-Id-Version: wizard-client:3.18.3\n"
-"POT-Creation-Date: 2023-10-03T07:38:56.147Z \n"
-"PO-Revision-Date: 2023-09-06 09:38+0000\n"
-"Last-Translator: Paulette Lieby <paulette.lieby@france-bioinformatique.fr>\n"
-"Language-Team: French <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-27-0/fr/>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 4.18.2\n"
+msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2023-10-03T07:38:56.147Z\nPO-Revision-Date: 2023-10-03 18:28+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: French <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-28-0/fr/>\nLanguage: fr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 4.18.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -1588,12 +1577,14 @@ msgid "Settings"
 msgstr "Paramètres"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:310
+#, fuzzy
 msgid "Switch to"
-msgstr ""
+msgstr "Passer à"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:314
+#, fuzzy
 msgid "More"
-msgstr ""
+msgstr "Plus d'informations"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:553
 msgid "Your session expires in %s"
@@ -4878,12 +4869,14 @@ msgid "Verify"
 msgstr "Vérifier"
 
 #: engine-wizard/elm/Wizard/Public/LogoutSuccessful/View.elm:14
+#, fuzzy
 msgid "Logged out"
-msgstr ""
+msgstr "Déconnecté"
 
 #: engine-wizard/elm/Wizard/Public/LogoutSuccessful/View.elm:15
+#, fuzzy
 msgid "You have been successfully logged out."
-msgstr ""
+msgstr "Vous avez été déconnecté avec succès."
 
 #: engine-wizard/elm/Wizard/Public/Signup/Update.elm:64
 #: engine-wizard/elm/Wizard/Public/SignupConfirmation/Update.elm:32
@@ -5659,20 +5652,24 @@ msgid "Image is taken from OpenID profile or [Gravatar](https://gravatar.com)."
 msgstr "L'image provient du profil OpenID ou de [Gravatar] (https://gravatar.com)."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/Profile.elm:237
+#, fuzzy
 msgid "Your profile is managed elsewhere."
-msgstr ""
+msgstr "Votre profil est géré ailleurs."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/SubmissionSettings.elm:130
+#, fuzzy
 msgid "Submission settings were successfully updated."
-msgstr ""
+msgstr "Les paramètres de soumission ont été mis à jour avec succès."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/SubmissionSettings.elm:136
+#, fuzzy
 msgid "Submission settings could not be saved."
-msgstr ""
+msgstr "Les paramètres de soumission n'ont pas pu être sauvegardés."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/SubmissionSettings.elm:156
+#, fuzzy
 msgid "There are no submission services to configure."
-msgstr ""
+msgstr "Il n'y a pas de services de soumission à configurer."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/SubmissionSettings.elm:163
 #: engine-wizard/elm/Wizard/Users/Edit/View.elm:110
