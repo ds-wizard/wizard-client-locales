@@ -1,7 +1,7 @@
 # Rob Hooft <rob.hooft@health-ri.nl>, 2023.
 # Marek Suchánek <marek.suchanek@ds-wizard.org>, 2023.
 msgid ""
-msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2023-10-03T07:38:56.147Z\nPO-Revision-Date: 2023-10-03 18:28+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Dutch <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-28-0/nl/>\nLanguage: nl\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.18.2\n"
+msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2023-10-03T07:38:56.147Z\nPO-Revision-Date: 2023-10-05 07:38+0000\nLast-Translator: Rob Hooft <rob.hooft@health-ri.nl>\nLanguage-Team: Dutch <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-28-0/nl/>\nLanguage: nl\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.18.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -1577,12 +1577,10 @@ msgid "Settings"
 msgstr "Instellingen"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:310
-#, fuzzy
 msgid "Switch to"
 msgstr "Overschakelen naar"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:314
-#, fuzzy
 msgid "More"
 msgstr "Meer"
 
@@ -1832,7 +1830,7 @@ msgstr "Vraag-tag zonder titel"
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1215
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1312
 msgid "Question Tags"
-msgstr "Vraag-tags"
+msgstr "Vraag-Tags"
 
 #: engine-wizard/elm/Wizard/Common/View/Tag.elm:131
 msgid "You can either use all questions from the knowledge model or filter them by question tags."
@@ -4869,12 +4867,10 @@ msgid "Verify"
 msgstr "Controleer"
 
 #: engine-wizard/elm/Wizard/Public/LogoutSuccessful/View.elm:14
-#, fuzzy
 msgid "Logged out"
 msgstr "Uitgelogd"
 
 #: engine-wizard/elm/Wizard/Public/LogoutSuccessful/View.elm:15
-#, fuzzy
 msgid "You have been successfully logged out."
 msgstr "Je bent succesvol uitgelogd."
 
@@ -5652,24 +5648,20 @@ msgid "Image is taken from OpenID profile or [Gravatar](https://gravatar.com)."
 msgstr "Plaatje word overgenomen uit OpenID-profiel of [Gravatar](https://gravatar.com)."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/Profile.elm:237
-#, fuzzy
 msgid "Your profile is managed elsewhere."
 msgstr "Je profiel wordt elders beheerd."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/SubmissionSettings.elm:130
-#, fuzzy
 msgid "Submission settings were successfully updated."
 msgstr "De indieningsinstellingen zijn bijgewerkt."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/SubmissionSettings.elm:136
-#, fuzzy
 msgid "Submission settings could not be saved."
 msgstr "De indieningsinstellingen konden niet worden opgeslagen."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/SubmissionSettings.elm:156
-#, fuzzy
 msgid "There are no submission services to configure."
-msgstr "Er hoeven geen aanmeldingsservices te worden geconfigureerd."
+msgstr "Er zijn geen aanmeldingsservices te geconfigureren."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/SubmissionSettings.elm:163
 #: engine-wizard/elm/Wizard/Users/Edit/View.elm:110
