@@ -3,7 +3,7 @@
 [![LICENSE](https://img.shields.io/github/license/ds-wizard/wizard-client-locales)](LICENSE)
 [![Language](https://img.shields.io/badge/ISO%20639--1-de-blue)](https://en.wikipedia.org/wiki/German_language)
 [![Translation status](https://img.shields.io/badge/translated-100%25-brightgreen)](https://localize.ds-wizard.org/engage/wizard-client/de/)
-[![Translation status](https://localize.ds-wizard.org/widgets/wizard-client/de/wizard-client-3-26-0/svg-badge.svg)](https://localize.ds-wizard.org/engage/wizard-client/de/)
+[![Translation status](https://localize.ds-wizard.org/widgets/wizard-client/de/wizard-client-3-27-0/svg-badge.svg)](https://localize.ds-wizard.org/engage/wizard-client/de/)
 
 ## Contributors
 
@@ -17,6 +17,10 @@
   * GitHub: [@MarekSuchanek](https://github.com/MarekSuchanek)
 
 ## Changelog
+
+### 0.5.0
+
+* Updated for version 3.27.0
 
 ### 0.4.0
 

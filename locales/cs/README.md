@@ -3,7 +3,7 @@
 [![LICENSE](https://img.shields.io/github/license/ds-wizard/wizard-client-locales)](LICENSE)
 [![Language](https://img.shields.io/badge/ISO%20639--1-cs-blue)](https://en.wikipedia.org/wiki/Czech_language)
 [![Translation status](https://img.shields.io/badge/translated-100%25-brightgreen)](https://localize.ds-wizard.org/engage/wizard-client/cs/)
-[![Translation status](https://localize.ds-wizard.org/widgets/wizard-client/cs/wizard-client-3-26-0/svg-badge.svg)](https://localize.ds-wizard.org/engage/wizard-client/cs/)
+[![Translation status](https://localize.ds-wizard.org/widgets/wizard-client/cs/wizard-client-3-27-0/svg-badge.svg)](https://localize.ds-wizard.org/engage/wizard-client/cs/)
 
 ## Contributors
 
@@ -19,6 +19,10 @@
 
 
 ## Changelog
+
+### 0.10.0
+
+* Updated for version 3.27.0
 
 ### 0.9.0
 
