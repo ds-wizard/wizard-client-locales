@@ -2,7 +2,7 @@
 # Kryštof Komanec <krystof.komanec@gmail.com>, 2023.
 # Jan Slifka <jan.slifka@ds-wizard.org>, 2023.
 msgid ""
-msgstr "Project-Id-Version: wizard-client:3.17.1\nPOT-Creation-Date: 2023-10-03T07:38:56.147Z\nPO-Revision-Date: 2023-10-03 09:26+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Czech <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-28-0/cs/>\nLanguage: cs\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 4.18.2\n"
+msgstr "Project-Id-Version: wizard-client:3.17.1\nPOT-Creation-Date: 2023-10-03T07:38:56.147Z\nPO-Revision-Date: 2023-10-03 18:28+0000\nLast-Translator: Marek Suchánek <marek.suchanek@ds-wizard.org>\nLanguage-Team: Czech <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-28-0/cs/>\nLanguage: cs\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 4.18.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -1579,14 +1579,12 @@ msgid "Settings"
 msgstr "Nastavení"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:310
-#, fuzzy
 msgid "Switch to"
-msgstr "Přepnutí na"
+msgstr "Přepnout na"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:314
-#, fuzzy
 msgid "More"
-msgstr "Více na"
+msgstr "Více"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:553
 msgid "Your session expires in %s"
@@ -4882,12 +4880,10 @@ msgid "Verify"
 msgstr "Ověřit"
 
 #: engine-wizard/elm/Wizard/Public/LogoutSuccessful/View.elm:14
-#, fuzzy
 msgid "Logged out"
-msgstr "Odhlášení"
+msgstr "Odhlášeno"
 
 #: engine-wizard/elm/Wizard/Public/LogoutSuccessful/View.elm:15
-#, fuzzy
 msgid "You have been successfully logged out."
 msgstr "Byli jste úspěšně odhlášeni."
 
@@ -5665,24 +5661,20 @@ msgid "Image is taken from OpenID profile or [Gravatar](https://gravatar.com)."
 msgstr "Obrázek je převzat z OpenID profilu nebo služby [Gravatar](https://gravatar.com)."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/Profile.elm:237
-#, fuzzy
 msgid "Your profile is managed elsewhere."
 msgstr "Váš profil je spravován jinde."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/SubmissionSettings.elm:130
-#, fuzzy
 msgid "Submission settings were successfully updated."
 msgstr "Nastavení odesílání byla úspěšně aktualizována."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/SubmissionSettings.elm:136
-#, fuzzy
 msgid "Submission settings could not be saved."
 msgstr "Nastavení odesílání nebylo možné uložit."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/SubmissionSettings.elm:156
-#, fuzzy
 msgid "There are no submission services to configure."
-msgstr "Není třeba konfigurovat žádné odesílací služby."
+msgstr "Nejsou nastavené žádné odesílací služby."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/SubmissionSettings.elm:163
 #: engine-wizard/elm/Wizard/Users/Edit/View.elm:110
