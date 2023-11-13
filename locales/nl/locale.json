@@ -1,9 +1,9 @@
 {
     "organizationId": "dsw",
     "localeId": "nl",
-    "version": "0.10.0",
+    "version": "0.11.0",
     "code": "nl",
-    "recommendedAppVersion": "3.27.0",
+    "recommendedAppVersion": "3.28.0",
     "name": "Dutch",
     "description": "Dutch locale for Wizard UI",
     "license": "CC-BY-4.0"

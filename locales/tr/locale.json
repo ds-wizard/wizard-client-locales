@@ -1,9 +1,9 @@
 {
     "organizationId": "dsw",
     "localeId": "tr",
-    "version": "0.5.0",
+    "version": "0.6.0",
     "code": "tr",
-    "recommendedAppVersion": "3.27.0",
+    "recommendedAppVersion": "3.28.0",
     "name": "Turkish",
     "description": "Turkish locale for Wizard UI",
     "license": "CC-BY-4.0"
