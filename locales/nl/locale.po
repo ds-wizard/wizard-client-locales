@@ -1,17 +1,7 @@
 # Rob Hooft <rob.hooft@health-ri.nl>, 2023.
 # Marek Suchánek <marek.suchanek@ds-wizard.org>, 2023.
 msgid ""
-msgstr ""
-"Project-Id-Version: wizard-client:3.18.3\n"
-"POT-Creation-Date: 2023-11-14T09:29:30.457Z \n"
-"PO-Revision-Date: 2023-10-05 07:38+0000\n"
-"Last-Translator: Rob Hooft <rob.hooft@health-ri.nl>\n"
-"Language-Team: Dutch <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-28-0/nl/>\n"
-"Language: nl\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.18.2\n"
+msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2023-11-14T09:29:30.457Z\nPO-Revision-Date: 2023-11-15 10:39+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Dutch <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-0-0/nl/>\nLanguage: nl\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.18.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -827,8 +817,9 @@ msgid "Clear answer"
 msgstr "Antwoord leegmaken"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2519
+#, fuzzy
 msgid "There are no follow up questions in this phase."
-msgstr ""
+msgstr "Er zijn geen vervolgvragen in deze fase."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2554
 msgid "There are no answers yet."
@@ -1268,8 +1259,9 @@ msgstr "Geen resultaten gevonden voor de zoekopdracht."
 
 #: engine-wizard/elm/Wizard/Common/Components/TypeHintInput/TypeHintItem.elm:100
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:409
+#, fuzzy
 msgid "private"
-msgstr ""
+msgstr "privé"
 
 #: engine-wizard/elm/Wizard/Common/Components/UsageTable.elm:17
 msgid "Active Users"
@@ -1348,8 +1340,9 @@ msgstr "Dashboard"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:84
 #: engine-wizard/elm/Wizard/Tenants/Index/View.elm:24
+#, fuzzy
 msgid "Tenants"
-msgstr ""
+msgstr "Huurders"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:99
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:119
@@ -1403,8 +1396,9 @@ msgid "More"
 msgstr "Meer"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:344
+#, fuzzy
 msgid "Wizard"
-msgstr ""
+msgstr "Tovenaar"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:567
 msgid "Your session expires in %s"
@@ -1446,8 +1440,9 @@ msgid "You can also write us an email to %s."
 msgstr "Je kunt ons ook een e-mail sturen aan %s."
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:728
+#, fuzzy
 msgid "Report Issue"
-msgstr ""
+msgstr "Rapporteer een issue"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:732
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:778
@@ -4381,20 +4376,23 @@ msgid "Unable to get users."
 msgstr "Kan gebruikers niet ophalen."
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:196
+#, fuzzy
 msgid "Unable to get user groups."
-msgstr ""
+msgstr "Kan gebruikersgroepen niet ophalen."
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:352
 msgid "Share Project"
 msgstr "Deel project"
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:372
+#, fuzzy
 msgid "Add user group"
-msgstr ""
+msgstr "Gebruikersgroep toevoegen"
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:381
+#, fuzzy
 msgid "User Groups"
-msgstr ""
+msgstr "Gebruikersgroepen"
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:441
 msgid "Add users"
@@ -5360,27 +5358,32 @@ msgid "Content Settings"
 msgstr "Inhoudsinstellingen"
 
 #: engine-wizard/elm/Wizard/Tenants/Create/Update.elm:59
+#, fuzzy
 msgid "Tenant could not be created."
-msgstr ""
+msgstr "Huurder kon niet worden aangemaakt."
 
 #: engine-wizard/elm/Wizard/Tenants/Create/View.elm:24
+#, fuzzy
 msgid "Create tenant"
-msgstr ""
+msgstr "Huurder aanmaken"
 
 #: engine-wizard/elm/Wizard/Tenants/Create/View.elm:36
 #: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:112
 #: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:157
 #: engine-wizard/elm/Wizard/Tenants/Index/View.elm:57
+#, fuzzy
 msgid "Tenant ID"
-msgstr ""
+msgstr "Huurder ID"
 
 #: engine-wizard/elm/Wizard/Tenants/Detail/Update.elm:36
+#, fuzzy
 msgid "Unable to get tenant."
-msgstr ""
+msgstr "Kan geen huurder krijgen."
 
 #: engine-wizard/elm/Wizard/Tenants/Detail/Update.elm:126
+#, fuzzy
 msgid "Tenant could not be saved."
-msgstr ""
+msgstr "Huurder kon niet worden gered."
 
 #: engine-wizard/elm/Wizard/Tenants/Detail/Update.elm:168
 msgid "Plan could not be created."
@@ -5442,8 +5445,9 @@ msgid "Delete plan"
 msgstr "Verwijder plan"
 
 #: engine-wizard/elm/Wizard/Tenants/Index/Update.elm:41
+#, fuzzy
 msgid "Unable to get tenants."
-msgstr ""
+msgstr "Kan geen huurders krijgen."
 
 #: engine-wizard/elm/Wizard/Tenants/Index/View.elm:36
 msgid "Enabled only"
@@ -5454,12 +5458,14 @@ msgid "Disabled only"
 msgstr "Alleen uitgeschakelde"
 
 #: engine-wizard/elm/Wizard/Tenants/Index/View.elm:46
+#, fuzzy
 msgid "Click \"Create\" button to add a new tenant."
-msgstr ""
+msgstr "Klik op de knop \"Aanmaken\" om een nieuwe huurder toe te voegen."
 
 #: engine-wizard/elm/Wizard/Tenants/Index/View.elm:54
+#, fuzzy
 msgid "Search tenants..."
-msgstr ""
+msgstr "Huurders zoeken..."
 
 #: engine-wizard/elm/Wizard/Users/Create/Update.elm:66
 msgid "User could not be created."
