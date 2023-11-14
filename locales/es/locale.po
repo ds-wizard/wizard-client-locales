@@ -1,16 +1,6 @@
 # Remedios Melero <rmelero@iata.csic.es>, 2023.
 msgid ""
-msgstr ""
-"Project-Id-Version: wizard-client:3.18.3\n"
-"POT-Creation-Date: 2023-11-14T09:29:30.457Z \n"
-"PO-Revision-Date: 2023-10-03 18:28+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Spanish <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-28-0/es/>\n"
-"Language: es\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.18.2\n"
+msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2023-11-14T09:29:30.457Z\nPO-Revision-Date: 2023-11-15 10:39+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Spanish <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-0-0/es/>\nLanguage: es\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.18.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -888,8 +878,9 @@ msgid "Clear answer"
 msgstr "Respuesta clara"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2519
+#, fuzzy
 msgid "There are no follow up questions in this phase."
-msgstr ""
+msgstr "En esta fase no hay preguntas de seguimiento."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2554
 #, fuzzy
@@ -1395,8 +1386,9 @@ msgstr "No se han encontrado resultados que coincidan con su búsqueda."
 
 #: engine-wizard/elm/Wizard/Common/Components/TypeHintInput/TypeHintItem.elm:100
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:409
+#, fuzzy
 msgid "private"
-msgstr ""
+msgstr "privado"
 
 #: engine-wizard/elm/Wizard/Common/Components/UsageTable.elm:17
 #, fuzzy
@@ -1488,8 +1480,9 @@ msgstr "Cuadro de mandos"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:84
 #: engine-wizard/elm/Wizard/Tenants/Index/View.elm:24
+#, fuzzy
 msgid "Tenants"
-msgstr ""
+msgstr "Inquilinos"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:99
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:119
@@ -1553,8 +1546,9 @@ msgid "More"
 msgstr "Más"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:344
+#, fuzzy
 msgid "Wizard"
-msgstr ""
+msgstr "Mago"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:567
 #, fuzzy
@@ -1605,8 +1599,9 @@ msgid "You can also write us an email to %s."
 msgstr "También puedes escribirnos un correo electrónico a %s."
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:728
+#, fuzzy
 msgid "Report Issue"
-msgstr ""
+msgstr "Emisión del informe"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:732
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:778
@@ -5114,8 +5109,9 @@ msgid "Unable to get users."
 msgstr "No se pueden obtener usuarios."
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:196
+#, fuzzy
 msgid "Unable to get user groups."
-msgstr ""
+msgstr "No se pueden obtener los grupos de usuarios."
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:352
 #, fuzzy
@@ -5123,12 +5119,14 @@ msgid "Share Project"
 msgstr "Compartir proyecto"
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:372
+#, fuzzy
 msgid "Add user group"
-msgstr ""
+msgstr "Añadir grupo de usuarios"
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:381
+#, fuzzy
 msgid "User Groups"
-msgstr ""
+msgstr "Grupos de usuarios"
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:441
 #, fuzzy
@@ -6316,27 +6314,32 @@ msgid "Content Settings"
 msgstr "Ajustes de contenido"
 
 #: engine-wizard/elm/Wizard/Tenants/Create/Update.elm:59
+#, fuzzy
 msgid "Tenant could not be created."
-msgstr ""
+msgstr "No se ha podido crear el inquilino."
 
 #: engine-wizard/elm/Wizard/Tenants/Create/View.elm:24
+#, fuzzy
 msgid "Create tenant"
-msgstr ""
+msgstr "Crear inquilino"
 
 #: engine-wizard/elm/Wizard/Tenants/Create/View.elm:36
 #: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:112
 #: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:157
 #: engine-wizard/elm/Wizard/Tenants/Index/View.elm:57
+#, fuzzy
 msgid "Tenant ID"
-msgstr ""
+msgstr "Identificación del inquilino"
 
 #: engine-wizard/elm/Wizard/Tenants/Detail/Update.elm:36
+#, fuzzy
 msgid "Unable to get tenant."
-msgstr ""
+msgstr "Incapaz de conseguir inquilino."
 
 #: engine-wizard/elm/Wizard/Tenants/Detail/Update.elm:126
+#, fuzzy
 msgid "Tenant could not be saved."
-msgstr ""
+msgstr "El inquilino no pudo salvarse."
 
 #: engine-wizard/elm/Wizard/Tenants/Detail/Update.elm:168
 msgid "Plan could not be created."
@@ -6398,8 +6401,9 @@ msgid "Delete plan"
 msgstr "Borrar el plan"
 
 #: engine-wizard/elm/Wizard/Tenants/Index/Update.elm:41
+#, fuzzy
 msgid "Unable to get tenants."
-msgstr ""
+msgstr "Incapaz de conseguir inquilinos."
 
 #: engine-wizard/elm/Wizard/Tenants/Index/View.elm:36
 msgid "Enabled only"
@@ -6410,12 +6414,14 @@ msgid "Disabled only"
 msgstr "Solo deshabilitados"
 
 #: engine-wizard/elm/Wizard/Tenants/Index/View.elm:46
+#, fuzzy
 msgid "Click \"Create\" button to add a new tenant."
-msgstr ""
+msgstr "Haga clic en el botón \"Crear\" para añadir un nuevo inquilino."
 
 #: engine-wizard/elm/Wizard/Tenants/Index/View.elm:54
+#, fuzzy
 msgid "Search tenants..."
-msgstr ""
+msgstr "Buscar inquilinos..."
 
 #: engine-wizard/elm/Wizard/Users/Create/Update.elm:66
 #, fuzzy
