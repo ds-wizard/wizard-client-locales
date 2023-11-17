@@ -53,4 +53,9 @@ jobs:
         uses: ncipollo/release-action@v1
         id: create_release
         with:
+          allowUpdates: true
+          artifactErrorsFailBuild: true
           artifacts: "out/dsw_${{ env.LANG }}_${{ env.VERSION }}.zip"
+          artifactContentType: application/zip
+          prerelease: ${{ steps.check_prerelease.outputs.is_prerelease }}
+          replacesArtifacts: true
