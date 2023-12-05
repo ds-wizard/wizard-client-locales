@@ -1,7 +1,7 @@
 # Pinar Alper <pinarpink@yahoo.com>, 2023.
 # Marek Suchánek <marek.suchanek@ds-wizard.org>, 2023.
 msgid ""
-msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2023-11-14T09:29:30.457Z\nPO-Revision-Date: 2023-11-15 10:39+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Turkish <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-0-0/tr/>\nLanguage: tr\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.18.2\n"
+msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2023-11-14T09:29:30.457Z\nPO-Revision-Date: 2023-12-06 06:43+0000\nLast-Translator: Marek Suchánek <marek.suchanek@ds-wizard.org>\nLanguage-Team: Turkish <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-0-0/tr/>\nLanguage: tr\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.18.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -817,7 +817,6 @@ msgid "Clear answer"
 msgstr "Cevabı temizle"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2519
-#, fuzzy
 msgid "There are no follow up questions in this phase."
 msgstr "Bu aşamada herhangi bir takip sorusu bulunmamaktadır."
 
@@ -1259,7 +1258,6 @@ msgstr "Aramanızla eşleşen bir sonuç bulunamadı."
 
 #: engine-wizard/elm/Wizard/Common/Components/TypeHintInput/TypeHintItem.elm:100
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:409
-#, fuzzy
 msgid "private"
 msgstr "özel"
 
@@ -1340,7 +1338,6 @@ msgstr "Gösterge Tablosu"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:84
 #: engine-wizard/elm/Wizard/Tenants/Index/View.elm:24
-#, fuzzy
 msgid "Tenants"
 msgstr "Kiracılar"
 
@@ -1396,9 +1393,8 @@ msgid "More"
 msgstr "Daha fazla"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:344
-#, fuzzy
 msgid "Wizard"
-msgstr "Sihirbaz"
+msgstr "Wizard"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:567
 msgid "Your session expires in %s"
@@ -1440,7 +1436,6 @@ msgid "You can also write us an email to %s."
 msgstr "Bize %s adresine bir e-posta da yazabilirsiniz."
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:728
-#, fuzzy
 msgid "Report Issue"
 msgstr "Rapor sorunu"
 
@@ -4376,7 +4371,6 @@ msgid "Unable to get users."
 msgstr "Kullanıcılara ulaşılamıyor."
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:196
-#, fuzzy
 msgid "Unable to get user groups."
 msgstr "Kullanıcı grupları alınamıyor."
 
@@ -4385,12 +4379,10 @@ msgid "Share Project"
 msgstr "Proje Paylaşımı"
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:372
-#, fuzzy
 msgid "Add user group"
 msgstr "Kullanıcı grubu ekle"
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:381
-#, fuzzy
 msgid "User Groups"
 msgstr "Kullanıcı Grupları"
 
@@ -5358,12 +5350,10 @@ msgid "Content Settings"
 msgstr "İçerik Ayarları"
 
 #: engine-wizard/elm/Wizard/Tenants/Create/Update.elm:59
-#, fuzzy
 msgid "Tenant could not be created."
 msgstr "Kiracı oluşturulamadı."
 
 #: engine-wizard/elm/Wizard/Tenants/Create/View.elm:24
-#, fuzzy
 msgid "Create tenant"
 msgstr "Kiracı oluştur"
 
@@ -5371,17 +5361,14 @@ msgstr "Kiracı oluştur"
 #: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:112
 #: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:157
 #: engine-wizard/elm/Wizard/Tenants/Index/View.elm:57
-#, fuzzy
 msgid "Tenant ID"
 msgstr "Kiracı Kimliği"
 
 #: engine-wizard/elm/Wizard/Tenants/Detail/Update.elm:36
-#, fuzzy
 msgid "Unable to get tenant."
 msgstr "Kiracı bulunamıyor."
 
 #: engine-wizard/elm/Wizard/Tenants/Detail/Update.elm:126
-#, fuzzy
 msgid "Tenant could not be saved."
 msgstr "Kiracı kurtarılamadı."
 
@@ -5445,7 +5432,6 @@ msgid "Delete plan"
 msgstr "Planı sil"
 
 #: engine-wizard/elm/Wizard/Tenants/Index/Update.elm:41
-#, fuzzy
 msgid "Unable to get tenants."
 msgstr "Kiracı bulunamıyor."
 
@@ -5458,12 +5444,10 @@ msgid "Disabled only"
 msgstr "Yalnızca etkin olmayan"
 
 #: engine-wizard/elm/Wizard/Tenants/Index/View.elm:46
-#, fuzzy
 msgid "Click \"Create\" button to add a new tenant."
 msgstr "Yeni bir kiracı eklemek için \"Oluştur\" düğmesine tıklayın."
 
 #: engine-wizard/elm/Wizard/Tenants/Index/View.elm:54
-#, fuzzy
 msgid "Search tenants..."
 msgstr "Kiracıları arayın..."
 
