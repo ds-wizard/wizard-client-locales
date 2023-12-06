@@ -3,17 +3,7 @@
 # Eric Krüger <eric.krueger.ek@gmail.com>, 2023.
 # timsu100 <tim.surber96@gmail.com>, 2023.
 msgid ""
-msgstr ""
-"Project-Id-Version: wizard-client:3.21.0\n"
-"POT-Creation-Date: 2023-12-05T17:37:11.441Z \n"
-"PO-Revision-Date: 2023-12-06 06:43+0000\n"
-"Last-Translator: Marek Suchánek <marek.suchanek@ds-wizard.org>\n"
-"Language-Team: German <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-0-0/de/>\n"
-"Language: de\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.18.2\n"
+msgstr "Project-Id-Version: wizard-client:3.21.0\nPOT-Creation-Date: 2023-12-05T17:37:11.441Z\nPO-Revision-Date: 2023-12-06 09:09+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: German <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-1-0/de/>\nLanguage: de\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.18.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -634,13 +624,15 @@ msgid "Metric values"
 msgstr "Metrische Werte"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1346
+#, fuzzy
 msgid "Import replies"
-msgstr ""
+msgstr "Antworten importieren"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1368
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:152
+#, fuzzy
 msgid "Actions"
-msgstr ""
+msgstr "Aktionen"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1437
 msgid "TODOs"
@@ -663,16 +655,19 @@ msgid "Version history"
 msgstr "Versionsverlauf"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1517
+#, fuzzy
 msgid "Action succeeded!"
-msgstr ""
+msgstr "Aktion gelungen!"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1522
+#, fuzzy
 msgid "Action failed!"
-msgstr ""
+msgstr "Aktion gescheitert!"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1535
+#, fuzzy
 msgid "Ok"
-msgstr ""
+msgstr "Ok"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1594
 msgid "Current Phase"
@@ -3272,8 +3267,9 @@ msgid "Quick setup"
 msgstr "Schnelleinrichtung"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1629
+#, fuzzy
 msgid "This integration was created from a template and now differs."
-msgstr ""
+msgstr "Diese Integration wurde aus einer Vorlage erstellt und unterscheidet sich nun."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1634
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/Settings.elm:217
@@ -4098,28 +4094,34 @@ msgid "Delete locale"
 msgstr "Lokalisierung löschen"
 
 #: engine-wizard/elm/Wizard/ProjectActions/Index/Update.elm:43
+#, fuzzy
 msgid "Unable to change project action."
-msgstr ""
+msgstr "Sie können die Projektaktion nicht ändern."
 
 #: engine-wizard/elm/Wizard/ProjectActions/Index/Update.elm:47
+#, fuzzy
 msgid "Project action was changed successfully."
-msgstr ""
+msgstr "Die Projektaktion wurde erfolgreich geändert."
 
 #: engine-wizard/elm/Wizard/ProjectActions/Index/Update.elm:70
+#, fuzzy
 msgid "Unable to get project actions."
-msgstr ""
+msgstr "Es können keine Projektaktionen abgerufen werden."
 
 #: engine-wizard/elm/Wizard/ProjectActions/Index/View.elm:26
+#, fuzzy
 msgid "Project Actions"
-msgstr ""
+msgstr "Projekt-Aktionen"
 
 #: engine-wizard/elm/Wizard/ProjectActions/Index/View.elm:39
+#, fuzzy
 msgid "There are no project actions available."
-msgstr ""
+msgstr "Es sind keine Projektmaßnahmen verfügbar."
 
 #: engine-wizard/elm/Wizard/ProjectActions/Index/View.elm:43
+#, fuzzy
 msgid "Search actions..."
-msgstr ""
+msgstr "Suchaktionen..."
 
 #: engine-wizard/elm/Wizard/ProjectActions/Index/View.elm:64
 #: engine-wizard/elm/Wizard/ProjectImporters/Index/View.elm:63
