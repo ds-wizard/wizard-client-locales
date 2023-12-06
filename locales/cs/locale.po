@@ -2,7 +2,7 @@
 # Kryštof Komanec <krystof.komanec@gmail.com>, 2023.
 # Jan Slifka <jan.slifka@ds-wizard.org>, 2023.
 msgid ""
-msgstr "Project-Id-Version: wizard-client:3.17.1\nPOT-Creation-Date: 2023-12-05T17:37:11.441Z\nPO-Revision-Date: 2023-12-06 09:09+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Czech <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-1-0/cs/>\nLanguage: cs\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 4.18.2\n"
+msgstr "Project-Id-Version: wizard-client:3.17.1\nPOT-Creation-Date: 2023-12-05T17:37:11.441Z\nPO-Revision-Date: 2023-12-07 09:39+0000\nLast-Translator: Marek Suchánek <marek.suchanek@ds-wizard.org>\nLanguage-Team: Czech <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-1-0/cs/>\nLanguage: cs\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 4.18.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -623,13 +623,11 @@ msgid "Metric values"
 msgstr "Hodnoty metrik"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1346
-#, fuzzy
 msgid "Import replies"
 msgstr "Import odpovědí"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1368
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:152
-#, fuzzy
 msgid "Actions"
 msgstr "Akce"
 
@@ -654,17 +652,14 @@ msgid "Version history"
 msgstr "Historie verzí"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1517
-#, fuzzy
 msgid "Action succeeded!"
 msgstr "Akce se podařila!"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1522
-#, fuzzy
 msgid "Action failed!"
 msgstr "Akce se nezdařila!"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1535
-#, fuzzy
 msgid "Ok"
 msgstr "Ok"
 
@@ -3276,7 +3271,6 @@ msgid "Quick setup"
 msgstr "Rychlé nastavení"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1629
-#, fuzzy
 msgid "This integration was created from a template and now differs."
 msgstr "Tato integrace byla vytvořena ze šablony a nyní se liší."
 
@@ -4103,34 +4097,28 @@ msgid "Delete locale"
 msgstr "Odstranit překlad"
 
 #: engine-wizard/elm/Wizard/ProjectActions/Index/Update.elm:43
-#, fuzzy
 msgid "Unable to change project action."
-msgstr "Nelze změnit akci projektu."
+msgstr "Nelze změnit projektovou akci."
 
 #: engine-wizard/elm/Wizard/ProjectActions/Index/Update.elm:47
-#, fuzzy
 msgid "Project action was changed successfully."
-msgstr "Akce projektu byla úspěšně změněna."
+msgstr "Projektová akce byla úspěšně změněna."
 
 #: engine-wizard/elm/Wizard/ProjectActions/Index/Update.elm:70
-#, fuzzy
 msgid "Unable to get project actions."
-msgstr "Nelze získat akce projektu."
+msgstr "Nelze získat projektové akce."
 
 #: engine-wizard/elm/Wizard/ProjectActions/Index/View.elm:26
-#, fuzzy
 msgid "Project Actions"
-msgstr "Akce projektu"
+msgstr "Projektové akce"
 
 #: engine-wizard/elm/Wizard/ProjectActions/Index/View.elm:39
-#, fuzzy
 msgid "There are no project actions available."
 msgstr "Nejsou k dispozici žádné projektové akce."
 
 #: engine-wizard/elm/Wizard/ProjectActions/Index/View.elm:43
-#, fuzzy
 msgid "Search actions..."
-msgstr "Vyhledávací akce..."
+msgstr "Hledat akce..."
 
 #: engine-wizard/elm/Wizard/ProjectActions/Index/View.elm:64
 #: engine-wizard/elm/Wizard/ProjectImporters/Index/View.elm:63
