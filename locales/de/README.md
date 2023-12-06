@@ -3,7 +3,7 @@
 [![LICENSE](https://img.shields.io/github/license/ds-wizard/wizard-client-locales)](LICENSE)
 [![Language](https://img.shields.io/badge/ISO%20639--1-de-blue)](https://en.wikipedia.org/wiki/German_language)
 [![Translation status](https://img.shields.io/badge/translated-100%25-brightgreen)](https://localize.ds-wizard.org/engage/wizard-client/de/)
-[![Translation status](https://localize.ds-wizard.org/widgets/wizard-client/de/wizard-client-3-28-0/svg-badge.svg)](https://localize.ds-wizard.org/engage/wizard-client/de/)
+[![Translation status](https://localize.ds-wizard.org/widgets/wizard-client/de/wizard-client-4-0-0/svg-badge.svg)](https://localize.ds-wizard.org/engage/wizard-client/de/)
 
 ## Contributors
 
@@ -17,6 +17,11 @@
   * GitHub: [@MarekSuchanek](https://github.com/MarekSuchanek)
 
 ## Changelog
+
+### 4.0.0
+
+* Switch to aligned versioning
+* Updated for version 4.0.0
 
 ### 0.6.0
 

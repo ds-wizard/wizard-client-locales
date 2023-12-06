@@ -46,7 +46,6 @@ jobs:
 
       - name: Create locale ZIP package
         run: |
-          mkdir out
           npx dsw-locale-packager locales/$LANG -o dsw_${{ env.LANG }}_${{ env.VERSION }}.zip -z
           
       - name: Create release and upload ZIP
@@ -55,7 +54,7 @@ jobs:
         with:
           allowUpdates: true
           artifactErrorsFailBuild: true
-          artifacts: "out/dsw_${{ env.LANG }}_${{ env.VERSION }}.zip"
+          artifacts: "dsw_${{ env.LANG }}_${{ env.VERSION }}.zip"
           artifactContentType: application/zip
           prerelease: ${{ steps.check_prerelease.outputs.is_prerelease }}
           replacesArtifacts: true

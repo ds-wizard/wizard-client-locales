@@ -3,7 +3,7 @@
 [![LICENSE](https://img.shields.io/github/license/ds-wizard/wizard-client-locales)](LICENSE)
 [![Language](https://img.shields.io/badge/ISO%20639--1-tr-blue)](https://en.wikipedia.org/wiki/Turkish_language)
 [![Translation status](https://img.shields.io/badge/translated-N/A%25-brightgreen)](https://localize.ds-wizard.org/engage/wizard-client/nl/)
-[![Translation status](https://localize.ds-wizard.org/widgets/wizard-client/tr/wizard-client-3-28-0/svg-badge.svg)](https://localize.ds-wizard.org/engage/wizard-client/tr/)
+[![Translation status](https://localize.ds-wizard.org/widgets/wizard-client/tr/wizard-client-4-0-0/svg-badge.svg)](https://localize.ds-wizard.org/engage/wizard-client/tr/)
 
 ## Contributors
 
@@ -13,6 +13,11 @@
 
 
 ## Changelog
+
+### 4.0.0
+
+* Switch to aligned versioning
+* Updated for version 4.0.0
 
 ### 0.6.0
 
