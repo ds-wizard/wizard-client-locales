@@ -1,6 +1,7 @@
 # Kryštof Komanec <krystof.komanec@gmail.com>, 2023.
+# Nadja Zlender <nadja.zlender@mf.uni-lj.si>, 2023.
 msgid ""
-msgstr "Project-Id-Version: wizard-client:4.1.0\nPOT-Creation-Date: 2023-12-05T17:37:11.441Z\nPO-Revision-Date: 2023-12-18 13:25+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Slovenian <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-1-0/sl/>\nLanguage: sl\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3;\nX-Generator: Weblate 4.18.2\n"
+msgstr "Project-Id-Version: wizard-client:4.1.0\nPOT-Creation-Date: 2023-12-05T17:37:11.441Z\nPO-Revision-Date: 2023-12-20 07:54+0000\nLast-Translator: Nadja Zlender <nadja.zlender@mf.uni-lj.si>\nLanguage-Team: Slovenian <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-1-0/sl/>\nLanguage: sl\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3;\nX-Generator: Weblate 4.18.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 #, fuzzy
@@ -18,14 +19,12 @@ msgid "Researcher"
 msgstr "Raziskovalec"
 
 #: engine-shared/elm/Shared/Common/TimeUtils.elm:156
-#, fuzzy
 msgid "January"
-msgstr "Januar"
+msgstr "januar"
 
 #: engine-shared/elm/Shared/Common/TimeUtils.elm:159
-#, fuzzy
 msgid "February"
-msgstr "Februar"
+msgstr "februar"
 
 #: engine-shared/elm/Shared/Common/TimeUtils.elm:162
 #, fuzzy
@@ -48,14 +47,12 @@ msgid "June"
 msgstr "junij"
 
 #: engine-shared/elm/Shared/Common/TimeUtils.elm:174
-#, fuzzy
 msgid "July"
-msgstr "Julij"
+msgstr "julij"
 
 #: engine-shared/elm/Shared/Common/TimeUtils.elm:177
-#, fuzzy
 msgid "August"
-msgstr "Avgust"
+msgstr "avgust"
 
 #: engine-shared/elm/Shared/Common/TimeUtils.elm:180
 #, fuzzy
@@ -63,19 +60,16 @@ msgid "September"
 msgstr "september"
 
 #: engine-shared/elm/Shared/Common/TimeUtils.elm:183
-#, fuzzy
 msgid "October"
-msgstr "Oktober"
+msgstr "oktober"
 
 #: engine-shared/elm/Shared/Common/TimeUtils.elm:186
-#, fuzzy
 msgid "November"
-msgstr "November"
+msgstr "november"
 
 #: engine-shared/elm/Shared/Common/TimeUtils.elm:189
-#, fuzzy
 msgid "December"
-msgstr "December"
+msgstr "december"
 
 #: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireCreation.elm:116
 #, fuzzy
@@ -154,9 +148,8 @@ msgid "Private"
 msgstr "Zasebno"
 
 #: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireVisibility.elm:146
-#, fuzzy
 msgid "Visible only to the owner and invited users."
-msgstr "Vidni so le lastniku in povabljenim uporabnikom."
+msgstr "Vidno le lastniku in povabljenim uporabnikom."
 
 #: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireVisibility.elm:149
 #, fuzzy
@@ -196,9 +189,8 @@ msgid "view"
 msgstr "ogled"
 
 #: engine-shared/elm/Shared/Data/QuestionnairePermission.elm:61
-#, fuzzy
 msgid "comment"
-msgstr "komentar:"
+msgstr "komentar"
 
 #: engine-shared/elm/Shared/Data/QuestionnairePermission.elm:62
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:511
@@ -232,15 +224,13 @@ msgid "Document template already exists."
 msgstr "Predloga dokumenta že obstaja."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:123
-#, fuzzy
 msgid "Locale already exists."
-msgstr "Lokal že obstaja."
+msgstr "Področne nastavitve že obstajajo."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:126
 #: engine-shared/elm/Shared/Error/ServerError.elm:142
-#, fuzzy
 msgid "Email is already used."
-msgstr "E-pošta se že uporablja."
+msgstr "E-pošta je že v uporabi."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:129
 #, fuzzy
@@ -285,9 +275,8 @@ msgstr "ID organizacije je že uporabljen."
 #: engine-shared/elm/Shared/Error/ServerError.elm:157
 #: engine-shared/elm/Shared/Error/ServerError.elm:263
 #: engine-shared/elm/Shared/Error/ServerError.elm:266
-#, fuzzy
 msgid "A hash query param has to be provided."
-msgstr "Zagotoviti je treba param poizvedbe hash."
+msgstr "Zagotoviti je treba parameter zgoščene poizvedbe."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:161
 #, fuzzy
@@ -372,9 +361,8 @@ msgid "documents"
 msgstr "dokumenti"
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:219
-#, fuzzy
 msgid "locales"
-msgstr "locales"
+msgstr "lokalno"
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:230
 #, fuzzy
@@ -527,9 +515,8 @@ msgid "Next"
 msgstr "Naslednji"
 
 #: engine-wizard/elm/Wizard/Common/Components/Listing/View.elm:444
-#, fuzzy
 msgid "Prev"
-msgstr "Prev"
+msgstr "Prejšnje"
 
 #: engine-wizard/elm/Wizard/Common/Components/Listing/View.elm:452
 #, fuzzy
@@ -843,9 +830,8 @@ msgid "View resolved comments"
 msgstr "Oglejte si rešene komentarje"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1922
-#, fuzzy
 msgid "Comment"
-msgstr "Komentar:"
+msgstr "Komentar"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1923
 #, fuzzy
@@ -1096,13 +1082,12 @@ msgid "This option leads to some follow up questions."
 msgstr "Zaradi te možnosti se pojavijo nekatera dodatna vprašanja."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3190
-#, fuzzy
 msgid "1 comment"
 msgid_plural "%s comments"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] "%s komentarji"
+msgstr[0] "1 komentar"
+msgstr[1] "2 komentarja"
+msgstr[2] "%s komentarjev"
+msgstr[3] "%s komentarjev"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3224
 #, fuzzy
@@ -1649,7 +1634,6 @@ msgid "Importers"
 msgstr "Uvozniki"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:173
-#, fuzzy
 msgid "Dev"
 msgstr "Dev"
 
@@ -1802,84 +1786,75 @@ msgid "in %s"
 msgstr "v %s"
 
 #: engine-wizard/elm/Wizard/Common/TimeDistance.elm:27
-#, fuzzy
 msgid "less than a minute"
 msgid_plural "less than %s minutes"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "manj kot minuta"
+msgstr[1] "manj kot 2 minuti"
+msgstr[2] "manj kot %s minut"
 msgstr[3] "manj kot %s minut"
 
 #: engine-wizard/elm/Wizard/Common/TimeDistance.elm:41
-#, fuzzy
 msgid "1 minute"
 msgid_plural "%s minutes"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "1 minuta"
+msgstr[1] "2 minuti"
+msgstr[2] "%s minute"
 msgstr[3] "%s minut"
 
 #: engine-wizard/elm/Wizard/Common/TimeDistance.elm:44
-#, fuzzy
 msgid "about 1 hour"
 msgid_plural "about %s hours"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "približno 1 ura"
+msgstr[1] "približno 2 uri"
+msgstr[2] "približno %s ure"
 msgstr[3] "približno %s ur"
 
 #: engine-wizard/elm/Wizard/Common/TimeDistance.elm:47
-#, fuzzy
 msgid "1 day"
 msgid_plural "%s days"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "1 dan"
+msgstr[1] "2 dneva"
+msgstr[2] "%s dnevi"
 msgstr[3] "%s dni"
 
 #: engine-wizard/elm/Wizard/Common/TimeDistance.elm:50
-#, fuzzy
 msgid "about 1 month"
 msgid_plural "about %s months"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "približno 1 mesec"
+msgstr[1] "približno 2 meseca"
+msgstr[2] "približno %s meseci"
 msgstr[3] "približno %s mesecev"
 
 #: engine-wizard/elm/Wizard/Common/TimeDistance.elm:53
-#, fuzzy
 msgid "1 month"
 msgid_plural "%s months"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "1 mesec"
+msgstr[1] "2 meseca"
+msgstr[2] "%s meseci"
 msgstr[3] "%s mesecev"
 
 #: engine-wizard/elm/Wizard/Common/TimeDistance.elm:56
-#, fuzzy
 msgid "about 1 year"
 msgid_plural "about %s years"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "približno 1 leto"
+msgstr[1] "približno 2 leti"
+msgstr[2] "približno %s leta"
 msgstr[3] "približno %s let"
 
 #: engine-wizard/elm/Wizard/Common/TimeDistance.elm:59
-#, fuzzy
 msgid "over 1 year"
 msgid_plural "over %s years"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "več kot 1 leto"
+msgstr[1] "več kot 2 leti"
+msgstr[2] "več kot %s leta"
 msgstr[3] "več kot %s let"
 
 #: engine-wizard/elm/Wizard/Common/TimeDistance.elm:62
-#, fuzzy
 msgid "almost 1 year"
 msgid_plural "almost %s years"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "skoraj 1 leto"
+msgstr[1] "skoraj 2 leti"
+msgstr[2] "skoraj %s leta"
 msgstr[3] "skoraj %s let"
 
 #: engine-wizard/elm/Wizard/Common/View/FormActions.elm:70
@@ -2711,7 +2686,6 @@ msgstr "Licenca"
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/Settings.elm:191
 #: engine-wizard/elm/Wizard/KMEditor/Publish/View.elm:85
 #: engine-wizard/elm/Wizard/Locales/Create/View.elm:53
-#, fuzzy
 msgid "Readme"
 msgstr "Readme"
 
@@ -2990,7 +2964,6 @@ msgstr "ID"
 
 #: engine-wizard/elm/Wizard/DocumentTemplates/Detail/View.elm:215
 #: engine-wizard/elm/Wizard/KnowledgeModels/Detail/View.elm:162
-#, fuzzy
 msgid "Metamodel"
 msgstr "Metamodel"
 
@@ -5418,22 +5391,20 @@ msgid "Import status:"
 msgstr "Status uvoza:"
 
 #: engine-wizard/elm/Wizard/Projects/Import/View.elm:90
-#, fuzzy
 msgid "%s questionnaire change will be imported"
 msgid_plural "%s questionnaire changes will be imported"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "sprememba vprašalnika bo uvožena"
+msgstr[1] "spremembi vprašalnika bosta uvoženi"
+msgstr[2] "%s bodo uvožene spremembe vprašalnika"
 msgstr[3] "%s bodo uvožene spremembe vprašalnika"
 
 #: engine-wizard/elm/Wizard/Projects/Import/View.elm:108
-#, fuzzy
 msgid "%s error encountered"
 msgid_plural "%s errors encountered"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] "%s naleteli na napake"
+msgstr[0] "prišlo je do napake"
+msgstr[1] "prišlo je do dveh napak"
+msgstr[2] "prišlo je do %s napak"
+msgstr[3] "prišlo je do %s napak"
 
 #: engine-wizard/elm/Wizard/Projects/Import/View.elm:175
 #, fuzzy
