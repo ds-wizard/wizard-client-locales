@@ -1,7 +1,7 @@
 # Rob Hooft <rob.hooft@health-ri.nl>, 2023.
 # Marek Suchánek <marek.suchanek@ds-wizard.org>, 2023.
 msgid ""
-msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2023-12-05T17:37:11.441Z\nPO-Revision-Date: 2023-12-06 09:09+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Dutch <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-1-0/nl/>\nLanguage: nl\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.18.2\n"
+msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2023-12-05T17:37:11.441Z\nPO-Revision-Date: 2023-12-20 12:20+0000\nLast-Translator: Rob Hooft <rob.hooft@health-ri.nl>\nLanguage-Team: Dutch <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-1-0/nl/>\nLanguage: nl\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.18.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -622,13 +622,11 @@ msgid "Metric values"
 msgstr "Meetwaarden"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1346
-#, fuzzy
 msgid "Import replies"
 msgstr "Antwoorden importeren"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1368
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:152
-#, fuzzy
 msgid "Actions"
 msgstr "Acties"
 
@@ -653,17 +651,14 @@ msgid "Version history"
 msgstr "Versiehistorie"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1517
-#, fuzzy
 msgid "Action succeeded!"
 msgstr "Actie geslaagd!"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1522
-#, fuzzy
 msgid "Action failed!"
 msgstr "Actie mislukt!"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1535
-#, fuzzy
 msgid "Ok"
 msgstr "Ok"
 
@@ -1460,7 +1455,7 @@ msgstr "Je kunt ons ook een e-mail sturen aan %s."
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:738
 msgid "Report Issue"
-msgstr "Rapporteer een issue"
+msgstr "Rapporteer een Issue"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:742
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:788
@@ -3265,9 +3260,8 @@ msgid "Quick setup"
 msgstr "Snelle setup"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1629
-#, fuzzy
 msgid "This integration was created from a template and now differs."
-msgstr "Deze integratie is gemaakt vanuit een sjabloon en verschilt nu."
+msgstr "Deze integratie is gemaakt vanuit een sjabloon en verschilt daar nu van."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1634
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/Settings.elm:217
@@ -4092,34 +4086,28 @@ msgid "Delete locale"
 msgstr "Verwijder vertaling"
 
 #: engine-wizard/elm/Wizard/ProjectActions/Index/Update.elm:43
-#, fuzzy
 msgid "Unable to change project action."
 msgstr "Kan projectactie niet wijzigen."
 
 #: engine-wizard/elm/Wizard/ProjectActions/Index/Update.elm:47
-#, fuzzy
 msgid "Project action was changed successfully."
 msgstr "Projectactie is succesvol gewijzigd."
 
 #: engine-wizard/elm/Wizard/ProjectActions/Index/Update.elm:70
-#, fuzzy
 msgid "Unable to get project actions."
 msgstr "Kan projectacties niet ophalen."
 
 #: engine-wizard/elm/Wizard/ProjectActions/Index/View.elm:26
-#, fuzzy
 msgid "Project Actions"
 msgstr "Projectacties"
 
 #: engine-wizard/elm/Wizard/ProjectActions/Index/View.elm:39
-#, fuzzy
 msgid "There are no project actions available."
 msgstr "Er zijn geen projectacties beschikbaar."
 
 #: engine-wizard/elm/Wizard/ProjectActions/Index/View.elm:43
-#, fuzzy
 msgid "Search actions..."
-msgstr "Zoekacties..."
+msgstr "Zoek acties..."
 
 #: engine-wizard/elm/Wizard/ProjectActions/Index/View.elm:64
 #: engine-wizard/elm/Wizard/ProjectImporters/Index/View.elm:63
