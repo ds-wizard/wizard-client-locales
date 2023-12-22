@@ -1,10 +1,10 @@
 {
     "organizationId": "dsw",
-    "localeId": "de",
+    "localeId": "sl",
     "version": "4.1.0",
-    "code": "de",
+    "code": "sl",
     "recommendedAppVersion": "4.1.0",
-    "name": "German",
-    "description": "German locale for Wizard UI",
+    "name": "Slovenian",
+    "description": "Slovenian locale for Wizard UI",
     "license": "CC-BY-4.0"
 }
