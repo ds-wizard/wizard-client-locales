@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: wizard-client:4.1.0\n"
-"POT-Creation-Date: 2023-12-05T17:37:11.441Z \n"
+"Project-Id-Version: wizard-client:4.2.0\n"
+"POT-Creation-Date: 2024-01-02T07:42:43.985Z \n"
 "Language: en\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1068,7 +1068,7 @@ msgstr ""
 #: engine-wizard/elm/Wizard/KMEditor/Publish/View.elm:83
 #: engine-wizard/elm/Wizard/Locales/Create/View.elm:48
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:410
-#: engine-wizard/elm/Wizard/Settings/Organization/View.elm:36
+#: engine-wizard/elm/Wizard/Settings/Organization/View.elm:47
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:105
 msgid "Description"
 msgstr ""
@@ -1167,7 +1167,7 @@ msgstr ""
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:212
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:248
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:269
-#: engine-wizard/elm/Wizard/Settings/Organization/View.elm:34
+#: engine-wizard/elm/Wizard/Settings/Organization/View.elm:45
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:104
 #: engine-wizard/elm/Wizard/Tenants/Create/View.elm:37
 #: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:158
@@ -1197,7 +1197,7 @@ msgstr ""
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:41
 #: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:32
 #: engine-wizard/elm/Wizard/Settings/KnowledgeModels/View.elm:29
-#: engine-wizard/elm/Wizard/Settings/Organization/View.elm:25
+#: engine-wizard/elm/Wizard/Settings/Organization/View.elm:26
 #: engine-wizard/elm/Wizard/Settings/PrivacyAndSupport/View.elm:28
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:30
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:41
@@ -2279,7 +2279,7 @@ msgstr ""
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:287
 #: engine-wizard/elm/Wizard/KnowledgeModels/Import/OwlImport/View.elm:44
 #: engine-wizard/elm/Wizard/Settings/KnowledgeModels/View.elm:46
-#: engine-wizard/elm/Wizard/Settings/Organization/View.elm:37
+#: engine-wizard/elm/Wizard/Settings/Organization/View.elm:48
 #: engine-wizard/elm/Wizard/Settings/Registry/View.elm:139
 msgid "Organization ID"
 msgstr ""
@@ -3242,7 +3242,7 @@ msgid "Widget URL"
 msgstr ""
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1553
-msgid "The URL of the widget implemented using [DSW Integration Widget SDK](https://github.com/ds-wizard/dsw-integration-widget-sdk)."
+msgid "The URL of the widget implemented using [DSW Integration SDK](https://github.com/ds-wizard/dsw-integration-sdk)."
 msgstr ""
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1555
@@ -5105,25 +5105,25 @@ msgstr ""
 msgid "New window"
 msgstr ""
 
-#: engine-wizard/elm/Wizard/Settings/Organization/View.elm:24
+#: engine-wizard/elm/Wizard/Settings/Organization/View.elm:25
 #: engine-wizard/elm/Wizard/Settings/View.elm:110
 msgid "Organization"
 msgstr ""
 
-#: engine-wizard/elm/Wizard/Settings/Organization/View.elm:35
-msgid "Name of the organization running this instance."
-msgstr ""
-
-#: engine-wizard/elm/Wizard/Settings/Organization/View.elm:38
-msgid "Organization ID is used to identify Knowledge Models created in this instance. It can contain alphanumeric characters and dots but cannot start or end with a dot."
-msgstr ""
-
-#: engine-wizard/elm/Wizard/Settings/Organization/View.elm:39
+#: engine-wizard/elm/Wizard/Settings/Organization/View.elm:40
 msgid "Affiliations"
 msgstr ""
 
-#: engine-wizard/elm/Wizard/Settings/Organization/View.elm:40
+#: engine-wizard/elm/Wizard/Settings/Organization/View.elm:41
 msgid "Affiliation options will be used to help users choose their affiliation while signing up or editing their profile. Write one affiliation option per line."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/Organization/View.elm:46
+msgid "Name of the organization running this instance."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/Organization/View.elm:49
+msgid "Organization ID is used to identify Knowledge Models created in this instance. It can contain alphanumeric characters and dots but cannot start or end with a dot."
 msgstr ""
 
 #: engine-wizard/elm/Wizard/Settings/Plans/Update.elm:24
