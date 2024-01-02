@@ -1,7 +1,7 @@
 # Pinar Alper <pinarpink@yahoo.com>, 2023.
 # Marek Suchánek <marek.suchanek@ds-wizard.org>, 2023.
 msgid ""
-msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2023-12-05T17:37:11.441Z\nPO-Revision-Date: 2023-12-23 09:39+0000\nLast-Translator: Marek Suchánek <marek.suchanek@ds-wizard.org>\nLanguage-Team: Turkish <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-1-0/tr/>\nLanguage: tr\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.18.2\n"
+msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2023-12-05T17:37:11.441Z\nPO-Revision-Date: 2024-01-02 08:31+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Turkish <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-2-0/tr/>\nLanguage: tr\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.18.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -1814,10 +1814,7 @@ msgid ""
 "Project is a workspace where you create your DMP. It is based on a knowledge model, which contains knowledge about what should be asked and how based on the research field or organization's needs. You can use document templates to transform the answers into a document. This document can be anything, from PDF to machine-actionable JSON.\n"
 "\n"
 "You can create a new project from a project template that data stewards prepare for you to have an easier start or from scratch where you set up everything yourself."
-msgstr ""
-"Proje, DMP'nizi oluşturduğunuz bir çalışma alanıdır. Araştırma alanına veya kuruluşun ihtiyaçlarına göre neyin nasıl sorulması gerektiği hakkında bilgi içeren bir bilgi modeline dayanır. Yanıtları bir belgeye dönüştürmek için belge şablonlarını kullanabilirsiniz. Bu belge PDF'den makinede işlem yapılabilir JSON'a kadar her şey olabilir.\n"
-"\n"
-"Veri sorumlularının sizin için hazırladığı bir proje şablonundan yeni bir proje oluşturarak daha kolay bir başlangıç yapabilir ya da sıfırdan her şeyi kendiniz kurabilirsiniz."
+msgstr "Proje, DMP'nizi oluşturduğunuz bir çalışma alanıdır. Araştırma alanına veya kuruluşun ihtiyaçlarına göre neyin nasıl sorulması gerektiği hakkında bilgi içeren bir bilgi modeline dayanır. Yanıtları bir belgeye dönüştürmek için belge şablonlarını kullanabilirsiniz. Bu belge PDF'den makinede işlem yapılabilir JSON'a kadar her şey olabilir.\n\nVeri sorumlularının sizin için hazırladığı bir proje şablonundan yeni bir proje oluşturarak daha kolay bir başlangıç yapabilir ya da sıfırdan her şeyi kendiniz kurabilirsiniz."
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ImportDocumentTemplateWidget.elm:13
 #: engine-wizard/elm/Wizard/DocumentTemplates/Import/View.elm:44
@@ -5534,10 +5531,7 @@ msgid ""
 "This is a list of active sessions logged into your account.\n"
 "\n"
 "If you don't recognize any, you should revoke them."
-msgstr ""
-"Bu, hesabınızda oturum açmış aktif oturumların bir listesidir.\n"
-"\n"
-"Eğer herhangi birini tanımıyorsanız, onları iptal etmelisiniz."
+msgstr "Bu, hesabınızda oturum açmış aktif oturumların bir listesidir.\n\nEğer herhangi birini tanımıyorsanız, onları iptal etmelisiniz."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ActiveSessions.elm:223
 msgid "current"
