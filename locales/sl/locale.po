@@ -1,7 +1,7 @@
 # Kryštof Komanec <krystof.komanec@gmail.com>, 2023.
 # Nadja Zlender <nadja.zlender@mf.uni-lj.si>, 2023.
 msgid ""
-msgstr "Project-Id-Version: wizard-client:4.1.0\nPOT-Creation-Date: 2023-12-05T17:37:11.441Z\nPO-Revision-Date: 2023-12-20 12:21+0000\nLast-Translator: Nadja Zlender <nadja.zlender@mf.uni-lj.si>\nLanguage-Team: Slovenian <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-1-0/sl/>\nLanguage: sl\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3;\nX-Generator: Weblate 4.18.2\n"
+msgstr "Project-Id-Version: wizard-client:4.1.0\nPOT-Creation-Date: 2023-12-05T17:37:11.441Z\nPO-Revision-Date: 2024-01-02 08:31+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Slovenian <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-2-0/sl/>\nLanguage: sl\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3;\nX-Generator: Weblate 4.18.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
