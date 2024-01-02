@@ -2,18 +2,7 @@
 # Kryštof Komanec <krystof.komanec@gmail.com>, 2023.
 # Jan Slifka <jan.slifka@ds-wizard.org>, 2023.
 msgid ""
-msgstr ""
-"Project-Id-Version: wizard-client:3.17.1\n"
-"POT-Creation-Date: 2023-12-05T17:37:11.441Z \n"
-"PO-Revision-Date: 2023-12-07 09:39+0000\n"
-"Last-Translator: Marek Suchánek <marek.suchanek@ds-wizard.org>\n"
-"Language-Team: Czech <https://localize.ds-wizard.org/projects/wizard-client/"
-"wizard-client-4-1-0/cs/>\n"
-"Language: cs\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 4.18.2\n"
+msgstr "Project-Id-Version: wizard-client:3.17.1\nPOT-Creation-Date: 2023-12-05T17:37:11.441Z\nPO-Revision-Date: 2024-01-02 08:31+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Czech <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-2-0/cs/>\nLanguage: cs\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 4.18.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -81,9 +70,7 @@ msgstr "Šablony a Vlastní"
 
 #: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireCreation.elm:117
 msgid "Projects can be created from project templates or with custom settings."
-msgstr ""
-"Projekty mohou být vytvořeny z projektových šablon nebo z vlastního "
-"nastavení."
+msgstr "Projekty mohou být vytvořeny z projektových šablon nebo z vlastního nastavení."
 
 #: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireCreation.elm:120
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:92
@@ -102,9 +89,7 @@ msgstr "Pouze vlastní"
 msgid ""
 "Project templates feature is disabled, researchers have to choose knowledge "
 "model and set up everything."
-msgstr ""
-"Funkce projektových šablon je vypnuta, uživatelé musí vybrat znalostní model "
-"a vše si nastavit."
+msgstr "Funkce projektových šablon je vypnuta, uživatelé musí vybrat znalostní model a vše si nastavit."
 
 #: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireSharing.elm:135
 msgid "Restricted"
@@ -114,9 +99,7 @@ msgstr "Omezené"
 msgid ""
 "Only logged-in users can access the project depending on the project "
 "visibility."
-msgstr ""
-"Pouze přihlášení uživatelé mohou přistupovat k projektům v závislosti na "
-"projektové viditelnosti."
+msgstr "Pouze přihlášení uživatelé mohou přistupovat k projektům v závislosti na projektové viditelnosti."
 
 #: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireSharing.elm:139
 msgid "View with the link"
@@ -276,9 +259,7 @@ msgstr "Chybí profilové informace z OpenID služby."
 msgid ""
 "Document template cannot be deleted because it is used in some projects or "
 "documents."
-msgstr ""
-"Šablona dokumentů nemůže být odstraněna, protože je použita v některých "
-"projektech nebo dokumentech."
+msgstr "Šablona dokumentů nemůže být odstraněna, protože je použita v některých projektech nebo dokumentech."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:176
 msgid "Document template metamodel version is not supported."
@@ -350,9 +331,7 @@ msgstr "Tento překlad nebyl nalezen ve službě Registry"
 msgid ""
 "Knowledge Model cannot be deleted because it is used in some Projects or "
 "Knowledge Model Editors."
-msgstr ""
-"Znalostní model nemůže být odstraněn, protože je použit v některých "
-"projektech nebo editorech modelů."
+msgstr "Znalostní model nemůže být odstraněn, protože je použit v některých projektech nebo editorech modelů."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:245
 msgid "The Knowledge Model was not found in the Registry."
@@ -614,8 +593,7 @@ msgstr "migrace projektu"
 msgid ""
 "There is an ongoing %s. Finish it before you can continue editing this "
 "project."
-msgstr ""
-"Zde probíhá %s. Dokončení je nutné před pokračováním v úpravách projektu."
+msgstr "Zde probíhá %s. Dokončení je nutné před pokračováním v úpravách projektu."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1299
 msgid "View"
@@ -1048,9 +1026,7 @@ msgstr "Již existují hlášení pro tuto otázku."
 msgid ""
 "If you found something wrong with the question, you can send us your "
 "recommendation on how to improve it."
-msgstr ""
-"Pokud není něco v pořádku s otázkou, můžete nám poslat doporučení, jak ji "
-"vylepšit."
+msgstr "Pokud není něco v pořádku s otázkou, můžete nám poslat doporučení, jak ji vylepšit."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire/FeedbackModal.elm:183
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:632
@@ -1254,8 +1230,7 @@ msgstr "Relace brzy vyprší"
 #: engine-wizard/elm/Wizard/Common/Components/SessionModal.elm:33
 msgid ""
 "Your session expires in less than %s minutes. Log in again to refresh it."
-msgstr ""
-"Vaše relace vyprší za méně než %s minut. Přihlaste se znovu a obnovte ji."
+msgstr "Vaše relace vyprší za méně než %s minut. Přihlaste se znovu a obnovte ji."
 
 #: engine-wizard/elm/Wizard/Common/Components/SessionModal.elm:39
 #: engine-wizard/elm/Wizard/Common/Components/SessionModal.elm:63
@@ -1623,8 +1598,7 @@ msgstr "Je možné použít Markdown a podívat se na výsledek v náhledu."
 
 #: engine-wizard/elm/Wizard/Common/View/FormGroup.elm:447
 msgid "You can use HTML or Markdown and see the result in the preview tab."
-msgstr ""
-"Můžete použít HTML nebo Markdown a výsledek si prohlédnout na kartě náhledu."
+msgstr "Můžete použít HTML nebo Markdown a výsledek si prohlédnout na kartě náhledu."
 
 #: engine-wizard/elm/Wizard/Common/View/FormGroup.elm:523
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:208
@@ -1650,9 +1624,7 @@ msgstr "Návrhy: "
 msgid ""
 "The version number is in format X.Y.Z. Increasing number Z indicates only "
 "some fixes, number Y minor changes, and number X indicates a major change."
-msgstr ""
-"Označení verze je ve formátu X.Y.Z, kde vyšší číslo Z značí pouze opravy "
-"chyb, číslo Y menší změny a číslo X velké změny."
+msgstr "Označení verze je ve formátu X.Y.Z, kde vyšší číslo Z značí pouze opravy chyb, číslo Y menší změny a číslo X velké změny."
 
 #: engine-wizard/elm/Wizard/Common/View/Layout.elm:34
 #: engine-wizard/elm/Wizard/Common/View/Layout.elm:42
@@ -1719,9 +1691,7 @@ msgstr "Štítky otázek"
 msgid ""
 "You can either use all questions from the knowledge model or filter them by "
 "question tags."
-msgstr ""
-"Můžete použít všechny otázky ze znalostního modelu nebo je filtrovat podle "
-"značek štítků."
+msgstr "Můžete použít všechny otázky ze znalostního modelu nebo je filtrovat podle značek štítků."
 
 #: engine-wizard/elm/Wizard/Common/View/Tag.elm:139
 msgid "Use all questions"
@@ -1788,11 +1758,7 @@ msgid ""
 "accounts to login to other services without creating a new password. "
 "Configure your organization's OpenID to make it easier for your users to log "
 "in."
-msgstr ""
-"OpenID je otevřený standard pro autentizaci, který umožňuje použití "
-"existujících účtů pro přihlášení v jiných službách bez vytvoření nového "
-"hesla. Nakonfigurujte OpenID vaší organizace pro usnadnění přihlašováním "
-"vašim uživatelům."
+msgstr "OpenID je otevřený standard pro autentizaci, který umožňuje použití existujících účtů pro přihlášení v jiných službách bez vytvoření nového hesla. Nakonfigurujte OpenID vaší organizace pro usnadnění přihlašováním vašim uživatelům."
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/AddOpenIDWidget.elm:17
 msgid "Add OpenID"
@@ -1806,9 +1772,7 @@ msgstr "Nastavení vzhledu"
 msgid ""
 "You can configure the application name, or add additional menu links, for "
 "example, to your guidelines or documentation."
-msgstr ""
-"Můžete nastavit název aplikace nebo přidat vlastní odkazy do menu, "
-"například, na vaše směrnice nebo dokumentaci."
+msgstr "Můžete nastavit název aplikace nebo přidat vlastní odkazy do menu, například, na vaše směrnice nebo dokumentaci."
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ConfigureLookAndFeelWidget.elm:17
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ConfigureOrganizationWidget.elm:17
@@ -1823,9 +1787,7 @@ msgstr "Nastavit organizační informace"
 msgid ""
 "Fill in your organization name and organization ID. For example, these "
 "values will be used with knowledge models created in this instance."
-msgstr ""
-"Vyplňte název a ID vaší organizace. Tyto hodnoty budou použity například při "
-"vytváření znalostních modelů v této instanci."
+msgstr "Vyplňte název a ID vaší organizace. Tyto hodnoty budou použity například při vytváření znalostních modelů v této instanci."
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ConnectRegistryWidget.elm:13
 msgid "Connect to DSW Registry"
@@ -1836,10 +1798,7 @@ msgid ""
 "[DSW Registry](https://registry.ds-wizard.org) is a place for published "
 "knowledge models and document templates. When you connect your instance, "
 "data stewards can easily import them."
-msgstr ""
-"[DSW Registry](https://registry.ds-wizard.org) je místem pro zveřejněné "
-"znalostní modely a šablony dokumentů. Pokud připojíte svoji instanci, "
-"správci obsahu je mohou snadno importovat."
+msgstr "[DSW Registry](https://registry.ds-wizard.org) je místem pro zveřejněné znalostní modely a šablony dokumentů. Pokud připojíte svoji instanci, správci obsahu je mohou snadno importovat."
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ConnectRegistryWidget.elm:17
 msgid "Connect"
@@ -1855,10 +1814,7 @@ msgid ""
 "Knowledge model is a tree-like structure containing the knowledge about what "
 "should be asked and how. It is used as a template for questionnaires in "
 "projects. You can create new ones from scratch or by modifying existing ones."
-msgstr ""
-"Znalostní model je stromová struktura obsahující znalosti o tom na co a jak "
-"se dotazovat. Je použitý jako šablona pro dotazníky v projektech. Můžete "
-"vytvořit zcela nový nebo upravit již existující."
+msgstr "Znalostní model je stromová struktura obsahující znalosti o tom na co a jak se dotazovat. Je použitý jako šablona pro dotazníky v projektech. Můžete vytvořit zcela nový nebo upravit již existující."
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/CreateKnowledgeModelWidget.elm:17
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/CreateProjectTemplateWidget.elm:17
@@ -1892,11 +1848,7 @@ msgid ""
 "point for new projects. You can select a knowledge model, set up a document "
 "template and format, or prefill some answers to make it easier to start for "
 "researchers."
-msgstr ""
-"Šablona projektu je speciální typ projektu, který může být použit jako "
-"výchozí bod pro nové projekty. Lze vybrat znalostní model, nastavit šablonu "
-"dokumentu a formát, či předvyplnit některé otázky pro usnadnění práce "
-"výzkumníkům."
+msgstr "Šablona projektu je speciální typ projektu, který může být použit jako výchozí bod pro nové projekty. Lze vybrat znalostní model, nastavit šablonu dokumentu a formát, či předvyplnit některé otázky pro usnadnění práce výzkumníkům."
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/CreateProjectWidget.elm:13
 #: engine-wizard/elm/Wizard/Projects/Create/View.elm:48
@@ -1914,15 +1866,7 @@ msgid ""
 "You can create a new project from a project template that data stewards "
 "prepare for you to have an easier start or from scratch where you set up "
 "everything yourself."
-msgstr ""
-"Projekt je místem pro vytváření plánů. Je založen na vybraném znalostním "
-"modelu, který obsahuje znalosti o tom, na co se ptát a jak v závislosti na "
-"doméně výzkumu či potřebách organizace. Lze využít šablony dokumentů pro "
-"transformaci odpovědí z dotazníku na dokument. Dokument může být prakticky "
-"cokoliv, od PDF po JSON vhodný pro strojové zpracování. \n"
-" \n"
-"Můžete vytvořit nový projekt z projektové šablony, kterou správci dat "
-"připravili pro usnadnění vaší práce, a nebo si sami vše nastavit."
+msgstr "Projekt je místem pro vytváření plánů. Je založen na vybraném znalostním modelu, který obsahuje znalosti o tom, na co se ptát a jak v závislosti na doméně výzkumu či potřebách organizace. Lze využít šablony dokumentů pro transformaci odpovědí z dotazníku na dokument. Dokument může být prakticky cokoliv, od PDF po JSON vhodný pro strojové zpracování. \n \nMůžete vytvořit nový projekt z projektové šablony, kterou správci dat připravili pro usnadnění vaší práce, a nebo si sami vše nastavit."
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ImportDocumentTemplateWidget.elm:13
 #: engine-wizard/elm/Wizard/DocumentTemplates/Import/View.elm:44
@@ -1936,12 +1880,7 @@ msgid ""
 "import existing document templates from [DSW Registry](https://registry.ds-"
 "wizard.org/templates) or [develop new ones](https://guide.ds-wizard.org/en/"
 "latest/more/development/document-templates/index.html)."
-msgstr ""
-"Šablony dokumentů transformují odpovědi z dotazníku do dokumentu. Tímto "
-"dokumentem může být cokoli, od PDF až po strojově zpracovatelný JSON. "
-"Existující šablony dokumentů můžete importovat z [DSW Registry](https://"
-"registry.ds-wizard.org/templates) nebo [vytvořit nové](https://guide.ds-"
-"wizard.org/en/latest/more/development/document-templates/index.html)."
+msgstr "Šablony dokumentů transformují odpovědi z dotazníku do dokumentu. Tímto dokumentem může být cokoli, od PDF až po strojově zpracovatelný JSON. Existující šablony dokumentů můžete importovat z [DSW Registry](https://registry.ds-wizard.org/templates) nebo [vytvořit nové](https://guide.ds-wizard.org/en/latest/more/development/document-templates/index.html)."
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ImportDocumentTemplateWidget.elm:17
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ImportKnowledgeModelWidget.elm:17
@@ -1975,11 +1914,7 @@ msgid ""
 "org). You can easily import them into your instance to make them available "
 "for researchers. You can also import other knowledge models exported from "
 "different instances."
-msgstr ""
-"Znalostní modely mohou být publikované v [DSW Registry](https://registry.ds-"
-"wizard.org). Lze je snadno importovat do vaší instance a zpřístupnit je "
-"výzkumníkům. Dále lze importovat i znalostní modely exportované z jiných "
-"instancí."
+msgstr "Znalostní modely mohou být publikované v [DSW Registry](https://registry.ds-wizard.org). Lze je snadno importovat do vaší instance a zpřístupnit je výzkumníkům. Dále lze importovat i znalostní modely exportované z jiných instancí."
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/OutdatedPackagesWidget.elm:35
 msgid "Update Knowledge Models"
@@ -2042,9 +1977,7 @@ msgstr "Jako administrátor nastavujete instanci a spravujete uživatelské úč
 msgid ""
 "As a data steward, you prepare knowledge models, document templates, and "
 "project templates for researchers."
-msgstr ""
-"Jako správce dat připravujete znalostní modely, šablony dokumentů a "
-"projektové šablony pro výzkumníky."
+msgstr "Jako správce dat připravujete znalostní modely, šablony dokumentů a projektové šablony pro výzkumníky."
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/WelcomeWidget.elm:27
 msgid "As a researcher, you create and collaborate on data management plans."
@@ -2225,9 +2158,7 @@ msgstr "ID šablony dokumentu"
 msgid ""
 "Document template ID can contain alphanumeric characters and dashes but "
 "cannot start or end with a dash."
-msgstr ""
-"ID šablony dokumentů může obsahovat pouze alfanumerické znaky a pomlčky ale "
-"nesmí pomlčkou začínat ani končit."
+msgstr "ID šablony dokumentů může obsahovat pouze alfanumerické znaky a pomlčky ale nesmí pomlčkou začínat ani končit."
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Create/View.elm:93
 #: engine-wizard/elm/Wizard/KMEditor/Create/View.elm:97
@@ -2238,9 +2169,7 @@ msgstr "Založeno na"
 msgid ""
 "You can create a new document template based on the existing one or start "
 "from scratch."
-msgstr ""
-"Lze vytvořit novou šablonu dokumentů založenou na již existující nebo začít "
-"od nuly."
+msgstr "Lze vytvořit novou šablonu dokumentů založenou na již existující nebo začít od nuly."
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/FileEditor.elm:370
 msgid "Unable to get template files"
@@ -2353,9 +2282,7 @@ msgstr "Stáhnout náhled"
 msgid ""
 "The document format cannot be displayed in the web browser. You can still "
 "download and view it."
-msgstr ""
-"Dokument tohoto formátu nemůže být zobrazen ve webovém prohlížeči. Můžete si "
-"jej ale stáhnout a zobrazit."
+msgstr "Dokument tohoto formátu nemůže být zobrazen ve webovém prohlížeči. Můžete si jej ale stáhnout a zobrazit."
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/PublishModal.elm:102
 msgid "Unable to publish document template"
@@ -2365,8 +2292,7 @@ msgstr "Nelze publikovat šablonu dokumentů"
 msgid ""
 "Check the document template's metadata before publishing. You change them in "
 "%s."
-msgstr ""
-"Před zveřejněním zkontrolujte metadata šablony dokumentu. Změníte je v %s."
+msgstr "Před zveřejněním zkontrolujte metadata šablony dokumentu. Změníte je v %s."
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/PublishModal.elm:131
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/PublishModal.elm:143
@@ -2609,9 +2535,7 @@ msgstr "neupravitelné"
 msgid ""
 "This is a non-editable document template, i.e., it cannot be edited, or "
 "exported."
-msgstr ""
-"Jedná se o neupravitelnou šablonu dokumentu, tj. nelze ji upravovat ani "
-"exportovat."
+msgstr "Jedná se o neupravitelnou šablonu dokumentu, tj. nelze ji upravovat ani exportovat."
 
 #: engine-wizard/elm/Wizard/DocumentTemplates/Detail/View.elm:100
 msgid "This is not the latest available version of this document template."
@@ -2690,8 +2614,7 @@ msgstr "Import šablony dokumentu selhal."
 msgid ""
 "This doesn't look like a document template. Are you sure you picked the "
 "correct file?"
-msgstr ""
-"Tohle nevypadá jako šablona dokumentu. Opravdu jste vybrali správný soubor?"
+msgstr "Tohle nevypadá jako šablona dokumentu. Opravdu jste vybrali správný soubor?"
 
 #: engine-wizard/elm/Wizard/DocumentTemplates/Import/FileImport/View.elm:82
 #: engine-wizard/elm/Wizard/KnowledgeModels/Import/FileImport/View.elm:86
@@ -2804,17 +2727,13 @@ msgstr "Znalostní model nemohl být vytvořen."
 msgid ""
 "Knowledge Model ID can contain alphanumeric characters and dashes but cannot "
 "start or end with a dash."
-msgstr ""
-"ID znalostního modelu může obsahovat alfanumerické znaky a pomlčky, ale "
-"nesmí pomlčkou začínat ani končit."
+msgstr "ID znalostního modelu může obsahovat alfanumerické znaky a pomlčky, ale nesmí pomlčkou začínat ani končit."
 
 #: engine-wizard/elm/Wizard/KMEditor/Create/View.elm:98
 msgid ""
 "You can create a new Knowledge Model based on the existing one or start from "
 "scratch."
-msgstr ""
-"Můžete vytvořit nový znalostní model založený na jiném existujícím nebo "
-"začít od nuly."
+msgstr "Můžete vytvořit nový znalostní model založený na jiném existujícím nebo začít od nuly."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:292
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:511
@@ -3361,29 +3280,20 @@ msgid ""
 "Use this section to configure the search request. The service you want to "
 "integrate has to provide a search HTTP API where you send a search string "
 "and it returns a JSON with found items."
-msgstr ""
-"Tato sekce slouží k nastavení požadavku k vyhledání. Služba, kterou chcete "
-"integrovat, musí poskytovat HTTP API pro vyhledávání, kam se odešle hledaný "
-"řetězec a vrátí se JSON s nalezenými položkami."
+msgstr "Tato sekce slouží k nastavení požadavku k vyhledání. Služba, kterou chcete integrovat, musí poskytovat HTTP API pro vyhledávání, kam se odešle hledaný řetězec a vrátí se JSON s nalezenými položkami."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1512
 msgid ""
 "A URL of the integrated service API that supports the search. Use `${q}` for "
 "the actual string that will be filled when users search for items, such as "
 "*ht&#8203;tps://example.com/search?q=${q}*."
-msgstr ""
-"URL adresa API integrované služba, která podporuje vyhledávání. Použijte `"
-"${q}` pro vlastní řetězec, který píše uživatel pro vyhledávání položek. "
-"Například *ht&#8203;tps://example.com/search?q=${q}*."
+msgstr "URL adresa API integrované služba, která podporuje vyhledávání. Použijte `${q}` pro vlastní řetězec, který píše uživatel pro vyhledávání položek. Například *ht&#8203;tps://example.com/search?q=${q}*."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1517
 msgid ""
 "Turn this off if the API cannot handle empty search requests. In that case, "
 "the requests will be made only after users type something."
-msgstr ""
-"Vypněte tuto možnost pokud API nedokáže zpracovat požadavek na prázdné "
-"vyhledávání. V tom případě budou požadavky odesílány teprve až uživatel něco "
-"napíše."
+msgstr "Vypněte tuto možnost pokud API nedokáže zpracovat požadavek na prázdné vyhledávání. V tom případě budou požadavky odesílány teprve až uživatel něco napíše."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1521
 msgid "Response"
@@ -3393,18 +3303,14 @@ msgstr "Odpověď"
 msgid ""
 "Use this section to configure how to process the response returned from the "
 "search API."
-msgstr ""
-"Tato sekce slouží k nastavení zpracování odpovědi z API pro vyhledávání."
+msgstr "Tato sekce slouží k nastavení zpracování odpovědi z API pro vyhledávání."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1525
 msgid ""
 "If the returned JSON is not an array of items directly but the items are "
 "nested, use this to define the name or path to the field in the response "
 "that contains the list of items. Keep empty otherwise."
-msgstr ""
-"Pokud získaný JSON není přímo seznamem položek, ale položky jsou zanožené, "
-"nastavte zde název nebo cestu k poli v odpovědi, které obsahuje seznam "
-"položek. Jinak ponechejte prázdné."
+msgstr "Pokud získaný JSON není přímo seznamem položek, ale položky jsou zanožené, nastavte zde název nebo cestu k poli v odpovědi, které obsahuje seznam položek. Jinak ponechejte prázdné."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1527
 msgid ""
@@ -3413,12 +3319,7 @@ msgid ""
 "from the returned item in Jinja2 notation. For example, if the item has a "
 "field `id` use `{{item.id}}` here. You can also compose multiple fields "
 "together, e.g., `{{item.field1}}-{{item.field2}}`."
-msgstr ""
-"Zde definujte identifikátor položky. Ten bude použit v **URL položky** jako `"
-"${id}` pro složení URL adresy k nalezené položce. Můžete použít vlastnosti "
-"ze získané položky v notaci Jinja2. Například, pokud položka má pole `id` "
-"použijte zde `{{item.id}}`. Můžete také složit dohromady více polí, např. "
-"`{{item.field1}}-{{item.field2}}`."
+msgstr "Zde definujte identifikátor položky. Ten bude použit v **URL položky** jako `${id}` pro složení URL adresy k nalezené položce. Můžete použít vlastnosti ze získané položky v notaci Jinja2. Například, pokud položka má pole `id` použijte zde `{{item.id}}`. Můžete také složit dohromady více polí, např. `{{item.field1}}-{{item.field2}}`."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1529
 msgid ""
@@ -3426,19 +3327,13 @@ msgid ""
 "properties from the returned item in Jinja2 notation, you can also use "
 "Markdown for some formatting. For example, if the returned item has a field "
 "called name, you can use `**{{item.name}}**` to display the name in bold."
-msgstr ""
-"Toto definuje jak budou nalezené položky zobrazeny uživateli. Můžete použít "
-"vlastností ze získané položky v notaci Jinja2, dále můžete použít Markdown "
-"pro formátování. Například pokud položka má pole `name`, můžete použít "
-"`**{{item.bold}}**` pro zobrazení názvu položky tučně."
+msgstr "Toto definuje jak budou nalezené položky zobrazeny uživateli. Můžete použít vlastností ze získané položky v notaci Jinja2, dále můžete použít Markdown pro formátování. Například pokud položka má pole `name`, můžete použít `**{{item.bold}}**` pro zobrazení názvu položky tučně."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1533
 msgid ""
 "Defines the URL to the selected item. Use `${id}` to get the value defined "
 "in **Response Item ID** field, for example `https://example.com/${id}`."
-msgstr ""
-"Definuje adresu URL pro vybranou položku. Použijte `${id}` pro doplnění "
-"hodnoty z **ID položky odpovědi**, např. `https://example.com/${id}`."
+msgstr "Definuje adresu URL pro vybranou položku. Použijte `${id}` pro doplnění hodnoty z **ID položky odpovědi**, např. `https://example.com/${id}`."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1547
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:675
@@ -3451,17 +3346,13 @@ msgstr "Widget URL"
 msgid ""
 "The URL of the widget implemented using [DSW Integration Widget SDK](https://"
 "github.com/ds-wizard/dsw-integration-widget-sdk)."
-msgstr ""
-"URL adresa widgetu implementovaného pomocí [DSW Integration Widget SDK]"
-"(https://github.com/ds-wizard/dsw-integration-widget-sdk)."
+msgstr "URL adresa widgetu implementovaného pomocí [DSW Integration Widget SDK](https://github.com/ds-wizard/dsw-integration-widget-sdk)."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1555
 msgid ""
 "Defines the URL to the selected item. Use `${id}` value returned from the "
 "widget, for example `https://example.com/${id}`."
-msgstr ""
-"Definuje URL adresu vybrané položky. Použijte`${id}` pro hodnotu vrácenou z "
-"widgetu, např. `https://example.com/${id}`."
+msgstr "Definuje URL adresu vybrané položky. Použijte`${id}` pro hodnotu vrácenou z widgetu, např. `https://example.com/${id}`."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1579
 msgid "No questions"
@@ -3486,25 +3377,19 @@ msgstr "Aktualizace"
 msgid ""
 "A string that identifies the integration. It has to be unique for each "
 "integration."
-msgstr ""
-"Řetězec identifikující integraci, který musí být unikátní pro každou "
-"integraci."
+msgstr "Řetězec identifikující integraci, který musí být unikátní pro každou integraci."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1650
 msgid ""
 "A name visible everywhere else in the KM Editor, such as when choosing the "
 "integration for a question."
-msgstr ""
-"Název viditelný všude jinde v editoru, například pro výběr integrace v "
-"otázce příslušného typu."
+msgstr "Název viditelný všude jinde v editoru, například pro výběr integrace v otázce příslušného typu."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1652
 msgid ""
 "Logo is displayed next to the link to the selected item in questionnaires. "
 "It can be either URL or base64 image."
-msgstr ""
-"Logo je zobrazeno vedle odkazu na vybranou položku v rámci dotazníků. Může "
-"být URL nebo base64 obrázek."
+msgstr "Logo je zobrazeno vedle odkazu na vybranou položku v rámci dotazníků. Může být URL nebo base64 obrázek."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1654
 msgid ""
@@ -3513,12 +3398,7 @@ msgid ""
 "integration. The props can then be used in the URL configuration. For "
 "example, if you define prop named *type*, you can use it as `${type}`, such "
 "as *ht&#8203;tps://example.com/${type}*."
-msgstr ""
-"Vlastnosti mohou být použity k parametrizaci integrace pro každou otázku. "
-"Zde definujte vlastnosti, jejichž hodnoty mohou být vyplněny pro otázky "
-"používající tuto integraci. Poté vlastnosti mohou být použity v nastavení "
-"URL. Například pokud definujete vlastnost *type*, můžete ji pak použít jako `"
-"${type}` v URL *ht&#8203;tps://example.com/${type}*."
+msgstr "Vlastnosti mohou být použity k parametrizaci integrace pro každou otázku. Zde definujte vlastnosti, jejichž hodnoty mohou být vyplněny pro otázky používající tuto integraci. Poté vlastnosti mohou být použity v nastavení URL. Například pokud definujete vlastnost *type*, můžete ji pak použít jako `${type}` v URL *ht&#8203;tps://example.com/${type}*."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1658
 msgid "Questions using this integration"
@@ -3740,8 +3620,7 @@ msgstr "Nelze publikovat znalostní model"
 msgid ""
 "Check the knowledge model's metadata before publishing. You change them in "
 "%s."
-msgstr ""
-"Před zveřejněním zkontrolujte metadata znalostního modelu. Změníte je v %s."
+msgstr "Před zveřejněním zkontrolujte metadata znalostního modelu. Změníte je v %s."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/Settings.elm:122
 msgid "Knowledge Model could not be saved."
@@ -3825,9 +3704,7 @@ msgstr "Nelze získat editory znalostních modelů."
 
 #: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:59
 msgid "Click \"Create\" button to add a new Knowledge Model Editor."
-msgstr ""
-"Klikněte na tlačítko \"Vytvořit\" pro přidání nového editoru znalostního "
-"modelu."
+msgstr "Klikněte na tlačítko \"Vytvořit\" pro přidání nového editoru znalostního modelu."
 
 #: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:67
 msgid "Search KM editors..."
@@ -3855,9 +3732,7 @@ msgstr "migruje"
 msgid ""
 "This Editor has been migrated to a new parent Knowledge Model, you can "
 "publish it now."
-msgstr ""
-"Tento edit byl zmigrován na nový rodičovský znalostní model, můžete jej nyní "
-"publikovat."
+msgstr "Tento edit byl zmigrován na nový rodičovský znalostní model, můžete jej nyní publikovat."
 
 #: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:142
 msgid "migrated"
@@ -4120,9 +3995,7 @@ msgstr "Znalostní model nemohl být odstraněn."
 msgid ""
 "This is a non-editable knowledge model, i.e., it cannot be edited, forked, "
 "or exported."
-msgstr ""
-"Jedná se o neupravitelný znalostní model, tj. nelze jej upravovat, forkovat "
-"ani exportovat."
+msgstr "Jedná se o neupravitelný znalostní model, tj. nelze jej upravovat, forkovat ani exportovat."
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Detail/View.elm:97
 msgid "This is not the latest available version of this Knowledge Model."
@@ -4140,8 +4013,7 @@ msgstr "Importování znalostního modelu selhalo."
 msgid ""
 "This doesn't look like a knowledge model. Are you sure you picked the "
 "correct file?"
-msgstr ""
-"Tohle nevypadá jako znalostní model. Opravdu jste vybrali správný soubor?"
+msgstr "Tohle nevypadá jako znalostní model. Opravdu jste vybrali správný soubor?"
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Import/OwlImport/Update.elm:85
 msgid "Importing the package failed."
@@ -4502,9 +4374,7 @@ msgstr "Vytvořit migraci"
 msgid ""
 "A new Project is created for the migration. The original will remain "
 "unchanged until the migration is finished."
-msgstr ""
-"Pro migraci je vytvořen nový projekt. Původní zůstane nezměněný, dokud "
-"nebude migrace dokončena."
+msgstr "Pro migraci je vytvořen nový projekt. Původní zůstane nezměněný, dokud nebude migrace dokončena."
 
 #: engine-wizard/elm/Wizard/Projects/CreateMigration/View.elm:88
 msgid "Project"
@@ -4555,9 +4425,7 @@ msgstr "Přihlaste se pro nastavení výchozí šablony a formátu dokumentu."
 msgid ""
 "Before you can use preview you need to set a default document template and "
 "format."
-msgstr ""
-"Než budete moct použít náhled, musíte nastavit výchozí šablonu dokumentu a "
-"formát."
+msgstr "Než budete moct použít náhled, musíte nastavit výchozí šablonu dokumentu a formát."
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Preview.elm:190
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Preview.elm:222
@@ -4566,9 +4434,7 @@ msgstr "Přejít do nastavení"
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Preview.elm:197
 msgid "Ask the Project owner to set a default document template and format."
-msgstr ""
-"Požádejte vlastníka projektu, aby nastavil výchozí šablonu a formát "
-"dokumentu."
+msgstr "Požádejte vlastníka projektu, aby nastavil výchozí šablonu a formát dokumentu."
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Preview.elm:202
 msgid "Default document template is not set."
@@ -4581,13 +4447,11 @@ msgstr "Přihlaste se pro aktualizaci výchozí šablony dokumentu."
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Preview.elm:217
 msgid ""
 "Before you can use preview you need to update the default document template."
-msgstr ""
-"Před použitím náhledu je potřeba aktualizovat výchozí šablonu dokumentu."
+msgstr "Před použitím náhledu je potřeba aktualizovat výchozí šablonu dokumentu."
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Preview.elm:229
 msgid "Ask the Project owner to update the default document template."
-msgstr ""
-"Požádejte vlastníka projektu, aby aktualizoval výchozí šablonu dokumentu."
+msgstr "Požádejte vlastníka projektu, aby aktualizoval výchozí šablonu dokumentu."
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Preview.elm:234
 msgid "Default document template is no longer supported."
@@ -4642,9 +4506,7 @@ msgstr "Výchozí formát dokumentu"
 msgid ""
 "Project templates can be used by other users so they don't have to start "
 "their new projects from scratch."
-msgstr ""
-"Šablony projektů mohou být použity ostatními uživateli, kteří pak nemusí "
-"začínat nové projekty od nuly."
+msgstr "Šablony projektů mohou být použity ostatními uživateli, kteří pak nemusí začínat nové projekty od nuly."
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:413
 msgid "Default document template"
@@ -5053,8 +4915,7 @@ msgstr "Nebo se připojit přes"
 #: engine-wizard/elm/Wizard/Public/Login/View.elm:131
 msgid ""
 "Please enter the authentication code from your email to verify your identity."
-msgstr ""
-"Pro ověření vaší identity prosím zadejte autentizační kód z vašeho emailu."
+msgstr "Pro ověření vaší identity prosím zadejte autentizační kód z vašeho emailu."
 
 #: engine-wizard/elm/Wizard/Public/Login/View.elm:141
 msgid "Authentication Code"
@@ -5079,9 +4940,7 @@ msgstr "Proces registrace selhal."
 
 #: engine-wizard/elm/Wizard/Public/Signup/View.elm:31
 msgid "Sign up was successful. Check your email for the activation link."
-msgstr ""
-"Registrace byla úspěšná. Zkontrolujte si emailovou schránku a použijte "
-"aktivační odkaz."
+msgstr "Registrace byla úspěšná. Zkontrolujte si emailovou schránku a použijte aktivační odkaz."
 
 #: engine-wizard/elm/Wizard/Public/Signup/View.elm:49
 msgid "I already have an account"
@@ -5167,9 +5026,7 @@ msgstr "Registrace"
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:76
 msgid ""
 "If enabled, users can create new internal accounts directly in the instance."
-msgstr ""
-"Pokud je povoleno, pak mohou uživatelé vytvářet nové interní účty přímo v "
-"instanci."
+msgstr "Pokud je povoleno, pak mohou uživatelé vytvářet nové interní účty přímo v instanci."
 
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:77
 msgid "Two-Factor Authentication"
@@ -5179,10 +5036,7 @@ msgstr "Dvoufaktorová autentizace"
 msgid ""
 "If enabled, users first enter a username and password at login, and then "
 "they receive a one-time code to confirm the login on their email."
-msgstr ""
-"Pokud je povoleno, uživatel při přihlašování nejprve zadá své uživatelské "
-"jméno a heslo, a poté obdrží emailem jednorázový kód pro potvrzení "
-"přihlášení."
+msgstr "Pokud je povoleno, uživatel při přihlašování nejprve zadá své uživatelské jméno a heslo, a poté obdrží emailem jednorázový kód pro potvrzení přihlášení."
 
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:87
 msgid "External"
@@ -5269,9 +5123,7 @@ msgstr "Přihlašovací informace"
 #: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:67
 msgid ""
 "Additional information displayed on the login screen next to the login form."
-msgstr ""
-"Další informace zobrazené na přihlašovací obrazovce vedle přihlašovacího "
-"formuláře."
+msgstr "Další informace zobrazené na přihlašovací obrazovce vedle přihlašovacího formuláře."
 
 #: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:75
 msgid "Sidebar Login Info"
@@ -5281,9 +5133,7 @@ msgstr "Informace o přihlášení do postranního panelu"
 msgid ""
 "Additional information displayed on the login screen underneath the login "
 "form."
-msgstr ""
-"Další informace zobrazené na přihlašovací obrazovce pod přihlašovacím "
-"formulářem."
+msgstr "Další informace zobrazené na přihlašovací obrazovce pod přihlašovacím formulářem."
 
 #: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:85
 msgid "Dashboard Style"
@@ -5356,9 +5206,7 @@ msgstr "Veřejné znalostní modely"
 msgid ""
 "If enabled you can define knowledge models that are publicly available for "
 "reading."
-msgstr ""
-"Pokud je povoleno, pak je možné definovat znalostní modely, které jsou "
-"veřejně dostupné k procházení."
+msgstr "Pokud je povoleno, pak je možné definovat znalostní modely, které jsou veřejně dostupné k procházení."
 
 #: engine-wizard/elm/Wizard/Settings/KnowledgeModels/View.elm:64
 msgid "Integration Config"
@@ -5377,9 +5225,7 @@ msgstr "Název aplikace"
 msgid ""
 "Full name of the DSW instance (displayed, for example, in the browser tab "
 "title or before login)."
-msgstr ""
-"Celé jméno instance DSW (například zobrazené v záložce prohlížeče nebo před "
-"přihlášením)."
+msgstr "Celé jméno instance DSW (například zobrazené v záložce prohlížeče nebo před přihlášením)."
 
 #: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:81
 msgid "Short Application Title"
@@ -5390,9 +5236,7 @@ msgid ""
 "Short name of the DSW instance (displayed, for example, on top of the "
 "navigation bar). Short title can be the same as the application title if it "
 "is short enough."
-msgstr ""
-"Krátký název instance DSW (například zobrazení nad navigačním menu). Krátký "
-"název může být klidně stejný jako celý název pokud je dostatečně krátký."
+msgstr "Krátký název instance DSW (například zobrazení nad navigačním menu). Krátký název může být klidně stejný jako celý název pokud je dostatečně krátký."
 
 #: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:99
 msgid "Custom Menu Links"
@@ -5403,10 +5247,7 @@ msgid ""
 "Configure additional links in the menu. Choose any free icon from the [Font "
 "Awesome](%s), e.g. *fas fa-magic*. Check *New window* if you want to open "
 "the link in a new window."
-msgstr ""
-"Nastavení dalších odkazů v levém menu. Vyberte jakoukoliv ikonu zdarma z "
-"[Font Awesome](%s), např. *fas fa-magic*. Zaškrtněte *Nové okno* pokud se má "
-"odkaz otevřít v novém okně."
+msgstr "Nastavení dalších odkazů v levém menu. Vyberte jakoukoliv ikonu zdarma z [Font Awesome](%s), např. *fas fa-magic*. Zaškrtněte *Nové okno* pokud se má odkaz otevřít v novém okně."
 
 #: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:112
 msgid "Add link"
@@ -5430,10 +5271,7 @@ msgid ""
 "Organization ID is used to identify Knowledge Models created in this "
 "instance. It can contain alphanumeric characters and dots but cannot start "
 "or end with a dot."
-msgstr ""
-"ID organizace se používá například k identifikaci znalostních modelů "
-"vytvořených v této instanci. Může obsahovat alfanumerické znaky a tečky, ale "
-"nesmí začínat ani končit tečkou."
+msgstr "ID organizace se používá například k identifikaci znalostních modelů vytvořených v této instanci. Může obsahovat alfanumerické znaky a tečky, ale nesmí začínat ani končit tečkou."
 
 #: engine-wizard/elm/Wizard/Settings/Organization/View.elm:39
 msgid "Affiliations"
@@ -5444,9 +5282,7 @@ msgid ""
 "Affiliation options will be used to help users choose their affiliation "
 "while signing up or editing their profile. Write one affiliation option per "
 "line."
-msgstr ""
-"Připravené afiliace pomohou uživatelům s výběrem vlastní afiliace při "
-"registraci a úpravě profilu. Každou afiliaci pište na samostatný řádek."
+msgstr "Připravené afiliace pomohou uživatelům s výběrem vlastní afiliace při registraci a úpravě profilu. Každou afiliaci pište na samostatný řádek."
 
 #: engine-wizard/elm/Wizard/Settings/Plans/Update.elm:24
 msgid "Unable to get plans."
@@ -5499,9 +5335,7 @@ msgstr "Název stránky podpory"
 msgid ""
 "Name of the support site where users can report issues related to the "
 "service."
-msgstr ""
-"Název stránky podpory, kde mohou uživatelé hlásit problémy související s "
-"touto službou."
+msgstr "Název stránky podpory, kde mohou uživatelé hlásit problémy související s touto službou."
 
 #: engine-wizard/elm/Wizard/Settings/PrivacyAndSupport/View.elm:46
 msgid "Support Site URL"
@@ -5510,9 +5344,7 @@ msgstr "URL stránky podpory"
 #: engine-wizard/elm/Wizard/Settings/PrivacyAndSupport/View.elm:47
 msgid ""
 "URL of the support site where users can report issues related to the service."
-msgstr ""
-"URL stránky podpory, kde mohou uživatelé hlásit problémy související s touto "
-"službou."
+msgstr "URL stránky podpory, kde mohou uživatelé hlásit problémy související s touto službou."
 
 #: engine-wizard/elm/Wizard/Settings/PrivacyAndSupport/View.elm:48
 msgid "Support Site Icon"
@@ -5530,9 +5362,7 @@ msgstr "Anonymní projekty"
 msgid ""
 "If enabled, users that are not logged in are allowed to create projects from "
 "public knowledge models."
-msgstr ""
-"Pokud je povoleno, pak nepřihlášení uživatelé mohou vytvářet projekty z "
-"veřejných znalostních modelů."
+msgstr "Pokud je povoleno, pak nepřihlášení uživatelé mohou vytvářet projekty z veřejných znalostních modelů."
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:57
 msgid "GitHub Repository Owner"
@@ -5562,13 +5392,7 @@ msgid ""
 "the repository is public or **repo** if it is private. We recommend creating "
 "a bot account with the access to the feedback repository instead of using "
 "your own GitHub account."
-msgstr ""
-"[Personal Access Token](https://help.github.com/en/github/authenticating-to-"
-"github/creating-a-personal-access-token-for-the-command-line) pro GitHub "
-"účet vytvářející hlášení. Ujistěte se, že je vybrán scope **public_repo** v "
-"případě veřejného repozitáře nebo **repo** pokud je soukromý. Doporučujeme "
-"vytvořit bot účet s přístupem do repozitáře pro zpětnou vazbu namísto "
-"použití svého osobního GitHub účtu."
+msgstr "[Personal Access Token](https://help.github.com/en/github/authenticating-to-github/creating-a-personal-access-token-for-the-command-line) pro GitHub účet vytvářející hlášení. Ujistěte se, že je vybrán scope **public_repo** v případě veřejného repozitáře nebo **repo** pokud je soukromý. Doporučujeme vytvořit bot účet s přístupem do repozitáře pro zpětnou vazbu namísto použití svého osobního GitHub účtu."
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:74
 msgid "Default Project Tags"
@@ -5578,9 +5402,7 @@ msgstr "Výchozí štítky projektů"
 msgid ""
 "Default projects tags can be provided to users so they don't have to come up "
 "with them on their own. Write one tag per line."
-msgstr ""
-"Výchozí štítky projektů mohou být nabídnuty uživatelům, aby si nemuseli "
-"vymýšlet vlastní. Pište jeden štítek na samostatný řádek."
+msgstr "Výchozí štítky projektů mohou být nabídnuty uživatelům, aby si nemuseli vymýšlet vlastní. Pište jeden štítek na samostatný řádek."
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:82
 msgid "Project Visibility"
@@ -5590,9 +5412,7 @@ msgstr "Viditelnost projektu"
 msgid ""
 "If enabled, project visibility can be set for each project. Otherwise, all "
 "projects use the *Default Project Visibility*."
-msgstr ""
-"Pokud je povoleno, pak viditelnost projektu může být nastavena pro každý "
-"projekt. Jinak je vždy použita *Výchozí viditelnost projektu*."
+msgstr "Pokud je povoleno, pak viditelnost projektu může být nastavena pro každý projekt. Jinak je vždy použita *Výchozí viditelnost projektu*."
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:84
 msgid "Default Project Visibility"
@@ -5603,10 +5423,7 @@ msgid ""
 "If *Project Visibility* is enabled, this value is pre-selected when creating "
 "a new project. If *Project Visibility* is disabled, this value is used "
 "implicitly for new projects."
-msgstr ""
-"Pokud je *Viditelnost projektu* povolena, tato hodnota je použita při "
-"vytváření nového projektu. Pokud je *Viditelnost projektu* zakázána, tato "
-"hodnota je implicitně použita pro nové projekty."
+msgstr "Pokud je *Viditelnost projektu* povolena, tato hodnota je použita při vytváření nového projektu. Pokud je *Viditelnost projektu* zakázána, tato hodnota je implicitně použita pro nové projekty."
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:87
 msgid "Project Sharing"
@@ -5616,10 +5433,7 @@ msgstr "Sdílení projektu"
 msgid ""
 "If enabled, users can choose if project can be shared with people outside of "
 "DSW or not. Otherwise, all projects use the *Default Project Sharing*."
-msgstr ""
-"Pokud je povoleno, uživatelé si mohou vybrat, zda je projekt sdílen s lidmi "
-"mimo DSW nebo ne. Jinak všechny projekty používají *Výchozí sdílení "
-"projektu*."
+msgstr "Pokud je povoleno, uživatelé si mohou vybrat, zda je projekt sdílen s lidmi mimo DSW nebo ne. Jinak všechny projekty používají *Výchozí sdílení projektu*."
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:89
 msgid "Default Project Sharing"
@@ -5630,10 +5444,7 @@ msgid ""
 "If *Project Sharing* is enabled, this value is pre-selected when creating a "
 "new project. If *Project Sharing* is disabled, this value is used implicitly "
 "for new projects."
-msgstr ""
-"Pokud je *Sdílení projektu* povolena, tato hodnota je použita při vytváření "
-"nového projektu. Pokud je *Sdílení projektu* zakázána, tato hodnota je "
-"implicitně použita pro nové projekty."
+msgstr "Pokud je *Sdílení projektu* povolena, tato hodnota je použita při vytváření nového projektu. Pokud je *Sdílení projektu* zakázána, tato hodnota je implicitně použita pro nové projekty."
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:94
 msgid "Project Creation"
@@ -5643,17 +5454,13 @@ msgstr "Vytváření projektu"
 msgid ""
 "If enabled, users can view a summary report showing various metrics for the "
 "questionnaire."
-msgstr ""
-"Pokud je povoleno, uživatelé mohou vidět souhrnný přehled zobrazující různé "
-"metriky pro dotazník."
+msgstr "Pokud je povoleno, uživatelé mohou vidět souhrnný přehled zobrazující různé metriky pro dotazník."
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:99
 msgid ""
 "If enabled, users can submit a feedback to questions to the specified GitHub "
 "repository."
-msgstr ""
-"Pokud je povoleno, uživatelé mohou odesílat zpětnou vazbu na otázky do "
-"nastaveného GitHub repozitáře."
+msgstr "Pokud je povoleno, uživatelé mohou odesílat zpětnou vazbu na otázky do nastaveného GitHub repozitáře."
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:101
 msgid "Project Tagging"
@@ -5662,16 +5469,13 @@ msgstr "Štítkování projektu"
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:102
 msgid ""
 "If enabled, users can tag their projects and use these tags to filter them."
-msgstr ""
-"Pokud je povoleno, uživatelé mohou štítkovat jejich projekty a použít štítky "
-"pro filtrování."
+msgstr "Pokud je povoleno, uživatelé mohou štítkovat jejich projekty a použít štítky pro filtrování."
 
 #: engine-wizard/elm/Wizard/Settings/Registry/Update.elm:103
 msgid ""
 "You have signed up for the Registry, you should receive a confirmation email "
 "soon."
-msgstr ""
-"Zaregistrovali jste se do Registry, měl by vám brzy přijít potvrzovací email."
+msgstr "Zaregistrovali jste se do Registry, měl by vám brzy přijít potvrzovací email."
 
 #: engine-wizard/elm/Wizard/Settings/Registry/Update.elm:109
 msgid "Sign up request failed."
@@ -5685,17 +5489,13 @@ msgstr "Token"
 msgid ""
 "Fill in your DSW Registry token. If you don't have one, you need sign up "
 "first."
-msgstr ""
-"Vyplňte váš token z DSW Registry. Pokud jej nemáte, musíte se nejprve "
-"zaregistrovat."
+msgstr "Vyplňte váš token z DSW Registry. Pokud jej nemáte, musíte se nejprve zaregistrovat."
 
 #: engine-wizard/elm/Wizard/Settings/Registry/View.elm:91
 msgid ""
 "If enabled, you can import Knowledge Models and Document Templates directly "
 "from [DSW Registry](https://registry.ds-wizard.org)."
-msgstr ""
-"Pokud je povoleno, můžete importovat znalostní modely a šablony dokumentů "
-"přímo z [DSW Registry](https://registry.ds-wizard.org)."
+msgstr "Pokud je povoleno, můžete importovat znalostní modely a šablony dokumentů přímo z [DSW Registry](https://registry.ds-wizard.org)."
 
 #: engine-wizard/elm/Wizard/Settings/Registry/View.elm:140
 msgid "Organization Name"
@@ -5709,8 +5509,7 @@ msgstr "Popis organizace"
 msgid ""
 "The email will be used for a confirmation link and an eventual token "
 "recovery."
-msgstr ""
-"Email bude použitý pro zaslání ověřovacího odkazu a případně obnovu tokenu."
+msgstr "Email bude použitý pro zaslání ověřovacího odkazu a případně obnovu tokenu."
 
 #: engine-wizard/elm/Wizard/Settings/Registry/View.elm:148
 msgid "Registry Sign Up"
@@ -5729,9 +5528,7 @@ msgstr "Služby"
 msgid ""
 "If enabled, you can configure external services for uploading documents from "
 "the instance."
-msgstr ""
-"Pokud je povoleno, můžete nastavit externí služby pro odesílání dokumentů z "
-"této instance."
+msgstr "Pokud je povoleno, můžete nastavit externí služby pro odesílání dokumentů z této instance."
 
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:107
 msgid "Supported Formats"
@@ -5741,9 +5538,7 @@ msgstr "Podporované formáty"
 msgid ""
 "Select document templates and formats that can be submitted using this "
 "submission service."
-msgstr ""
-"Výběr šablony dokumentu a formátů, které mohou být odeslány pomocí této "
-"služby."
+msgstr "Výběr šablony dokumentu a formátů, které mohou být odeslány pomocí této služby."
 
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:112
 msgid "User Properties"
@@ -5756,12 +5551,7 @@ msgid ""
 "you want each user to use their own authorization token, you can create a "
 "property called `Token` and use it in request headers as `${Token}`. Users "
 "will be able to set the token in their profile settings."
-msgstr ""
-"Můžete vytvořit vlastnosti, které si každý uživatel nastaví ve svém profilu. "
-"Pak je možné tyto vlastnosti použít v nastavení požadavku. Například pokud "
-"chcete, aby použil každý uživatel svůj autorizační token, můžete vytvořit "
-"vlastnost `Token` a použít ji v hlavičkách požadavku jako `${Token}`. "
-"Uživatelé budou moci nastavit takový token v jejich uživatelském profilu."
+msgstr "Můžete vytvořit vlastnosti, které si každý uživatel nastaví ve svém profilu. Pak je možné tyto vlastnosti použít v nastavení požadavku. Například pokud chcete, aby použil každý uživatel svůj autorizační token, můžete vytvořit vlastnost `Token` a použít ji v hlavičkách požadavku jako `${Token}`. Uživatelé budou moci nastavit takový token v jejich uživatelském profilu."
 
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:114
 msgid "Add property"
@@ -5787,9 +5577,7 @@ msgstr "Multipart"
 msgid ""
 "If enabled, file will be sent using multipart request. Otherwise, it will be "
 "directly in the request body."
-msgstr ""
-"Pokud je povoleno, soubor bude odeslán pomocí multipart požadavku. Jinak "
-"bude odeslán přímo v těle požadavku."
+msgstr "Pokud je povoleno, soubor bude odeslán pomocí multipart požadavku. Jinak bude odeslán přímo v těle požadavku."
 
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:250
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:256
@@ -5950,10 +5738,7 @@ msgid ""
 "This is a list of active sessions logged into your account.\n"
 "\n"
 "If you don't recognize any, you should revoke them."
-msgstr ""
-"Jedná se o seznam aktivních relací přihlášených k vašemu účtu.\n"
-"\n"
-"Pokud některou z nich nepoznáte, měli byste ji zrušit."
+msgstr "Jedná se o seznam aktivních relací přihlášených k vašemu účtu.\n\nPokud některou z nich nepoznáte, měli byste ji zrušit."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ActiveSessions.elm:223
 msgid "current"
@@ -5983,9 +5768,7 @@ msgstr "Odvolání"
 msgid ""
 "Are you sure you want to revoke all active sessions? This will log you out "
 "of all devices except for the current one."
-msgstr ""
-"Opravdu chcete zrušit všechny aktivní relace? Tím se odhlásíte ze všech "
-"zařízení kromě aktuálního."
+msgstr "Opravdu chcete zrušit všechny aktivní relace? Tím se odhlásíte ze všech zařízení kromě aktuálního."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ActiveSessions.elm:272
 msgid "Revoke All Active Sessions"
@@ -6016,9 +5799,7 @@ msgstr "Klíče API"
 msgid ""
 "You can generate an API key for every application you use that needs access "
 "to [DSW API](%s)."
-msgstr ""
-"Klíč API můžete vygenerovat pro každou používanou aplikaci, která potřebuje "
-"přístup k [DSW API](%s)."
+msgstr "Klíč API můžete vygenerovat pro každou používanou aplikaci, která potřebuje přístup k [DSW API](%s)."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:202
 msgid "Your new API key"
@@ -6026,8 +5807,7 @@ msgstr "Váš nový klíč API"
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:203
 msgid "Make sure to save it, you will not be able to access it again."
-msgstr ""
-"Ujistěte se, že jste si ji uložili, protože k ní již nebudete mít přístup."
+msgstr "Ujistěte se, že jste si ji uložili, protože k ní již nebudete mít přístup."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:214
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:256
@@ -6038,9 +5818,7 @@ msgstr "Název klíče API"
 msgid ""
 "Give the API key a name to identify it, such as the name of the application "
 "using it or the purpose of the key."
-msgstr ""
-"Klíč API pojmenujte, abyste jej mohli identifikovat, například názvem "
-"aplikace, která jej používá, nebo účelem klíče."
+msgstr "Klíč API pojmenujte, abyste jej mohli identifikovat, například názvem aplikace, která jej používá, nebo účelem klíče."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:217
 msgid "The date when the API key will no longer be valid."
@@ -6094,9 +5872,7 @@ msgstr "Obrázek uživatele"
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/Profile.elm:188
 msgid "Image is taken from OpenID profile or [Gravatar](https://gravatar.com)."
-msgstr ""
-"Obrázek je převzat z OpenID profilu nebo služby [Gravatar](https://gravatar."
-"com)."
+msgstr "Obrázek je převzat z OpenID profilu nebo služby [Gravatar](https://gravatar.com)."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/Profile.elm:235
 msgid "Your profile is managed elsewhere."
