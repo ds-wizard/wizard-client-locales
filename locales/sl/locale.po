@@ -1,7 +1,17 @@
 # Kryštof Komanec <krystof.komanec@gmail.com>, 2023.
 # Nadja Zlender <nadja.zlender@mf.uni-lj.si>, 2023.
 msgid ""
-msgstr "Project-Id-Version: wizard-client:4.1.0\nPOT-Creation-Date: 2023-12-05T17:37:11.441Z\nPO-Revision-Date: 2024-01-02 08:31+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Slovenian <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-2-0/sl/>\nLanguage: sl\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3;\nX-Generator: Weblate 4.18.2\n"
+msgstr ""
+"Project-Id-Version: wizard-client:4.1.0\n"
+"POT-Creation-Date: 2024-01-02T07:42:43.985Z \n"
+"PO-Revision-Date: 2024-01-02 08:31+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Slovenian <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-2-0/sl/>\n"
+"Language: sl\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3;\n"
+"X-Generator: Weblate 4.18.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -348,8 +358,7 @@ msgstr "Nepravilna koda za preverjanje pristnosti"
 msgid "The account is not activated."
 msgstr "Račun ni aktiviran."
 
-#: engine-shared/elm/Shared/Form.elm:23
-#: engine-shared/elm/Shared/Form.elm:26
+#: engine-shared/elm/Shared/Form.elm:23 engine-shared/elm/Shared/Form.elm:26
 msgid "%s cannot be empty."
 msgstr "%s ne more biti prazno."
 
@@ -1066,7 +1075,7 @@ msgstr "Naslov"
 #: engine-wizard/elm/Wizard/KMEditor/Publish/View.elm:83
 #: engine-wizard/elm/Wizard/Locales/Create/View.elm:48
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:410
-#: engine-wizard/elm/Wizard/Settings/Organization/View.elm:36
+#: engine-wizard/elm/Wizard/Settings/Organization/View.elm:47
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:105
 msgid "Description"
 msgstr "Opis"
@@ -1165,7 +1174,7 @@ msgstr "Poglavja"
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:212
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:248
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:269
-#: engine-wizard/elm/Wizard/Settings/Organization/View.elm:34
+#: engine-wizard/elm/Wizard/Settings/Organization/View.elm:45
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:104
 #: engine-wizard/elm/Wizard/Tenants/Create/View.elm:37
 #: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:158
@@ -1195,7 +1204,7 @@ msgstr "Nova različica"
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:41
 #: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:32
 #: engine-wizard/elm/Wizard/Settings/KnowledgeModels/View.elm:29
-#: engine-wizard/elm/Wizard/Settings/Organization/View.elm:25
+#: engine-wizard/elm/Wizard/Settings/Organization/View.elm:26
 #: engine-wizard/elm/Wizard/Settings/PrivacyAndSupport/View.elm:28
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:30
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:41
@@ -1831,8 +1840,14 @@ msgid "Create Project"
 msgstr "Ustvari projekt"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/CreateProjectWidget.elm:14
-msgid "Project is a workspace where you create your DMP. It is based on a knowledge model, which contains knowledge about what should be asked and how based on the research field or organization's needs. You can use document templates to transform the answers into a document. This document can be anything, from PDF to machine-actionable JSON.\n\nYou can create a new project from a project template that data stewards prepare for you to have an easier start or from scratch where you set up everything yourself."
-msgstr "Projekt je delovni prostor, v katerem ustvarite svoj DMP. Temelji na modelu znanja, ki vsebuje znanje o tem, kaj je treba vprašati in kako glede na raziskovalno področje ali potrebe organizacije. Za preoblikovanje odgovorov v dokument lahko uporabite predloge dokumentov. Ta dokument je lahko kar koli, od PDF do strojno uporabnega JSON.\n\nNov projekt lahko ustvarite iz predloge projekta, ki jo za vas pripravijo upravljavci podatkov, da boste lažje začeli, ali iz nič, kjer vse nastavite sami."
+msgid ""
+"Project is a workspace where you create your DMP. It is based on a knowledge model, which contains knowledge about what should be asked and how based on the research field or organization's needs. You can use document templates to transform the answers into a document. This document can be anything, from PDF to machine-actionable JSON.\n"
+"\n"
+"You can create a new project from a project template that data stewards prepare for you to have an easier start or from scratch where you set up everything yourself."
+msgstr ""
+"Projekt je delovni prostor, v katerem ustvarite svoj DMP. Temelji na modelu znanja, ki vsebuje znanje o tem, kaj je treba vprašati in kako glede na raziskovalno področje ali potrebe organizacije. Za preoblikovanje odgovorov v dokument lahko uporabite predloge dokumentov. Ta dokument je lahko kar koli, od PDF do strojno uporabnega JSON.\n"
+"\n"
+"Nov projekt lahko ustvarite iz predloge projekta, ki jo za vas pripravijo upravljavci podatkov, da boste lažje začeli, ali iz nič, kjer vse nastavite sami."
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ImportDocumentTemplateWidget.elm:13
 #: engine-wizard/elm/Wizard/DocumentTemplates/Import/View.elm:44
@@ -2295,7 +2310,7 @@ msgstr "Formati"
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:287
 #: engine-wizard/elm/Wizard/KnowledgeModels/Import/OwlImport/View.elm:44
 #: engine-wizard/elm/Wizard/Settings/KnowledgeModels/View.elm:46
-#: engine-wizard/elm/Wizard/Settings/Organization/View.elm:37
+#: engine-wizard/elm/Wizard/Settings/Organization/View.elm:48
 #: engine-wizard/elm/Wizard/Settings/Registry/View.elm:139
 msgid "Organization ID"
 msgstr "ID organizacije"
@@ -3258,8 +3273,8 @@ msgid "Widget URL"
 msgstr "URL Widget"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1553
-msgid "The URL of the widget implemented using [DSW Integration Widget SDK](https://github.com/ds-wizard/dsw-integration-widget-sdk)."
-msgstr "URL gradnika, ki se izvaja z uporabo [DSW Integration Widget SDK](https://github.com/ds-wizard/dsw-integration-widget-sdk)."
+msgid "The URL of the widget implemented using [DSW Integration SDK](https://github.com/ds-wizard/dsw-integration-sdk)."
+msgstr ""
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1555
 msgid "Defines the URL to the selected item. Use `${id}` value returned from the widget, for example `https://example.com/${id}`."
@@ -5125,26 +5140,26 @@ msgstr "Dodaj povezavo"
 msgid "New window"
 msgstr "Novo okno"
 
-#: engine-wizard/elm/Wizard/Settings/Organization/View.elm:24
+#: engine-wizard/elm/Wizard/Settings/Organization/View.elm:25
 #: engine-wizard/elm/Wizard/Settings/View.elm:110
 msgid "Organization"
 msgstr "Organizacija"
 
-#: engine-wizard/elm/Wizard/Settings/Organization/View.elm:35
-msgid "Name of the organization running this instance."
-msgstr "Ime organizacije, ki upravlja to instanco."
-
-#: engine-wizard/elm/Wizard/Settings/Organization/View.elm:38
-msgid "Organization ID is used to identify Knowledge Models created in this instance. It can contain alphanumeric characters and dots but cannot start or end with a dot."
-msgstr "ID organizacije se uporablja za identifikacijo modelov znanja, ustvarjenih v tem primeru. Vsebuje lahko alfanumerične znake in pike, vendar se ne sme začeti ali končati s piko."
-
-#: engine-wizard/elm/Wizard/Settings/Organization/View.elm:39
+#: engine-wizard/elm/Wizard/Settings/Organization/View.elm:40
 msgid "Affiliations"
 msgstr "Organizacije"
 
-#: engine-wizard/elm/Wizard/Settings/Organization/View.elm:40
+#: engine-wizard/elm/Wizard/Settings/Organization/View.elm:41
 msgid "Affiliation options will be used to help users choose their affiliation while signing up or editing their profile. Write one affiliation option per line."
 msgstr "Možnosti organizacije bodo uporabnikom v pomoč pri izbiri organizacije med prijavo ali urejanjem profila. V vsako vrstico napišite eno možnost pripadnosti."
+
+#: engine-wizard/elm/Wizard/Settings/Organization/View.elm:46
+msgid "Name of the organization running this instance."
+msgstr "Ime organizacije, ki upravlja to instanco."
+
+#: engine-wizard/elm/Wizard/Settings/Organization/View.elm:49
+msgid "Organization ID is used to identify Knowledge Models created in this instance. It can contain alphanumeric characters and dots but cannot start or end with a dot."
+msgstr "ID organizacije se uporablja za identifikacijo modelov znanja, ustvarjenih v tem primeru. Vsebuje lahko alfanumerične znake in pike, vendar se ne sme začeti ali končati s piko."
 
 #: engine-wizard/elm/Wizard/Settings/Plans/Update.elm:24
 msgid "Unable to get plans."
@@ -5549,8 +5564,14 @@ msgid "Active Sessions"
 msgstr "Aktivne seje"
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ActiveSessions.elm:184
-msgid "This is a list of active sessions logged into your account.\n\nIf you don't recognize any, you should revoke them."
-msgstr "To je seznam aktivnih sej, prijavljenih v vaš račun.\n\nČe katere od njih ne prepoznate, jo morate preklicati."
+msgid ""
+"This is a list of active sessions logged into your account.\n"
+"\n"
+"If you don't recognize any, you should revoke them."
+msgstr ""
+"To je seznam aktivnih sej, prijavljenih v vaš račun.\n"
+"\n"
+"Če katere od njih ne prepoznate, jo morate preklicati."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ActiveSessions.elm:223
 msgid "current"
@@ -5748,3 +5769,6 @@ msgstr "Ni dovoljeno"
 #: engine-wizard/elm/Wizard/View.elm:154
 msgid "You don't have permission to view this page."
 msgstr "Nimate dovoljenja za ogled te strani."
+
+#~ msgid "The URL of the widget implemented using [DSW Integration Widget SDK](https://github.com/ds-wizard/dsw-integration-widget-sdk)."
+#~ msgstr "URL gradnika, ki se izvaja z uporabo [DSW Integration Widget SDK](https://github.com/ds-wizard/dsw-integration-widget-sdk)."

@@ -1,7 +1,17 @@
 # Rob Hooft <rob.hooft@health-ri.nl>, 2023.
 # Marek Suchánek <marek.suchanek@ds-wizard.org>, 2023.
 msgid ""
-msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2023-12-05T17:37:11.441Z\nPO-Revision-Date: 2024-01-02 08:31+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Dutch <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-2-0/nl/>\nLanguage: nl\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.18.2\n"
+msgstr ""
+"Project-Id-Version: wizard-client:3.18.3\n"
+"POT-Creation-Date: 2024-01-02T07:42:43.985Z \n"
+"PO-Revision-Date: 2024-01-02 08:31+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Dutch <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-2-0/nl/>\n"
+"Language: nl\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.18.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -1063,7 +1073,7 @@ msgstr "Titel"
 #: engine-wizard/elm/Wizard/KMEditor/Publish/View.elm:83
 #: engine-wizard/elm/Wizard/Locales/Create/View.elm:48
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:410
-#: engine-wizard/elm/Wizard/Settings/Organization/View.elm:36
+#: engine-wizard/elm/Wizard/Settings/Organization/View.elm:47
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:105
 msgid "Description"
 msgstr "Beschrijving"
@@ -1162,7 +1172,7 @@ msgstr "Hoofdstukken"
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:212
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:248
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:269
-#: engine-wizard/elm/Wizard/Settings/Organization/View.elm:34
+#: engine-wizard/elm/Wizard/Settings/Organization/View.elm:45
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:104
 #: engine-wizard/elm/Wizard/Tenants/Create/View.elm:37
 #: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:158
@@ -1192,7 +1202,7 @@ msgstr "Nieuwe versie"
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:41
 #: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:32
 #: engine-wizard/elm/Wizard/Settings/KnowledgeModels/View.elm:29
-#: engine-wizard/elm/Wizard/Settings/Organization/View.elm:25
+#: engine-wizard/elm/Wizard/Settings/Organization/View.elm:26
 #: engine-wizard/elm/Wizard/Settings/PrivacyAndSupport/View.elm:28
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:30
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:41
@@ -1814,7 +1824,10 @@ msgid ""
 "Project is a workspace where you create your DMP. It is based on a knowledge model, which contains knowledge about what should be asked and how based on the research field or organization's needs. You can use document templates to transform the answers into a document. This document can be anything, from PDF to machine-actionable JSON.\n"
 "\n"
 "You can create a new project from a project template that data stewards prepare for you to have an easier start or from scratch where you set up everything yourself."
-msgstr "Een Project is een werkplek waar het DMP wordt gemaakt. Een project is gebaseerd op een kennismodel met de kennis over wanneer vragen gesteld moeten worden en hoe, gebaseerd op het onderzoeksveld of de wensen van de organisatie. Documentsjablonen kunnen worden gebruikt om de antwoorden om te zetten in een document. Zo’n document kan van alles zijn, van een PDF tot een JSON file die door een machine kan worden verwerkt.\n\nEen nieuw project kan worden gemaakt vanuit een sjabloon dat door een datasteward is voorbereid voor een snelle start, of helemaal leeg zodat alles nog moet worden gedaan."
+msgstr ""
+"Een Project is een werkplek waar het DMP wordt gemaakt. Een project is gebaseerd op een kennismodel met de kennis over wanneer vragen gesteld moeten worden en hoe, gebaseerd op het onderzoeksveld of de wensen van de organisatie. Documentsjablonen kunnen worden gebruikt om de antwoorden om te zetten in een document. Zo’n document kan van alles zijn, van een PDF tot een JSON file die door een machine kan worden verwerkt.\n"
+"\n"
+"Een nieuw project kan worden gemaakt vanuit een sjabloon dat door een datasteward is voorbereid voor een snelle start, of helemaal leeg zodat alles nog moet worden gedaan."
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ImportDocumentTemplateWidget.elm:13
 #: engine-wizard/elm/Wizard/DocumentTemplates/Import/View.elm:44
@@ -2277,7 +2290,7 @@ msgstr "Formaten"
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:287
 #: engine-wizard/elm/Wizard/KnowledgeModels/Import/OwlImport/View.elm:44
 #: engine-wizard/elm/Wizard/Settings/KnowledgeModels/View.elm:46
-#: engine-wizard/elm/Wizard/Settings/Organization/View.elm:37
+#: engine-wizard/elm/Wizard/Settings/Organization/View.elm:48
 #: engine-wizard/elm/Wizard/Settings/Registry/View.elm:139
 msgid "Organization ID"
 msgstr "Organisatie-ID"
@@ -3240,8 +3253,8 @@ msgid "Widget URL"
 msgstr "Widget-URL"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1553
-msgid "The URL of the widget implemented using [DSW Integration Widget SDK](https://github.com/ds-wizard/dsw-integration-widget-sdk)."
-msgstr "De URL van het widget dat is geïmplementeerd met de [DSW Integration Widget SDK](https://github.com/ds-wizard/dsw-integration-widget-sdk)."
+msgid "The URL of the widget implemented using [DSW Integration SDK](https://github.com/ds-wizard/dsw-integration-sdk)."
+msgstr ""
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1555
 msgid "Defines the URL to the selected item. Use `${id}` value returned from the widget, for example `https://example.com/${id}`."
@@ -5103,26 +5116,26 @@ msgstr "Link toevoegen"
 msgid "New window"
 msgstr "Nieuw venster"
 
-#: engine-wizard/elm/Wizard/Settings/Organization/View.elm:24
+#: engine-wizard/elm/Wizard/Settings/Organization/View.elm:25
 #: engine-wizard/elm/Wizard/Settings/View.elm:110
 msgid "Organization"
 msgstr "Organisatie"
 
-#: engine-wizard/elm/Wizard/Settings/Organization/View.elm:35
-msgid "Name of the organization running this instance."
-msgstr "De naam van de organisatie die deze instantie draait."
-
-#: engine-wizard/elm/Wizard/Settings/Organization/View.elm:38
-msgid "Organization ID is used to identify Knowledge Models created in this instance. It can contain alphanumeric characters and dots but cannot start or end with a dot."
-msgstr "Organisatie-ID wordt gebruikt om kennismodellen die in deze instantie worden gemaakt te herkennen. Dit kan bestaan uit alfanumerieke karakters en punten, maar niet beginnen of eindigen met een punt."
-
-#: engine-wizard/elm/Wizard/Settings/Organization/View.elm:39
+#: engine-wizard/elm/Wizard/Settings/Organization/View.elm:40
 msgid "Affiliations"
 msgstr "Affiliaties"
 
-#: engine-wizard/elm/Wizard/Settings/Organization/View.elm:40
+#: engine-wizard/elm/Wizard/Settings/Organization/View.elm:41
 msgid "Affiliation options will be used to help users choose their affiliation while signing up or editing their profile. Write one affiliation option per line."
 msgstr "Affiliatie-opties worden gebruikt om gebruikers te helpen bij het kiezen van hun affiliatie tijdens het aanmelden of het bewerken van hun profiel. Geef één affiliatie-optie per regel."
+
+#: engine-wizard/elm/Wizard/Settings/Organization/View.elm:46
+msgid "Name of the organization running this instance."
+msgstr "De naam van de organisatie die deze instantie draait."
+
+#: engine-wizard/elm/Wizard/Settings/Organization/View.elm:49
+msgid "Organization ID is used to identify Knowledge Models created in this instance. It can contain alphanumeric characters and dots but cannot start or end with a dot."
+msgstr "Organisatie-ID wordt gebruikt om kennismodellen die in deze instantie worden gemaakt te herkennen. Dit kan bestaan uit alfanumerieke karakters en punten, maar niet beginnen of eindigen met een punt."
 
 #: engine-wizard/elm/Wizard/Settings/Plans/Update.elm:24
 msgid "Unable to get plans."
@@ -5531,7 +5544,10 @@ msgid ""
 "This is a list of active sessions logged into your account.\n"
 "\n"
 "If you don't recognize any, you should revoke them."
-msgstr "Dit is een lijst van actieve sessies die op uw account zijn ingelogd.\n\nAls je er geen herkent, moet je ze intrekken."
+msgstr ""
+"Dit is een lijst van actieve sessies die op uw account zijn ingelogd.\n"
+"\n"
+"Als je er geen herkent, moet je ze intrekken."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ActiveSessions.elm:223
 msgid "current"
@@ -5729,6 +5745,9 @@ msgstr "Niet toegestaan"
 #: engine-wizard/elm/Wizard/View.elm:154
 msgid "You don't have permission to view this page."
 msgstr "Je hebt geen toestemming deze pagina te bekijken."
+
+#~ msgid "The URL of the widget implemented using [DSW Integration Widget SDK](https://github.com/ds-wizard/dsw-integration-widget-sdk)."
+#~ msgstr "De URL van het widget dat is geïmplementeerd met de [DSW Integration Widget SDK](https://github.com/ds-wizard/dsw-integration-widget-sdk)."
 
 #~ msgid "Import answers"
 #~ msgstr "Importeer antwoorden"
