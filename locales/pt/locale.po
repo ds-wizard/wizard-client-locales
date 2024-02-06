@@ -1,54 +1,45 @@
 # Marek Suchánek <marek.suchanek@ds-wizard.org>, 2024.
+# Gil Poiares-Oliveira <gpo@biodata.pt>, 2024.
 msgid ""
-msgstr "Project-Id-Version: wizard-client:4.2.0\nPOT-Creation-Date: 2024-01-02T07:42:43.985Z\nPO-Revision-Date: 2024-02-01 19:23+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Portuguese <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-2-0/pt/>\nLanguage: pt\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 4.18.2\n"
+msgstr "Project-Id-Version: wizard-client:4.2.0\nPOT-Creation-Date: 2024-01-02T07:42:43.985Z\nPO-Revision-Date: 2024-02-07 14:40+0000\nLast-Translator: Gil Poiares-Oliveira <gpo@biodata.pt>\nLanguage-Team: Portuguese <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-2-0/pt/>\nLanguage: pt\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 4.18.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
-#, fuzzy
 msgid "Admin"
 msgstr "Administrador"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:34
-#, fuzzy
 msgid "Data Steward"
-msgstr "Diretor de dados"
+msgstr "Gestor de dados"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:39
-#, fuzzy
 msgid "Researcher"
 msgstr "Investigador"
 
 #: engine-shared/elm/Shared/Common/TimeUtils.elm:156
-#, fuzzy
 msgid "January"
 msgstr "janeiro"
 
 #: engine-shared/elm/Shared/Common/TimeUtils.elm:159
-#, fuzzy
 msgid "February"
 msgstr "fevereiro"
 
 #: engine-shared/elm/Shared/Common/TimeUtils.elm:162
-#, fuzzy
 msgid "March"
 msgstr "março"
 
 #: engine-shared/elm/Shared/Common/TimeUtils.elm:165
-#, fuzzy
 msgid "April"
 msgstr "abril"
 
 #: engine-shared/elm/Shared/Common/TimeUtils.elm:168
-#, fuzzy
 msgid "May"
 msgstr "maio"
 
 #: engine-shared/elm/Shared/Common/TimeUtils.elm:171
-#, fuzzy
 msgid "June"
 msgstr "junho"
 
 #: engine-shared/elm/Shared/Common/TimeUtils.elm:174
-#, fuzzy
 msgid "July"
 msgstr "julho"
 
@@ -78,9 +69,8 @@ msgid "December"
 msgstr "dezembro"
 
 #: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireCreation.elm:116
-#, fuzzy
 msgid "Templates & Custom"
-msgstr "Modelos e personalizados"
+msgstr "Modelos e personalizações"
 
 #: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireCreation.elm:117
 #, fuzzy
@@ -99,14 +89,12 @@ msgid "Only project templates can be used for creating new projects."
 msgstr "Apenas os modelos de projeto podem ser utilizados para criar novos projectos."
 
 #: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireCreation.elm:124
-#, fuzzy
 msgid "Custom only"
-msgstr "Apenas personalizado"
+msgstr "Apenas personalizações"
 
 #: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireCreation.elm:125
-#, fuzzy
 msgid "Project templates feature is disabled, researchers have to choose knowledge model and set up everything."
-msgstr "A funcionalidade de modelos de projeto está desactivada, os investigadores têm de escolher o modelo de conhecimento e configurar tudo."
+msgstr "A funcionalidade de modelos de projeto está desativada, os investigadores têm de escolher o modelo de conhecimento e configurar tudo."
 
 #: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireSharing.elm:135
 #, fuzzy
