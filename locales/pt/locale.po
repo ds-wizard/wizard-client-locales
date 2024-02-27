@@ -1,17 +1,7 @@
 # Marek Suchánek <marek.suchanek@ds-wizard.org>, 2024.
 # Gil Poiares-Oliveira <gpo@biodata.pt>, 2024.
 msgid ""
-msgstr ""
-"Project-Id-Version: wizard-client:4.2.0\n"
-"POT-Creation-Date: 2024-02-06T08:10:07.424Z \n"
-"PO-Revision-Date: 2024-02-22 05:40+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Portuguese <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-2-0/pt/>\n"
-"Language: pt\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 4.18.2\n"
+msgstr "Project-Id-Version: wizard-client:4.2.0\nPOT-Creation-Date: 2024-02-06T08:10:07.424Z\nPO-Revision-Date: 2024-02-27 17:10+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Portuguese <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-3-0/pt/>\nLanguage: pt\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 4.18.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -486,20 +476,24 @@ msgid "Comma (,) is not allowed in project tags."
 msgstr "A vírgula (,) não é permitida nas etiquetas de projeto."
 
 #: engine-wizard/elm/Wizard/Common/Components/CookieConsent.elm:27
+#, fuzzy
 msgid "Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use. "
-msgstr ""
+msgstr "Privacidade e cookies: Este sítio utiliza cookies. Ao continuar a utilizar este sítio Web, o utilizador concorda com a sua utilização. "
 
 #: engine-wizard/elm/Wizard/Common/Components/CookieConsent.elm:29
+#, fuzzy
 msgid "To find out more, including how to control cookies, see here: "
-msgstr ""
+msgstr "Para saber mais, incluindo a forma de controlar os cookies, consulte aqui: "
 
 #: engine-wizard/elm/Wizard/Common/Components/CookieConsent.elm:30
+#, fuzzy
 msgid "Cookie Policy"
-msgstr ""
+msgstr "Política de cookies"
 
 #: engine-wizard/elm/Wizard/Common/Components/CookieConsent.elm:32
+#, fuzzy
 msgid "Close and Accept"
-msgstr ""
+msgstr "Fechar e aceitar"
 
 #: engine-wizard/elm/Wizard/Common/Components/CopyableCodeBlock.elm:48
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3271
@@ -839,8 +833,9 @@ msgid "Current Phase"
 msgstr "Fase atual"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1653
+#, fuzzy
 msgid "Select phase"
-msgstr ""
+msgstr "Selecionar fase"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1775
 #, fuzzy
@@ -1116,6 +1111,7 @@ msgid "This option leads to some follow up questions."
 msgstr "Esta opção leva a algumas perguntas complementares."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3190
+#, fuzzy
 msgid "1 comment"
 msgid_plural "%s comments"
 msgstr[0] ""
@@ -1807,54 +1803,63 @@ msgid "in %s"
 msgstr "em %s"
 
 #: engine-wizard/elm/Wizard/Common/TimeDistance.elm:27
+#, fuzzy
 msgid "less than a minute"
 msgid_plural "less than %s minutes"
 msgstr[0] ""
 msgstr[1] "menos de %s minutos"
 
 #: engine-wizard/elm/Wizard/Common/TimeDistance.elm:41
+#, fuzzy
 msgid "1 minute"
 msgid_plural "%s minutes"
 msgstr[0] ""
 msgstr[1] "%s minutos"
 
 #: engine-wizard/elm/Wizard/Common/TimeDistance.elm:44
+#, fuzzy
 msgid "about 1 hour"
 msgid_plural "about %s hours"
 msgstr[0] ""
 msgstr[1] "cerca de %s horas"
 
 #: engine-wizard/elm/Wizard/Common/TimeDistance.elm:47
+#, fuzzy
 msgid "1 day"
 msgid_plural "%s days"
 msgstr[0] ""
 msgstr[1] "%s dias"
 
 #: engine-wizard/elm/Wizard/Common/TimeDistance.elm:50
+#, fuzzy
 msgid "about 1 month"
 msgid_plural "about %s months"
 msgstr[0] ""
 msgstr[1] "cerca de %s meses"
 
 #: engine-wizard/elm/Wizard/Common/TimeDistance.elm:53
+#, fuzzy
 msgid "1 month"
 msgid_plural "%s months"
 msgstr[0] ""
 msgstr[1] "%s meses"
 
 #: engine-wizard/elm/Wizard/Common/TimeDistance.elm:56
+#, fuzzy
 msgid "about 1 year"
 msgid_plural "about %s years"
 msgstr[0] ""
 msgstr[1] "cerca de %s anos"
 
 #: engine-wizard/elm/Wizard/Common/TimeDistance.elm:59
+#, fuzzy
 msgid "over 1 year"
 msgid_plural "over %s years"
 msgstr[0] ""
 msgstr[1] "mais de %s anos"
 
 #: engine-wizard/elm/Wizard/Common/TimeDistance.elm:62
+#, fuzzy
 msgid "almost 1 year"
 msgid_plural "almost %s years"
 msgstr[0] ""
@@ -2178,8 +2183,9 @@ msgid "Import Document Template"
 msgstr "Importar modelo de documento"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ImportDocumentTemplateWidget.elm:18
+#, fuzzy
 msgid "Document templates transform answers from a questionnaire into a document. This document can be anything, from PDF to machine-actionable JSON. You can import existing document templates from [%s](%s/templates) or [develop new ones](https://guide.ds-wizard.org/en/latest/more/development/document-templates/index.html)."
-msgstr ""
+msgstr "Os modelos de documento transformam as respostas de um questionário num documento. Este documento pode ser qualquer coisa, desde PDF a JSON acionável por máquina. É possível importar modelos de documentos existentes de [%s](%s/templates) ou [desenvolver novos](https://guide.ds-wizard.org/en/latest/more/development/document-templates/index.html)."
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ImportDocumentTemplateWidget.elm:22
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ImportKnowledgeModelWidget.elm:22
@@ -2210,8 +2216,9 @@ msgid "Import Knowledge Model"
 msgstr "Importar modelo de conhecimento"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ImportKnowledgeModelWidget.elm:18
+#, fuzzy
 msgid "Knowledge models are published in [%s](%s). You can easily import them into your instance to make them available for researchers. You can also import other knowledge models exported from different instances."
-msgstr ""
+msgstr "Os modelos de conhecimento são publicados em [%s](%s). Pode importá-los facilmente para a sua instância para os tornar disponíveis para os investigadores. Também pode importar outros modelos de conhecimento exportados de diferentes instâncias."
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/OutdatedPackagesWidget.elm:35
 #, fuzzy
@@ -3078,8 +3085,9 @@ msgstr "O modelo de documento %s foi importado!"
 #: engine-wizard/elm/Wizard/DocumentTemplates/Import/View.elm:61
 #: engine-wizard/elm/Wizard/KnowledgeModels/Import/View.elm:25
 #: engine-wizard/elm/Wizard/Locales/Import/View.elm:61
+#, fuzzy
 msgid "From registry"
-msgstr ""
+msgstr "Do registo"
 
 #: engine-wizard/elm/Wizard/DocumentTemplates/Import/View.elm:72
 #: engine-wizard/elm/Wizard/KnowledgeModels/Import/View.elm:33
@@ -5392,12 +5400,14 @@ msgid "Import status:"
 msgstr "Estado da importação:"
 
 #: engine-wizard/elm/Wizard/Projects/Import/View.elm:90
+#, fuzzy
 msgid "%s questionnaire change will be imported"
 msgid_plural "%s questionnaire changes will be imported"
 msgstr[0] ""
 msgstr[1] "As alterações ao questionário %s serão importadas"
 
 #: engine-wizard/elm/Wizard/Projects/Import/View.elm:108
+#, fuzzy
 msgid "%s error encountered"
 msgid_plural "%s errors encountered"
 msgstr[0] ""
@@ -5651,8 +5661,9 @@ msgid "Forgotten password recovery failed."
 msgstr "A recuperação da palavra-passe esquecida falhou."
 
 #: engine-wizard/elm/Wizard/Public/ForgottenPassword/View.elm:25
+#, fuzzy
 msgid "Check your email. If you have an account, you should receive an email with instructions on how to reset your password."
-msgstr ""
+msgstr "Verifique o seu correio eletrónico. Se tiver uma conta, deverá receber um e-mail com instruções sobre como redefinir a sua palavra-passe."
 
 #: engine-wizard/elm/Wizard/Public/ForgottenPassword/View.elm:38
 #, fuzzy
