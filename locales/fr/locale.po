@@ -1,7 +1,18 @@
 # Marek Suchánek <marek.suchanek@ds-wizard.org>, 2023.
 # Paulette Lieby <paulette.lieby@france-bioinformatique.fr>, 2023, 2024.
 msgid ""
-msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2024-01-02T07:42:43.985Z\nPO-Revision-Date: 2024-01-03 14:39+0000\nLast-Translator: Paulette Lieby <paulette.lieby@france-bioinformatique.fr>\nLanguage-Team: French <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-2-0/fr/>\nLanguage: fr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 4.18.2\n"
+msgstr ""
+"Project-Id-Version: wizard-client:3.18.3\n"
+"POT-Creation-Date: 2024-02-06T08:10:07.424Z \n"
+"PO-Revision-Date: 2024-01-03 14:39+0000\n"
+"Last-Translator: Paulette Lieby <paulette.lieby@france-bioinformatique.fr>\n"
+"Language-Team: French <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-2-0/fr/>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 4.18.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -393,6 +404,22 @@ msgstr "Ce mot de passe est faible."
 msgid "Comma (,) is not allowed in project tags."
 msgstr "La virgule (,) n'est pas autorisée dans les étiquettes de projet."
 
+#: engine-wizard/elm/Wizard/Common/Components/CookieConsent.elm:27
+msgid "Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use. "
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/CookieConsent.elm:29
+msgid "To find out more, including how to control cookies, see here: "
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/CookieConsent.elm:30
+msgid "Cookie Policy"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/CookieConsent.elm:32
+msgid "Close and Accept"
+msgstr ""
+
 #: engine-wizard/elm/Wizard/Common/Components/CopyableCodeBlock.elm:48
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3271
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:760
@@ -589,7 +616,7 @@ msgid "View"
 msgstr "Lire"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1303
-#: engine-wizard/elm/Wizard/DocumentTemplates/Detail/View.elm:325
+#: engine-wizard/elm/Wizard/DocumentTemplates/Detail/View.elm:330
 #: engine-wizard/elm/Wizard/KnowledgeModels/Detail/View.elm:216
 msgid "Show all"
 msgstr "Tout afficher"
@@ -659,12 +686,19 @@ msgid "Action failed!"
 msgstr "L'action a échoué !"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1535
-msgid "Ok"
-msgstr "Ok"
+#: engine-wizard/elm/Wizard/Common/Menu/View.elm:742
+#: engine-wizard/elm/Wizard/Common/Menu/View.elm:788
+#: engine-wizard/elm/Wizard/Common/View/Modal.elm:155
+msgid "OK"
+msgstr "OK"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1594
 msgid "Current Phase"
 msgstr "Phase en cours"
+
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1653
+msgid "Select phase"
+msgstr ""
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1775
 msgid "All TODOs have been completed."
@@ -758,8 +792,8 @@ msgstr "Ré-ouvrir"
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Index/View.elm:98
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Index/View.elm:148
 #: engine-wizard/elm/Wizard/DocumentTemplates/Common/DocumentTemplateActionsDropdown.elm:109
-#: engine-wizard/elm/Wizard/DocumentTemplates/Detail/View.elm:359
-#: engine-wizard/elm/Wizard/DocumentTemplates/Index/View.elm:193
+#: engine-wizard/elm/Wizard/DocumentTemplates/Detail/View.elm:364
+#: engine-wizard/elm/Wizard/DocumentTemplates/Index/View.elm:195
 #: engine-wizard/elm/Wizard/KMEditor/Common/DeleteModal.elm:104
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2037
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2150
@@ -767,10 +801,10 @@ msgstr "Ré-ouvrir"
 #: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:224
 #: engine-wizard/elm/Wizard/KnowledgeModels/Common/KnowledgeModelActionsDropdown.elm:145
 #: engine-wizard/elm/Wizard/KnowledgeModels/Detail/View.elm:278
-#: engine-wizard/elm/Wizard/KnowledgeModels/Index/View.elm:183
+#: engine-wizard/elm/Wizard/KnowledgeModels/Index/View.elm:182
 #: engine-wizard/elm/Wizard/Locales/Common/LocaleActionsDropdown.elm:109
 #: engine-wizard/elm/Wizard/Locales/Detail/View.elm:246
-#: engine-wizard/elm/Wizard/Locales/Index/View.elm:190
+#: engine-wizard/elm/Wizard/Locales/Index/View.elm:189
 #: engine-wizard/elm/Wizard/Projects/Common/DeleteProjectModal/View.elm:36
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings/DeleteModal.elm:123
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:240
@@ -968,7 +1002,7 @@ msgid "(Your answers will remain unchanged)"
 msgstr "(Vos réponses resteront inchangées)"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire/DeleteVersionModal.elm:127
-#: engine-wizard/elm/Wizard/DocumentTemplates/Detail/View.elm:355
+#: engine-wizard/elm/Wizard/DocumentTemplates/Detail/View.elm:360
 #: engine-wizard/elm/Wizard/KnowledgeModels/Detail/View.elm:274
 #: engine-wizard/elm/Wizard/Locales/Detail/View.elm:242
 msgid "Delete version"
@@ -1148,9 +1182,9 @@ msgstr "Chapitres"
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:2017
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:2036
 #: engine-wizard/elm/Wizard/KnowledgeModels/Import/OwlImport/View.elm:43
-#: engine-wizard/elm/Wizard/KnowledgeModels/Index/View.elm:73
+#: engine-wizard/elm/Wizard/KnowledgeModels/Index/View.elm:72
 #: engine-wizard/elm/Wizard/Locales/Create/View.elm:47
-#: engine-wizard/elm/Wizard/Locales/Index/View.elm:61
+#: engine-wizard/elm/Wizard/Locales/Index/View.elm:60
 #: engine-wizard/elm/Wizard/ProjectActions/Index/View.elm:45
 #: engine-wizard/elm/Wizard/ProjectImporters/Index/View.elm:44
 #: engine-wizard/elm/Wizard/Projects/Create/CustomCreate/View.elm:70
@@ -1291,7 +1325,7 @@ msgstr "Éditeurs de modèles de connaissances"
 #: engine-wizard/elm/Wizard/Common/Components/UsageTable.elm:19
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:92
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:243
-#: engine-wizard/elm/Wizard/KnowledgeModels/Index/View.elm:30
+#: engine-wizard/elm/Wizard/KnowledgeModels/Index/View.elm:29
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:369
 #: engine-wizard/elm/Wizard/Settings/KnowledgeModels/View.elm:28
 #: engine-wizard/elm/Wizard/Settings/View.elm:127
@@ -1327,7 +1361,7 @@ msgstr "Documents"
 
 #: engine-wizard/elm/Wizard/Common/Components/UsageTable.elm:24
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:216
-#: engine-wizard/elm/Wizard/Locales/Index/View.elm:30
+#: engine-wizard/elm/Wizard/Locales/Index/View.elm:29
 msgid "Locales"
 msgstr "Paramètres de localisation"
 
@@ -1410,10 +1444,6 @@ msgstr "Passer à"
 msgid "More"
 msgstr "Plus d'informations"
 
-#: engine-wizard/elm/Wizard/Common/Menu/View.elm:354
-msgid "Wizard"
-msgstr "Assistant"
-
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:577
 msgid "Your session expires in %s"
 msgstr "Votre session expire dans %s"
@@ -1457,12 +1487,6 @@ msgstr "Vous pouvez également nous écrire un courriel à %s."
 msgid "Report Issue"
 msgstr "Signaler un problème"
 
-#: engine-wizard/elm/Wizard/Common/Menu/View.elm:742
-#: engine-wizard/elm/Wizard/Common/Menu/View.elm:788
-#: engine-wizard/elm/Wizard/Common/View/Modal.elm:155
-msgid "OK"
-msgstr "OK"
-
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:808
 msgid "API URL"
 msgstr "URL DE L'API"
@@ -1474,7 +1498,7 @@ msgstr "Docs API"
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:847
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/PublishModal.elm:137
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:259
-#: engine-wizard/elm/Wizard/DocumentTemplates/Detail/View.elm:214
+#: engine-wizard/elm/Wizard/DocumentTemplates/Detail/View.elm:219
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/PublishModal.elm:128
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/Settings.elm:165
 #: engine-wizard/elm/Wizard/KnowledgeModels/Detail/View.elm:161
@@ -1489,7 +1513,7 @@ msgstr "Construit le"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:876
 #: engine-wizard/elm/Wizard/Locales/Detail/View.elm:49
-#: engine-wizard/elm/Wizard/Locales/Index/View.elm:75
+#: engine-wizard/elm/Wizard/Locales/Index/View.elm:74
 msgid "default"
 msgstr "défaut"
 
@@ -1783,7 +1807,7 @@ msgstr "Le modèle de connaissances est une structure arborescente contenant les
 #: engine-wizard/elm/Wizard/KMEditor/Create/View.elm:46
 #: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:49
 #: engine-wizard/elm/Wizard/Locales/Create/View.elm:60
-#: engine-wizard/elm/Wizard/Locales/Index/View.elm:158
+#: engine-wizard/elm/Wizard/Locales/Index/View.elm:157
 #: engine-wizard/elm/Wizard/Projects/Create/CustomCreate/View.elm:27
 #: engine-wizard/elm/Wizard/Projects/Create/TemplateCreate/View.elm:42
 #: engine-wizard/elm/Wizard/Projects/CreateMigration/View.elm:109
@@ -1819,44 +1843,44 @@ msgstr ""
 "\n"
 "Vous pouvez créer un nouveau projet à partir d'un modèle de projets que les gestionnaires de données préparent pour vous afin de faciliter le démarrage ; vous pouvez aussi créer un nouveau projet à partir de zéro, où vous configurez tout vous-même."
 
-#: engine-wizard/elm/Wizard/Dashboard/Widgets/ImportDocumentTemplateWidget.elm:13
+#: engine-wizard/elm/Wizard/Dashboard/Widgets/ImportDocumentTemplateWidget.elm:15
 #: engine-wizard/elm/Wizard/DocumentTemplates/Import/View.elm:44
 msgid "Import Document Template"
 msgstr "Importer un modèle de documents"
 
-#: engine-wizard/elm/Wizard/Dashboard/Widgets/ImportDocumentTemplateWidget.elm:14
-msgid "Document templates transform answers from a questionnaire into a document. This document can be anything, from PDF to machine-actionable JSON. You can import existing document templates from [DSW Registry](https://registry.ds-wizard.org/templates) or [develop new ones](https://guide.ds-wizard.org/en/latest/more/development/document-templates/index.html)."
-msgstr "Les modèles de document transforment les réponses à un questionnaire en un document. Ce document peut être de n'importe quel format, du PDF au JSON exploitable par une machine. Vous pouvez importer des modèles de documents existants à partir du [Registre DSW](https://registry.ds-wizard.org/templates) ou [en développer de nouveaux](https://guide.ds-wizard.org/en/latest/more/development/document-templates/index.html)."
+#: engine-wizard/elm/Wizard/Dashboard/Widgets/ImportDocumentTemplateWidget.elm:18
+msgid "Document templates transform answers from a questionnaire into a document. This document can be anything, from PDF to machine-actionable JSON. You can import existing document templates from [%s](%s/templates) or [develop new ones](https://guide.ds-wizard.org/en/latest/more/development/document-templates/index.html)."
+msgstr ""
 
-#: engine-wizard/elm/Wizard/Dashboard/Widgets/ImportDocumentTemplateWidget.elm:17
-#: engine-wizard/elm/Wizard/Dashboard/Widgets/ImportKnowledgeModelWidget.elm:17
-#: engine-wizard/elm/Wizard/DocumentTemplates/Detail/View.elm:128
-#: engine-wizard/elm/Wizard/DocumentTemplates/Detail/View.elm:164
+#: engine-wizard/elm/Wizard/Dashboard/Widgets/ImportDocumentTemplateWidget.elm:22
+#: engine-wizard/elm/Wizard/Dashboard/Widgets/ImportKnowledgeModelWidget.elm:22
+#: engine-wizard/elm/Wizard/DocumentTemplates/Detail/View.elm:130
+#: engine-wizard/elm/Wizard/DocumentTemplates/Detail/View.elm:169
 #: engine-wizard/elm/Wizard/DocumentTemplates/Import/FileImport/View.elm:73
-#: engine-wizard/elm/Wizard/DocumentTemplates/Import/RegistryImport/View.elm:51
+#: engine-wizard/elm/Wizard/DocumentTemplates/Import/RegistryImport/View.elm:52
 #: engine-wizard/elm/Wizard/DocumentTemplates/Index/View.elm:43
 #: engine-wizard/elm/Wizard/KnowledgeModels/Detail/View.elm:124
 #: engine-wizard/elm/Wizard/KnowledgeModels/Import/FileImport/View.elm:77
 #: engine-wizard/elm/Wizard/KnowledgeModels/Import/OwlImport/View.elm:54
-#: engine-wizard/elm/Wizard/KnowledgeModels/Import/RegistryImport/View.elm:51
-#: engine-wizard/elm/Wizard/KnowledgeModels/Index/View.elm:43
+#: engine-wizard/elm/Wizard/KnowledgeModels/Import/RegistryImport/View.elm:52
+#: engine-wizard/elm/Wizard/KnowledgeModels/Index/View.elm:42
 #: engine-wizard/elm/Wizard/Locales/Detail/View.elm:112
 #: engine-wizard/elm/Wizard/Locales/Import/FileImport/View.elm:73
-#: engine-wizard/elm/Wizard/Locales/Import/RegistryImport/View.elm:51
-#: engine-wizard/elm/Wizard/Locales/Index/View.elm:152
+#: engine-wizard/elm/Wizard/Locales/Import/RegistryImport/View.elm:52
+#: engine-wizard/elm/Wizard/Locales/Index/View.elm:151
 #: engine-wizard/elm/Wizard/Projects/Import/View.elm:55
 #: engine-wizard/elm/Wizard/Projects/Import/View.elm:123
 msgid "Import"
 msgstr "Importer"
 
-#: engine-wizard/elm/Wizard/Dashboard/Widgets/ImportKnowledgeModelWidget.elm:13
+#: engine-wizard/elm/Wizard/Dashboard/Widgets/ImportKnowledgeModelWidget.elm:15
 #: engine-wizard/elm/Wizard/KnowledgeModels/Import/View.elm:83
 msgid "Import Knowledge Model"
 msgstr "Importer le modèle de connaissances"
 
-#: engine-wizard/elm/Wizard/Dashboard/Widgets/ImportKnowledgeModelWidget.elm:14
-msgid "Knowledge models are published in [DSW Registry](https://registry.ds-wizard.org). You can easily import them into your instance to make them available for researchers. You can also import other knowledge models exported from different instances."
-msgstr "Les modèles de connaissances sont publiés dans [DSW Registry] (https://registry.ds-wizard.org). Vous pouvez facilement les importer dans votre instance pour les mettre à la disposition des chercheur·se·s. Vous pouvez également importer d'autres modèles de connaissances exportés à partir de différentes instances."
+#: engine-wizard/elm/Wizard/Dashboard/Widgets/ImportKnowledgeModelWidget.elm:18
+msgid "Knowledge models are published in [%s](%s). You can easily import them into your instance to make them available for researchers. You can also import other knowledge models exported from different instances."
+msgstr ""
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/OutdatedPackagesWidget.elm:35
 msgid "Update Knowledge Models"
@@ -1868,10 +1892,10 @@ msgstr "Il y a des mises à jour disponibles pour certains modèles de connaissa
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/OutdatedPackagesWidget.elm:52
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/OutdatedTemplatesWidget.elm:52
-#: engine-wizard/elm/Wizard/DocumentTemplates/Index/View.elm:106
+#: engine-wizard/elm/Wizard/DocumentTemplates/Index/View.elm:108
 #: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:132
-#: engine-wizard/elm/Wizard/KnowledgeModels/Index/View.elm:105
-#: engine-wizard/elm/Wizard/Locales/Index/View.elm:97
+#: engine-wizard/elm/Wizard/KnowledgeModels/Index/View.elm:104
+#: engine-wizard/elm/Wizard/Locales/Index/View.elm:96
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:716
 msgid "update available"
 msgstr "mise à jour disponible"
@@ -1961,7 +1985,7 @@ msgstr "Rechercher les documents..."
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Index/View.elm:52
 #: engine-wizard/elm/Wizard/DocumentTemplates/Index/View.elm:74
 #: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:70
-#: engine-wizard/elm/Wizard/KnowledgeModels/Index/View.elm:74
+#: engine-wizard/elm/Wizard/KnowledgeModels/Index/View.elm:73
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:104
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:133
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:257
@@ -1976,7 +2000,7 @@ msgstr "Cliquez pour téléverser le document"
 
 #: engine-wizard/elm/Wizard/Documents/Index/View.elm:191
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/FileEditor.elm:1209
-#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Preview.elm:302
+#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Preview.elm:304
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Preview.elm:168
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:188
 msgid "Download"
@@ -2026,7 +2050,7 @@ msgstr "Afficher la soumission"
 #: engine-wizard/elm/Wizard/Documents/Index/View.elm:332
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/FileEditor.elm:1301
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Index/View.elm:138
-#: engine-wizard/elm/Wizard/DocumentTemplates/Detail/View.elm:349
+#: engine-wizard/elm/Wizard/DocumentTemplates/Detail/View.elm:354
 #: engine-wizard/elm/Wizard/KMEditor/Common/DeleteModal.elm:96
 #: engine-wizard/elm/Wizard/KnowledgeModels/Detail/View.elm:268
 #: engine-wizard/elm/Wizard/Locales/Detail/View.elm:236
@@ -2090,7 +2114,7 @@ msgid "Create Document Template"
 msgstr "Créer un modèle de documents"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Create/View.elm:90
-#: engine-wizard/elm/Wizard/DocumentTemplates/Import/RegistryImport/View.elm:47
+#: engine-wizard/elm/Wizard/DocumentTemplates/Import/RegistryImport/View.elm:48
 msgid "Document Template ID"
 msgstr "ID du modèle de documents"
 
@@ -2200,20 +2224,31 @@ msgstr "Impossible d'obtenir l'aperçu du document."
 msgid "Open project"
 msgstr "Ouvrir le projet"
 
-#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Preview.elm:272
+#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Preview.elm:256
+#: engine-wizard/elm/Wizard/Projects/CreateMigration/View.elm:88
+msgid "Project"
+msgstr "Projet"
+
+#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Preview.elm:260
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/NewDocument.elm:311
+#: engine-wizard/elm/Wizard/Settings/Submission/View.elm:140
+msgid "Format"
+msgstr "Format"
+
+#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Preview.elm:274
 msgid "Preview not set"
 msgstr "Aperçu non défini"
 
-#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Preview.elm:273
+#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Preview.elm:275
 msgid "Select project and format you want to preview."
 msgstr "Sélectionnez le projet et le format que vous souhaitez prévisualiser."
 
-#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Preview.elm:296
+#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Preview.elm:298
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Preview.elm:162
 msgid "Download preview"
 msgstr "Téléverser l'aperçu"
 
-#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Preview.elm:298
+#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Preview.elm:300
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Preview.elm:164
 msgid "The document format cannot be displayed in the web browser. You can still download and view it."
 msgstr "Le format du document ne peut pas être affiché dans le navigateur web. Vous pouvez néanmoins le téléverser et le visualiser ainsi."
@@ -2244,7 +2279,7 @@ msgstr "ID de modèle"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/PublishModal.elm:138
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:273
-#: engine-wizard/elm/Wizard/DocumentTemplates/Detail/View.elm:216
+#: engine-wizard/elm/Wizard/DocumentTemplates/Detail/View.elm:221
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/PublishModal.elm:129
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/Settings.elm:190
 #: engine-wizard/elm/Wizard/KMEditor/Publish/View.elm:76
@@ -2273,7 +2308,7 @@ msgstr "Générique"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:244
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:332
-#: engine-wizard/elm/Wizard/DocumentTemplates/Detail/View.elm:237
+#: engine-wizard/elm/Wizard/DocumentTemplates/Detail/View.elm:242
 msgid "Formats"
 msgstr "Formats"
 
@@ -2291,7 +2326,7 @@ msgstr "ID de l'organisation"
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/Settings.elm:188
 #: engine-wizard/elm/Wizard/KMEditor/Publish/View.elm:73
 #: engine-wizard/elm/Wizard/KnowledgeModels/Import/OwlImport/View.elm:45
-#: engine-wizard/elm/Wizard/KnowledgeModels/Import/RegistryImport/View.elm:47
+#: engine-wizard/elm/Wizard/KnowledgeModels/Import/RegistryImport/View.elm:48
 #: engine-wizard/elm/Wizard/Settings/KnowledgeModels/View.elm:47
 msgid "Knowledge Model ID"
 msgstr "ID du modèle de connaissances"
@@ -2387,7 +2422,7 @@ msgstr "Cliquez sur le bouton \"Importer\" pour importer un nouveau modèle de d
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Index/View.elm:49
 #: engine-wizard/elm/Wizard/DocumentTemplates/Index/View.elm:71
-#: engine-wizard/elm/Wizard/Locales/Index/View.elm:59
+#: engine-wizard/elm/Wizard/Locales/Index/View.elm:58
 msgid "Search..."
 msgstr "Rechercher..."
 
@@ -2399,8 +2434,8 @@ msgstr "Date de dernière modification"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Index/View.elm:66
 #: engine-wizard/elm/Wizard/DocumentTemplates/Index/View.elm:87
-#: engine-wizard/elm/Wizard/KnowledgeModels/Index/View.elm:87
-#: engine-wizard/elm/Wizard/Locales/Index/View.elm:104
+#: engine-wizard/elm/Wizard/KnowledgeModels/Index/View.elm:86
+#: engine-wizard/elm/Wizard/Locales/Index/View.elm:103
 msgid "Latest version"
 msgstr "Dernière version"
 
@@ -2413,10 +2448,10 @@ msgid "Delete document template editor"
 msgstr "Supprimer l'éditeur du modèle de documents"
 
 #: engine-wizard/elm/Wizard/DocumentTemplates/Common/DocumentTemplateActionsDropdown.elm:49
-#: engine-wizard/elm/Wizard/DocumentTemplates/Import/RegistryImport/View.elm:89
-#: engine-wizard/elm/Wizard/KnowledgeModels/Import/RegistryImport/View.elm:90
+#: engine-wizard/elm/Wizard/DocumentTemplates/Import/RegistryImport/View.elm:90
+#: engine-wizard/elm/Wizard/KnowledgeModels/Import/RegistryImport/View.elm:91
 #: engine-wizard/elm/Wizard/Locales/Common/LocaleActionsDropdown.elm:51
-#: engine-wizard/elm/Wizard/Locales/Import/RegistryImport/View.elm:89
+#: engine-wizard/elm/Wizard/Locales/Import/RegistryImport/View.elm:90
 msgid "View detail"
 msgstr "Voir le détail"
 
@@ -2449,40 +2484,40 @@ msgstr "Impossible de mettre à jour le modèle de documents."
 msgid "Document template could not be deleted."
 msgstr "Le modèle de documents n'a pas pu être supprimé."
 
-#: engine-wizard/elm/Wizard/DocumentTemplates/Detail/View.elm:53
-#: engine-wizard/elm/Wizard/DocumentTemplates/Index/View.elm:124
+#: engine-wizard/elm/Wizard/DocumentTemplates/Detail/View.elm:54
+#: engine-wizard/elm/Wizard/DocumentTemplates/Index/View.elm:126
 #: engine-wizard/elm/Wizard/KnowledgeModels/Detail/View.elm:51
-#: engine-wizard/elm/Wizard/KnowledgeModels/Index/View.elm:114
+#: engine-wizard/elm/Wizard/KnowledgeModels/Index/View.elm:113
 msgid "deprecated"
 msgstr "obsolète"
 
-#: engine-wizard/elm/Wizard/DocumentTemplates/Detail/View.elm:60
-#: engine-wizard/elm/Wizard/DocumentTemplates/Index/View.elm:133
+#: engine-wizard/elm/Wizard/DocumentTemplates/Detail/View.elm:61
+#: engine-wizard/elm/Wizard/DocumentTemplates/Index/View.elm:135
 #: engine-wizard/elm/Wizard/KnowledgeModels/Detail/View.elm:58
-#: engine-wizard/elm/Wizard/KnowledgeModels/Index/View.elm:123
+#: engine-wizard/elm/Wizard/KnowledgeModels/Index/View.elm:122
 msgid "non-editable"
 msgstr "non modifiable"
 
-#: engine-wizard/elm/Wizard/DocumentTemplates/Detail/View.elm:90
+#: engine-wizard/elm/Wizard/DocumentTemplates/Detail/View.elm:91
 msgid "This is a non-editable document template, i.e., it cannot be edited, or exported."
 msgstr "Il s'agit d'un modèle de document non modifiable, c'est-à-dire qu'il ne peut être ni édité ni exporté."
 
-#: engine-wizard/elm/Wizard/DocumentTemplates/Detail/View.elm:100
+#: engine-wizard/elm/Wizard/DocumentTemplates/Detail/View.elm:101
 msgid "This is not the latest available version of this document template."
 msgstr "Ceci n'est pas la dernière version disponible de ce modèle de documents."
 
-#: engine-wizard/elm/Wizard/DocumentTemplates/Detail/View.elm:137
-#: engine-wizard/elm/Wizard/DocumentTemplates/Detail/View.elm:172
+#: engine-wizard/elm/Wizard/DocumentTemplates/Detail/View.elm:139
+#: engine-wizard/elm/Wizard/DocumentTemplates/Detail/View.elm:177
 #: engine-wizard/elm/Wizard/KnowledgeModels/Detail/View.elm:133
 #: engine-wizard/elm/Wizard/Locales/Detail/View.elm:121
 msgid "There is a newer version (%s) available."
 msgstr "Une version plus récente (%s) est disponible."
 
-#: engine-wizard/elm/Wizard/DocumentTemplates/Detail/View.elm:184
+#: engine-wizard/elm/Wizard/DocumentTemplates/Detail/View.elm:189
 msgid "This document template is not supported in this version of DSW."
 msgstr "Ce modèle de documents n'est pas pris en charge dans cette version de DSW."
 
-#: engine-wizard/elm/Wizard/DocumentTemplates/Detail/View.elm:213
+#: engine-wizard/elm/Wizard/DocumentTemplates/Detail/View.elm:218
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1391
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:640
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:695
@@ -2494,45 +2529,45 @@ msgstr "Ce modèle de documents n'est pas pris en charge dans cette version de D
 msgid "ID"
 msgstr "ID"
 
-#: engine-wizard/elm/Wizard/DocumentTemplates/Detail/View.elm:215
+#: engine-wizard/elm/Wizard/DocumentTemplates/Detail/View.elm:220
 #: engine-wizard/elm/Wizard/KnowledgeModels/Detail/View.elm:162
 msgid "Metamodel"
 msgstr "Métamodèle"
 
-#: engine-wizard/elm/Wizard/DocumentTemplates/Detail/View.elm:219
+#: engine-wizard/elm/Wizard/DocumentTemplates/Detail/View.elm:224
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/NewDocument.elm:345
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:137
 msgid "Document Template"
 msgstr "Modèle de documents"
 
-#: engine-wizard/elm/Wizard/DocumentTemplates/Detail/View.elm:262
+#: engine-wizard/elm/Wizard/DocumentTemplates/Detail/View.elm:267
 #: engine-wizard/elm/Wizard/KnowledgeModels/Detail/View.elm:221
 #: engine-wizard/elm/Wizard/Locales/Detail/View.elm:193
 msgid "Other versions"
 msgstr "Autres versions"
 
-#: engine-wizard/elm/Wizard/DocumentTemplates/Detail/View.elm:270
-#: engine-wizard/elm/Wizard/DocumentTemplates/Index/View.elm:154
+#: engine-wizard/elm/Wizard/DocumentTemplates/Detail/View.elm:275
+#: engine-wizard/elm/Wizard/DocumentTemplates/Index/View.elm:156
 #: engine-wizard/elm/Wizard/KnowledgeModels/Detail/View.elm:231
-#: engine-wizard/elm/Wizard/KnowledgeModels/Index/View.elm:144
+#: engine-wizard/elm/Wizard/KnowledgeModels/Index/View.elm:143
 #: engine-wizard/elm/Wizard/Locales/Detail/View.elm:201
-#: engine-wizard/elm/Wizard/Locales/Index/View.elm:129
+#: engine-wizard/elm/Wizard/Locales/Index/View.elm:128
 msgid "Published by"
 msgstr "Publié par"
 
-#: engine-wizard/elm/Wizard/DocumentTemplates/Detail/View.elm:277
+#: engine-wizard/elm/Wizard/DocumentTemplates/Detail/View.elm:282
 #: engine-wizard/elm/Wizard/KnowledgeModels/Detail/View.elm:240
 #: engine-wizard/elm/Wizard/Locales/Detail/View.elm:215
 msgid "Registry Link"
 msgstr "Lien avec le Registry"
 
-#: engine-wizard/elm/Wizard/DocumentTemplates/Detail/View.elm:283
+#: engine-wizard/elm/Wizard/DocumentTemplates/Detail/View.elm:288
 #: engine-wizard/elm/Wizard/KnowledgeModels/Detail/View.elm:246
 #: engine-wizard/elm/Wizard/Locales/Detail/View.elm:221
 msgid "View in registry"
 msgstr "Afficher dans le Registry"
 
-#: engine-wizard/elm/Wizard/DocumentTemplates/Detail/View.elm:330
+#: engine-wizard/elm/Wizard/DocumentTemplates/Detail/View.elm:335
 msgid "Usable with"
 msgstr "Utilisable avec"
 
@@ -2564,27 +2599,19 @@ msgstr "Ou déposer ici"
 msgid "Unable to import the document template."
 msgstr "Impossible d'importer le modèle de documents."
 
-#: engine-wizard/elm/Wizard/DocumentTemplates/Import/RegistryImport/View.elm:67
+#: engine-wizard/elm/Wizard/DocumentTemplates/Import/RegistryImport/View.elm:68
 msgid "You can find document templates in %s."
 msgstr "Vous pouvez trouver des modèles de documents dans %s."
 
-#: engine-wizard/elm/Wizard/DocumentTemplates/Import/RegistryImport/View.elm:68
-#: engine-wizard/elm/Wizard/KnowledgeModels/Import/RegistryImport/View.elm:69
-#: engine-wizard/elm/Wizard/Locales/Import/RegistryImport/View.elm:68
-#: engine-wizard/elm/Wizard/Settings/Registry/View.elm:45
-#: engine-wizard/elm/Wizard/Settings/View.elm:133
-msgid "DSW Registry"
-msgstr "DSW Registry"
-
-#: engine-wizard/elm/Wizard/DocumentTemplates/Import/RegistryImport/View.elm:82
+#: engine-wizard/elm/Wizard/DocumentTemplates/Import/RegistryImport/View.elm:83
 msgid "Document template %s has been imported!"
 msgstr "Le modèle de documents d'extraction %s a été importé !"
 
 #: engine-wizard/elm/Wizard/DocumentTemplates/Import/View.elm:61
 #: engine-wizard/elm/Wizard/KnowledgeModels/Import/View.elm:25
 #: engine-wizard/elm/Wizard/Locales/Import/View.elm:61
-msgid "From DSW Registry"
-msgstr "Du DSW Registry"
+msgid "From registry"
+msgstr ""
 
 #: engine-wizard/elm/Wizard/DocumentTemplates/Import/View.elm:72
 #: engine-wizard/elm/Wizard/KnowledgeModels/Import/View.elm:33
@@ -2596,17 +2623,17 @@ msgstr "Du fichier"
 msgid "Document template could not be updated."
 msgstr "Le modèle de documents n'a pas pu être créé."
 
-#: engine-wizard/elm/Wizard/DocumentTemplates/Index/View.elm:115
+#: engine-wizard/elm/Wizard/DocumentTemplates/Index/View.elm:117
 msgid "unsupported metamodel"
 msgstr "métamodèle non supporté"
 
-#: engine-wizard/elm/Wizard/DocumentTemplates/Index/View.elm:183
-#: engine-wizard/elm/Wizard/KnowledgeModels/Index/View.elm:173
-#: engine-wizard/elm/Wizard/Locales/Index/View.elm:180
+#: engine-wizard/elm/Wizard/DocumentTemplates/Index/View.elm:185
+#: engine-wizard/elm/Wizard/KnowledgeModels/Index/View.elm:172
+#: engine-wizard/elm/Wizard/Locales/Index/View.elm:179
 msgid "Are you sure you want to permanently delete %s and all its versions?"
 msgstr "Êtes-vous certain·e de vouloir supprimer définitivement %s et toutes ses versions ?"
 
-#: engine-wizard/elm/Wizard/DocumentTemplates/Index/View.elm:189
+#: engine-wizard/elm/Wizard/DocumentTemplates/Index/View.elm:191
 msgid "Delete document template"
 msgstr "Supprimer le modèle de documents"
 
@@ -3907,11 +3934,11 @@ msgstr "Élément racine"
 msgid "Unable to import the package."
 msgstr "Impossible d'importer le paquet."
 
-#: engine-wizard/elm/Wizard/KnowledgeModels/Import/RegistryImport/View.elm:67
+#: engine-wizard/elm/Wizard/KnowledgeModels/Import/RegistryImport/View.elm:68
 msgid "You can find Knowledge Models in %s."
 msgstr "Vous pouvez trouver des modèles de connaissances dans %s."
 
-#: engine-wizard/elm/Wizard/KnowledgeModels/Import/RegistryImport/View.elm:83
+#: engine-wizard/elm/Wizard/KnowledgeModels/Import/RegistryImport/View.elm:84
 msgid "Knowledge Model %s has been imported!"
 msgstr "Le modèle de connaissances %s a été importé !"
 
@@ -3923,15 +3950,15 @@ msgstr "De OWL"
 msgid "Knowledge Model could not be updated."
 msgstr "Le modèle de connaissances n'a pas pu être mis à jour."
 
-#: engine-wizard/elm/Wizard/KnowledgeModels/Index/View.elm:63
+#: engine-wizard/elm/Wizard/KnowledgeModels/Index/View.elm:62
 msgid "Click \"Import\" button to import a new Knowledge Model."
 msgstr "Cliquez sur le bouton \"Importer\" pour importer un nouveau modèle de connaissances."
 
-#: engine-wizard/elm/Wizard/KnowledgeModels/Index/View.elm:71
+#: engine-wizard/elm/Wizard/KnowledgeModels/Index/View.elm:70
 msgid "Search KMs..."
 msgstr "Rechercher les KMs..."
 
-#: engine-wizard/elm/Wizard/KnowledgeModels/Index/View.elm:179
+#: engine-wizard/elm/Wizard/KnowledgeModels/Index/View.elm:178
 msgid "Delete package"
 msgstr "Supprimer le paquet"
 
@@ -3978,7 +4005,7 @@ msgid "Language Code"
 msgstr "Code langue"
 
 #: engine-wizard/elm/Wizard/Locales/Create/View.elm:50
-#: engine-wizard/elm/Wizard/Locales/Import/RegistryImport/View.elm:47
+#: engine-wizard/elm/Wizard/Locales/Import/RegistryImport/View.elm:48
 msgid "Locale ID"
 msgstr "ID de la localisation"
 
@@ -4043,11 +4070,11 @@ msgstr "The fichier ne ressemble pas à une localisation. Est-ce le fichier corr
 msgid "Unable to import the locale."
 msgstr "Impossible d'importer la localisation."
 
-#: engine-wizard/elm/Wizard/Locales/Import/RegistryImport/View.elm:67
+#: engine-wizard/elm/Wizard/Locales/Import/RegistryImport/View.elm:68
 msgid "You can find locales in %s."
 msgstr "Vous pouvez trouver des localisations dans %s."
 
-#: engine-wizard/elm/Wizard/Locales/Import/RegistryImport/View.elm:82
+#: engine-wizard/elm/Wizard/Locales/Import/RegistryImport/View.elm:83
 msgid "Locale %s has been imported!"
 msgstr "La localisation %s a été importée !"
 
@@ -4067,21 +4094,21 @@ msgstr "La localisation a été modifiée avec succès."
 msgid "Unable to get locales."
 msgstr "Impossible d'obtenir les localisations."
 
-#: engine-wizard/elm/Wizard/Locales/Index/View.elm:51
+#: engine-wizard/elm/Wizard/Locales/Index/View.elm:50
 msgid "Click \"Import\" or \"Create\" button to add a new locale."
 msgstr "Cliquez sur le bouton \"Importer\" ou \"Créer\" pour ajouter une nouvelle localisation."
 
-#: engine-wizard/elm/Wizard/Locales/Index/View.elm:74
+#: engine-wizard/elm/Wizard/Locales/Index/View.elm:73
 msgid "Default locale to be used"
 msgstr "Paramètre de localisation par défaut"
 
-#: engine-wizard/elm/Wizard/Locales/Index/View.elm:86
+#: engine-wizard/elm/Wizard/Locales/Index/View.elm:85
 #: engine-wizard/elm/Wizard/ProjectActions/Index/View.elm:67
 #: engine-wizard/elm/Wizard/ProjectImporters/Index/View.elm:66
 msgid "disabled"
 msgstr "désactivé"
 
-#: engine-wizard/elm/Wizard/Locales/Index/View.elm:186
+#: engine-wizard/elm/Wizard/Locales/Index/View.elm:185
 msgid "Delete locale"
 msgstr "Supprimer la localisation"
 
@@ -4249,10 +4276,6 @@ msgstr "Créer une migration"
 msgid "A new Project is created for the migration. The original will remain unchanged until the migration is finished."
 msgstr "Un nouveau projet est créé pour la migration. L'original restera inchangé jusqu'à ce que la migration soit terminée. Mais attention, une fois celle-ci conclue, l'original ne sera plus disponible. Pensez à cloner le projet si souhaité."
 
-#: engine-wizard/elm/Wizard/Projects/CreateMigration/View.elm:88
-msgid "Project"
-msgstr "Projet"
-
 #: engine-wizard/elm/Wizard/Projects/CreateMigration/View.elm:93
 msgid "Original Knowledge Model"
 msgstr "Modèle de connaissances original"
@@ -4276,11 +4299,6 @@ msgstr "Le document n'a pas pu être créé."
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/NewDocument.elm:280
 msgid "New Document"
 msgstr "Nouveau document"
-
-#: engine-wizard/elm/Wizard/Projects/Detail/Components/NewDocument.elm:311
-#: engine-wizard/elm/Wizard/Settings/Submission/View.elm:140
-msgid "Format"
-msgstr "Format"
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/NewDocument.elm:328
 msgid "Create for current version"
@@ -4720,8 +4738,8 @@ msgid "Forgotten password recovery failed."
 msgstr "La récupération du mot de passe oublié a échoué."
 
 #: engine-wizard/elm/Wizard/Public/ForgottenPassword/View.elm:25
-msgid "We've sent you a recover link. Follow the instructions in your email."
-msgstr "Nous vous avons envoyé un lien de récupération. Suivez les instructions dans votre courriel."
+msgid "Check your email. If you have an account, you should receive an email with instructions on how to reset your password."
+msgstr ""
 
 #: engine-wizard/elm/Wizard/Public/ForgottenPassword/View.elm:38
 msgid "Forgotten Password"
@@ -5294,6 +5312,11 @@ msgstr "Vous vous êtes inscrit au DSW Registry, vous devriez bientôt recevoir 
 msgid "Sign up request failed."
 msgstr "La requête d'inscription a échoué."
 
+#: engine-wizard/elm/Wizard/Settings/Registry/View.elm:45
+#: engine-wizard/elm/Wizard/Settings/View.elm:133
+msgid "DSW Registry"
+msgstr "DSW Registry"
+
 #: engine-wizard/elm/Wizard/Settings/Registry/View.elm:81
 msgid "Token"
 msgstr "Token"
@@ -5735,6 +5758,24 @@ msgstr "Non autorisé"
 #: engine-wizard/elm/Wizard/View.elm:154
 msgid "You don't have permission to view this page."
 msgstr "Vous n'avez pas l'autorisation de lire cette page."
+
+#~ msgid "Ok"
+#~ msgstr "Ok"
+
+#~ msgid "Wizard"
+#~ msgstr "Assistant"
+
+#~ msgid "Document templates transform answers from a questionnaire into a document. This document can be anything, from PDF to machine-actionable JSON. You can import existing document templates from [DSW Registry](https://registry.ds-wizard.org/templates) or [develop new ones](https://guide.ds-wizard.org/en/latest/more/development/document-templates/index.html)."
+#~ msgstr "Les modèles de document transforment les réponses à un questionnaire en un document. Ce document peut être de n'importe quel format, du PDF au JSON exploitable par une machine. Vous pouvez importer des modèles de documents existants à partir du [Registre DSW](https://registry.ds-wizard.org/templates) ou [en développer de nouveaux](https://guide.ds-wizard.org/en/latest/more/development/document-templates/index.html)."
+
+#~ msgid "Knowledge models are published in [DSW Registry](https://registry.ds-wizard.org). You can easily import them into your instance to make them available for researchers. You can also import other knowledge models exported from different instances."
+#~ msgstr "Les modèles de connaissances sont publiés dans [DSW Registry] (https://registry.ds-wizard.org). Vous pouvez facilement les importer dans votre instance pour les mettre à la disposition des chercheur·se·s. Vous pouvez également importer d'autres modèles de connaissances exportés à partir de différentes instances."
+
+#~ msgid "From DSW Registry"
+#~ msgstr "Du DSW Registry"
+
+#~ msgid "We've sent you a recover link. Follow the instructions in your email."
+#~ msgstr "Nous vous avons envoyé un lien de récupération. Suivez les instructions dans votre courriel."
 
 #~ msgid "The URL of the widget implemented using [DSW Integration Widget SDK](https://github.com/ds-wizard/dsw-integration-widget-sdk)."
 #~ msgstr "L'URL du widget mis en œuvre à l'aide du [DSW Integration Widget SDK] (https://github.com/ds-wizard/dsw-integration-widget-sdk)."
