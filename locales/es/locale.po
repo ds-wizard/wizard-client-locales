@@ -1,16 +1,6 @@
 # Remedios Melero <rmelero@iata.csic.es>, 2023.
 msgid ""
-msgstr ""
-"Project-Id-Version: wizard-client:3.18.3\n"
-"POT-Creation-Date: 2024-02-06T08:10:07.424Z \n"
-"PO-Revision-Date: 2024-01-02 13:45+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Spanish <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-2-0/es/>\n"
-"Language: es\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.18.2\n"
+msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2024-02-06T08:10:07.424Z\nPO-Revision-Date: 2024-02-27 17:10+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Spanish <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-3-0/es/>\nLanguage: es\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.18.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -421,20 +411,24 @@ msgid "Comma (,) is not allowed in project tags."
 msgstr "La coma (,) no está permitida en las etiquetas de proyecto."
 
 #: engine-wizard/elm/Wizard/Common/Components/CookieConsent.elm:27
+#, fuzzy
 msgid "Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use. "
-msgstr ""
+msgstr "Privacidad y cookies: Este sitio utiliza cookies. Si continúa navegando, consideramos que acepta su uso. "
 
 #: engine-wizard/elm/Wizard/Common/Components/CookieConsent.elm:29
+#, fuzzy
 msgid "To find out more, including how to control cookies, see here: "
-msgstr ""
+msgstr "Para obtener más información, incluido cómo controlar las cookies, consulte aquí: "
 
 #: engine-wizard/elm/Wizard/Common/Components/CookieConsent.elm:30
+#, fuzzy
 msgid "Cookie Policy"
-msgstr ""
+msgstr "Política de cookies"
 
 #: engine-wizard/elm/Wizard/Common/Components/CookieConsent.elm:32
+#, fuzzy
 msgid "Close and Accept"
-msgstr ""
+msgstr "Cerrar y aceptar"
 
 #: engine-wizard/elm/Wizard/Common/Components/CopyableCodeBlock.elm:48
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3271
@@ -735,8 +729,9 @@ msgid "Current Phase"
 msgstr "Fase actual"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1653
+#, fuzzy
 msgid "Select phase"
-msgstr ""
+msgstr "Seleccionar fase"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1775
 #, fuzzy
@@ -2078,8 +2073,9 @@ msgid "Import Document Template"
 msgstr "Importar plantilla de documento"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ImportDocumentTemplateWidget.elm:18
+#, fuzzy
 msgid "Document templates transform answers from a questionnaire into a document. This document can be anything, from PDF to machine-actionable JSON. You can import existing document templates from [%s](%s/templates) or [develop new ones](https://guide.ds-wizard.org/en/latest/more/development/document-templates/index.html)."
-msgstr ""
+msgstr "Las plantillas de documentos transforman las respuestas de un cuestionario en un documento. Este documento puede ser cualquier cosa, desde PDF hasta JSON procesable por máquina. Puede importar plantillas de documentos existentes de [%s](%s/templates) o [desarrollar nuevas](https://guide.ds-wizard.org/en/latest/more/development/document-templates/index.html)."
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ImportDocumentTemplateWidget.elm:22
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ImportKnowledgeModelWidget.elm:22
@@ -2110,8 +2106,9 @@ msgid "Import Knowledge Model"
 msgstr "Importar modelo de conocimiento"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ImportKnowledgeModelWidget.elm:18
+#, fuzzy
 msgid "Knowledge models are published in [%s](%s). You can easily import them into your instance to make them available for researchers. You can also import other knowledge models exported from different instances."
-msgstr ""
+msgstr "Los modelos de conocimiento están publicados en [%s](%s). Puede importarlos fácilmente a su instancia para ponerlos a disposición de los investigadores. También puede importar otros modelos de conocimiento exportados desde instancias diferentes."
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/OutdatedPackagesWidget.elm:35
 #, fuzzy
@@ -2977,8 +2974,9 @@ msgstr "¡Se ha importado la plantilla de documento %s!"
 #: engine-wizard/elm/Wizard/DocumentTemplates/Import/View.elm:61
 #: engine-wizard/elm/Wizard/KnowledgeModels/Import/View.elm:25
 #: engine-wizard/elm/Wizard/Locales/Import/View.elm:61
+#, fuzzy
 msgid "From registry"
-msgstr ""
+msgstr "Del registro"
 
 #: engine-wizard/elm/Wizard/DocumentTemplates/Import/View.elm:72
 #: engine-wizard/elm/Wizard/KnowledgeModels/Import/View.elm:33
@@ -5549,8 +5547,9 @@ msgid "Forgotten password recovery failed."
 msgstr "Ha fallado la recuperación de la contraseña olvidada."
 
 #: engine-wizard/elm/Wizard/Public/ForgottenPassword/View.elm:25
+#, fuzzy
 msgid "Check your email. If you have an account, you should receive an email with instructions on how to reset your password."
-msgstr ""
+msgstr "Compruebe su correo electrónico. Si tienes una cuenta, deberías recibir un correo electrónico con instrucciones para restablecer tu contraseña."
 
 #: engine-wizard/elm/Wizard/Public/ForgottenPassword/View.elm:38
 #, fuzzy
