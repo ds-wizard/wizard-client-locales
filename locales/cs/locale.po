@@ -2,7 +2,7 @@
 # Kryštof Komanec <krystof.komanec@gmail.com>, 2023.
 # Jan Slifka <jan.slifka@ds-wizard.org>, 2023.
 msgid ""
-msgstr "Project-Id-Version: wizard-client:3.17.1\nPOT-Creation-Date: 2024-02-06T08:10:07.424Z\nPO-Revision-Date: 2024-02-27 17:10+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Czech <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-3-0/cs/>\nLanguage: cs\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 4.18.2\n"
+msgstr "Project-Id-Version: wizard-client:3.17.1\nPOT-Creation-Date: 2024-02-06T08:10:07.424Z\nPO-Revision-Date: 2024-02-29 22:40+0000\nLast-Translator: Marek Suchánek <marek.suchanek@ds-wizard.org>\nLanguage-Team: Czech <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-3-0/cs/>\nLanguage: cs\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 4.18.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -395,22 +395,18 @@ msgid "Comma (,) is not allowed in project tags."
 msgstr "Čárka (,) není povolena v projektových štítcích."
 
 #: engine-wizard/elm/Wizard/Common/Components/CookieConsent.elm:27
-#, fuzzy
 msgid "Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use. "
-msgstr "Soukromí a soubory cookie: Tento web používá soubory cookie. Dalším používáním těchto webových stránek souhlasíte s jejich používáním. "
+msgstr "Soukromí a cookies: Tento web používá tzv. cookies. Dalším používáním těchto webových stránek souhlasíte s jejich používáním. "
 
 #: engine-wizard/elm/Wizard/Common/Components/CookieConsent.elm:29
-#, fuzzy
 msgid "To find out more, including how to control cookies, see here: "
-msgstr "Další informace včetně způsobu ovládání souborů cookie najdete zde: "
+msgstr "Další informace včetně způsobu ovládání cookies najdete zde: "
 
 #: engine-wizard/elm/Wizard/Common/Components/CookieConsent.elm:30
-#, fuzzy
 msgid "Cookie Policy"
-msgstr "Zásady používání souborů cookie"
+msgstr "Zásady používání cookies"
 
 #: engine-wizard/elm/Wizard/Common/Components/CookieConsent.elm:32
-#, fuzzy
 msgid "Close and Accept"
 msgstr "Zavřít a přijmout"
 
@@ -691,9 +687,8 @@ msgid "Current Phase"
 msgstr "Aktuální fáze"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1653
-#, fuzzy
 msgid "Select phase"
-msgstr "Zvolte fázi"
+msgstr "Zvolit fázi"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1775
 msgid "All TODOs have been completed."
@@ -1854,7 +1849,6 @@ msgid "Import Document Template"
 msgstr "Import šablony dokumentů"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ImportDocumentTemplateWidget.elm:18
-#, fuzzy
 msgid "Document templates transform answers from a questionnaire into a document. This document can be anything, from PDF to machine-actionable JSON. You can import existing document templates from [%s](%s/templates) or [develop new ones](https://guide.ds-wizard.org/en/latest/more/development/document-templates/index.html)."
 msgstr "Šablony dokumentů transformují odpovědi z dotazníku do dokumentu. Tímto dokumentem může být cokoli, od PDF až po strojově zpracovatelný JSON. Můžete importovat existující šablony dokumentů z [%s](%s/templates) nebo [vytvořit nové](https://guide.ds-wizard.org/en/latest/more/development/document-templates/index.html)."
 
@@ -1885,7 +1879,6 @@ msgid "Import Knowledge Model"
 msgstr "Import znalostního modelu"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ImportKnowledgeModelWidget.elm:18
-#, fuzzy
 msgid "Knowledge models are published in [%s](%s). You can easily import them into your instance to make them available for researchers. You can also import other knowledge models exported from different instances."
 msgstr "Znalostní modely jsou zveřejněny v [%s](%s). Můžete je snadno importovat do své instance a zpřístupnit je tak výzkumníkům. Můžete také importovat další znalostní modely exportované z jiných instancí."
 
@@ -2617,9 +2610,8 @@ msgstr "Šablona dokumentu %s byla naimportována!"
 #: engine-wizard/elm/Wizard/DocumentTemplates/Import/View.elm:61
 #: engine-wizard/elm/Wizard/KnowledgeModels/Import/View.elm:25
 #: engine-wizard/elm/Wizard/Locales/Import/View.elm:61
-#, fuzzy
 msgid "From registry"
-msgstr "Z registru"
+msgstr "Z Registry"
 
 #: engine-wizard/elm/Wizard/DocumentTemplates/Import/View.elm:72
 #: engine-wizard/elm/Wizard/KnowledgeModels/Import/View.elm:33
@@ -4748,7 +4740,6 @@ msgid "Forgotten password recovery failed."
 msgstr "Obnova zapomenutého hesla selhala."
 
 #: engine-wizard/elm/Wizard/Public/ForgottenPassword/View.elm:25
-#, fuzzy
 msgid "Check your email. If you have an account, you should receive an email with instructions on how to reset your password."
 msgstr "Zkontrolujte si e-mail. Pokud máte účet, měli byste obdržet e-mail s pokyny k obnovení hesla."
 
