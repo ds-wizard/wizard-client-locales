@@ -1,7 +1,7 @@
 # Pinar Alper <pinarpink@yahoo.com>, 2023.
 # Marek Suchánek <marek.suchanek@ds-wizard.org>, 2023, 2024.
 msgid ""
-msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2024-02-06T08:10:07.424Z\nPO-Revision-Date: 2024-02-27 17:10+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Turkish <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-3-0/tr/>\nLanguage: tr\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.18.2\n"
+msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2024-02-06T08:10:07.424Z\nPO-Revision-Date: 2024-03-03 16:40+0000\nLast-Translator: Marek Suchánek <marek.suchanek@ds-wizard.org>\nLanguage-Team: Turkish <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-3-0/tr/>\nLanguage: tr\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.18.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -394,22 +394,18 @@ msgid "Comma (,) is not allowed in project tags."
 msgstr "Proje etiketlerinde virgül (,) kullanılmasına izin verilmez."
 
 #: engine-wizard/elm/Wizard/Common/Components/CookieConsent.elm:27
-#, fuzzy
 msgid "Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use. "
 msgstr "Gizlilik ve Çerezler: Bu sitede çerezler kullanılmaktadır. Bu web sitesini kullanmaya devam ederek, bunların kullanımını kabul etmiş olursunuz. "
 
 #: engine-wizard/elm/Wizard/Common/Components/CookieConsent.elm:29
-#, fuzzy
 msgid "To find out more, including how to control cookies, see here: "
 msgstr "Çerezlerin nasıl kontrol edileceği de dahil olmak üzere daha fazla bilgi edinmek için buraya bakın: "
 
 #: engine-wizard/elm/Wizard/Common/Components/CookieConsent.elm:30
-#, fuzzy
 msgid "Cookie Policy"
 msgstr "Çerez Politikası"
 
 #: engine-wizard/elm/Wizard/Common/Components/CookieConsent.elm:32
-#, fuzzy
 msgid "Close and Accept"
 msgstr "Kapat ve Kabul Et"
 
@@ -690,7 +686,6 @@ msgid "Current Phase"
 msgstr "Mevcut Aşama"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1653
-#, fuzzy
 msgid "Select phase"
 msgstr "Aşama seçiniz"
 
@@ -1843,7 +1838,6 @@ msgid "Import Document Template"
 msgstr "Belge Şablonunu İçe Aktar"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ImportDocumentTemplateWidget.elm:18
-#, fuzzy
 msgid "Document templates transform answers from a questionnaire into a document. This document can be anything, from PDF to machine-actionable JSON. You can import existing document templates from [%s](%s/templates) or [develop new ones](https://guide.ds-wizard.org/en/latest/more/development/document-templates/index.html)."
 msgstr "Belge şablonları, bir anketten alınan yanıtları bir belgeye dönüştürür. Bu belge PDF'den makine tarafından işlenebilir JSON'a kadar her şey olabilir. Mevcut belge şablonlarını [%s](%s/templates) adresinden içe aktarabilir veya [yenilerini geliştirebilirsiniz](https://guide.ds-wizard.org/en/latest/more/development/document-templates/index.html)."
 
@@ -1874,7 +1868,6 @@ msgid "Import Knowledge Model"
 msgstr "Bilgi Modelini İçe Aktar"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ImportKnowledgeModelWidget.elm:18
-#, fuzzy
 msgid "Knowledge models are published in [%s](%s). You can easily import them into your instance to make them available for researchers. You can also import other knowledge models exported from different instances."
 msgstr "Bilgi modelleri [%s](%s)'de yayınlanmıştır. Bunları araştırmacıların kullanımına sunmak için kolayca örneğinize aktarabilirsiniz. Farklı örneklerden dışa aktarılan diğer bilgi modellerini de içe aktarabilirsiniz."
 
@@ -2606,7 +2599,6 @@ msgstr "Belge şablonu %s içe aktarıldı!"
 #: engine-wizard/elm/Wizard/DocumentTemplates/Import/View.elm:61
 #: engine-wizard/elm/Wizard/KnowledgeModels/Import/View.elm:25
 #: engine-wizard/elm/Wizard/Locales/Import/View.elm:61
-#, fuzzy
 msgid "From registry"
 msgstr "Kayıttan"
 
@@ -4735,7 +4727,6 @@ msgid "Forgotten password recovery failed."
 msgstr "Unutulan parola kurtarma başarısız oldu."
 
 #: engine-wizard/elm/Wizard/Public/ForgottenPassword/View.elm:25
-#, fuzzy
 msgid "Check your email. If you have an account, you should receive an email with instructions on how to reset your password."
 msgstr "E-postanızı kontrol edin. Bir hesabınız varsa, şifrenizi nasıl sıfırlayacağınıza ilişkin talimatları içeren bir e-posta almanız gerekir."
 
