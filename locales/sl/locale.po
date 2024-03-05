@@ -2,7 +2,7 @@
 # Nadja Zlender <nadja.zlender@mf.uni-lj.si>, 2023, 2024.
 # Marek Suchánek <marek.suchanek@ds-wizard.org>, 2024.
 msgid ""
-msgstr "Project-Id-Version: wizard-client:4.1.0\nPOT-Creation-Date: 2024-02-06T08:10:07.424Z\nPO-Revision-Date: 2024-02-27 17:10+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Slovenian <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-3-0/sl/>\nLanguage: sl\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3;\nX-Generator: Weblate 4.18.2\n"
+msgstr "Project-Id-Version: wizard-client:4.1.0\nPOT-Creation-Date: 2024-02-06T08:10:07.424Z\nPO-Revision-Date: 2024-03-05 08:49+0000\nLast-Translator: Marek Suchánek <marek.suchanek@ds-wizard.org>\nLanguage-Team: Slovenian <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-3-0/sl/>\nLanguage: sl\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3;\nX-Generator: Weblate 4.18.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -395,7 +395,6 @@ msgid "Comma (,) is not allowed in project tags."
 msgstr "V oznakah vejica (,) ni dovoljena."
 
 #: engine-wizard/elm/Wizard/Common/Components/CookieConsent.elm:27
-#, fuzzy
 msgid "Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use. "
 msgstr "Zasebnost in piškotki: To spletno mesto uporablja piškotke. Z nadaljnjo uporabo tega spletnega mesta se strinjate z njihovo uporabo. "
 
@@ -405,12 +404,10 @@ msgid "To find out more, including how to control cookies, see here: "
 msgstr "Če želite izvedeti več, vključno s tem, kako nadzirati piškotke, glejte tukaj: "
 
 #: engine-wizard/elm/Wizard/Common/Components/CookieConsent.elm:30
-#, fuzzy
 msgid "Cookie Policy"
 msgstr "Pravilnik o piškotkih"
 
 #: engine-wizard/elm/Wizard/Common/Components/CookieConsent.elm:32
-#, fuzzy
 msgid "Close and Accept"
 msgstr "Zapri in sprejmi"
 
@@ -691,7 +688,6 @@ msgid "Current Phase"
 msgstr "Trenutna faza"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1653
-#, fuzzy
 msgid "Select phase"
 msgstr "Izberite fazo"
 
@@ -1895,7 +1891,6 @@ msgid "Import Knowledge Model"
 msgstr "Uvoz modela znanja"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ImportKnowledgeModelWidget.elm:18
-#, fuzzy
 msgid "Knowledge models are published in [%s](%s). You can easily import them into your instance to make them available for researchers. You can also import other knowledge models exported from different instances."
 msgstr "Modeli znanja so objavljeni v [%s](%s). Zlahka jih lahko uvozite v svoj primerek in jih tako omogočite raziskovalcem. Uvozite lahko tudi druge modele znanja, izvožene iz različnih instanc."
 
@@ -2627,7 +2622,6 @@ msgstr "Predloga dokumenta %s je bila uvožena!"
 #: engine-wizard/elm/Wizard/DocumentTemplates/Import/View.elm:61
 #: engine-wizard/elm/Wizard/KnowledgeModels/Import/View.elm:25
 #: engine-wizard/elm/Wizard/Locales/Import/View.elm:61
-#, fuzzy
 msgid "From registry"
 msgstr "Iz registra"
 
