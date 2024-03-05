@@ -1,16 +1,6 @@
 # Remedios Melero <rmelero@iata.csic.es>, 2023.
 msgid ""
-msgstr ""
-"Project-Id-Version: wizard-client:3.18.3\n"
-"POT-Creation-Date: 2024-03-05T08:27:08.112Z \n"
-"PO-Revision-Date: 2024-02-27 17:10+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Spanish <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-3-0/es/>\n"
-"Language: es\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.18.2\n"
+msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2024-03-05T08:27:08.112Z\nPO-Revision-Date: 2024-03-05 14:05+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Spanish <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-4-0/es/>\nLanguage: es\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.18.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -4920,12 +4910,14 @@ msgid "Anyone with the link can view the project."
 msgstr "Cualquiera que tenga el enlace puede ver el proyecto."
 
 #: engine-wizard/elm/Wizard/Projects/Create/Update.elm:108
+#, fuzzy
 msgid "Unable to get selected project template."
-msgstr ""
+msgstr "No se puede obtener la plantilla de proyecto seleccionada."
 
 #: engine-wizard/elm/Wizard/Projects/Create/Update.elm:117
+#, fuzzy
 msgid "Unable to get selected knowledge model."
-msgstr ""
+msgstr "No se puede obtener el modelo de conocimiento seleccionado."
 
 #: engine-wizard/elm/Wizard/Projects/Create/Update.elm:126
 #: engine-wizard/elm/Wizard/Projects/Create/Update.elm:258
@@ -4935,12 +4927,14 @@ msgstr "No se pueden obtener plantillas de proyectos."
 
 #: engine-wizard/elm/Wizard/Projects/Create/Update.elm:137
 #: engine-wizard/elm/Wizard/Projects/Create/Update.elm:277
+#, fuzzy
 msgid "Unable to get knowledge models."
-msgstr ""
+msgstr "No se pueden obtener modelos de conocimiento."
 
 #: engine-wizard/elm/Wizard/Projects/Create/Update.elm:240
+#, fuzzy
 msgid "Unable to get question tags for the knowledge model."
-msgstr ""
+msgstr "No se pueden obtener etiquetas de pregunta para el modelo de conocimiento."
 
 #: engine-wizard/elm/Wizard/Projects/Create/View.elm:84
 #: engine-wizard/elm/Wizard/Projects/Create/View.elm:176
@@ -4951,20 +4945,24 @@ msgid "Project Template"
 msgstr "Plantilla de proyecto"
 
 #: engine-wizard/elm/Wizard/Projects/Create/View.elm:132
+#, fuzzy
 msgid "From project template"
-msgstr ""
+msgstr "De la plantilla del proyecto"
 
 #: engine-wizard/elm/Wizard/Projects/Create/View.elm:143
+#, fuzzy
 msgid "From knowledge model"
-msgstr ""
+msgstr "Del modelo de conocimiento"
 
 #: engine-wizard/elm/Wizard/Projects/Create/View.elm:154
+#, fuzzy
 msgid "Project templates are prepared projects with knowledge models, question tags, and document templates setup, so you don't have to start from scratch."
-msgstr ""
+msgstr "Las plantillas de proyectos son proyectos preparados con modelos de conocimiento, etiquetas de preguntas y plantillas de documentos configuradas, para que no tenga que empezar desde cero."
 
 #: engine-wizard/elm/Wizard/Projects/Create/View.elm:158
+#, fuzzy
 msgid "Knowledge models are templates for questionnaires. You can select question tags now and configure the document template and other settings later."
-msgstr ""
+msgstr "Los modelos de conocimiento son plantillas para cuestionarios. Puede seleccionar las etiquetas de las preguntas ahora y configurar la plantilla del documento y otros ajustes más adelante."
 
 #: engine-wizard/elm/Wizard/Projects/CreateMigration/Update.elm:107
 #: engine-wizard/elm/Wizard/Projects/Detail/Update.elm:504
@@ -5421,8 +5419,9 @@ msgid "No users found"
 msgstr "No se han encontrado usuarios"
 
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:613
+#, fuzzy
 msgid "Create project from this template"
-msgstr ""
+msgstr "Crear proyecto a partir de esta plantilla"
 
 #: engine-wizard/elm/Wizard/Projects/Migration/Update.elm:83
 #, fuzzy
@@ -6700,33 +6699,40 @@ msgid "Are you sure you want to delete %s?"
 msgstr "¿Seguro que quieres borrar %s?"
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/AppKeys.elm:75
+#, fuzzy
 msgid "Unable to get app keys."
-msgstr ""
+msgstr "No se pueden obtener las claves de la aplicación."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/AppKeys.elm:108
+#, fuzzy
 msgid "App key could not be deleted."
-msgstr ""
+msgstr "No se ha podido eliminar la clave de la aplicación."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/AppKeys.elm:116
 #: engine-wizard/elm/Wizard/Users/Edit/View.elm:99
+#, fuzzy
 msgid "App Keys"
-msgstr ""
+msgstr "Claves de la aplicación"
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/AppKeys.elm:121
+#, fuzzy
 msgid "App keys are created when connecting various applications. You can disconnect them by deleting the app key."
-msgstr ""
+msgstr "Las claves de aplicación se crean al conectar varias aplicaciones. Puedes desconectarlas borrando la app key."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/AppKeys.elm:152
+#, fuzzy
 msgid "You have no app keys."
-msgstr ""
+msgstr "No tienes claves de aplicación."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/AppKeys.elm:158
+#, fuzzy
 msgid "App Key Name"
-msgstr ""
+msgstr "Nombre de la clave de la aplicación"
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/AppKeys.elm:170
+#, fuzzy
 msgid "Delete App Key"
-msgstr ""
+msgstr "Borrar App Key"
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/Password.elm:95
 #, fuzzy
