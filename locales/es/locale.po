@@ -1,6 +1,16 @@
 # Remedios Melero <rmelero@iata.csic.es>, 2023.
 msgid ""
-msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2024-02-06T08:10:07.424Z\nPO-Revision-Date: 2024-02-27 17:10+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Spanish <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-3-0/es/>\nLanguage: es\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.18.2\n"
+msgstr ""
+"Project-Id-Version: wizard-client:3.18.3\n"
+"POT-Creation-Date: 2024-03-05T08:27:08.112Z \n"
+"PO-Revision-Date: 2024-02-27 17:10+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Spanish <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-3-0/es/>\n"
+"Language: es\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.18.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -480,7 +490,7 @@ msgid "No data"
 msgstr "No hay datos"
 
 #: engine-wizard/elm/Wizard/Common/Components/Listing/View.elm:544
-#: engine-wizard/elm/Wizard/Dashboard/Widgets/RecentProjectsWidget.elm:73
+#: engine-wizard/elm/Wizard/Dashboard/Widgets/RecentProjectsWidget.elm:64
 msgid "Updated %s"
 msgstr "%s actualizado"
 
@@ -566,8 +576,8 @@ msgid "Anonymous Cowboy"
 msgstr "Vaquero anónimo"
 
 #: engine-wizard/elm/Wizard/Common/Components/PlansList.elm:28
-#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:189
-#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:220
+#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:200
+#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:231
 msgid "Trial"
 msgstr "Prueba"
 
@@ -589,21 +599,21 @@ msgstr "Plan"
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:209
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:457
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:507
-#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:186
-#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:217
+#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:197
+#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:228
 #: engine-wizard/elm/Wizard/Users/Index/View.elm:29
 msgid "Users"
 msgstr "Usuarios"
 
 #: engine-wizard/elm/Wizard/Common/Components/PlansList.elm:98
-#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:187
-#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:218
+#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:198
+#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:229
 msgid "From"
 msgstr "De"
 
 #: engine-wizard/elm/Wizard/Common/Components/PlansList.elm:99
-#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:188
-#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:219
+#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:199
+#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:230
 msgid "To"
 msgstr "A"
 
@@ -648,7 +658,7 @@ msgid "Answered by"
 msgstr "Contestado por"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1315
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:537
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:542
 #: engine-wizard/elm/Wizard/KMEditor/Editor/View.elm:176
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:397
 #, fuzzy
@@ -695,7 +705,7 @@ msgid "Comments"
 msgstr "Comentarios"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1469
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:317
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:322
 #, fuzzy
 msgid "Warnings"
 msgstr "Advertencias"
@@ -786,7 +796,7 @@ msgstr "Responder..."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2053
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2111
-#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:55
+#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:58
 #: engine-wizard/elm/Wizard/Users/Index/View.elm:147
 msgid "Edit"
 msgstr "Editar"
@@ -802,8 +812,8 @@ msgstr "Editar"
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/FileEditor.elm:1281
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/FileEditor/AssetUploadModal.elm:266
 #: engine-wizard/elm/Wizard/DocumentTemplates/Import/FileImport/View.elm:72
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2156
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2233
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2161
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2238
 #: engine-wizard/elm/Wizard/KnowledgeModels/Import/FileImport/View.elm:76
 #: engine-wizard/elm/Wizard/Locales/Import/FileImport/View.elm:72
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:395
@@ -842,8 +852,8 @@ msgstr "Vuelva a abrir"
 #: engine-wizard/elm/Wizard/DocumentTemplates/Detail/View.elm:364
 #: engine-wizard/elm/Wizard/DocumentTemplates/Index/View.elm:195
 #: engine-wizard/elm/Wizard/KMEditor/Common/DeleteModal.elm:104
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2037
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2150
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2042
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2155
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/Settings.elm:248
 #: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:224
 #: engine-wizard/elm/Wizard/KnowledgeModels/Common/KnowledgeModelActionsDropdown.elm:145
@@ -856,9 +866,10 @@ msgstr "Vuelva a abrir"
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings/DeleteModal.elm:123
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:240
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:355
-#: engine-wizard/elm/Wizard/Projects/Index/View.elm:680
-#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:260
+#: engine-wizard/elm/Wizard/Projects/Index/View.elm:678
+#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:271
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:285
+#: engine-wizard/elm/Wizard/Users/Edit/Components/AppKeys.elm:176
 #: engine-wizard/elm/Wizard/Users/Index/View.elm:156
 #: engine-wizard/elm/Wizard/Users/Index/View.elm:191
 msgid "Delete"
@@ -940,7 +951,7 @@ msgstr "Aún no hay respuestas."
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/FileEditor.elm:906
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:636
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:506
-#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:200
+#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:211
 msgid "Add"
 msgstr "Añadir"
 
@@ -1069,7 +1080,7 @@ msgid "External links"
 msgstr "Enlaces externos"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire/DefaultQuestionnaireRenderer.elm:252
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:882
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:887
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1154
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1262
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1359
@@ -1145,10 +1156,10 @@ msgid "If you found something wrong with the question, you can send us your reco
 msgstr "Si has encontrado algo incorrecto en la pregunta, puedes enviarnos tu recomendación sobre cómo mejorarla."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire/FeedbackModal.elm:183
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:632
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:829
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1143
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1207
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:637
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:834
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1148
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1212
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:445
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:466
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:491
@@ -1172,9 +1183,9 @@ msgstr "Título"
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire/VersionModal.elm:157
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/PublishModal.elm:135
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:270
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1159
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1215
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1267
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1164
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1220
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1272
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/PublishModal.elm:126
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/Settings.elm:187
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:447
@@ -1257,7 +1268,7 @@ msgid "Set phase to %s"
 msgstr "Establecer fase en %s"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire/NavigationTree.elm:83
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:503
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:508
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:370
 #, fuzzy
 msgid "Chapters"
@@ -1275,9 +1286,9 @@ msgstr "Capítulos"
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Index/View.elm:51
 #: engine-wizard/elm/Wizard/DocumentTemplates/Index/View.elm:73
 #: engine-wizard/elm/Wizard/KMEditor/Create/View.elm:93
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1259
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1399
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1941
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1264
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1404
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1946
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/PublishModal.elm:125
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/Settings.elm:186
 #: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:69
@@ -1297,8 +1308,7 @@ msgstr "Capítulos"
 #: engine-wizard/elm/Wizard/Locales/Index/View.elm:60
 #: engine-wizard/elm/Wizard/ProjectActions/Index/View.elm:45
 #: engine-wizard/elm/Wizard/ProjectImporters/Index/View.elm:44
-#: engine-wizard/elm/Wizard/Projects/Create/CustomCreate/View.elm:70
-#: engine-wizard/elm/Wizard/Projects/Create/TemplateCreate/View.elm:73
+#: engine-wizard/elm/Wizard/Projects/Create/View.elm:53
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/NewDocument.elm:303
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:409
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:103
@@ -1309,10 +1319,10 @@ msgstr "Capítulos"
 #: engine-wizard/elm/Wizard/Settings/Organization/View.elm:45
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:104
 #: engine-wizard/elm/Wizard/Tenants/Create/View.elm:37
-#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:158
-#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:185
-#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:216
-#: engine-wizard/elm/Wizard/Tenants/Index/View.elm:56
+#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:169
+#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:196
+#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:227
+#: engine-wizard/elm/Wizard/Tenants/Index/View.elm:69
 msgid "Name"
 msgstr "Nombre"
 
@@ -1342,8 +1352,8 @@ msgstr "Nueva versión"
 #: engine-wizard/elm/Wizard/Settings/PrivacyAndSupport/View.elm:28
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:30
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:41
-#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:169
-#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:231
+#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:180
+#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:242
 #: engine-wizard/elm/Wizard/Users/Create/View.elm:30
 #: engine-wizard/elm/Wizard/Users/Edit/Components/Password.elm:115
 #: engine-wizard/elm/Wizard/Users/Edit/Components/Profile.elm:222
@@ -1406,7 +1416,7 @@ msgid "Answered (current phase): %s/%s"
 msgstr "Contestado (fase actual): %s/%s"
 
 #: engine-wizard/elm/Wizard/Common/Components/SummaryReport.elm:222
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:520
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:525
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:517
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:382
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1396
@@ -1529,7 +1539,7 @@ msgid "Dashboard"
 msgstr "Cuadro de mandos"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:84
-#: engine-wizard/elm/Wizard/Tenants/Index/View.elm:24
+#: engine-wizard/elm/Wizard/Tenants/Index/View.elm:36
 #, fuzzy
 msgid "Tenants"
 msgstr "Inquilinos"
@@ -1869,8 +1879,8 @@ msgid "Untitled question tag"
 msgstr "Etiqueta de pregunta sin título"
 
 #: engine-wizard/elm/Wizard/Common/View/Tag.elm:106
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:554
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:856
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:559
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:861
 #: engine-wizard/elm/Wizard/KMEditor/Editor/View.elm:185
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:412
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:954
@@ -1919,7 +1929,6 @@ msgstr "No se puede utilizar."
 #: engine-wizard/elm/Wizard/KMEditor/Create/Update.elm:148
 #: engine-wizard/elm/Wizard/KnowledgeModels/Index/Update.elm:110
 #: engine-wizard/elm/Wizard/KnowledgeModels/Preview/Update.elm:60
-#: engine-wizard/elm/Wizard/Projects/Create/CustomCreate/Update.elm:170
 #: engine-wizard/elm/Wizard/Projects/CreateMigration/Update.elm:247
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:234
 #: engine-wizard/elm/Wizard/Projects/Index/Update.elm:228
@@ -2027,13 +2036,12 @@ msgstr "El modelo de conocimiento es una estructura en forma de árbol que conti
 #: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:49
 #: engine-wizard/elm/Wizard/Locales/Create/View.elm:60
 #: engine-wizard/elm/Wizard/Locales/Index/View.elm:157
-#: engine-wizard/elm/Wizard/Projects/Create/CustomCreate/View.elm:27
-#: engine-wizard/elm/Wizard/Projects/Create/TemplateCreate/View.elm:42
+#: engine-wizard/elm/Wizard/Projects/Create/View.elm:57
 #: engine-wizard/elm/Wizard/Projects/CreateMigration/View.elm:109
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/NewDocument.elm:286
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:82
 #: engine-wizard/elm/Wizard/Tenants/Create/View.elm:29
-#: engine-wizard/elm/Wizard/Tenants/Index/View.elm:102
+#: engine-wizard/elm/Wizard/Tenants/Index/View.elm:115
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:218
 #: engine-wizard/elm/Wizard/Users/Index/View.elm:42
 msgid "Create"
@@ -2050,7 +2058,7 @@ msgid "Project template is a special type of project that can be used as a start
 msgstr "La plantilla de proyecto es un tipo especial de proyecto que puede utilizarse como punto de partida para nuevos proyectos. Puede seleccionar un modelo de conocimiento, configurar una plantilla y un formato de documento o rellenar previamente algunas respuestas para facilitar el inicio a los investigadores."
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/CreateProjectWidget.elm:13
-#: engine-wizard/elm/Wizard/Projects/Create/View.elm:48
+#: engine-wizard/elm/Wizard/Projects/Create/View.elm:45
 #, fuzzy
 msgid "Create Project"
 msgstr "Crear proyecto"
@@ -2126,7 +2134,7 @@ msgstr "Hay actualizaciones disponibles para algunos modelos de conocimiento."
 #: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:132
 #: engine-wizard/elm/Wizard/KnowledgeModels/Index/View.elm:104
 #: engine-wizard/elm/Wizard/Locales/Index/View.elm:96
-#: engine-wizard/elm/Wizard/Projects/Index/View.elm:716
+#: engine-wizard/elm/Wizard/Projects/Index/View.elm:715
 #, fuzzy
 msgid "update available"
 msgstr "actualización disponible"
@@ -2151,7 +2159,7 @@ msgstr "Proyectos recientes"
 msgid "View all"
 msgstr "Ver todos"
 
-#: engine-wizard/elm/Wizard/Dashboard/Widgets/RecentProjectsWidget.elm:83
+#: engine-wizard/elm/Wizard/Dashboard/Widgets/RecentProjectsWidget.elm:74
 #, fuzzy
 msgid "You have no projects yet, start by creating some."
 msgstr "Aún no tienes proyectos, empieza por crear algunos."
@@ -2159,7 +2167,7 @@ msgstr "Aún no tienes proyectos, empieza por crear algunos."
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/UsageWidget.elm:27
 #: engine-wizard/elm/Wizard/Settings/Usage/View.elm:22
 #: engine-wizard/elm/Wizard/Settings/View.elm:143
-#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:77
+#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:88
 msgid "Usage"
 msgstr "Uso"
 
@@ -2237,6 +2245,7 @@ msgstr "Buscar documentos..."
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:104
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:133
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:257
+#: engine-wizard/elm/Wizard/Users/Edit/Components/AppKeys.elm:159
 #: engine-wizard/elm/Wizard/Users/Index/View.elm:61
 #, fuzzy
 msgid "Created"
@@ -2515,7 +2524,7 @@ msgid "Unable to get the document preview."
 msgstr "No se puede obtener la vista previa del documento."
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Preview.elm:241
-#: engine-wizard/elm/Wizard/Projects/Index/View.elm:615
+#: engine-wizard/elm/Wizard/Projects/Index/View.elm:601
 #, fuzzy
 msgid "Open project"
 msgstr "Proyecto abierto"
@@ -2692,7 +2701,7 @@ msgid "Add step"
 msgstr "Añadir paso"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:409
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:759
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:764
 #, fuzzy
 msgid "Options"
 msgstr "Opciones"
@@ -2704,7 +2713,7 @@ msgstr "Añadir opción"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:425
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:448
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:761
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:766
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:364
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:249
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:272
@@ -2867,7 +2876,7 @@ msgid "This document template is not supported in this version of DSW."
 msgstr "Esta plantilla de documento no es compatible con esta versión de DSW."
 
 #: engine-wizard/elm/Wizard/DocumentTemplates/Detail/View.elm:218
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1391
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1396
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:640
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:695
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:768
@@ -3047,7 +3056,7 @@ msgstr "Nuevo modelo de conocimiento de los padres"
 
 #: engine-wizard/elm/Wizard/KMEditor/Common/UpgradeModal.elm:163
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:542
-#: engine-wizard/elm/Wizard/Projects/Index/View.elm:644
+#: engine-wizard/elm/Wizard/Projects/Index/View.elm:642
 #, fuzzy
 msgid "Create migration"
 msgstr "Crear migración"
@@ -3068,9 +3077,9 @@ msgid "You can create a new Knowledge Model based on the existing one or start f
 msgstr "Puede crear un nuevo modelo de conocimiento basado en el existente o empezar desde cero."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:292
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:511
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:516
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:187
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/TreeInput.elm:161
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/TreeInput.elm:164
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/PhaseEditor.elm:293
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/TagEditor.elm:304
 #, fuzzy
@@ -3078,12 +3087,12 @@ msgid "Untitled chapter"
 msgstr "Capítulo sin título"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:295
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:659
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:960
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1565
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1720
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:664
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:965
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1570
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1725
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:332
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/TreeInput.elm:208
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/TreeInput.elm:222
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/PhaseEditor.elm:240
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/TagEditor.elm:250
 #, fuzzy
@@ -3091,14 +3100,14 @@ msgid "Untitled question"
 msgstr "Pregunta sin título"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:298
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:528
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:533
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:201
 #, fuzzy
 msgid "Untitled metric"
 msgstr "Métrica sin título"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:301
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:545
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:550
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:215
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/PhaseEditor.elm:153
 #, fuzzy
@@ -3106,7 +3115,7 @@ msgid "Untitled phase"
 msgstr "Fase sin título"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:304
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:562
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:567
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:229
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/TagEditor.elm:163
 #, fuzzy
@@ -3114,17 +3123,17 @@ msgid "Untitled tag"
 msgstr "Etiqueta sin título"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:307
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:579
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1018
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:584
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1023
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:243
 #, fuzzy
 msgid "Untitled integration"
 msgstr "Integración sin título"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:310
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:928
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:933
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:358
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/TreeInput.elm:239
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/TreeInput.elm:254
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/PhaseEditor.elm:302
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/TagEditor.elm:313
 #, fuzzy
@@ -3132,22 +3141,24 @@ msgid "Untitled answer"
 msgstr "Respuesta sin título"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:313
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1093
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1098
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:372
 #, fuzzy
 msgid "Untitled choice"
 msgstr "Elección sin título"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:316
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:873
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:878
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:386
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/TreeInput.elm:296
 #, fuzzy
 msgid "Untitled reference"
 msgstr "Referencia sin título"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:319
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:890
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:895
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:400
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/TreeInput.elm:275
 #, fuzzy
 msgid "Untitled expert"
 msgstr "Experto sin título"
@@ -3257,70 +3268,71 @@ msgstr "Plantilla de elementos de respuesta vacíos para la integración"
 msgid "Empty widget URL for integration"
 msgstr "URL vacía del widget para la integración"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:358
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:363
 #, fuzzy
 msgid "There are no more warnings."
 msgstr "No hay más advertencias."
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:466
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:471
 #: engine-wizard/elm/Wizard/KMEditor/Editor/View.elm:167
 #: engine-wizard/elm/Wizard/KMEditor/Publish/View.elm:72
 #: engine-wizard/elm/Wizard/KnowledgeModels/Detail/View.elm:178
-#: engine-wizard/elm/Wizard/Projects/Create/CustomCreate/View.elm:71
+#: engine-wizard/elm/Wizard/Projects/Create/View.elm:96
+#: engine-wizard/elm/Wizard/Projects/Create/View.elm:196
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:531
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:585
 #, fuzzy
 msgid "Knowledge Model"
 msgstr "Modelo de conocimiento"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:512
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:517
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:94
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:219
 #, fuzzy
 msgid "Add chapter"
 msgstr "Añadir capítulo"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:529
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:534
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:106
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:155
 #, fuzzy
 msgid "Add metric"
 msgstr "Añadir métrica"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:546
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:551
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:118
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:171
 #, fuzzy
 msgid "Add phase"
 msgstr "Añadir fase"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:563
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:568
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:130
 #, fuzzy
 msgid "Add tag"
 msgstr "Añadir etiqueta"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:571
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:576
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:427
 #, fuzzy
 msgid "Integrations"
 msgstr "Integraciones"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:580
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:585
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:142
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:203
 #, fuzzy
 msgid "Add integration"
 msgstr "Añadir integración"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:621
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:626
 #, fuzzy
 msgid "Chapter"
 msgstr "Capítulo"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:640
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:837
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:990
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:645
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:842
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:995
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:824
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:843
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:880
@@ -3332,8 +3344,8 @@ msgstr "Capítulo"
 msgid "Text"
 msgstr "Texto"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:651
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:952
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:656
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:957
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:862
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:893
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1119
@@ -3346,9 +3358,9 @@ msgstr "Texto"
 msgid "Questions"
 msgstr "Preguntas"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:660
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:961
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1721
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:665
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:966
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1726
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:180
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:277
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:351
@@ -3357,14 +3369,14 @@ msgstr "Preguntas"
 msgid "Add question"
 msgstr "Añadir pregunta"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:760
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:765
 #, fuzzy
 msgid "List of Items"
 msgstr "Lista de artículos"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:762
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1059
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1371
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:767
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1064
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1376
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:921
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1028
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1199
@@ -3373,23 +3385,23 @@ msgstr "Lista de artículos"
 msgid "Integration"
 msgstr "Integración"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:763
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:768
 #, fuzzy
 msgid "Multi-Choice"
 msgstr "Opciones múltiples"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:770
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:775
 #, fuzzy
 msgid "Never"
 msgstr "Nunca"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:774
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:779
 #, fuzzy
 msgid "Question"
 msgstr "Pregunta"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:785
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1382
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:790
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1387
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:639
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:694
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:767
@@ -3401,27 +3413,27 @@ msgstr "Pregunta"
 msgid "Type"
 msgstr "Tipo"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:800
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:805
 #, fuzzy
 msgid "Changing a question type will remove all answers."
 msgstr "Al cambiar el tipo de pregunta se eliminarán todas las respuestas."
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:810
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:815
 #, fuzzy
 msgid "Changing a question type will remove all item questions."
 msgstr "Al cambiar un tipo de pregunta se eliminarán todas las preguntas de los ítems."
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:820
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:825
 #, fuzzy
 msgid "Changing a question type will remove all choices."
 msgstr "Al cambiar el tipo de pregunta se eliminarán todas las opciones."
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:848
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:853
 #, fuzzy
 msgid "When does this question become desirable?"
 msgstr "¿Cuándo es deseable esta pregunta?"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:865
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:870
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1138
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1255
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1352
@@ -3429,21 +3441,21 @@ msgstr "¿Cuándo es deseable esta pregunta?"
 msgid "References"
 msgstr "Referencias"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:874
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:879
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:301
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:283
 #, fuzzy
 msgid "Add reference"
 msgstr "Añadir referencia"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:891
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:896
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:313
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:299
 #, fuzzy
 msgid "Add expert"
 msgstr "Añadir experto"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:920
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:925
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1086
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1221
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1318
@@ -3451,47 +3463,47 @@ msgstr "Añadir experto"
 msgid "Answers"
 msgstr "Respuestas"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:929
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:934
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:265
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:251
 #, fuzzy
 msgid "Add answer"
 msgstr "Añadir respuesta"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:969
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:974
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/PhaseEditor.elm:310
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/TagEditor.elm:321
 #, fuzzy
 msgid "Item Template"
 msgstr "Plantilla de artículos"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:985
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:990
 #, fuzzy
 msgid "String"
 msgstr "Cadena"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:986
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:991
 #, fuzzy
 msgid "Number"
 msgstr "Número"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:987
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:992
 #, fuzzy
 msgid "Date"
 msgstr "Fecha"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:988
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:993
 #, fuzzy
 msgid "Date Time"
 msgstr "Fecha Hora"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:989
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:994
 #, fuzzy
 msgid "Time"
 msgstr "Tiempo"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:991
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1949
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:996
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1954
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1977
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1996
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:2018
@@ -3508,9 +3520,9 @@ msgstr "Tiempo"
 msgid "Email"
 msgstr "Email"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:992
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1822
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1881
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:997
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1827
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1886
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1652
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1655
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1716
@@ -3530,8 +3542,8 @@ msgstr "Email"
 msgid "URL"
 msgstr "URL"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:993
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1275
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:998
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1280
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:574
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:596
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:621
@@ -3539,7 +3551,7 @@ msgstr "URL"
 msgid "Color"
 msgstr "Color"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:999
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1004
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:918
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1009
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1196
@@ -3548,17 +3560,17 @@ msgstr "Color"
 msgid "Value Type"
 msgstr "Tipo de valor"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1019
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1024
 #, fuzzy
 msgid "- select integration -"
 msgstr "- seleccione integración -"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1047
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1052
 #, fuzzy
 msgid "Integration Configuration"
 msgstr "Configuración de la integración"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1085
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1090
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1098
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1232
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1329
@@ -3566,19 +3578,19 @@ msgstr "Configuración de la integración"
 msgid "Choices"
 msgstr "Opciones"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1094
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1099
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:289
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:267
 #, fuzzy
 msgid "Add choice"
 msgstr "Añadir opción"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1132
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1137
 #, fuzzy
 msgid "Metric"
 msgstr "Métrica"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1151
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1156
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:446
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:467
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:492
@@ -3586,32 +3598,32 @@ msgstr "Métrica"
 msgid "Abbreviation"
 msgstr "Abreviatura"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1196
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1201
 #, fuzzy
 msgid "Phase"
 msgstr "Fase"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1248
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1253
 #, fuzzy
 msgid "Tag"
 msgstr "Etiqueta"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1365
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1370
 #, fuzzy
 msgid "API"
 msgstr "API"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1366
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1371
 #, fuzzy
 msgid "Widget"
 msgstr "Widget"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1407
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1412
 #, fuzzy
 msgid "Logo URL"
 msgstr "URL del logotipo"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1414
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1419
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:642
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:697
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:770
@@ -3621,7 +3633,7 @@ msgstr "URL del logotipo"
 msgid "Props"
 msgstr "Atrezzo"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1422
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1427
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:643
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:698
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:771
@@ -3629,7 +3641,7 @@ msgstr "Atrezzo"
 msgid "Item URL"
 msgstr "URL del artículo"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1446
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1451
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:657
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:718
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:785
@@ -3637,7 +3649,7 @@ msgstr "URL del artículo"
 msgid "Request URL"
 msgstr "Solicitar URL"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1454
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1459
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:656
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:717
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:784
@@ -3645,7 +3657,7 @@ msgstr "Solicitar URL"
 msgid "Request HTTP Method"
 msgstr "Método HTTP de solicitud"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1462
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1467
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:658
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:719
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:786
@@ -3653,7 +3665,7 @@ msgstr "Método HTTP de solicitud"
 msgid "Request HTTP Headers"
 msgstr "Encabezados HTTP de solicitud"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1470
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1475
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:659
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:720
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:787
@@ -3661,12 +3673,12 @@ msgstr "Encabezados HTTP de solicitud"
 msgid "Request HTTP Body"
 msgstr "Cuerpo HTTP de la solicitud"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1478
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1483
 #, fuzzy
 msgid "Allow Empty Search"
 msgstr "Permitir búsqueda vacía"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1486
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1491
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:661
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:722
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:789
@@ -3674,7 +3686,7 @@ msgstr "Permitir búsqueda vacía"
 msgid "Response Item ID"
 msgstr "Respuesta ID del elemento"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1494
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1499
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:660
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:721
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:788
@@ -3682,7 +3694,7 @@ msgstr "Respuesta ID del elemento"
 msgid "Response List Field"
 msgstr "Campo de la lista de respuestas"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1502
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1507
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:662
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:723
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:790
@@ -3690,58 +3702,58 @@ msgstr "Campo de la lista de respuestas"
 msgid "Response Item Template"
 msgstr "Plantilla de elementos de respuesta"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1508
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1513
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:225
 #, fuzzy
 msgid "Request"
 msgstr "Solicitar"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1510
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1515
 #, fuzzy
 msgid "Use this section to configure the search request. The service you want to integrate has to provide a search HTTP API where you send a search string and it returns a JSON with found items."
 msgstr "Utilice esta sección para configurar la solicitud de búsqueda. El servicio que desea integrar tiene que proporcionar una API HTTP de búsqueda donde se envía una cadena de búsqueda y devuelve un JSON con los elementos encontrados."
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1512
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1517
 #, fuzzy
 msgid "A URL of the integrated service API that supports the search. Use `${q}` for the actual string that will be filled when users search for items, such as *ht&#8203;tps://example.com/search?q=${q}*."
 msgstr "Una URL de la API del servicio integrado que admite la búsqueda. Utilice `${q}` para la cadena real que se rellenará cuando los usuarios busquen elementos, como *https://ejemplo.com/search?q=${q}*."
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1517
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1522
 #, fuzzy
 msgid "Turn this off if the API cannot handle empty search requests. In that case, the requests will be made only after users type something."
 msgstr "Desactive esta opción si la API no puede gestionar solicitudes de búsqueda vacías. En ese caso, las solicitudes se realizarán solo después de que los usuarios escriban algo."
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1521
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1526
 #, fuzzy
 msgid "Response"
 msgstr "Respuesta"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1523
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1528
 #, fuzzy
 msgid "Use this section to configure how to process the response returned from the search API."
 msgstr "Utilice esta sección para configurar cómo procesar la respuesta devuelta por la API de búsqueda."
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1525
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1530
 #, fuzzy
 msgid "If the returned JSON is not an array of items directly but the items are nested, use this to define the name or path to the field in the response that contains the list of items. Keep empty otherwise."
 msgstr "Si el JSON devuelto no es una matriz de elementos directamente, sino que los elementos están anidados, utilícelo para definir el nombre o la ruta al campo de la respuesta que contiene la lista de elementos. En caso contrario, manténgalo vacío."
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1527
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1532
 #, fuzzy
 msgid "Use this to define an identifier for the item. This will be used in **Item URL** as `${id}` to compose a URL to the found item. You can use properties from the returned item in Jinja2 notation. For example, if the item has a field `id` use `{{item.id}}` here. You can also compose multiple fields together, e.g., `{{item.field1}}-{{item.field2}}`."
 msgstr "Utilícelo para definir un identificador para el elemento. Se utilizará en **Item URL** como `${id}` para componer una URL al elemento encontrado. Puede utilizar las propiedades del elemento devuelto en notación Jinja2. Por ejemplo, si el elemento tiene un campo `id` utilice `{{item.id}}` aquí. También puedes combinar varios campos, por ejemplo, `{{item.field1}}-{{item.field2}}`."
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1529
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1534
 #, fuzzy
 msgid "This defines how the found items will be displayed for the user. You can use properties from the returned item in Jinja2 notation, you can also use Markdown for some formatting. For example, if the returned item has a field called name, you can use `**{{item.name}}**` to display the name in bold."
 msgstr "Define cómo se mostrarán al usuario los elementos encontrados. Puede utilizar las propiedades del elemento devuelto en notación Jinja2, también puede utilizar Markdown para algunos formatos. Por ejemplo, si el elemento devuelto tiene un campo llamado nombre, puede utilizar `**{{item.name}}**` para mostrar el nombre en negrita."
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1533
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1538
 #, fuzzy
 msgid "Defines the URL to the selected item. Use `${id}` to get the value defined in **Response Item ID** field, for example `https://example.com/${id}`."
 msgstr "Define la URL del elemento seleccionado. Utilice `${id}` para obtener el valor definido en el campo **ID del elemento de respuesta**, por ejemplo `https://example.com/${id}`."
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1547
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1552
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:675
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:744
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:803
@@ -3749,72 +3761,72 @@ msgstr "Define la URL del elemento seleccionado. Utilice `${id}` para obtener el
 msgid "Widget URL"
 msgstr "URL del widget"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1553
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1558
 #, fuzzy
 msgid "The URL of the widget implemented using [DSW Integration SDK](https://github.com/ds-wizard/dsw-integration-sdk)."
 msgstr "La URL del widget implementado utilizando [DSW Integration SDK](https://github.com/ds-wizard/dsw-integration-sdk)."
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1555
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1560
 #, fuzzy
 msgid "Defines the URL to the selected item. Use `${id}` value returned from the widget, for example `https://example.com/${id}`."
 msgstr "Define la URL del elemento seleccionado. Utilice el valor `${id}` devuelto por el widget, por ejemplo `https://example.com/${id}`."
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1579
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1584
 #, fuzzy
 msgid "No questions"
 msgstr "Sin preguntas"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1613
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1618
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:167
 #, fuzzy
 msgid "Quick setup"
 msgstr "Configuración rápida"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1629
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1634
 #, fuzzy
 msgid "This integration was created from a template and now differs."
 msgstr "Esta integración se creó a partir de una plantilla y ahora difiere."
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1634
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1639
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/Settings.elm:217
 #: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:197
 #, fuzzy
 msgid "Update"
 msgstr "Actualización"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1648
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1653
 #, fuzzy
 msgid "A string that identifies the integration. It has to be unique for each integration."
 msgstr "Cadena que identifica la integración. Debe ser única para cada integración."
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1650
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1655
 #, fuzzy
 msgid "A name visible everywhere else in the KM Editor, such as when choosing the integration for a question."
 msgstr "Un nombre visible en cualquier otro lugar del Editor KM, como cuando se elige la integración para una pregunta."
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1652
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1657
 #, fuzzy
 msgid "Logo is displayed next to the link to the selected item in questionnaires. It can be either URL or base64 image."
 msgstr "El logotipo se muestra junto al enlace al elemento seleccionado en los cuestionarios. Puede ser una URL o una imagen base64."
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1654
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1659
 #, fuzzy
 msgid "Props can be used to parametrize the integration for each question. Use this to define the props whose value can be filled on the questions using this integration. The props can then be used in the URL configuration. For example, if you define prop named *type*, you can use it as `${type}`, such as *ht&#8203;tps://example.com/${type}*."
 msgstr "Los accesorios pueden utilizarse para parametrizar la integración para cada pregunta. Use esto para definir los props cuyo valor puede ser rellenado en las preguntas usando esta integración. Los props pueden usarse en la configuración de la URL. Por ejemplo, si define un prop llamado *tipo*, puede utilizarlo como `${tipo}`, como *https://ejemplo.com/${tipo}*."
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1658
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1663
 #, fuzzy
 msgid "Questions using this integration"
 msgstr "Preguntas sobre esta integración"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1682
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1687
 #, fuzzy
 msgid "Answer"
 msgstr "Respuesta"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1693
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1782
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1889
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1698
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1787
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1894
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1388
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1414
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1465
@@ -3832,7 +3844,7 @@ msgstr "Respuesta"
 msgid "Label"
 msgstr "Etiqueta"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1701
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1706
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1389
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1415
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1466
@@ -3841,17 +3853,17 @@ msgstr "Etiqueta"
 msgid "Advice"
 msgstr "Consejos"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1712
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1717
 #, fuzzy
 msgid "Follow-Up Questions"
 msgstr "Preguntas de seguimiento"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1771
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1776
 #, fuzzy
 msgid "Choice"
 msgstr "Elección"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1821
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1826
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1635
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1698
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1701
@@ -3862,12 +3874,12 @@ msgstr "Elección"
 msgid "Resource Page"
 msgstr "Página de recursos"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1827
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1832
 #, fuzzy
 msgid "Reference"
 msgstr "Referencia"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1838
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1843
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1632
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1651
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1672
@@ -3887,7 +3899,7 @@ msgstr "Referencia"
 msgid "Reference Type"
 msgstr "Tipo de referencia"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1857
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1862
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1633
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1696
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1778
@@ -3897,84 +3909,84 @@ msgstr "Tipo de referencia"
 msgid "Short UUID"
 msgstr "UUID corto"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1930
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1935
 #, fuzzy
 msgid "Expert"
 msgstr "Experto"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1971
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1976
 #, fuzzy
 msgid "The knowledge model entity you are trying to open does not exist."
 msgstr "La entidad del modelo de conocimiento que está intentando abrir no existe."
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2004
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2009
 #, fuzzy
 msgid "Click to copy UUID"
 msgstr "Haga clic para copiar UUID"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2022
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2214
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2227
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2027
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2219
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2232
 #, fuzzy
 msgid "Move"
 msgstr "Mover"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2068
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2073
 #, fuzzy
 msgid "Are you sure you want to delete this chapter?"
 msgstr "¿Seguro que quieres borrar este capítulo?"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2075
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2080
 #, fuzzy
 msgid "Are you sure you want to delete this question?"
 msgstr "¿Seguro que quieres borrar esta pregunta?"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2082
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2087
 #, fuzzy
 msgid "Are you sure you want to delete this metric?"
 msgstr "¿Está seguro de que desea eliminar esta métrica?"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2089
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2094
 #, fuzzy
 msgid "Are you sure you want to delete this phase?"
 msgstr "¿Estás seguro de que quieres eliminar esta fase?"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2096
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2101
 #, fuzzy
 msgid "Are you sure you want to delete this question tag?"
 msgstr "¿Está seguro de que desea eliminar esta etiqueta de pregunta?"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2103
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2108
 #, fuzzy
 msgid "Are you sure you want to delete this integration?"
 msgstr "¿Está seguro de que desea eliminar esta integración?"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2110
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2115
 #, fuzzy
 msgid "Are you sure you want to delete this answer?"
 msgstr "¿Seguro que quieres borrar esta respuesta?"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2117
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2122
 #, fuzzy
 msgid "Are you sure you want to delete this choice?"
 msgstr "¿Seguro que quieres eliminar esta opción?"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2124
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2129
 #, fuzzy
 msgid "Are you sure you want to delete this reference?"
 msgstr "¿Está seguro de que desea eliminar esta referencia?"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2131
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2136
 #, fuzzy
 msgid "Are you sure you want to delete this expert?"
 msgstr "¿Seguro que quieres eliminar a este experto?"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2140
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2145
 #, fuzzy
 msgid "Heads up!"
 msgstr "¡Atención!"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2217
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2222
 #, fuzzy
 msgid "Select a new parent"
 msgstr "Seleccionar un nuevo padre"
@@ -4017,13 +4029,13 @@ msgid "Add header"
 msgstr "Añadir cabecera"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:62
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/TreeInput.elm:99
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/TreeInput.elm:101
 #, fuzzy
 msgid "Expand all"
 msgstr "Ampliar todo"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:66
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/TreeInput.elm:106
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/TreeInput.elm:108
 #, fuzzy
 msgid "Collapse all"
 msgstr "Contraer todo"
@@ -4187,7 +4199,7 @@ msgid "This Editor is in the process of migration to a new parent Knowledge Mode
 msgstr "Este Editor está en proceso de migración a un nuevo Modelo de Conocimiento padre."
 
 #: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:137
-#: engine-wizard/elm/Wizard/Projects/Index/View.elm:710
+#: engine-wizard/elm/Wizard/Projects/Index/View.elm:709
 #, fuzzy
 msgid "migrating"
 msgstr "migración"
@@ -4213,13 +4225,13 @@ msgid "Open Editor"
 msgstr "Editor abierto"
 
 #: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:206
-#: engine-wizard/elm/Wizard/Projects/Index/View.elm:656
+#: engine-wizard/elm/Wizard/Projects/Index/View.elm:654
 #, fuzzy
 msgid "Continue migration"
 msgstr "Continuar la migración"
 
 #: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:215
-#: engine-wizard/elm/Wizard/Projects/Index/View.elm:668
+#: engine-wizard/elm/Wizard/Projects/Index/View.elm:666
 #, fuzzy
 msgid "Cancel migration"
 msgstr "Cancelar migración"
@@ -4596,8 +4608,7 @@ msgid "Delete package"
 msgstr "Borrar paquete"
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Preview/Update.elm:131
-#: engine-wizard/elm/Wizard/Projects/Create/CustomCreate/Update.elm:156
-#: engine-wizard/elm/Wizard/Projects/Create/TemplateCreate/Update.elm:86
+#: engine-wizard/elm/Wizard/Projects/Create/Update.elm:219
 #, fuzzy
 msgid "Questionnaire could not be created."
 msgstr "No se ha podido crear el cuestionario."
@@ -4686,15 +4697,15 @@ msgstr "Esta no es la última versión disponible de esta configuración regiona
 #: engine-wizard/elm/Wizard/Locales/Detail/View.elm:168
 #: engine-wizard/elm/Wizard/Settings/Registry/View.elm:90
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:62
-#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:106
-#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:113
-#: engine-wizard/elm/Wizard/Tenants/Index/View.elm:34
+#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:117
+#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:124
+#: engine-wizard/elm/Wizard/Tenants/Index/View.elm:47
 msgid "Enabled"
 msgstr "Habilitado"
 
 #: engine-wizard/elm/Wizard/Locales/Detail/View.elm:152
-#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:109
-#: engine-wizard/elm/Wizard/Tenants/Index/View.elm:74
+#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:120
+#: engine-wizard/elm/Wizard/Tenants/Index/View.elm:87
 msgid "Disabled"
 msgstr "Deshabilitado"
 
@@ -4867,7 +4878,7 @@ msgid "Clone Project"
 msgstr "Proyecto clon"
 
 #: engine-wizard/elm/Wizard/Projects/Common/CloneProjectModal/View.elm:39
-#: engine-wizard/elm/Wizard/Projects/Index/View.elm:627
+#: engine-wizard/elm/Wizard/Projects/Index/View.elm:625
 #, fuzzy
 msgid "Clone"
 msgstr "Clon"
@@ -4908,13 +4919,53 @@ msgstr "Cualquiera que tenga el enlace puede editar el proyecto."
 msgid "Anyone with the link can view the project."
 msgstr "Cualquiera que tenga el enlace puede ver el proyecto."
 
-#: engine-wizard/elm/Wizard/Projects/Create/CustomCreate/Update.elm:88
-#: engine-wizard/elm/Wizard/Projects/CreateMigration/Update.elm:233
-#, fuzzy
-msgid "Unable to get question tags for the Knowledge Model."
-msgstr "No se pueden obtener etiquetas de pregunta para el modelo de conocimiento."
+#: engine-wizard/elm/Wizard/Projects/Create/Update.elm:108
+msgid "Unable to get selected project template."
+msgstr ""
 
-#: engine-wizard/elm/Wizard/Projects/Create/TemplateCreate/Update.elm:49
+#: engine-wizard/elm/Wizard/Projects/Create/Update.elm:117
+msgid "Unable to get selected knowledge model."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Create/Update.elm:126
+#: engine-wizard/elm/Wizard/Projects/Create/Update.elm:258
+#, fuzzy
+msgid "Unable to get project templates."
+msgstr "No se pueden obtener plantillas de proyectos."
+
+#: engine-wizard/elm/Wizard/Projects/Create/Update.elm:137
+#: engine-wizard/elm/Wizard/Projects/Create/Update.elm:277
+msgid "Unable to get knowledge models."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Create/Update.elm:240
+msgid "Unable to get question tags for the knowledge model."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Create/View.elm:84
+#: engine-wizard/elm/Wizard/Projects/Create/View.elm:176
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:374
+#: engine-wizard/elm/Wizard/Projects/Index/View.elm:90
+#, fuzzy
+msgid "Project Template"
+msgstr "Plantilla de proyecto"
+
+#: engine-wizard/elm/Wizard/Projects/Create/View.elm:132
+msgid "From project template"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Create/View.elm:143
+msgid "From knowledge model"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Create/View.elm:154
+msgid "Project templates are prepared projects with knowledge models, question tags, and document templates setup, so you don't have to start from scratch."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Create/View.elm:158
+msgid "Knowledge models are templates for questionnaires. You can select question tags now and configure the document template and other settings later."
+msgstr ""
+
 #: engine-wizard/elm/Wizard/Projects/CreateMigration/Update.elm:107
 #: engine-wizard/elm/Wizard/Projects/Detail/Update.elm:504
 #: engine-wizard/elm/Wizard/Projects/Import/Update.elm:67
@@ -4922,29 +4973,6 @@ msgstr "No se pueden obtener etiquetas de pregunta para el modelo de conocimient
 #, fuzzy
 msgid "Unable to get the project."
 msgstr "Imposible conseguir el proyecto."
-
-#: engine-wizard/elm/Wizard/Projects/Create/TemplateCreate/Update.elm:107
-#, fuzzy
-msgid "Unable to get project templates."
-msgstr "No se pueden obtener plantillas de proyectos."
-
-#: engine-wizard/elm/Wizard/Projects/Create/TemplateCreate/View.elm:56
-#: engine-wizard/elm/Wizard/Projects/Create/TemplateCreate/View.elm:70
-#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:374
-#: engine-wizard/elm/Wizard/Projects/Index/View.elm:90
-#, fuzzy
-msgid "Project Template"
-msgstr "Plantilla de proyecto"
-
-#: engine-wizard/elm/Wizard/Projects/Create/View.elm:64
-#, fuzzy
-msgid "From Project Template"
-msgstr "De la plantilla del proyecto"
-
-#: engine-wizard/elm/Wizard/Projects/Create/View.elm:74
-#, fuzzy
-msgid "Custom"
-msgstr "A medida"
 
 #: engine-wizard/elm/Wizard/Projects/CreateMigration/Update.elm:123
 #: engine-wizard/elm/Wizard/Projects/CreateMigration/Update.elm:139
@@ -4956,6 +4984,11 @@ msgstr "No se puede obtener el modelo de conocimiento."
 #, fuzzy
 msgid "Project migration could not be created."
 msgstr "No se ha podido crear la migración del proyecto."
+
+#: engine-wizard/elm/Wizard/Projects/CreateMigration/Update.elm:233
+#, fuzzy
+msgid "Unable to get question tags for the Knowledge Model."
+msgstr "No se pueden obtener etiquetas de pregunta para el modelo de conocimiento."
 
 #: engine-wizard/elm/Wizard/Projects/CreateMigration/View.elm:57
 #, fuzzy
@@ -5235,7 +5268,7 @@ msgid "New document"
 msgstr "Nuevo documento"
 
 #: engine-wizard/elm/Wizard/Projects/Detail/View.elm:146
-#: engine-wizard/elm/Wizard/Projects/Index/View.elm:725
+#: engine-wizard/elm/Wizard/Projects/Index/View.elm:724
 #, fuzzy
 msgid "Template"
 msgstr "Plantilla"
@@ -5386,6 +5419,10 @@ msgstr "Buscar usuarios..."
 #, fuzzy
 msgid "No users found"
 msgstr "No se han encontrado usuarios"
+
+#: engine-wizard/elm/Wizard/Projects/Index/View.elm:613
+msgid "Create project from this template"
+msgstr ""
 
 #: engine-wizard/elm/Wizard/Projects/Migration/Update.elm:83
 #, fuzzy
@@ -5603,7 +5640,7 @@ msgstr "conectarse"
 #: engine-wizard/elm/Wizard/Public/Signup/View.elm:149
 #: engine-wizard/elm/Wizard/Users/Create/View.elm:42
 #: engine-wizard/elm/Wizard/Users/Edit/Components/Password.elm:111
-#: engine-wizard/elm/Wizard/Users/Edit/View.elm:80
+#: engine-wizard/elm/Wizard/Users/Edit/View.elm:79
 #, fuzzy
 msgid "Password"
 msgstr "Contraseña"
@@ -5899,7 +5936,7 @@ msgstr "Añadir anuncio"
 
 #: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:125
 #: engine-wizard/elm/Wizard/Settings/View.elm:94
-#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:118
+#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:129
 msgid "Info"
 msgstr "Información"
 
@@ -6052,7 +6089,7 @@ msgstr "Imposible conseguir planos."
 
 #: engine-wizard/elm/Wizard/Settings/Plans/View.elm:22
 #: engine-wizard/elm/Wizard/Settings/View.elm:147
-#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:80
+#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:91
 msgid "Plans"
 msgstr "Planes"
 
@@ -6391,9 +6428,9 @@ msgid "Create tenant"
 msgstr "Crear inquilino"
 
 #: engine-wizard/elm/Wizard/Tenants/Create/View.elm:36
-#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:112
-#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:157
-#: engine-wizard/elm/Wizard/Tenants/Index/View.elm:57
+#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:123
+#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:168
+#: engine-wizard/elm/Wizard/Tenants/Index/View.elm:70
 #, fuzzy
 msgid "Tenant ID"
 msgstr "Identificación del inquilino"
@@ -6420,50 +6457,50 @@ msgstr "No puede guardarse el plan."
 msgid "Plan could not be deleted."
 msgstr "El plan no puede borrarse."
 
-#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:83
-#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:196
+#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:94
+#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:207
 msgid "Add plan"
 msgstr "Añadir un plan"
 
-#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:114
-#: engine-wizard/elm/Wizard/Tenants/Index/View.elm:58
+#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:125
+#: engine-wizard/elm/Wizard/Tenants/Index/View.elm:71
 msgid "Created at"
 msgstr "Creado en"
 
-#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:115
-#: engine-wizard/elm/Wizard/Tenants/Index/View.elm:59
+#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:126
+#: engine-wizard/elm/Wizard/Tenants/Index/View.elm:72
 msgid "Updated at"
 msgstr "Actualizado en"
 
-#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:125
+#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:136
 msgid "Client URL"
 msgstr "URL cliente"
 
-#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:126
+#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:137
 msgid "Server URL"
 msgstr "URL del servidor"
 
-#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:129
+#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:140
 msgid "URLs"
 msgstr "URLs"
 
-#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:141
+#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:152
 msgid "Admins"
 msgstr "Administradores"
 
-#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:165
+#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:176
 msgid "Edit app"
 msgstr "Editar el app"
 
-#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:227
+#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:238
 msgid "Edit plan"
 msgstr "Editar el plan"
 
-#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:247
+#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:258
 msgid "Are you sure you want to delete plan **%s**?"
 msgstr "¿Está seguro que quiere borrar el plan **%s**?"
 
-#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:256
+#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:267
 msgid "Delete plan"
 msgstr "Borrar el plan"
 
@@ -6472,20 +6509,20 @@ msgstr "Borrar el plan"
 msgid "Unable to get tenants."
 msgstr "Incapaz de conseguir inquilinos."
 
-#: engine-wizard/elm/Wizard/Tenants/Index/View.elm:36
+#: engine-wizard/elm/Wizard/Tenants/Index/View.elm:49
 msgid "Enabled only"
 msgstr "Solo habilitados"
 
-#: engine-wizard/elm/Wizard/Tenants/Index/View.elm:37
+#: engine-wizard/elm/Wizard/Tenants/Index/View.elm:50
 msgid "Disabled only"
 msgstr "Solo deshabilitados"
 
-#: engine-wizard/elm/Wizard/Tenants/Index/View.elm:46
+#: engine-wizard/elm/Wizard/Tenants/Index/View.elm:59
 #, fuzzy
 msgid "Click \"Create\" button to add a new tenant."
 msgstr "Haga clic en el botón \"Crear\" para añadir un nuevo inquilino."
 
-#: engine-wizard/elm/Wizard/Tenants/Index/View.elm:54
+#: engine-wizard/elm/Wizard/Tenants/Index/View.elm:67
 #, fuzzy
 msgid "Search tenants..."
 msgstr "Buscar inquilinos..."
@@ -6528,7 +6565,7 @@ msgid "Revoke all"
 msgstr "Revocar todos"
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ActiveSessions.elm:178
-#: engine-wizard/elm/Wizard/Users/Edit/View.elm:100
+#: engine-wizard/elm/Wizard/Users/Edit/View.elm:109
 #, fuzzy
 msgid "Active Sessions"
 msgstr "Sesiones activas"
@@ -6605,7 +6642,7 @@ msgid "API key could not be deleted."
 msgstr "No se ha podido eliminar la clave API."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:174
-#: engine-wizard/elm/Wizard/Users/Edit/View.elm:90
+#: engine-wizard/elm/Wizard/Users/Edit/View.elm:89
 #, fuzzy
 msgid "API Keys"
 msgstr "Claves API"
@@ -6657,9 +6694,39 @@ msgid "Delete API Key"
 msgstr "Borrar clave API"
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:281
+#: engine-wizard/elm/Wizard/Users/Edit/Components/AppKeys.elm:172
 #, fuzzy
 msgid "Are you sure you want to delete %s?"
 msgstr "¿Seguro que quieres borrar %s?"
+
+#: engine-wizard/elm/Wizard/Users/Edit/Components/AppKeys.elm:75
+msgid "Unable to get app keys."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Users/Edit/Components/AppKeys.elm:108
+msgid "App key could not be deleted."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Users/Edit/Components/AppKeys.elm:116
+#: engine-wizard/elm/Wizard/Users/Edit/View.elm:99
+msgid "App Keys"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Users/Edit/Components/AppKeys.elm:121
+msgid "App keys are created when connecting various applications. You can disconnect them by deleting the app key."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Users/Edit/Components/AppKeys.elm:152
+msgid "You have no app keys."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Users/Edit/Components/AppKeys.elm:158
+msgid "App Key Name"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Users/Edit/Components/AppKeys.elm:170
+msgid "Delete App Key"
+msgstr ""
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/Password.elm:95
 #, fuzzy
@@ -6688,7 +6755,7 @@ msgid "Profile could not be saved."
 msgstr "No se ha podido guardar el perfil."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/Profile.elm:179
-#: engine-wizard/elm/Wizard/Users/Edit/View.elm:71
+#: engine-wizard/elm/Wizard/Users/Edit/View.elm:70
 #, fuzzy
 msgid "Profile"
 msgstr "Perfil"
@@ -6724,7 +6791,7 @@ msgid "There are no submission services to configure."
 msgstr "No hay que configurar ningún servicio de envío."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/SubmissionSettings.elm:163
-#: engine-wizard/elm/Wizard/Users/Edit/View.elm:110
+#: engine-wizard/elm/Wizard/Users/Edit/View.elm:119
 #, fuzzy
 msgid "Submission Settings"
 msgstr "Configuración de la presentación"
@@ -6734,7 +6801,7 @@ msgstr "Configuración de la presentación"
 msgid "There is no settings for %s."
 msgstr "No hay ajustes para %s."
 
-#: engine-wizard/elm/Wizard/Users/Edit/View.elm:64
+#: engine-wizard/elm/Wizard/Users/Edit/View.elm:63
 #, fuzzy
 msgid "User Settings"
 msgstr "Configuración del usuario"
@@ -6788,6 +6855,14 @@ msgstr "No permitido"
 #, fuzzy
 msgid "You don't have permission to view this page."
 msgstr "Usted no tiene permisos para ver esta página."
+
+#, fuzzy
+#~ msgid "From Project Template"
+#~ msgstr "De la plantilla del proyecto"
+
+#, fuzzy
+#~ msgid "Custom"
+#~ msgstr "A medida"
 
 #, fuzzy
 #~ msgid "Ok"

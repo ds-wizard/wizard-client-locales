@@ -1,7 +1,17 @@
 # Pinar Alper <pinarpink@yahoo.com>, 2023.
 # Marek Suchánek <marek.suchanek@ds-wizard.org>, 2023, 2024.
 msgid ""
-msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2024-02-06T08:10:07.424Z\nPO-Revision-Date: 2024-03-03 16:40+0000\nLast-Translator: Marek Suchánek <marek.suchanek@ds-wizard.org>\nLanguage-Team: Turkish <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-3-0/tr/>\nLanguage: tr\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.18.2\n"
+msgstr ""
+"Project-Id-Version: wizard-client:3.18.3\n"
+"POT-Creation-Date: 2024-03-05T08:27:08.112Z \n"
+"PO-Revision-Date: 2024-03-03 16:40+0000\n"
+"Last-Translator: Marek Suchánek <marek.suchanek@ds-wizard.org>\n"
+"Language-Team: Turkish <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-3-0/tr/>\n"
+"Language: tr\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.18.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -457,7 +467,7 @@ msgid "No data"
 msgstr "Veri yok"
 
 #: engine-wizard/elm/Wizard/Common/Components/Listing/View.elm:544
-#: engine-wizard/elm/Wizard/Dashboard/Widgets/RecentProjectsWidget.elm:73
+#: engine-wizard/elm/Wizard/Dashboard/Widgets/RecentProjectsWidget.elm:64
 msgid "Updated %s"
 msgstr "Güncellendi %s"
 
@@ -543,8 +553,8 @@ msgid "Anonymous Cowboy"
 msgstr "İsimsiz Kovboy"
 
 #: engine-wizard/elm/Wizard/Common/Components/PlansList.elm:28
-#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:189
-#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:220
+#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:200
+#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:231
 msgid "Trial"
 msgstr "Deneme"
 
@@ -566,21 +576,21 @@ msgstr "Plan"
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:209
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:457
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:507
-#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:186
-#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:217
+#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:197
+#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:228
 #: engine-wizard/elm/Wizard/Users/Index/View.elm:29
 msgid "Users"
 msgstr "Kullanıcılar"
 
 #: engine-wizard/elm/Wizard/Common/Components/PlansList.elm:98
-#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:187
-#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:218
+#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:198
+#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:229
 msgid "From"
 msgstr "Kimden"
 
 #: engine-wizard/elm/Wizard/Common/Components/PlansList.elm:99
-#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:188
-#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:219
+#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:199
+#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:230
 msgid "To"
 msgstr "Kime"
 
@@ -619,7 +629,7 @@ msgid "Answered by"
 msgstr "Cevaplayan"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1315
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:537
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:542
 #: engine-wizard/elm/Wizard/KMEditor/Editor/View.elm:176
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:397
 msgid "Phases"
@@ -658,7 +668,7 @@ msgid "Comments"
 msgstr "Yorumlar"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1469
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:317
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:322
 msgid "Warnings"
 msgstr "Uyarılar"
 
@@ -732,7 +742,7 @@ msgstr "Yanıtla..."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2053
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2111
-#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:55
+#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:58
 #: engine-wizard/elm/Wizard/Users/Index/View.elm:147
 msgid "Edit"
 msgstr "Düzenle"
@@ -748,8 +758,8 @@ msgstr "Düzenle"
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/FileEditor.elm:1281
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/FileEditor/AssetUploadModal.elm:266
 #: engine-wizard/elm/Wizard/DocumentTemplates/Import/FileImport/View.elm:72
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2156
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2233
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2161
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2238
 #: engine-wizard/elm/Wizard/KnowledgeModels/Import/FileImport/View.elm:76
 #: engine-wizard/elm/Wizard/Locales/Import/FileImport/View.elm:72
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:395
@@ -784,8 +794,8 @@ msgstr "Yeniden Aç"
 #: engine-wizard/elm/Wizard/DocumentTemplates/Detail/View.elm:364
 #: engine-wizard/elm/Wizard/DocumentTemplates/Index/View.elm:195
 #: engine-wizard/elm/Wizard/KMEditor/Common/DeleteModal.elm:104
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2037
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2150
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2042
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2155
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/Settings.elm:248
 #: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:224
 #: engine-wizard/elm/Wizard/KnowledgeModels/Common/KnowledgeModelActionsDropdown.elm:145
@@ -798,9 +808,10 @@ msgstr "Yeniden Aç"
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings/DeleteModal.elm:123
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:240
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:355
-#: engine-wizard/elm/Wizard/Projects/Index/View.elm:680
-#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:260
+#: engine-wizard/elm/Wizard/Projects/Index/View.elm:678
+#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:271
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:285
+#: engine-wizard/elm/Wizard/Users/Edit/Components/AppKeys.elm:176
 #: engine-wizard/elm/Wizard/Users/Index/View.elm:156
 #: engine-wizard/elm/Wizard/Users/Index/View.elm:191
 msgid "Delete"
@@ -868,7 +879,7 @@ msgstr "Henüz cevap yok."
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/FileEditor.elm:906
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:636
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:506
-#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:200
+#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:211
 msgid "Add"
 msgstr "Ekle"
 
@@ -975,7 +986,7 @@ msgid "External links"
 msgstr "Dış bağlantılar"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire/DefaultQuestionnaireRenderer.elm:252
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:882
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:887
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1154
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1262
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1359
@@ -1038,10 +1049,10 @@ msgid "If you found something wrong with the question, you can send us your reco
 msgstr "Soruda yanlış bir şey bulursanız, nasıl geliştirebileceğimize dair önerinizi bize gönderebilirsiniz."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire/FeedbackModal.elm:183
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:632
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:829
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1143
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1207
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:637
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:834
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1148
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1212
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:445
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:466
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:491
@@ -1064,9 +1075,9 @@ msgstr "Başlık"
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire/VersionModal.elm:157
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/PublishModal.elm:135
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:270
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1159
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1215
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1267
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1164
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1220
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1272
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/PublishModal.elm:126
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/Settings.elm:187
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:447
@@ -1137,7 +1148,7 @@ msgid "Set phase to %s"
 msgstr "Aşamayı %s olarak ayarla"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire/NavigationTree.elm:83
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:503
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:508
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:370
 msgid "Chapters"
 msgstr "Bölümler"
@@ -1154,9 +1165,9 @@ msgstr "Bölümler"
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Index/View.elm:51
 #: engine-wizard/elm/Wizard/DocumentTemplates/Index/View.elm:73
 #: engine-wizard/elm/Wizard/KMEditor/Create/View.elm:93
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1259
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1399
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1941
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1264
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1404
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1946
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/PublishModal.elm:125
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/Settings.elm:186
 #: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:69
@@ -1176,8 +1187,7 @@ msgstr "Bölümler"
 #: engine-wizard/elm/Wizard/Locales/Index/View.elm:60
 #: engine-wizard/elm/Wizard/ProjectActions/Index/View.elm:45
 #: engine-wizard/elm/Wizard/ProjectImporters/Index/View.elm:44
-#: engine-wizard/elm/Wizard/Projects/Create/CustomCreate/View.elm:70
-#: engine-wizard/elm/Wizard/Projects/Create/TemplateCreate/View.elm:73
+#: engine-wizard/elm/Wizard/Projects/Create/View.elm:53
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/NewDocument.elm:303
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:409
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:103
@@ -1188,10 +1198,10 @@ msgstr "Bölümler"
 #: engine-wizard/elm/Wizard/Settings/Organization/View.elm:45
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:104
 #: engine-wizard/elm/Wizard/Tenants/Create/View.elm:37
-#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:158
-#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:185
-#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:216
-#: engine-wizard/elm/Wizard/Tenants/Index/View.elm:56
+#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:169
+#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:196
+#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:227
+#: engine-wizard/elm/Wizard/Tenants/Index/View.elm:69
 msgid "Name"
 msgstr "İsim"
 
@@ -1219,8 +1229,8 @@ msgstr "Yeni versiyon"
 #: engine-wizard/elm/Wizard/Settings/PrivacyAndSupport/View.elm:28
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:30
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:41
-#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:169
-#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:231
+#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:180
+#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:242
 #: engine-wizard/elm/Wizard/Users/Create/View.elm:30
 #: engine-wizard/elm/Wizard/Users/Edit/Components/Password.elm:115
 #: engine-wizard/elm/Wizard/Users/Edit/Components/Profile.elm:222
@@ -1273,7 +1283,7 @@ msgid "Answered (current phase): %s/%s"
 msgstr "Yanıtlandı (geçerli aşama): %s/%s"
 
 #: engine-wizard/elm/Wizard/Common/Components/SummaryReport.elm:222
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:520
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:525
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:517
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:382
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1396
@@ -1378,7 +1388,7 @@ msgid "Dashboard"
 msgstr "Gösterge Tablosu"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:84
-#: engine-wizard/elm/Wizard/Tenants/Index/View.elm:24
+#: engine-wizard/elm/Wizard/Tenants/Index/View.elm:36
 msgid "Tenants"
 msgstr "Kiracılar"
 
@@ -1663,8 +1673,8 @@ msgid "Untitled question tag"
 msgstr "Başlıksız soru etiketi"
 
 #: engine-wizard/elm/Wizard/Common/View/Tag.elm:106
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:554
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:856
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:559
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:861
 #: engine-wizard/elm/Wizard/KMEditor/Editor/View.elm:185
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:412
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:954
@@ -1706,7 +1716,6 @@ msgstr "Kullanılamıyor."
 #: engine-wizard/elm/Wizard/KMEditor/Create/Update.elm:148
 #: engine-wizard/elm/Wizard/KnowledgeModels/Index/Update.elm:110
 #: engine-wizard/elm/Wizard/KnowledgeModels/Preview/Update.elm:60
-#: engine-wizard/elm/Wizard/Projects/Create/CustomCreate/Update.elm:170
 #: engine-wizard/elm/Wizard/Projects/CreateMigration/Update.elm:247
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:234
 #: engine-wizard/elm/Wizard/Projects/Index/Update.elm:228
@@ -1797,13 +1806,12 @@ msgstr "Bilgi modeli, neyin nasıl sorulması gerektiğine ilişkin bilgileri i�
 #: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:49
 #: engine-wizard/elm/Wizard/Locales/Create/View.elm:60
 #: engine-wizard/elm/Wizard/Locales/Index/View.elm:157
-#: engine-wizard/elm/Wizard/Projects/Create/CustomCreate/View.elm:27
-#: engine-wizard/elm/Wizard/Projects/Create/TemplateCreate/View.elm:42
+#: engine-wizard/elm/Wizard/Projects/Create/View.elm:57
 #: engine-wizard/elm/Wizard/Projects/CreateMigration/View.elm:109
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/NewDocument.elm:286
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:82
 #: engine-wizard/elm/Wizard/Tenants/Create/View.elm:29
-#: engine-wizard/elm/Wizard/Tenants/Index/View.elm:102
+#: engine-wizard/elm/Wizard/Tenants/Index/View.elm:115
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:218
 #: engine-wizard/elm/Wizard/Users/Index/View.elm:42
 msgid "Create"
@@ -1818,7 +1826,7 @@ msgid "Project template is a special type of project that can be used as a start
 msgstr "Proje şablonu, yeni projeler için bir başlangıç noktası olarak kullanılabilecek özel bir proje türüdür. Bir bilgi modeli seçebilir, bir belge şablonu ve biçimi ayarlayabilir veya araştırmacıların başlamasını kolaylaştırmak için bazı yanıtları önceden doldurabilirsiniz."
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/CreateProjectWidget.elm:13
-#: engine-wizard/elm/Wizard/Projects/Create/View.elm:48
+#: engine-wizard/elm/Wizard/Projects/Create/View.elm:45
 msgid "Create Project"
 msgstr "Proje Oluştur"
 
@@ -1885,7 +1893,7 @@ msgstr "Bazı bilgi modelleri için güncellemeler mevcuttur."
 #: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:132
 #: engine-wizard/elm/Wizard/KnowledgeModels/Index/View.elm:104
 #: engine-wizard/elm/Wizard/Locales/Index/View.elm:96
-#: engine-wizard/elm/Wizard/Projects/Index/View.elm:716
+#: engine-wizard/elm/Wizard/Projects/Index/View.elm:715
 msgid "update available"
 msgstr "güncelleme mevcut"
 
@@ -1905,14 +1913,14 @@ msgstr "Son Projeler"
 msgid "View all"
 msgstr "Tümünü görüntüle"
 
-#: engine-wizard/elm/Wizard/Dashboard/Widgets/RecentProjectsWidget.elm:83
+#: engine-wizard/elm/Wizard/Dashboard/Widgets/RecentProjectsWidget.elm:74
 msgid "You have no projects yet, start by creating some."
 msgstr "Henüz hiç projeniz yok, birkaç tane oluşturarak başlayın."
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/UsageWidget.elm:27
 #: engine-wizard/elm/Wizard/Settings/Usage/View.elm:22
 #: engine-wizard/elm/Wizard/Settings/View.elm:143
-#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:77
+#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:88
 msgid "Usage"
 msgstr "Kullanım"
 
@@ -1978,6 +1986,7 @@ msgstr "Belgeleri arayın..."
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:104
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:133
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:257
+#: engine-wizard/elm/Wizard/Users/Edit/Components/AppKeys.elm:159
 #: engine-wizard/elm/Wizard/Users/Index/View.elm:61
 msgid "Created"
 msgstr "Oluşturuldu"
@@ -2209,7 +2218,7 @@ msgid "Unable to get the document preview."
 msgstr "Belge önizlemesi alınamıyor."
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Preview.elm:241
-#: engine-wizard/elm/Wizard/Projects/Index/View.elm:615
+#: engine-wizard/elm/Wizard/Projects/Index/View.elm:601
 msgid "Open project"
 msgstr "Açık proje"
 
@@ -2360,7 +2369,7 @@ msgid "Add step"
 msgstr "Adım ekle"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:409
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:759
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:764
 msgid "Options"
 msgstr "Seçenekler"
 
@@ -2370,7 +2379,7 @@ msgstr "Seçenek ekle"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:425
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:448
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:761
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:766
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:364
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:249
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:272
@@ -2507,7 +2516,7 @@ msgid "This document template is not supported in this version of DSW."
 msgstr "Bu belge şablonu DSW'nin bu sürümünde desteklenmemektedir."
 
 #: engine-wizard/elm/Wizard/DocumentTemplates/Detail/View.elm:218
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1391
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1396
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:640
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:695
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:768
@@ -2659,7 +2668,7 @@ msgstr "Yeni ebeveyn bilgi modeli"
 
 #: engine-wizard/elm/Wizard/KMEditor/Common/UpgradeModal.elm:163
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:542
-#: engine-wizard/elm/Wizard/Projects/Index/View.elm:644
+#: engine-wizard/elm/Wizard/Projects/Index/View.elm:642
 msgid "Create migration"
 msgstr "Taşıma oluşturun"
 
@@ -2676,77 +2685,79 @@ msgid "You can create a new Knowledge Model based on the existing one or start f
 msgstr "Mevcut Bilgi Modelini temel alarak yeni bir Bilgi Modeli oluşturabilir veya sıfırdan başlayabilirsiniz."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:292
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:511
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:516
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:187
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/TreeInput.elm:161
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/TreeInput.elm:164
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/PhaseEditor.elm:293
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/TagEditor.elm:304
 msgid "Untitled chapter"
 msgstr "İsimsiz bölüm"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:295
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:659
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:960
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1565
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1720
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:664
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:965
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1570
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1725
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:332
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/TreeInput.elm:208
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/TreeInput.elm:222
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/PhaseEditor.elm:240
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/TagEditor.elm:250
 msgid "Untitled question"
 msgstr "İsimsiz soru"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:298
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:528
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:533
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:201
 msgid "Untitled metric"
 msgstr "İsimsiz metrik"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:301
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:545
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:550
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:215
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/PhaseEditor.elm:153
 msgid "Untitled phase"
 msgstr "İsimsiz aşama"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:304
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:562
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:567
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:229
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/TagEditor.elm:163
 msgid "Untitled tag"
 msgstr "İsimsiz etiket"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:307
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:579
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1018
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:584
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1023
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:243
 msgid "Untitled integration"
 msgstr "İsimsiz entegrasyon"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:310
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:928
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:933
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:358
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/TreeInput.elm:239
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/TreeInput.elm:254
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/PhaseEditor.elm:302
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/TagEditor.elm:313
 msgid "Untitled answer"
 msgstr "İsimsiz cevap"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:313
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1093
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1098
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:372
 msgid "Untitled choice"
 msgstr "İsimsiz seçim"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:316
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:873
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:878
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:386
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/TreeInput.elm:296
 msgid "Untitled reference"
 msgstr "İsimsiz referans"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:319
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:890
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:895
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:400
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/TreeInput.elm:275
 msgid "Untitled expert"
 msgstr "İsimsiz uzman"
 
@@ -2834,61 +2845,62 @@ msgstr "Entegrasyon için boş yanıt öğesi şablonu"
 msgid "Empty widget URL for integration"
 msgstr "Entegrasyon için boş widget URL'si"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:358
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:363
 msgid "There are no more warnings."
 msgstr "Artık uyarı yok."
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:466
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:471
 #: engine-wizard/elm/Wizard/KMEditor/Editor/View.elm:167
 #: engine-wizard/elm/Wizard/KMEditor/Publish/View.elm:72
 #: engine-wizard/elm/Wizard/KnowledgeModels/Detail/View.elm:178
-#: engine-wizard/elm/Wizard/Projects/Create/CustomCreate/View.elm:71
+#: engine-wizard/elm/Wizard/Projects/Create/View.elm:96
+#: engine-wizard/elm/Wizard/Projects/Create/View.elm:196
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:531
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:585
 msgid "Knowledge Model"
 msgstr "Bilgi Modeli"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:512
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:517
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:94
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:219
 msgid "Add chapter"
 msgstr "Bölüm ekle"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:529
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:534
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:106
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:155
 msgid "Add metric"
 msgstr "Metrik ekleyin"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:546
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:551
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:118
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:171
 msgid "Add phase"
 msgstr "Faz ekle"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:563
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:568
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:130
 msgid "Add tag"
 msgstr "Etiket ekle"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:571
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:576
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:427
 msgid "Integrations"
 msgstr "Entegrasyonlar"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:580
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:585
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:142
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:203
 msgid "Add integration"
 msgstr "Entegrasyon ekleyin"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:621
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:626
 msgid "Chapter"
 msgstr "Bölüm"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:640
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:837
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:990
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:645
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:842
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:995
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:824
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:843
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:880
@@ -2899,8 +2911,8 @@ msgstr "Bölüm"
 msgid "Text"
 msgstr "Metin"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:651
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:952
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:656
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:957
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:862
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:893
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1119
@@ -2912,9 +2924,9 @@ msgstr "Metin"
 msgid "Questions"
 msgstr "Sorular"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:660
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:961
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1721
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:665
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:966
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1726
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:180
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:277
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:351
@@ -2922,13 +2934,13 @@ msgstr "Sorular"
 msgid "Add question"
 msgstr "Soru ekle"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:760
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:765
 msgid "List of Items"
 msgstr "Öğelerin Listesi"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:762
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1059
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1371
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:767
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1064
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1376
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:921
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1028
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1199
@@ -2936,20 +2948,20 @@ msgstr "Öğelerin Listesi"
 msgid "Integration"
 msgstr "Entegrasyon"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:763
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:768
 msgid "Multi-Choice"
 msgstr "Çoklu Seçim"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:770
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:775
 msgid "Never"
 msgstr "Asla"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:774
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:779
 msgid "Question"
 msgstr "Soru"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:785
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1382
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:790
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1387
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:639
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:694
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:767
@@ -2960,82 +2972,82 @@ msgstr "Soru"
 msgid "Type"
 msgstr "Tip"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:800
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:805
 msgid "Changing a question type will remove all answers."
 msgstr "Bir soru türünü değiştirmek tüm yanıtları kaldıracaktır."
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:810
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:815
 msgid "Changing a question type will remove all item questions."
 msgstr "Bir soru türünün değiştirilmesi tüm madde sorularını kaldıracaktır."
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:820
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:825
 msgid "Changing a question type will remove all choices."
 msgstr "Bir soru türünü değiştirmek tüm seçenekleri kaldıracaktır."
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:848
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:853
 msgid "When does this question become desirable?"
 msgstr "Bu soru ne zaman arzu edilir hale gelir?"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:865
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:870
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1138
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1255
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1352
 msgid "References"
 msgstr "Referanslar"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:874
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:879
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:301
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:283
 msgid "Add reference"
 msgstr "Referans ekle"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:891
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:896
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:313
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:299
 msgid "Add expert"
 msgstr "Uzman ekleyin"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:920
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:925
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1086
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1221
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1318
 msgid "Answers"
 msgstr "Cevaplar"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:929
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:934
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:265
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:251
 msgid "Add answer"
 msgstr "Cevap ekle"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:969
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:974
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/PhaseEditor.elm:310
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/TagEditor.elm:321
 msgid "Item Template"
 msgstr "Öğe Şablonu"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:985
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:990
 msgid "String"
 msgstr "String"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:986
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:991
 msgid "Number"
 msgstr "Sayı"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:987
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:992
 msgid "Date"
 msgstr "Tarih"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:988
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:993
 msgid "Date Time"
 msgstr "Tarih Saat"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:989
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:994
 msgid "Time"
 msgstr "Zaman"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:991
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1949
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:996
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1954
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1977
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1996
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:2018
@@ -3052,9 +3064,9 @@ msgstr "Zaman"
 msgid "Email"
 msgstr "E-posta"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:992
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1822
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1881
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:997
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1827
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1886
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1652
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1655
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1716
@@ -3073,15 +3085,15 @@ msgstr "E-posta"
 msgid "URL"
 msgstr "URL"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:993
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1275
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:998
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1280
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:574
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:596
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:621
 msgid "Color"
 msgstr "Renk"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:999
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1004
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:918
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1009
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1196
@@ -3089,59 +3101,59 @@ msgstr "Renk"
 msgid "Value Type"
 msgstr "Değer Türü"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1019
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1024
 msgid "- select integration -"
 msgstr "- entegrasyonu seçin -"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1047
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1052
 msgid "Integration Configuration"
 msgstr "Entegrasyon Yapılandırması"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1085
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1090
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1098
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1232
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1329
 msgid "Choices"
 msgstr "Seçenekler"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1094
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1099
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:289
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:267
 msgid "Add choice"
 msgstr "Seçim ekleyin"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1132
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1137
 msgid "Metric"
 msgstr "Metrik"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1151
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1156
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:446
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:467
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:492
 msgid "Abbreviation"
 msgstr "Kısaltma"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1196
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1201
 msgid "Phase"
 msgstr "Aşama"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1248
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1253
 msgid "Tag"
 msgstr "Etiket"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1365
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1370
 msgid "API"
 msgstr "API"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1366
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1371
 msgid "Widget"
 msgstr "Widget"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1407
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1412
 msgid "Logo URL"
 msgstr "Logo URL'si"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1414
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1419
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:642
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:697
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:770
@@ -3150,168 +3162,168 @@ msgstr "Logo URL'si"
 msgid "Props"
 msgstr "Aksesuarlar"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1422
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1427
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:643
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:698
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:771
 msgid "Item URL"
 msgstr "Ürün URL'si"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1446
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1451
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:657
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:718
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:785
 msgid "Request URL"
 msgstr "İstek URL'si"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1454
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1459
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:656
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:717
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:784
 msgid "Request HTTP Method"
 msgstr "İstek HTTP Yöntemi"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1462
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1467
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:658
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:719
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:786
 msgid "Request HTTP Headers"
 msgstr "HTTP Üstbilgileri İste"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1470
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1475
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:659
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:720
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:787
 msgid "Request HTTP Body"
 msgstr "İstek HTTP Gövdesi"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1478
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1483
 msgid "Allow Empty Search"
 msgstr "Boş Aramaya İzin Ver"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1486
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1491
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:661
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:722
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:789
 msgid "Response Item ID"
 msgstr "Yanıt Öğe Kimliği"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1494
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1499
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:660
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:721
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:788
 msgid "Response List Field"
 msgstr "Yanıt Listesi Alanı"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1502
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1507
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:662
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:723
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:790
 msgid "Response Item Template"
 msgstr "Yanıt Öğesi Şablonu"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1508
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1513
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:225
 msgid "Request"
 msgstr "İstek"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1510
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1515
 msgid "Use this section to configure the search request. The service you want to integrate has to provide a search HTTP API where you send a search string and it returns a JSON with found items."
 msgstr "Arama isteğini yapılandırmak için bu bölümü kullanın. Entegre etmek istediğiniz hizmet, bir arama dizesi gönderdiğiniz ve bulunan öğeleri içeren bir JSON döndüren bir arama HTTP API'si sağlamalıdır."
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1512
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1517
 msgid "A URL of the integrated service API that supports the search. Use `${q}` for the actual string that will be filled when users search for items, such as *ht&#8203;tps://example.com/search?q=${q}*."
 msgstr "Aramayı destekleyen entegre hizmet API'sinin URL'si. Kullanıcılar öğeleri aradığında doldurulacak gerçek dize için `${q}` kullanın, örneğin *https://example.com/search?q=${q}*."
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1517
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1522
 msgid "Turn this off if the API cannot handle empty search requests. In that case, the requests will be made only after users type something."
 msgstr "API boş arama isteklerini işleyemiyorsa bunu kapatın. Bu durumda, istekler yalnızca kullanıcılar bir şey yazdıktan sonra yapılacaktır."
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1521
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1526
 msgid "Response"
 msgstr "Yanıt"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1523
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1528
 msgid "Use this section to configure how to process the response returned from the search API."
 msgstr "Arama API'sinden döndürülen yanıtın nasıl işleneceğini yapılandırmak için bu bölümü kullanın."
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1525
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1530
 msgid "If the returned JSON is not an array of items directly but the items are nested, use this to define the name or path to the field in the response that contains the list of items. Keep empty otherwise."
 msgstr "Döndürülen JSON doğrudan bir öğe dizisi değilse, ancak öğeler iç içe geçmişse, öğe listesini içeren yanıttaki alanın adını veya yolunu tanımlamak için bunu kullanın. Aksi takdirde boş tutun."
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1527
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1532
 msgid "Use this to define an identifier for the item. This will be used in **Item URL** as `${id}` to compose a URL to the found item. You can use properties from the returned item in Jinja2 notation. For example, if the item has a field `id` use `{{item.id}}` here. You can also compose multiple fields together, e.g., `{{item.field1}}-{{item.field2}}`."
 msgstr "Öğe için bir tanımlayıcı tanımlamak için bunu kullanın. Bu, bulunan öğeye bir URL oluşturmak için **Item URL** içinde `${id}` olarak kullanılacaktır. Jinja2 gösteriminde döndürülen öğenin özelliklerini kullanabilirsiniz. Örneğin, öğenin bir `id` alanı varsa burada `{{item.id}}` kullanın. Ayrıca birden fazla alanı bir araya getirebilirsiniz, örneğin, `{item.field1}}-{{item.field2}}`."
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1529
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1534
 msgid "This defines how the found items will be displayed for the user. You can use properties from the returned item in Jinja2 notation, you can also use Markdown for some formatting. For example, if the returned item has a field called name, you can use `**{{item.name}}**` to display the name in bold."
 msgstr "Bu, bulunan öğelerin kullanıcı için nasıl görüntüleneceğini tanımlar. Dönen öğenin özelliklerini Jinja2 notasyonunda kullanabilir, bazı biçimlendirmeler için Markdown da kullanabilirsiniz. Örneğin, döndürülen öğenin adında bir alan varsa, adı kalın olarak görüntülemek için `**{{item.name}}**` kullanabilirsiniz."
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1533
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1538
 msgid "Defines the URL to the selected item. Use `${id}` to get the value defined in **Response Item ID** field, for example `https://example.com/${id}`."
 msgstr "Seçilen öğenin URL'sini tanımlar. Örneğin `https://example.com/${id}` gibi **Response Item ID** alanında tanımlanan değeri almak için `${id}` kullanın."
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1547
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1552
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:675
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:744
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:803
 msgid "Widget URL"
 msgstr "Widget URL'si"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1553
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1558
 msgid "The URL of the widget implemented using [DSW Integration SDK](https://github.com/ds-wizard/dsw-integration-sdk)."
 msgstr "DSW Integration SDK](https://github.com/ds-wizard/dsw-integration-sdk) kullanılarak uygulanan widget'ın URL'si."
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1555
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1560
 msgid "Defines the URL to the selected item. Use `${id}` value returned from the widget, for example `https://example.com/${id}`."
 msgstr "Seçilen öğenin URL'sini tanımlar. Widget'tan döndürülen `${id}` değerini kullanın, örneğin `https://example.com/${id}`."
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1579
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1584
 msgid "No questions"
 msgstr "Soru yok"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1613
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1618
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:167
 msgid "Quick setup"
 msgstr "Hızlı kurulum"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1629
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1634
 msgid "This integration was created from a template and now differs."
 msgstr "Bu entegrasyon bir şablondan oluşturulmuştur ve artık farklıdır."
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1634
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1639
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/Settings.elm:217
 #: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:197
 msgid "Update"
 msgstr "Güncelleme"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1648
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1653
 msgid "A string that identifies the integration. It has to be unique for each integration."
 msgstr "Entegrasyonu tanımlayan bir dize. Her entegrasyon için benzersiz olmalıdır."
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1650
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1655
 msgid "A name visible everywhere else in the KM Editor, such as when choosing the integration for a question."
 msgstr "Bir soru için entegrasyon seçerken olduğu gibi KM Düzenleyicinin başka her yerinde görülebilen bir ad."
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1652
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1657
 msgid "Logo is displayed next to the link to the selected item in questionnaires. It can be either URL or base64 image."
 msgstr "Logo, anketlerde seçilen öğenin bağlantısının yanında görüntülenir. URL veya base64 görüntüsü olabilir."
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1654
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1659
 msgid "Props can be used to parametrize the integration for each question. Use this to define the props whose value can be filled on the questions using this integration. The props can then be used in the URL configuration. For example, if you define prop named *type*, you can use it as `${type}`, such as *ht&#8203;tps://example.com/${type}*."
 msgstr "Her bir soru için entegrasyonu parametrize etmek için proplar kullanılabilir. Bu entegrasyonu kullanan sorularda değeri doldurulabilecek propları tanımlamak için bunu kullanın. Bu proplar daha sonra URL yapılandırmasında kullanılabilir. Örneğin, *type* adında bir prop tanımlarsanız, bunu `${type}` şeklinde kullanabilirsiniz, örneğin *https://example.com/${type}*."
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1658
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1663
 msgid "Questions using this integration"
 msgstr "Bu entegrasyonu kullanan sorular"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1682
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1687
 msgid "Answer"
 msgstr "Cevap"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1693
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1782
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1889
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1698
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1787
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1894
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1388
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1414
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1465
@@ -3328,7 +3340,7 @@ msgstr "Cevap"
 msgid "Label"
 msgstr "Etiket"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1701
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1706
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1389
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1415
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1466
@@ -3336,15 +3348,15 @@ msgstr "Etiket"
 msgid "Advice"
 msgstr "Tavsiye"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1712
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1717
 msgid "Follow-Up Questions"
 msgstr "Takip Soruları"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1771
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1776
 msgid "Choice"
 msgstr "Seçim"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1821
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1826
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1635
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1698
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1701
@@ -3354,11 +3366,11 @@ msgstr "Seçim"
 msgid "Resource Page"
 msgstr "Kaynak Sayfası"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1827
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1832
 msgid "Reference"
 msgstr "Referans"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1838
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1843
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1632
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1651
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1672
@@ -3377,7 +3389,7 @@ msgstr "Referans"
 msgid "Reference Type"
 msgstr "Referans Tipi"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1857
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1862
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1633
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1696
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1778
@@ -3386,69 +3398,69 @@ msgstr "Referans Tipi"
 msgid "Short UUID"
 msgstr "Kısa UUID"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1930
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1935
 msgid "Expert"
 msgstr "Uzman"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1971
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1976
 msgid "The knowledge model entity you are trying to open does not exist."
 msgstr "Açmaya çalıştığınız bilgi modeli varlığı mevcut değil."
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2004
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2009
 msgid "Click to copy UUID"
 msgstr "UUID kopyalamak için tıklayın"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2022
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2214
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2227
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2027
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2219
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2232
 msgid "Move"
 msgstr "Hareket"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2068
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2073
 msgid "Are you sure you want to delete this chapter?"
 msgstr "Bu bölümü silmek istediğinizden emin misiniz?"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2075
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2080
 msgid "Are you sure you want to delete this question?"
 msgstr "Bu soruyu silmek istediğinizden emin misiniz?"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2082
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2087
 msgid "Are you sure you want to delete this metric?"
 msgstr "Bu metriği silmek istediğinizden emin misiniz?"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2089
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2094
 msgid "Are you sure you want to delete this phase?"
 msgstr "Bu aşamayı silmek istediğinizden emin misiniz?"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2096
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2101
 msgid "Are you sure you want to delete this question tag?"
 msgstr "Bu soru etiketini silmek istediğinizden emin misiniz?"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2103
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2108
 msgid "Are you sure you want to delete this integration?"
 msgstr "Bu entegrasyonu silmek istediğinizden emin misiniz?"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2110
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2115
 msgid "Are you sure you want to delete this answer?"
 msgstr "Bu cevabı silmek istediğinizden emin misiniz?"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2117
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2122
 msgid "Are you sure you want to delete this choice?"
 msgstr "Bu seçeneği silmek istediğinizden emin misiniz?"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2124
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2129
 msgid "Are you sure you want to delete this reference?"
 msgstr "Bu referansı silmek istediğinizden emin misiniz?"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2131
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2136
 msgid "Are you sure you want to delete this expert?"
 msgstr "Bu uzmanı silmek istediğinizden emin misiniz?"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2140
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2145
 msgid "Heads up!"
 msgstr "Dikkat edin!"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2217
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2222
 msgid "Select a new parent"
 msgstr "Yeni bir ebeveyn seçin"
 
@@ -3483,12 +3495,12 @@ msgid "Add header"
 msgstr "Başlık ekle"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:62
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/TreeInput.elm:99
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/TreeInput.elm:101
 msgid "Expand all"
 msgstr "Tümünü genişlet"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:66
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/TreeInput.elm:106
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/TreeInput.elm:108
 msgid "Collapse all"
 msgstr "Tümünü daralt"
 
@@ -3622,7 +3634,7 @@ msgid "This Editor is in the process of migration to a new parent Knowledge Mode
 msgstr "Bu Editör yeni bir üst Bilgi Modeline geçiş sürecindedir."
 
 #: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:137
-#: engine-wizard/elm/Wizard/Projects/Index/View.elm:710
+#: engine-wizard/elm/Wizard/Projects/Index/View.elm:709
 msgid "migrating"
 msgstr "göç etmek"
 
@@ -3643,12 +3655,12 @@ msgid "Open Editor"
 msgstr "Açık Editör"
 
 #: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:206
-#: engine-wizard/elm/Wizard/Projects/Index/View.elm:656
+#: engine-wizard/elm/Wizard/Projects/Index/View.elm:654
 msgid "Continue migration"
 msgstr "Göç etmeye devam edin"
 
 #: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:215
-#: engine-wizard/elm/Wizard/Projects/Index/View.elm:668
+#: engine-wizard/elm/Wizard/Projects/Index/View.elm:666
 msgid "Cancel migration"
 msgstr "Göçü iptal et"
 
@@ -3952,8 +3964,7 @@ msgid "Delete package"
 msgstr "Paketi sil"
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Preview/Update.elm:131
-#: engine-wizard/elm/Wizard/Projects/Create/CustomCreate/Update.elm:156
-#: engine-wizard/elm/Wizard/Projects/Create/TemplateCreate/Update.elm:86
+#: engine-wizard/elm/Wizard/Projects/Create/Update.elm:219
 msgid "Questionnaire could not be created."
 msgstr "Anket oluşturulamadı."
 
@@ -4027,15 +4038,15 @@ msgstr "Bu, bu yerel ayarın mevcut en son sürümü değildir."
 #: engine-wizard/elm/Wizard/Locales/Detail/View.elm:168
 #: engine-wizard/elm/Wizard/Settings/Registry/View.elm:90
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:62
-#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:106
-#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:113
-#: engine-wizard/elm/Wizard/Tenants/Index/View.elm:34
+#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:117
+#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:124
+#: engine-wizard/elm/Wizard/Tenants/Index/View.elm:47
 msgid "Enabled"
 msgstr "Etkin"
 
 #: engine-wizard/elm/Wizard/Locales/Detail/View.elm:152
-#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:109
-#: engine-wizard/elm/Wizard/Tenants/Index/View.elm:74
+#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:120
+#: engine-wizard/elm/Wizard/Tenants/Index/View.elm:87
 msgid "Disabled"
 msgstr "Etkin değil"
 
@@ -4175,7 +4186,7 @@ msgid "Clone Project"
 msgstr "Klon Projesi"
 
 #: engine-wizard/elm/Wizard/Projects/Common/CloneProjectModal/View.elm:39
-#: engine-wizard/elm/Wizard/Projects/Index/View.elm:627
+#: engine-wizard/elm/Wizard/Projects/Index/View.elm:625
 msgid "Clone"
 msgstr "Klon"
 
@@ -4208,37 +4219,57 @@ msgstr "Bağlantıya sahip olan herkes projeyi düzenleyebilir."
 msgid "Anyone with the link can view the project."
 msgstr "Bağlantıya sahip olan herkes projeyi görüntüleyebilir."
 
-#: engine-wizard/elm/Wizard/Projects/Create/CustomCreate/Update.elm:88
-#: engine-wizard/elm/Wizard/Projects/CreateMigration/Update.elm:233
-msgid "Unable to get question tags for the Knowledge Model."
-msgstr "Bilgi Modeli için soru etiketleri alınamıyor."
+#: engine-wizard/elm/Wizard/Projects/Create/Update.elm:108
+msgid "Unable to get selected project template."
+msgstr ""
 
-#: engine-wizard/elm/Wizard/Projects/Create/TemplateCreate/Update.elm:49
+#: engine-wizard/elm/Wizard/Projects/Create/Update.elm:117
+msgid "Unable to get selected knowledge model."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Create/Update.elm:126
+#: engine-wizard/elm/Wizard/Projects/Create/Update.elm:258
+msgid "Unable to get project templates."
+msgstr "Proje şablonları alınamıyor."
+
+#: engine-wizard/elm/Wizard/Projects/Create/Update.elm:137
+#: engine-wizard/elm/Wizard/Projects/Create/Update.elm:277
+msgid "Unable to get knowledge models."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Create/Update.elm:240
+msgid "Unable to get question tags for the knowledge model."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Create/View.elm:84
+#: engine-wizard/elm/Wizard/Projects/Create/View.elm:176
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:374
+#: engine-wizard/elm/Wizard/Projects/Index/View.elm:90
+msgid "Project Template"
+msgstr "Proje Şablonu"
+
+#: engine-wizard/elm/Wizard/Projects/Create/View.elm:132
+msgid "From project template"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Create/View.elm:143
+msgid "From knowledge model"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Create/View.elm:154
+msgid "Project templates are prepared projects with knowledge models, question tags, and document templates setup, so you don't have to start from scratch."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Create/View.elm:158
+msgid "Knowledge models are templates for questionnaires. You can select question tags now and configure the document template and other settings later."
+msgstr ""
+
 #: engine-wizard/elm/Wizard/Projects/CreateMigration/Update.elm:107
 #: engine-wizard/elm/Wizard/Projects/Detail/Update.elm:504
 #: engine-wizard/elm/Wizard/Projects/Import/Update.elm:67
 #: engine-wizard/elm/Wizard/Projects/Import/Update.elm:107
 msgid "Unable to get the project."
 msgstr "Proje alınamıyor."
-
-#: engine-wizard/elm/Wizard/Projects/Create/TemplateCreate/Update.elm:107
-msgid "Unable to get project templates."
-msgstr "Proje şablonları alınamıyor."
-
-#: engine-wizard/elm/Wizard/Projects/Create/TemplateCreate/View.elm:56
-#: engine-wizard/elm/Wizard/Projects/Create/TemplateCreate/View.elm:70
-#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:374
-#: engine-wizard/elm/Wizard/Projects/Index/View.elm:90
-msgid "Project Template"
-msgstr "Proje Şablonu"
-
-#: engine-wizard/elm/Wizard/Projects/Create/View.elm:64
-msgid "From Project Template"
-msgstr "Proje Şablonundan"
-
-#: engine-wizard/elm/Wizard/Projects/Create/View.elm:74
-msgid "Custom"
-msgstr "Özel"
 
 #: engine-wizard/elm/Wizard/Projects/CreateMigration/Update.elm:123
 #: engine-wizard/elm/Wizard/Projects/CreateMigration/Update.elm:139
@@ -4248,6 +4279,10 @@ msgstr "Bilgi modeli alınamıyor."
 #: engine-wizard/elm/Wizard/Projects/CreateMigration/Update.elm:219
 msgid "Project migration could not be created."
 msgstr "Proje geçişi oluşturulamadı."
+
+#: engine-wizard/elm/Wizard/Projects/CreateMigration/Update.elm:233
+msgid "Unable to get question tags for the Knowledge Model."
+msgstr "Bilgi Modeli için soru etiketleri alınamıyor."
 
 #: engine-wizard/elm/Wizard/Projects/CreateMigration/View.elm:57
 msgid "Original question tags"
@@ -4473,7 +4508,7 @@ msgid "New document"
 msgstr "Yeni belge"
 
 #: engine-wizard/elm/Wizard/Projects/Detail/View.elm:146
-#: engine-wizard/elm/Wizard/Projects/Index/View.elm:725
+#: engine-wizard/elm/Wizard/Projects/Index/View.elm:724
 msgid "Template"
 msgstr "Şablon"
 
@@ -4595,6 +4630,10 @@ msgstr "Arama kullanıcıları..."
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:495
 msgid "No users found"
 msgstr "Kullanıcı bulunamadı"
+
+#: engine-wizard/elm/Wizard/Projects/Index/View.elm:613
+msgid "Create project from this template"
+msgstr ""
 
 #: engine-wizard/elm/Wizard/Projects/Migration/Update.elm:83
 msgid "Unable to get the project migration."
@@ -4773,7 +4812,7 @@ msgstr "Giriş yap"
 #: engine-wizard/elm/Wizard/Public/Signup/View.elm:149
 #: engine-wizard/elm/Wizard/Users/Create/View.elm:42
 #: engine-wizard/elm/Wizard/Users/Edit/Components/Password.elm:111
-#: engine-wizard/elm/Wizard/Users/Edit/View.elm:80
+#: engine-wizard/elm/Wizard/Users/Edit/View.elm:79
 msgid "Password"
 msgstr "Şifre"
 
@@ -5016,7 +5055,7 @@ msgstr "Duyuru ekle"
 
 #: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:125
 #: engine-wizard/elm/Wizard/Settings/View.elm:94
-#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:118
+#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:129
 msgid "Info"
 msgstr "Bilgi"
 
@@ -5140,7 +5179,7 @@ msgstr "Planlara ulaşılamıyor."
 
 #: engine-wizard/elm/Wizard/Settings/Plans/View.elm:22
 #: engine-wizard/elm/Wizard/Settings/View.elm:147
-#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:80
+#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:91
 msgid "Plans"
 msgstr "Planlar"
 
@@ -5413,9 +5452,9 @@ msgid "Create tenant"
 msgstr "Kiracı oluştur"
 
 #: engine-wizard/elm/Wizard/Tenants/Create/View.elm:36
-#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:112
-#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:157
-#: engine-wizard/elm/Wizard/Tenants/Index/View.elm:57
+#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:123
+#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:168
+#: engine-wizard/elm/Wizard/Tenants/Index/View.elm:70
 msgid "Tenant ID"
 msgstr "Kiracı Kimliği"
 
@@ -5439,50 +5478,50 @@ msgstr "Plan kurtarılamadı."
 msgid "Plan could not be deleted."
 msgstr "Plan silinemedi."
 
-#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:83
-#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:196
+#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:94
+#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:207
 msgid "Add plan"
 msgstr "Plan ekle"
 
-#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:114
-#: engine-wizard/elm/Wizard/Tenants/Index/View.elm:58
+#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:125
+#: engine-wizard/elm/Wizard/Tenants/Index/View.elm:71
 msgid "Created at"
 msgstr "Oluşturulduğu tarih"
 
-#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:115
-#: engine-wizard/elm/Wizard/Tenants/Index/View.elm:59
+#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:126
+#: engine-wizard/elm/Wizard/Tenants/Index/View.elm:72
 msgid "Updated at"
 msgstr "Güncellendiği tarih"
 
-#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:125
+#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:136
 msgid "Client URL"
 msgstr "İstemci URL'si"
 
-#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:126
+#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:137
 msgid "Server URL"
 msgstr "Sunucu URL'si"
 
-#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:129
+#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:140
 msgid "URLs"
 msgstr "URL'ler"
 
-#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:141
+#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:152
 msgid "Admins"
 msgstr "Yöneticiler"
 
-#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:165
+#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:176
 msgid "Edit app"
 msgstr "Uygulamayı düzenle"
 
-#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:227
+#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:238
 msgid "Edit plan"
 msgstr "Planı düzenle"
 
-#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:247
+#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:258
 msgid "Are you sure you want to delete plan **%s**?"
 msgstr "**%s** planını silmek istediğinizden emin misiniz?"
 
-#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:256
+#: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:267
 msgid "Delete plan"
 msgstr "Planı sil"
 
@@ -5490,19 +5529,19 @@ msgstr "Planı sil"
 msgid "Unable to get tenants."
 msgstr "Kiracı bulunamıyor."
 
-#: engine-wizard/elm/Wizard/Tenants/Index/View.elm:36
+#: engine-wizard/elm/Wizard/Tenants/Index/View.elm:49
 msgid "Enabled only"
 msgstr "Yalnızca etkin"
 
-#: engine-wizard/elm/Wizard/Tenants/Index/View.elm:37
+#: engine-wizard/elm/Wizard/Tenants/Index/View.elm:50
 msgid "Disabled only"
 msgstr "Yalnızca etkin olmayan"
 
-#: engine-wizard/elm/Wizard/Tenants/Index/View.elm:46
+#: engine-wizard/elm/Wizard/Tenants/Index/View.elm:59
 msgid "Click \"Create\" button to add a new tenant."
 msgstr "Yeni bir kiracı eklemek için \"Oluştur\" düğmesine tıklayın."
 
-#: engine-wizard/elm/Wizard/Tenants/Index/View.elm:54
+#: engine-wizard/elm/Wizard/Tenants/Index/View.elm:67
 msgid "Search tenants..."
 msgstr "Kiracıları arayın..."
 
@@ -5537,7 +5576,7 @@ msgid "Revoke all"
 msgstr "Tümünü iptal et"
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ActiveSessions.elm:178
-#: engine-wizard/elm/Wizard/Users/Edit/View.elm:100
+#: engine-wizard/elm/Wizard/Users/Edit/View.elm:109
 msgid "Active Sessions"
 msgstr "Aktif Oturumlar"
 
@@ -5600,7 +5639,7 @@ msgid "API key could not be deleted."
 msgstr "API anahtarı silinemedi."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:174
-#: engine-wizard/elm/Wizard/Users/Edit/View.elm:90
+#: engine-wizard/elm/Wizard/Users/Edit/View.elm:89
 msgid "API Keys"
 msgstr "API Anahtarları"
 
@@ -5642,8 +5681,38 @@ msgid "Delete API Key"
 msgstr "API Anahtarını Sil"
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:281
+#: engine-wizard/elm/Wizard/Users/Edit/Components/AppKeys.elm:172
 msgid "Are you sure you want to delete %s?"
 msgstr "s'yi silmek istediğinizden emin misiniz?"
+
+#: engine-wizard/elm/Wizard/Users/Edit/Components/AppKeys.elm:75
+msgid "Unable to get app keys."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Users/Edit/Components/AppKeys.elm:108
+msgid "App key could not be deleted."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Users/Edit/Components/AppKeys.elm:116
+#: engine-wizard/elm/Wizard/Users/Edit/View.elm:99
+msgid "App Keys"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Users/Edit/Components/AppKeys.elm:121
+msgid "App keys are created when connecting various applications. You can disconnect them by deleting the app key."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Users/Edit/Components/AppKeys.elm:152
+msgid "You have no app keys."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Users/Edit/Components/AppKeys.elm:158
+msgid "App Key Name"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Users/Edit/Components/AppKeys.elm:170
+msgid "Delete App Key"
+msgstr ""
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/Password.elm:95
 msgid "Password was successfully changed."
@@ -5667,7 +5736,7 @@ msgid "Profile could not be saved."
 msgstr "Profil kaydedilemedi."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/Profile.elm:179
-#: engine-wizard/elm/Wizard/Users/Edit/View.elm:71
+#: engine-wizard/elm/Wizard/Users/Edit/View.elm:70
 msgid "Profile"
 msgstr "Profil"
 
@@ -5696,7 +5765,7 @@ msgid "There are no submission services to configure."
 msgstr "Yapılandırılacak herhangi bir gönderim hizmeti yoktur."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/SubmissionSettings.elm:163
-#: engine-wizard/elm/Wizard/Users/Edit/View.elm:110
+#: engine-wizard/elm/Wizard/Users/Edit/View.elm:119
 msgid "Submission Settings"
 msgstr "Gönderim Ayarları"
 
@@ -5704,7 +5773,7 @@ msgstr "Gönderim Ayarları"
 msgid "There is no settings for %s."
 msgstr "s için ayar yok."
 
-#: engine-wizard/elm/Wizard/Users/Edit/View.elm:64
+#: engine-wizard/elm/Wizard/Users/Edit/View.elm:63
 msgid "User Settings"
 msgstr "Kullanıcı Ayarları"
 
@@ -5747,6 +5816,12 @@ msgstr "İzin Verilmedi"
 #: engine-wizard/elm/Wizard/View.elm:154
 msgid "You don't have permission to view this page."
 msgstr "Bu sayfayı görüntülemek için izniniz yok."
+
+#~ msgid "From Project Template"
+#~ msgstr "Proje Şablonundan"
+
+#~ msgid "Custom"
+#~ msgstr "Özel"
 
 #~ msgid "Ok"
 #~ msgstr "Tamam."
