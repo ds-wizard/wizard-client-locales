@@ -2,17 +2,7 @@
 # Kryštof Komanec <krystof.komanec@gmail.com>, 2023.
 # Jan Slifka <jan.slifka@ds-wizard.org>, 2023.
 msgid ""
-msgstr ""
-"Project-Id-Version: wizard-client:3.17.1\n"
-"POT-Creation-Date: 2024-03-05T08:27:08.112Z \n"
-"PO-Revision-Date: 2024-02-29 22:40+0000\n"
-"Last-Translator: Marek Suchánek <marek.suchanek@ds-wizard.org>\n"
-"Language-Team: Czech <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-3-0/cs/>\n"
-"Language: cs\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 4.18.2\n"
+msgstr "Project-Id-Version: wizard-client:3.17.1\nPOT-Creation-Date: 2024-03-05T08:27:08.112Z\nPO-Revision-Date: 2024-03-05 14:05+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Czech <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-4-0/cs/>\nLanguage: cs\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 4.18.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -4231,12 +4221,14 @@ msgid "Anyone with the link can view the project."
 msgstr "Kdokoliv s odkazem může zobrazit projekt."
 
 #: engine-wizard/elm/Wizard/Projects/Create/Update.elm:108
+#, fuzzy
 msgid "Unable to get selected project template."
-msgstr ""
+msgstr "Nelze získat vybranou šablonu projektu."
 
 #: engine-wizard/elm/Wizard/Projects/Create/Update.elm:117
+#, fuzzy
 msgid "Unable to get selected knowledge model."
-msgstr ""
+msgstr "Nelze získat vybraný model znalostí."
 
 #: engine-wizard/elm/Wizard/Projects/Create/Update.elm:126
 #: engine-wizard/elm/Wizard/Projects/Create/Update.elm:258
@@ -4245,12 +4237,14 @@ msgstr "Nelze získat šablony projektů."
 
 #: engine-wizard/elm/Wizard/Projects/Create/Update.elm:137
 #: engine-wizard/elm/Wizard/Projects/Create/Update.elm:277
+#, fuzzy
 msgid "Unable to get knowledge models."
-msgstr ""
+msgstr "Nelze získat znalostní modely."
 
 #: engine-wizard/elm/Wizard/Projects/Create/Update.elm:240
+#, fuzzy
 msgid "Unable to get question tags for the knowledge model."
-msgstr ""
+msgstr "Nelze získat štítky otázek pro tento znalostní model."
 
 #: engine-wizard/elm/Wizard/Projects/Create/View.elm:84
 #: engine-wizard/elm/Wizard/Projects/Create/View.elm:176
@@ -4260,20 +4254,24 @@ msgid "Project Template"
 msgstr "Šablona projektu"
 
 #: engine-wizard/elm/Wizard/Projects/Create/View.elm:132
+#, fuzzy
 msgid "From project template"
-msgstr ""
+msgstr "Ze šablony projektu"
 
 #: engine-wizard/elm/Wizard/Projects/Create/View.elm:143
+#, fuzzy
 msgid "From knowledge model"
-msgstr ""
+msgstr "Ze znalostního modelu"
 
 #: engine-wizard/elm/Wizard/Projects/Create/View.elm:154
+#, fuzzy
 msgid "Project templates are prepared projects with knowledge models, question tags, and document templates setup, so you don't have to start from scratch."
-msgstr ""
+msgstr "Šablony projektů jsou připravené projekty s nastavenými znalostními modely, značkami otázek a šablonami dokumentů, takže nemusíte začínat od nuly."
 
 #: engine-wizard/elm/Wizard/Projects/Create/View.elm:158
+#, fuzzy
 msgid "Knowledge models are templates for questionnaires. You can select question tags now and configure the document template and other settings later."
-msgstr ""
+msgstr "Znalostní modely jsou šablony pro dotazníky. Nyní můžete vybrat značky otázek a později nakonfigurovat šablonu dokumentu a další nastavení."
 
 #: engine-wizard/elm/Wizard/Projects/CreateMigration/Update.elm:107
 #: engine-wizard/elm/Wizard/Projects/Detail/Update.elm:504
@@ -4645,8 +4643,9 @@ msgid "No users found"
 msgstr "Nenalezeni žádní uživatelé"
 
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:613
+#, fuzzy
 msgid "Create project from this template"
-msgstr ""
+msgstr "Vytvořit projekt z této šablony"
 
 #: engine-wizard/elm/Wizard/Projects/Migration/Update.elm:83
 msgid "Unable to get the project migration."
@@ -5699,33 +5698,40 @@ msgid "Are you sure you want to delete %s?"
 msgstr "Opravdu chcete odstranit %s?"
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/AppKeys.elm:75
+#, fuzzy
 msgid "Unable to get app keys."
-msgstr ""
+msgstr "Nelze získat klíče aplikací."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/AppKeys.elm:108
+#, fuzzy
 msgid "App key could not be deleted."
-msgstr ""
+msgstr "Klíč aplikace nebylo možné odstranit."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/AppKeys.elm:116
 #: engine-wizard/elm/Wizard/Users/Edit/View.elm:99
+#, fuzzy
 msgid "App Keys"
-msgstr ""
+msgstr "Klíče k aplikacím"
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/AppKeys.elm:121
+#, fuzzy
 msgid "App keys are created when connecting various applications. You can disconnect them by deleting the app key."
-msgstr ""
+msgstr "Klíče aplikací se vytvářejí při připojování různých aplikací. Můžete je odpojit odstraněním klíče aplikace."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/AppKeys.elm:152
+#, fuzzy
 msgid "You have no app keys."
-msgstr ""
+msgstr "Nemáte žádné klíče k aplikacím."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/AppKeys.elm:158
+#, fuzzy
 msgid "App Key Name"
-msgstr ""
+msgstr "Název klíče aplikace"
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/AppKeys.elm:170
+#, fuzzy
 msgid "Delete App Key"
-msgstr ""
+msgstr "Odstranění klíče aplikace"
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/Password.elm:95
 msgid "Password was successfully changed."
