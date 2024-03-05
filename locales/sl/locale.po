@@ -2,17 +2,7 @@
 # Nadja Zlender <nadja.zlender@mf.uni-lj.si>, 2023, 2024.
 # Marek Suchánek <marek.suchanek@ds-wizard.org>, 2024.
 msgid ""
-msgstr ""
-"Project-Id-Version: wizard-client:4.1.0\n"
-"POT-Creation-Date: 2024-03-05T08:27:08.112Z \n"
-"PO-Revision-Date: 2024-03-05 08:49+0000\n"
-"Last-Translator: Nadja Zlender <nadja.zlender@mf.uni-lj.si>\n"
-"Language-Team: Slovenian <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-3-0/sl/>\n"
-"Language: sl\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3;\n"
-"X-Generator: Weblate 4.18.2\n"
+msgstr "Project-Id-Version: wizard-client:4.1.0\nPOT-Creation-Date: 2024-03-05T08:27:08.112Z\nPO-Revision-Date: 2024-03-05 14:05+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Slovenian <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-4-0/sl/>\nLanguage: sl\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3;\nX-Generator: Weblate 4.18.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -4241,12 +4231,14 @@ msgid "Anyone with the link can view the project."
 msgstr "Projekt si lahko ogleda vsak, ki ima povezavo."
 
 #: engine-wizard/elm/Wizard/Projects/Create/Update.elm:108
+#, fuzzy
 msgid "Unable to get selected project template."
-msgstr ""
+msgstr "Ni mogoče pridobiti izbrane predloge projekta."
 
 #: engine-wizard/elm/Wizard/Projects/Create/Update.elm:117
+#, fuzzy
 msgid "Unable to get selected knowledge model."
-msgstr ""
+msgstr "Ni mogoče pridobiti izbranega modela znanja."
 
 #: engine-wizard/elm/Wizard/Projects/Create/Update.elm:126
 #: engine-wizard/elm/Wizard/Projects/Create/Update.elm:258
@@ -4255,12 +4247,14 @@ msgstr "Ni mogoče pridobiti predlog projektov."
 
 #: engine-wizard/elm/Wizard/Projects/Create/Update.elm:137
 #: engine-wizard/elm/Wizard/Projects/Create/Update.elm:277
+#, fuzzy
 msgid "Unable to get knowledge models."
-msgstr ""
+msgstr "Ni mogoče pridobiti modelov znanja."
 
 #: engine-wizard/elm/Wizard/Projects/Create/Update.elm:240
+#, fuzzy
 msgid "Unable to get question tags for the knowledge model."
-msgstr ""
+msgstr "Ni mogoče pridobiti oznak vprašanj za model znanja."
 
 #: engine-wizard/elm/Wizard/Projects/Create/View.elm:84
 #: engine-wizard/elm/Wizard/Projects/Create/View.elm:176
@@ -4270,20 +4264,24 @@ msgid "Project Template"
 msgstr "Predloga projekta"
 
 #: engine-wizard/elm/Wizard/Projects/Create/View.elm:132
+#, fuzzy
 msgid "From project template"
-msgstr ""
+msgstr "Iz predloge projekta"
 
 #: engine-wizard/elm/Wizard/Projects/Create/View.elm:143
+#, fuzzy
 msgid "From knowledge model"
-msgstr ""
+msgstr "Iz modela znanja"
 
 #: engine-wizard/elm/Wizard/Projects/Create/View.elm:154
+#, fuzzy
 msgid "Project templates are prepared projects with knowledge models, question tags, and document templates setup, so you don't have to start from scratch."
-msgstr ""
+msgstr "Predloge projektov so pripravljeni projekti z nastavljenimi modeli znanja, oznakami vprašanj in predlogami dokumentov, zato vam ni treba začeti od začetka."
 
 #: engine-wizard/elm/Wizard/Projects/Create/View.elm:158
+#, fuzzy
 msgid "Knowledge models are templates for questionnaires. You can select question tags now and configure the document template and other settings later."
-msgstr ""
+msgstr "Modeli znanja so predloge za vprašalnike. Zdaj lahko izberete oznake vprašanj, predlogo dokumenta in druge nastavitve pa konfigurirate pozneje."
 
 #: engine-wizard/elm/Wizard/Projects/CreateMigration/Update.elm:107
 #: engine-wizard/elm/Wizard/Projects/Detail/Update.elm:504
@@ -4657,8 +4655,9 @@ msgid "No users found"
 msgstr "Ni bilo najdenih uporabnikov"
 
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:613
+#, fuzzy
 msgid "Create project from this template"
-msgstr ""
+msgstr "Ustvarite projekt iz te predloge"
 
 #: engine-wizard/elm/Wizard/Projects/Migration/Update.elm:83
 msgid "Unable to get the project migration."
@@ -5711,33 +5710,40 @@ msgid "Are you sure you want to delete %s?"
 msgstr "Ste prepričani, da želite izbrisati %s?"
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/AppKeys.elm:75
+#, fuzzy
 msgid "Unable to get app keys."
-msgstr ""
+msgstr "Ni mogoče pridobiti ključev aplikacije."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/AppKeys.elm:108
+#, fuzzy
 msgid "App key could not be deleted."
-msgstr ""
+msgstr "Ključa API ni bilo mogoče izbrisati."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/AppKeys.elm:116
 #: engine-wizard/elm/Wizard/Users/Edit/View.elm:99
+#, fuzzy
 msgid "App Keys"
-msgstr ""
+msgstr "Ključi aplikacij"
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/AppKeys.elm:121
+#, fuzzy
 msgid "App keys are created when connecting various applications. You can disconnect them by deleting the app key."
-msgstr ""
+msgstr "Ključi aplikacij se ustvarijo ob povezovanju različnih aplikacij. Odklopite jih lahko tako, da izbrišete ključ aplikacije."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/AppKeys.elm:152
+#, fuzzy
 msgid "You have no app keys."
-msgstr ""
+msgstr "Nimate ključev aplikacij."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/AppKeys.elm:158
+#, fuzzy
 msgid "App Key Name"
-msgstr ""
+msgstr "Ime ključa aplikacije"
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/AppKeys.elm:170
+#, fuzzy
 msgid "Delete App Key"
-msgstr ""
+msgstr "Izbriši ključ aplikacije"
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/Password.elm:95
 msgid "Password was successfully changed."
