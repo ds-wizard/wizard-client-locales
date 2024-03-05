@@ -2,7 +2,7 @@
 # Nadja Zlender <nadja.zlender@mf.uni-lj.si>, 2023, 2024.
 # Marek Suchánek <marek.suchanek@ds-wizard.org>, 2024.
 msgid ""
-msgstr "Project-Id-Version: wizard-client:4.1.0\nPOT-Creation-Date: 2024-02-06T08:10:07.424Z\nPO-Revision-Date: 2024-03-05 08:49+0000\nLast-Translator: Marek Suchánek <marek.suchanek@ds-wizard.org>\nLanguage-Team: Slovenian <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-3-0/sl/>\nLanguage: sl\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3;\nX-Generator: Weblate 4.18.2\n"
+msgstr "Project-Id-Version: wizard-client:4.1.0\nPOT-Creation-Date: 2024-02-06T08:10:07.424Z\nPO-Revision-Date: 2024-03-05 08:49+0000\nLast-Translator: Nadja Zlender <nadja.zlender@mf.uni-lj.si>\nLanguage-Team: Slovenian <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-3-0/sl/>\nLanguage: sl\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3;\nX-Generator: Weblate 4.18.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -399,9 +399,8 @@ msgid "Privacy & Cookies: This site uses cookies. By continuing to use this webs
 msgstr "Zasebnost in piškotki: To spletno mesto uporablja piškotke. Z nadaljnjo uporabo tega spletnega mesta se strinjate z njihovo uporabo. "
 
 #: engine-wizard/elm/Wizard/Common/Components/CookieConsent.elm:29
-#, fuzzy
 msgid "To find out more, including how to control cookies, see here: "
-msgstr "Če želite izvedeti več, vključno s tem, kako nadzirati piškotke, glejte tukaj: "
+msgstr "Če želite izvedeti več, vključno s tem kako nadzirati piškotke, glejte tukaj: "
 
 #: engine-wizard/elm/Wizard/Common/Components/CookieConsent.elm:30
 msgid "Cookie Policy"
@@ -1860,9 +1859,8 @@ msgid "Import Document Template"
 msgstr "Predloga za uvoz dokumenta"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ImportDocumentTemplateWidget.elm:18
-#, fuzzy
 msgid "Document templates transform answers from a questionnaire into a document. This document can be anything, from PDF to machine-actionable JSON. You can import existing document templates from [%s](%s/templates) or [develop new ones](https://guide.ds-wizard.org/en/latest/more/development/document-templates/index.html)."
-msgstr "Predloge dokumentov pretvorijo odgovore iz vprašalnika v dokument. Ta dokument je lahko kar koli, od PDF do strojno izvedljivega JSON. Obstoječe predloge dokumentov lahko uvozite iz [%s](%s/templates) ali [razvijete nove](https://guide.ds-wizard.org/en/latest/more/development/document-templates/index.html)."
+msgstr "Predloge dokumentov pretvorijo odgovore iz vprašalnika v dokument. Ta dokument je lahko kar koli, od PDF dokumenta do strojno izvedljivega JSON. Obstoječe predloge dokumentov lahko uvozite iz [%s](%s/templates) ali [razvijete nove](https://guide.ds-wizard.org/en/latest/more/development/document-templates/index.html)."
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ImportDocumentTemplateWidget.elm:22
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ImportKnowledgeModelWidget.elm:22
@@ -4754,9 +4752,8 @@ msgid "Forgotten password recovery failed."
 msgstr "Obnovitev pozabljenega gesla ni uspela."
 
 #: engine-wizard/elm/Wizard/Public/ForgottenPassword/View.elm:25
-#, fuzzy
 msgid "Check your email. If you have an account, you should receive an email with instructions on how to reset your password."
-msgstr "Preverite e-pošto. Če imate račun, bi morali prejeti e-poštno sporočilo z navodili za ponastavitev gesla."
+msgstr "Preverite svojo e-pošto. Če imate uporabniški račun, bi morali prejeti e-poštno sporočilo z navodili za ponastavitev gesla."
 
 #: engine-wizard/elm/Wizard/Public/ForgottenPassword/View.elm:38
 msgid "Forgotten Password"
