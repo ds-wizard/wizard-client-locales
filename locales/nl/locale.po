@@ -1,7 +1,7 @@
 # Rob Hooft <rob.hooft@health-ri.nl>, 2023, 2024.
 # Marek Suchánek <marek.suchanek@ds-wizard.org>, 2023, 2024.
 msgid ""
-msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2024-03-05T08:27:08.112Z\nPO-Revision-Date: 2024-03-05 14:05+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Dutch <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-4-0/nl/>\nLanguage: nl\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.18.2\n"
+msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2024-03-05T08:27:08.112Z\nPO-Revision-Date: 2024-03-08 21:40+0000\nLast-Translator: Rob Hooft <rob.hooft@health-ri.nl>\nLanguage-Team: Dutch <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-4-0/nl/>\nLanguage: nl\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.18.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -4210,14 +4210,12 @@ msgid "Anyone with the link can view the project."
 msgstr "Iedereen met de link kan het project bekijken."
 
 #: engine-wizard/elm/Wizard/Projects/Create/Update.elm:108
-#, fuzzy
 msgid "Unable to get selected project template."
-msgstr "Kan geselecteerde projectsjabloon niet ophalen."
+msgstr "Kan het geselecteerde projectsjabloon niet ophalen."
 
 #: engine-wizard/elm/Wizard/Projects/Create/Update.elm:117
-#, fuzzy
 msgid "Unable to get selected knowledge model."
-msgstr "Kan geselecteerd kennismodel niet ophalen."
+msgstr "Kan het geselecteerde kennismodel niet ophalen."
 
 #: engine-wizard/elm/Wizard/Projects/Create/Update.elm:126
 #: engine-wizard/elm/Wizard/Projects/Create/Update.elm:258
@@ -4226,12 +4224,10 @@ msgstr "Kan projectsjablonen niet ophalen."
 
 #: engine-wizard/elm/Wizard/Projects/Create/Update.elm:137
 #: engine-wizard/elm/Wizard/Projects/Create/Update.elm:277
-#, fuzzy
 msgid "Unable to get knowledge models."
-msgstr "Kan kennismodellen niet ophalen."
+msgstr "Kan de kennismodellen niet ophalen."
 
 #: engine-wizard/elm/Wizard/Projects/Create/Update.elm:240
-#, fuzzy
 msgid "Unable to get question tags for the knowledge model."
 msgstr "Kan de vraagtags voor het kennismodel niet laden."
 
@@ -4243,24 +4239,20 @@ msgid "Project Template"
 msgstr "Projectsjabloon"
 
 #: engine-wizard/elm/Wizard/Projects/Create/View.elm:132
-#, fuzzy
 msgid "From project template"
 msgstr "Van projectsjabloon"
 
 #: engine-wizard/elm/Wizard/Projects/Create/View.elm:143
-#, fuzzy
 msgid "From knowledge model"
 msgstr "Van kennismodel"
 
 #: engine-wizard/elm/Wizard/Projects/Create/View.elm:154
-#, fuzzy
 msgid "Project templates are prepared projects with knowledge models, question tags, and document templates setup, so you don't have to start from scratch."
 msgstr "Projectsjablonen zijn voorbereide projecten met kennismodellen, vraagtags en documentsjablonen, zodat je niet vanaf nul hoeft te beginnen."
 
 #: engine-wizard/elm/Wizard/Projects/Create/View.elm:158
-#, fuzzy
 msgid "Knowledge models are templates for questionnaires. You can select question tags now and configure the document template and other settings later."
-msgstr "Kennismodellen zijn sjablonen voor vragenlijsten. Je kunt nu vraagtags selecteren en later de documentsjabloon en andere instellingen configureren."
+msgstr "Kennismodellen zijn sjablonen voor vragenlijsten. Je kunt nu de gewenste vraagtags selecteren en later het documentsjabloon en de andere instellingen configureren."
 
 #: engine-wizard/elm/Wizard/Projects/CreateMigration/Update.elm:107
 #: engine-wizard/elm/Wizard/Projects/Detail/Update.elm:504
@@ -4630,9 +4622,8 @@ msgid "No users found"
 msgstr "Geen gebruikers gevonden"
 
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:613
-#, fuzzy
 msgid "Create project from this template"
-msgstr "Maak een project van deze sjabloon"
+msgstr "Maak een project van dit sjabloon"
 
 #: engine-wizard/elm/Wizard/Projects/Migration/Update.elm:83
 msgid "Unable to get the project migration."
@@ -5685,40 +5676,33 @@ msgid "Are you sure you want to delete %s?"
 msgstr "Weet u zeker dat u %s wilt verwijderen?"
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/AppKeys.elm:75
-#, fuzzy
 msgid "Unable to get app keys."
 msgstr "Kan geen app-sleutels krijgen."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/AppKeys.elm:108
-#, fuzzy
 msgid "App key could not be deleted."
-msgstr "App key kon niet worden verwijderd."
+msgstr "App-sleutel kon niet worden verwijderd."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/AppKeys.elm:116
 #: engine-wizard/elm/Wizard/Users/Edit/View.elm:99
-#, fuzzy
 msgid "App Keys"
-msgstr "App toetsen"
+msgstr "App sleutels"
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/AppKeys.elm:121
-#, fuzzy
 msgid "App keys are created when connecting various applications. You can disconnect them by deleting the app key."
-msgstr "App-sleutels worden aangemaakt bij het verbinden van verschillende applicaties. Je kunt de verbinding verbreken door de applicatiesleutel te verwijderen."
+msgstr "App-sleutels worden aangemaakt bij het verbinden van verschillende applicaties. Je kunt de verbinding verbreken door de app-sleutel te verwijderen."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/AppKeys.elm:152
-#, fuzzy
 msgid "You have no app keys."
 msgstr "Je hebt geen app-sleutels."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/AppKeys.elm:158
-#, fuzzy
 msgid "App Key Name"
-msgstr "Naam app-sleutel"
+msgstr "Naam van de app-sleutel"
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/AppKeys.elm:170
-#, fuzzy
 msgid "Delete App Key"
-msgstr "App verwijderen"
+msgstr "App-sleutel verwijderen"
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/Password.elm:95
 msgid "Password was successfully changed."
