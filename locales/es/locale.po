@@ -1,6 +1,6 @@
 # Remedios Melero <rmelero@iata.csic.es>, 2023.
 msgid ""
-msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2023-04-11T14:13:38.017Z\nPO-Revision-Date: 2024-02-12 05:40+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Spanish <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-22-1/es/>\nLanguage: es\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.18.2\n"
+msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2023-04-11T14:13:38.017Z\nPO-Revision-Date: 2024-03-12 05:40+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Spanish <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-3-22-1/es/>\nLanguage: es\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.18.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -3672,7 +3672,7 @@ msgstr "Utilice esta sección para configurar la solicitud de búsqueda. El serv
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1495
 #, fuzzy
 msgid "A URL of the integrated service API that supports the search. Use `${q}` for the actual string that will be filled when users search for items, such as *ht&#8203;tps://example.com/search?q=${q}*."
-msgstr "Una URL de la API del servicio integrado que admite la búsqueda. Utilice `${q}` para la cadena real que se rellenará cuando los usuarios busquen elementos, como *ht&#8203;tps://ejemplo.com/search?q=${q}*."
+msgstr "Una URL de la API del servicio integrado que admite la búsqueda. Utilice `${q}` para la cadena real que se rellenará cuando los usuarios busquen elementos, como *https://ejemplo.com/search?q=${q}*."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1500
 #, fuzzy
@@ -3756,7 +3756,7 @@ msgstr "El logotipo se muestra junto al enlace al elemento seleccionado en los c
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1604
 #, fuzzy
 msgid "Props can be used to parametrize the integration for each question. Use this to define the props whose value can be filled on the questions using this integration. The props can then be used in the URL configuration. For example, if you define prop named *type*, you can use it as `${type}`, such as *ht&#8203;tps://example.com/${type}*."
-msgstr "Los accesorios pueden utilizarse para parametrizar la integración para cada pregunta. Use esto para definir los props cuyo valor puede ser rellenado en las preguntas usando esta integración. Los props pueden usarse en la configuración de la URL. Por ejemplo, si define un prop llamado *tipo*, puede utilizarlo como `${tipo}`, como *ht&#8203;tps://ejemplo.com/${tipo}*."
+msgstr "Los accesorios pueden utilizarse para parametrizar la integración para cada pregunta. Use esto para definir los props cuyo valor puede ser rellenado en las preguntas usando esta integración. Los props pueden usarse en la configuración de la URL. Por ejemplo, si define un prop llamado *tipo*, puede utilizarlo como `${tipo}`, como *https://ejemplo.com/${tipo}*."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1608
 #, fuzzy
@@ -6028,7 +6028,7 @@ msgstr "Nombre del repositorio GitHub"
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:60
 #, fuzzy
 msgid "ht&#8203;tps://github.com/exampleOwner/**exampleRepository**"
-msgstr "ht&#8203;tps://github.com/exampleOwner/**exampleRepository**"
+msgstr "https://github.com/exampleOwner/**exampleRepository**"
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:61
 #, fuzzy
