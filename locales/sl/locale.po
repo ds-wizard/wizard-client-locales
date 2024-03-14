@@ -2,7 +2,7 @@
 # Nadja Zlender <nadja.zlender@mf.uni-lj.si>, 2023, 2024.
 # Marek Suchánek <marek.suchanek@ds-wizard.org>, 2024.
 msgid ""
-msgstr "Project-Id-Version: wizard-client:4.1.0\nPOT-Creation-Date: 2024-03-05T08:27:08.112Z\nPO-Revision-Date: 2024-03-05 14:05+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Slovenian <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-4-0/sl/>\nLanguage: sl\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3;\nX-Generator: Weblate 4.18.2\n"
+msgstr "Project-Id-Version: wizard-client:4.1.0\nPOT-Creation-Date: 2024-03-05T08:27:08.112Z\nPO-Revision-Date: 2024-03-15 13:40+0000\nLast-Translator: Nadja Zlender <nadja.zlender@mf.uni-lj.si>\nLanguage-Team: Slovenian <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-4-0/sl/>\nLanguage: sl\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3;\nX-Generator: Weblate 4.18.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -856,7 +856,7 @@ msgstr "Na to vprašanje lahko odgovorite pozneje"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2604
 msgid "Clear answer"
-msgstr "Jasen odgovor"
+msgstr "Izbriši odgovor"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2637
 msgid "There are no follow up questions in this phase."
@@ -972,7 +972,7 @@ msgstr "Odstranite"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire/DefaultQuestionnaireRenderer.elm:186
 msgid "Desirable"
-msgstr "Zaželeno"
+msgstr "Zahtevano"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire/DefaultQuestionnaireRenderer.elm:237
 msgid "External links"
@@ -2997,7 +2997,7 @@ msgstr "Če spremenite vrsto vprašanja, odstranite vse možnosti."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:853
 msgid "When does this question become desirable?"
-msgstr "Kdaj to vprašanje postane zaželeno?"
+msgstr "Kdaj to vprašanje postane zahtevano?"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:870
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1138
