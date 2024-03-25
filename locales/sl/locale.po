@@ -2,7 +2,7 @@
 # Nadja Zlender <nadja.zlender@mf.uni-lj.si>, 2023, 2024.
 # Marek Suchánek <marek.suchanek@ds-wizard.org>, 2024.
 msgid ""
-msgstr "Project-Id-Version: wizard-client:4.1.0\nPOT-Creation-Date: 2024-02-06T08:10:07.424Z\nPO-Revision-Date: 2024-03-15 13:40+0000\nLast-Translator: Nadja Zlender <nadja.zlender@mf.uni-lj.si>\nLanguage-Team: Slovenian <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-3-0/sl/>\nLanguage: sl\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3;\nX-Generator: Weblate 4.18.2\n"
+msgstr "Project-Id-Version: wizard-client:4.1.0\nPOT-Creation-Date: 2024-02-06T08:10:07.424Z\nPO-Revision-Date: 2024-03-26 07:40+0000\nLast-Translator: Nadja Zlender <nadja.zlender@mf.uni-lj.si>\nLanguage-Team: Slovenian <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-3-0/sl/>\nLanguage: sl\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3;\nX-Generator: Weblate 4.18.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -1828,7 +1828,7 @@ msgstr "Model znanja je drevesu podobna struktura, ki vsebuje znanje o tem, kaj 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:218
 #: engine-wizard/elm/Wizard/Users/Index/View.elm:42
 msgid "Create"
-msgstr "Ustvarite projekt"
+msgstr "Ustvarite"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/CreateProjectTemplateWidget.elm:13
 msgid "Create Project Template"
@@ -2676,7 +2676,7 @@ msgstr "Izberite nov nadrejeni model znanja za %s."
 
 #: engine-wizard/elm/Wizard/KMEditor/Common/UpgradeModal.elm:158
 msgid "New parent knowledge model"
-msgstr "Nov model znanja staršev"
+msgstr "Nov model znanja"
 
 #: engine-wizard/elm/Wizard/KMEditor/Common/UpgradeModal.elm:163
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:542
@@ -3548,12 +3548,12 @@ msgstr "Modela znanja ni bilo mogoče rešiti."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/Settings.elm:212
 msgid "This is not the latest version of the parent knowledge model."
-msgstr "To ni najnovejša različica modela znanja staršev."
+msgstr "To ni najnovejša različica modela znanja."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/Settings.elm:224
 #: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:167
 msgid "Parent Knowledge Model"
-msgstr "Model znanja staršev"
+msgstr "Vrhnji model znanja"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/Settings.elm:236
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:550
