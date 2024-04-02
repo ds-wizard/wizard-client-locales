@@ -2,7 +2,17 @@
 # Nadja Zlender <nadja.zlender@mf.uni-lj.si>, 2023, 2024.
 # Marek Suchánek <marek.suchanek@ds-wizard.org>, 2024.
 msgid ""
-msgstr "Project-Id-Version: wizard-client:4.1.0\nPOT-Creation-Date: 2024-03-05T08:27:08.112Z\nPO-Revision-Date: 2024-03-26 07:23+0000\nLast-Translator: Nadja Zlender <nadja.zlender@mf.uni-lj.si>\nLanguage-Team: Slovenian <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-4-0/sl/>\nLanguage: sl\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3;\nX-Generator: Weblate 4.18.2\n"
+msgstr ""
+"Project-Id-Version: wizard-client:4.1.0\n"
+"POT-Creation-Date: 2024-04-02T10:27:31.995Z \n"
+"PO-Revision-Date: 2024-03-26 07:23+0000\n"
+"Last-Translator: Nadja Zlender <nadja.zlender@mf.uni-lj.si>\n"
+"Language-Team: Slovenian <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-4-0/sl/>\n"
+"Language: sl\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3;\n"
+"X-Generator: Weblate 4.18.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -550,7 +560,7 @@ msgid "Trial"
 msgstr "Preizkus"
 
 #: engine-wizard/elm/Wizard/Common/Components/PlansList.elm:50
-#: engine-wizard/elm/Wizard/Users/Edit/Components/Profile.elm:210
+#: engine-wizard/elm/Wizard/Users/Edit/Components/Profile.elm:209
 msgid "Active"
 msgstr "Aktivno"
 
@@ -801,8 +811,8 @@ msgstr "Ponovno odprite"
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:355
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:678
 #: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:271
-#: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:285
-#: engine-wizard/elm/Wizard/Users/Edit/Components/AppKeys.elm:176
+#: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:284
+#: engine-wizard/elm/Wizard/Users/Edit/Components/AppKeys.elm:175
 #: engine-wizard/elm/Wizard/Users/Index/View.elm:156
 #: engine-wizard/elm/Wizard/Users/Index/View.elm:191
 msgid "Delete"
@@ -869,7 +879,7 @@ msgstr "Odgovorov še ni."
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2695
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/FileEditor.elm:906
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:636
-#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:506
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:505
 #: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:211
 msgid "Add"
 msgstr "Dodaj"
@@ -962,10 +972,10 @@ msgid "Are you sure you want to remove this item?"
 msgstr "Ste prepričani, da želite odstraniti ta element?"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3291
-#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:366
+#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:362
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:425
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:493
-#: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:188
+#: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:179
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:100
 msgid "Remove"
 msgstr "Odstranite"
@@ -1021,7 +1031,7 @@ msgstr "Spremljate lahko GitHub %s."
 #: engine-wizard/elm/Wizard/Documents/Index/View.elm:364
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:379
 #: engine-wizard/elm/Wizard/Settings/Registry/View.elm:102
-#: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:208
+#: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:207
 msgid "Done"
 msgstr "Končano"
 
@@ -1059,15 +1069,15 @@ msgstr "Če ste v vprašanju našli kakšno napako, nam lahko pošljete priporo�
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:982
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1185
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1282
-#: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:134
-#: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:161
+#: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:140
+#: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:167
 msgid "Title"
 msgstr "Naslov"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire/FeedbackModal.elm:184
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire/VersionModal.elm:157
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/PublishModal.elm:135
-#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:270
+#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:266
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1164
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1220
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1272
@@ -1089,7 +1099,7 @@ msgstr "Naslov"
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1957
 #: engine-wizard/elm/Wizard/KMEditor/Publish/View.elm:83
 #: engine-wizard/elm/Wizard/Locales/Create/View.elm:48
-#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:410
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:409
 #: engine-wizard/elm/Wizard/Settings/Organization/View.elm:47
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:105
 msgid "Description"
@@ -1150,11 +1160,11 @@ msgstr "Poglavja"
 #: engine-wizard/elm/Wizard/Documents/Index/View.elm:115
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Create/View.elm:89
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/PublishModal.elm:134
-#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:269
-#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:357
-#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:397
-#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:424
-#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:445
+#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:265
+#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:353
+#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:393
+#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:420
+#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:441
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Index/View.elm:51
 #: engine-wizard/elm/Wizard/DocumentTemplates/Index/View.elm:73
 #: engine-wizard/elm/Wizard/KMEditor/Create/View.elm:93
@@ -1182,12 +1192,12 @@ msgstr "Poglavja"
 #: engine-wizard/elm/Wizard/ProjectImporters/Index/View.elm:44
 #: engine-wizard/elm/Wizard/Projects/Create/View.elm:53
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/NewDocument.elm:303
-#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:409
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:408
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:103
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:132
-#: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:212
-#: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:248
-#: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:269
+#: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:203
+#: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:239
+#: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:260
 #: engine-wizard/elm/Wizard/Settings/Organization/View.elm:45
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:104
 #: engine-wizard/elm/Wizard/Tenants/Create/View.elm:37
@@ -1215,8 +1225,8 @@ msgstr "Nova različica"
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/View.elm:74
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:356
 #: engine-wizard/elm/Wizard/Public/ForgottenPasswordConfirmation/View.elm:45
-#: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:41
-#: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:32
+#: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:40
+#: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:40
 #: engine-wizard/elm/Wizard/Settings/KnowledgeModels/View.elm:29
 #: engine-wizard/elm/Wizard/Settings/Organization/View.elm:26
 #: engine-wizard/elm/Wizard/Settings/PrivacyAndSupport/View.elm:28
@@ -1226,8 +1236,8 @@ msgstr "Nova različica"
 #: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:242
 #: engine-wizard/elm/Wizard/Users/Create/View.elm:30
 #: engine-wizard/elm/Wizard/Users/Edit/Components/Password.elm:115
-#: engine-wizard/elm/Wizard/Users/Edit/Components/Profile.elm:222
-#: engine-wizard/elm/Wizard/Users/Edit/Components/SubmissionSettings.elm:217
+#: engine-wizard/elm/Wizard/Users/Edit/Components/Profile.elm:221
+#: engine-wizard/elm/Wizard/Users/Edit/Components/SubmissionSettings.elm:216
 msgid "Save"
 msgstr "Shrani"
 
@@ -1283,7 +1293,7 @@ msgstr "Odgovorjeno (trenutna faza): %s/%s"
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1447
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1485
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1523
-#: engine-wizard/elm/Wizard/Projects/Detail/View.elm:233
+#: engine-wizard/elm/Wizard/Projects/Detail/View.elm:232
 msgid "Metrics"
 msgstr "Metrike"
 
@@ -1316,11 +1326,11 @@ msgstr "Urejevalniki modelov znanja"
 
 #: engine-wizard/elm/Wizard/Common/Components/UsageTable.elm:19
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:92
-#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:243
+#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:239
 #: engine-wizard/elm/Wizard/KnowledgeModels/Index/View.elm:29
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:369
 #: engine-wizard/elm/Wizard/Settings/KnowledgeModels/View.elm:28
-#: engine-wizard/elm/Wizard/Settings/View.elm:127
+#: engine-wizard/elm/Wizard/Settings/View.elm:153
 msgid "Knowledge Models"
 msgstr "Modeli znanja"
 
@@ -1340,14 +1350,14 @@ msgstr "Predloge dokumentov"
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:140
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:67
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:29
-#: engine-wizard/elm/Wizard/Settings/View.elm:128
+#: engine-wizard/elm/Wizard/Settings/View.elm:154
 msgid "Projects"
 msgstr "Projekti"
 
 #: engine-wizard/elm/Wizard/Common/Components/UsageTable.elm:23
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:165
 #: engine-wizard/elm/Wizard/Documents/Index/View.elm:75
-#: engine-wizard/elm/Wizard/Projects/Detail/View.elm:251
+#: engine-wizard/elm/Wizard/Projects/Detail/View.elm:250
 msgid "Documents"
 msgstr "Dokumenti"
 
@@ -1376,7 +1386,9 @@ msgid "Unable to get the build info"
 msgstr "Ni mogoče dobiti informacij o gradnji"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:76
-#: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:145
+#: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:34
+#: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:153
+#: engine-wizard/elm/Wizard/Settings/View.elm:132
 msgid "Dashboard"
 msgstr "Nadzorna plošča"
 
@@ -1422,8 +1434,8 @@ msgstr "Administracija"
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/PublishModal.elm:116
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/Settings.elm:183
 #: engine-wizard/elm/Wizard/KMEditor/Editor/View.elm:203
-#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:324
-#: engine-wizard/elm/Wizard/Projects/Detail/View.elm:260
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:323
+#: engine-wizard/elm/Wizard/Projects/Detail/View.elm:259
 #: engine-wizard/elm/Wizard/Registry/RegistrySignupConfirmation/View.elm:32
 msgid "Settings"
 msgstr "Nastavitve"
@@ -1446,7 +1458,7 @@ msgid "Change language"
 msgstr "Sprememba jezika"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:662
-#: engine-wizard/elm/Wizard/Users/Edit/Components/Profile.elm:240
+#: engine-wizard/elm/Wizard/Users/Edit/Components/Profile.elm:239
 msgid "Edit profile"
 msgstr "Urejanje profila"
 
@@ -1489,7 +1501,7 @@ msgstr "Dokumenti API"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:847
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/PublishModal.elm:137
-#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:259
+#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:255
 #: engine-wizard/elm/Wizard/DocumentTemplates/Detail/View.elm:219
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/PublishModal.elm:128
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/Settings.elm:165
@@ -1593,44 +1605,44 @@ msgstr[3] "skoraj %s let"
 msgid "You have unsaved changes."
 msgstr "Spremembe niso shranjene."
 
-#: engine-wizard/elm/Wizard/Common/View/FormGroup.elm:62
+#: engine-wizard/elm/Wizard/Common/View/FormGroup.elm:63
 msgid "(optional)"
 msgstr "(neobvezno)"
 
-#: engine-wizard/elm/Wizard/Common/View/FormGroup.elm:223
+#: engine-wizard/elm/Wizard/Common/View/FormGroup.elm:261
 msgid "Only PDF documents are enabled in this instance."
 msgstr "V tem primeru so omogočeni samo dokumenti PDF."
 
-#: engine-wizard/elm/Wizard/Common/View/FormGroup.elm:437
+#: engine-wizard/elm/Wizard/Common/View/FormGroup.elm:475
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:222
 msgid "You can use Markdown and see the result in the preview tab."
 msgstr "Uporabite lahko zapis Markdown in si rezultat ogledate v zavihku za predogled."
 
-#: engine-wizard/elm/Wizard/Common/View/FormGroup.elm:447
+#: engine-wizard/elm/Wizard/Common/View/FormGroup.elm:485
 msgid "You can use HTML or Markdown and see the result in the preview tab."
 msgstr "Uporabite lahko HTML ali Markdown in si rezultat ogledate v zavihku za predogled."
 
-#: engine-wizard/elm/Wizard/Common/View/FormGroup.elm:523
+#: engine-wizard/elm/Wizard/Common/View/FormGroup.elm:561
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:208
 #: engine-wizard/elm/Wizard/Projects/Common/QuestionnaireEditFormQuestionnairePermType.elm:63
 msgid "Editor"
 msgstr "Urednik"
 
-#: engine-wizard/elm/Wizard/Common/View/FormGroup.elm:531
-#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:376
+#: engine-wizard/elm/Wizard/Common/View/FormGroup.elm:569
+#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:372
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/View.elm:140
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:216
 #: engine-wizard/elm/Wizard/KMEditor/Editor/View.elm:194
 #: engine-wizard/elm/Wizard/KnowledgeModels/Common/KnowledgeModelActionsDropdown.elm:61
-#: engine-wizard/elm/Wizard/Projects/Detail/View.elm:242
+#: engine-wizard/elm/Wizard/Projects/Detail/View.elm:241
 msgid "Preview"
 msgstr "Predogled"
 
-#: engine-wizard/elm/Wizard/Common/View/FormGroup.elm:738
+#: engine-wizard/elm/Wizard/Common/View/FormGroup.elm:776
 msgid "Suggestions: "
 msgstr "Predlogi: "
 
-#: engine-wizard/elm/Wizard/Common/View/FormGroup.elm:757
+#: engine-wizard/elm/Wizard/Common/View/FormGroup.elm:795
 msgid "The version number is in format X.Y.Z. Increasing number Z indicates only some fixes, number Y minor changes, and number X indicates a major change."
 msgstr "Številka različice je v obliki X.Y.Z. Večja številka Z pomeni le nekaj popravkov, številka Y manjše spremembe, številka X pa večjo spremembo."
 
@@ -1675,15 +1687,15 @@ msgstr "Prijava"
 msgid "Error"
 msgstr "Napaka"
 
-#: engine-wizard/elm/Wizard/Common/View/Tag.elm:42
+#: engine-wizard/elm/Wizard/Common/View/Tag.elm:43
 msgid "There are no question tags configured for the Knowledge Model."
 msgstr "Za model znanja niso konfigurirane oznake vprašanj."
 
-#: engine-wizard/elm/Wizard/Common/View/Tag.elm:62
+#: engine-wizard/elm/Wizard/Common/View/Tag.elm:63
 msgid "Untitled question tag"
 msgstr "Oznaka za vprašanje brez naslova"
 
-#: engine-wizard/elm/Wizard/Common/View/Tag.elm:106
+#: engine-wizard/elm/Wizard/Common/View/Tag.elm:107
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:559
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:861
 #: engine-wizard/elm/Wizard/KMEditor/Editor/View.elm:185
@@ -1695,33 +1707,33 @@ msgstr "Oznaka za vprašanje brez naslova"
 msgid "Question Tags"
 msgstr "Oznake vprašanj"
 
-#: engine-wizard/elm/Wizard/Common/View/Tag.elm:131
+#: engine-wizard/elm/Wizard/Common/View/Tag.elm:132
 msgid "You can either use all questions from the knowledge model or filter them by question tags."
 msgstr "Uporabite lahko vsa vprašanja iz modela znanja ali pa jih filtrirate po oznakah vprašanj."
 
-#: engine-wizard/elm/Wizard/Common/View/Tag.elm:139
+#: engine-wizard/elm/Wizard/Common/View/Tag.elm:140
 msgid "Use all questions"
 msgstr "Uporabite vsa vprašanja"
 
-#: engine-wizard/elm/Wizard/Common/View/Tag.elm:148
+#: engine-wizard/elm/Wizard/Common/View/Tag.elm:149
 msgid "Filter by question tags"
 msgstr "Filtriranje po vprašanju oznake"
 
-#: engine-wizard/elm/Wizard/Common/View/Tag.elm:157
-#: engine-wizard/elm/Wizard/Common/View/Tag.elm:165
+#: engine-wizard/elm/Wizard/Common/View/Tag.elm:158
+#: engine-wizard/elm/Wizard/Common/View/Tag.elm:166
 msgid "There are no question tags for this knowledge model."
 msgstr "Za ta model znanja ni oznak vprašanj."
 
-#: engine-wizard/elm/Wizard/Common/View/Tag.elm:168
+#: engine-wizard/elm/Wizard/Common/View/Tag.elm:169
 msgid "All questions are used."
 msgstr "Uporabljena so vsa vprašanja."
 
-#: engine-wizard/elm/Wizard/Dashboard/Dashboards/AdminDashboard.elm:80
+#: engine-wizard/elm/Wizard/Dashboard/Dashboards/AdminDashboard.elm:81
 #: engine-wizard/elm/Wizard/Settings/Usage/Update.elm:24
 msgid "Unable to get usage."
 msgstr "Ni mogoče dobiti uporabe."
 
-#: engine-wizard/elm/Wizard/Dashboard/Dashboards/AdminDashboard.elm:89
+#: engine-wizard/elm/Wizard/Dashboard/Dashboards/AdminDashboard.elm:90
 #: engine-wizard/elm/Wizard/Dashboard/Dashboards/DataStewardDashboard.elm:61
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Create/Update.elm:150
 #: engine-wizard/elm/Wizard/KMEditor/Create/Update.elm:148
@@ -1734,7 +1746,7 @@ msgstr "Ni mogoče dobiti uporabe."
 msgid "Unable to get Knowledge Models."
 msgstr "Ni mogoče pridobiti modelov znanja."
 
-#: engine-wizard/elm/Wizard/Dashboard/Dashboards/AdminDashboard.elm:99
+#: engine-wizard/elm/Wizard/Dashboard/Dashboards/AdminDashboard.elm:100
 #: engine-wizard/elm/Wizard/Dashboard/Dashboards/DataStewardDashboard.elm:71
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Index/Update.elm:85
 #: engine-wizard/elm/Wizard/DocumentTemplates/Index/Update.elm:114
@@ -1823,7 +1835,7 @@ msgstr "Model znanja je drevesu podobna struktura, ki vsebuje znanje o tem, kaj 
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:82
 #: engine-wizard/elm/Wizard/Tenants/Create/View.elm:29
 #: engine-wizard/elm/Wizard/Tenants/Index/View.elm:115
-#: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:218
+#: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:217
 #: engine-wizard/elm/Wizard/Users/Index/View.elm:42
 msgid "Create"
 msgstr "Ustvarite"
@@ -1930,7 +1942,7 @@ msgstr "Nimate še nobenega projekta, začnite z ustvarjanjem projektov."
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/UsageWidget.elm:27
 #: engine-wizard/elm/Wizard/Settings/Usage/View.elm:22
-#: engine-wizard/elm/Wizard/Settings/View.elm:143
+#: engine-wizard/elm/Wizard/Settings/View.elm:169
 #: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:88
 msgid "Usage"
 msgstr "Uporaba"
@@ -1996,8 +2008,8 @@ msgstr "Iskanje dokumentov..."
 #: engine-wizard/elm/Wizard/KnowledgeModels/Index/View.elm:73
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:104
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:133
-#: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:257
-#: engine-wizard/elm/Wizard/Users/Edit/Components/AppKeys.elm:159
+#: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:256
+#: engine-wizard/elm/Wizard/Users/Edit/Components/AppKeys.elm:158
 #: engine-wizard/elm/Wizard/Users/Index/View.elm:61
 msgid "Created"
 msgstr "Ustvarjeno"
@@ -2282,12 +2294,12 @@ msgid "Publish"
 msgstr "Objavite"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/PublishModal.elm:136
-#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:271
+#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:267
 msgid "Template ID"
 msgstr "ID predloge"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/PublishModal.elm:138
-#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:273
+#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:269
 #: engine-wizard/elm/Wizard/DocumentTemplates/Detail/View.elm:221
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/PublishModal.elm:129
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/Settings.elm:190
@@ -2299,7 +2311,7 @@ msgid "License"
 msgstr "Licenca"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/PublishModal.elm:139
-#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:274
+#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:270
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/PublishModal.elm:130
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/Settings.elm:191
 #: engine-wizard/elm/Wizard/KMEditor/Publish/View.elm:85
@@ -2307,21 +2319,21 @@ msgstr "Licenca"
 msgid "Readme"
 msgstr "Readme"
 
-#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:207
+#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:203
 msgid "Unable to save document template"
 msgstr "Ni mogoče shraniti predloge dokumenta"
 
-#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:242
+#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:238
 msgid "General"
 msgstr "Splošno"
 
-#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:244
-#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:332
+#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:240
+#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:328
 #: engine-wizard/elm/Wizard/DocumentTemplates/Detail/View.elm:242
 msgid "Formats"
 msgstr "Formati"
 
-#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:287
+#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:283
 #: engine-wizard/elm/Wizard/KnowledgeModels/Import/OwlImport/View.elm:44
 #: engine-wizard/elm/Wizard/Settings/KnowledgeModels/View.elm:46
 #: engine-wizard/elm/Wizard/Settings/Organization/View.elm:48
@@ -2329,7 +2341,7 @@ msgstr "Formati"
 msgid "Organization ID"
 msgstr "ID organizacije"
 
-#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:288
+#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:284
 #: engine-wizard/elm/Wizard/KMEditor/Create/View.elm:94
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/PublishModal.elm:127
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/Settings.elm:188
@@ -2340,60 +2352,60 @@ msgstr "ID organizacije"
 msgid "Knowledge Model ID"
 msgstr "ID modela znanja"
 
-#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:289
+#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:285
 #: engine-wizard/elm/Wizard/Settings/KnowledgeModels/View.elm:48
 msgid "Min Version"
 msgstr "Različica Min"
 
-#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:290
+#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:286
 #: engine-wizard/elm/Wizard/Settings/KnowledgeModels/View.elm:49
 msgid "Max Version"
 msgstr "Največja različica"
 
-#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:295
+#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:291
 msgid "Allowed Knowledge Models"
 msgstr "Dovoljeni modeli znanja"
 
-#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:295
+#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:291
 #: engine-wizard/elm/Wizard/Settings/KnowledgeModels/View.elm:53
 msgid "Add knowledge model"
 msgstr "Dodajanje modela znanja"
 
-#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:332
+#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:328
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:109
 msgid "Add format"
 msgstr "Dodajanje formata"
 
-#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:372
-#: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:209
-#: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:132
-#: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:158
+#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:368
+#: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:200
+#: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:138
+#: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:164
 msgid "Icon"
 msgstr "Ikona"
 
-#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:379
+#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:375
 msgid "Steps"
 msgstr "Koraki"
 
-#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:379
+#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:375
 msgid "Add step"
 msgstr "Dodajte korak"
 
-#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:409
+#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:405
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:764
 msgid "Options"
 msgstr "Možnosti"
 
-#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:411
+#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:407
 msgid "Add option"
 msgstr "Dodajte možnost"
 
-#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:425
-#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:448
+#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:421
+#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:444
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:766
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:364
-#: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:249
-#: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:272
+#: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:240
+#: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:263
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:253
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:257
 msgid "Value"
@@ -2533,7 +2545,7 @@ msgstr "Ta predloga dokumenta v tej različici DSW ni podprta."
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:768
 #: engine-wizard/elm/Wizard/KnowledgeModels/Detail/View.elm:160
 #: engine-wizard/elm/Wizard/Locales/Detail/View.elm:162
-#: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:179
+#: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:170
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:96
 msgid "ID"
 msgstr "ID"
@@ -2678,7 +2690,7 @@ msgid "New parent knowledge model"
 msgstr "Nov model znanja"
 
 #: engine-wizard/elm/Wizard/KMEditor/Common/UpgradeModal.elm:163
-#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:542
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:550
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:642
 msgid "Create migration"
 msgstr "Ustvarjanje migracije"
@@ -2866,7 +2878,7 @@ msgstr "Opozoril ni več."
 #: engine-wizard/elm/Wizard/KnowledgeModels/Detail/View.elm:178
 #: engine-wizard/elm/Wizard/Projects/Create/View.elm:96
 #: engine-wizard/elm/Wizard/Projects/Create/View.elm:196
-#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:531
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:539
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:585
 msgid "Knowledge Model"
 msgstr "Model znanja"
@@ -3069,8 +3081,8 @@ msgstr "Čas"
 #: engine-wizard/elm/Wizard/Settings/Registry/View.elm:142
 #: engine-wizard/elm/Wizard/Tenants/Create/View.elm:38
 #: engine-wizard/elm/Wizard/Users/Create/View.elm:37
-#: engine-wizard/elm/Wizard/Users/Edit/Components/Profile.elm:214
-#: engine-wizard/elm/Wizard/Users/Edit/Components/Profile.elm:247
+#: engine-wizard/elm/Wizard/Users/Edit/Components/Profile.elm:213
+#: engine-wizard/elm/Wizard/Users/Edit/Components/Profile.elm:246
 #: engine-wizard/elm/Wizard/Users/Index/View.elm:60
 msgid "Email"
 msgstr "E-pošta"
@@ -3089,9 +3101,9 @@ msgstr "E-pošta"
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1869
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1935
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1938
-#: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:198
-#: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:136
-#: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:164
+#: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:189
+#: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:142
+#: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:170
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:228
 msgid "URL"
 msgstr "URL"
@@ -3294,7 +3306,7 @@ msgid "No questions"
 msgstr "Brez vprašanj"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1618
-#: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:167
+#: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:158
 msgid "Quick setup"
 msgstr "Hitra nastavitev"
 
@@ -3558,7 +3570,7 @@ msgid "Parent Knowledge Model"
 msgstr "Vrhnji model znanja"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/Settings.elm:236
-#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:550
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:558
 msgid "Danger Zone"
 msgstr "Nevarno območje"
 
@@ -3586,29 +3598,29 @@ msgid "Unable to get the knowledge model editor."
 msgstr "Ni mogoče pridobiti urejevalnika modela znanja."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/View.elm:49
-#: engine-wizard/elm/Wizard/Projects/Detail/View.elm:61
+#: engine-wizard/elm/Wizard/Projects/Detail/View.elm:60
 msgid "Disconnected"
 msgstr "Odklopljena stran"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/View.elm:51
-#: engine-wizard/elm/Wizard/Projects/Detail/View.elm:63
+#: engine-wizard/elm/Wizard/Projects/Detail/View.elm:62
 msgid "You have been disconnected, try to refresh the page."
 msgstr "Povezava je bila prekinjena, poskusite osvežiti stran."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/View.elm:52
 #: engine-wizard/elm/Wizard/KMEditor/Editor/View.elm:65
-#: engine-wizard/elm/Wizard/Projects/Detail/View.elm:64
-#: engine-wizard/elm/Wizard/Projects/Detail/View.elm:77
+#: engine-wizard/elm/Wizard/Projects/Detail/View.elm:63
+#: engine-wizard/elm/Wizard/Projects/Detail/View.elm:76
 msgid "Refresh"
 msgstr "Osvežitev"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/View.elm:62
-#: engine-wizard/elm/Wizard/Projects/Detail/View.elm:74
+#: engine-wizard/elm/Wizard/Projects/Detail/View.elm:73
 msgid "Oops!"
 msgstr "Ups!"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/View.elm:64
-#: engine-wizard/elm/Wizard/Projects/Detail/View.elm:76
+#: engine-wizard/elm/Wizard/Projects/Detail/View.elm:75
 msgid "Something went wrong, try to refresh the page."
 msgstr "Nekaj je šlo narobe, poskusite osvežiti stran."
 
@@ -4254,7 +4266,7 @@ msgstr "Ni mogoče pridobiti oznak vprašanj za model znanja."
 
 #: engine-wizard/elm/Wizard/Projects/Create/View.elm:84
 #: engine-wizard/elm/Wizard/Projects/Create/View.elm:176
-#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:374
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:373
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:90
 msgid "Project Template"
 msgstr "Predloga projekta"
@@ -4413,41 +4425,49 @@ msgstr "Povrni"
 msgid "Unable to get project tags."
 msgstr "Ni mogoče pridobiti oznak projekta."
 
-#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:350
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:349
 msgid "This document template is no longer supported."
 msgstr "Ta predloga dokumenta ni več podprta."
 
-#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:353
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:352
 msgid "This document template is now deprecated."
 msgstr "Ta predloga dokumenta je zdaj zastarela."
 
-#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:366
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:365
 msgid "Default document format"
 msgstr "Privzeta oblika dokumenta"
 
-#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:375
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:374
 msgid "Project templates can be used by other users so they don't have to start their new projects from scratch."
 msgstr "Predloge projektov lahko uporabljajo drugi uporabniki, tako da jim novih projektov ni treba začeti od začetka."
 
-#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:413
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:412
 msgid "Default document template"
 msgstr "Privzeta predloga dokumenta"
 
-#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:431
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:430
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:259
 msgid "Project Tags"
 msgstr "Oznake projekta"
 
-#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:525
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:519
+msgid "All questions are used"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:526
+msgid "Filtered by question tags"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:533
 msgid "This knowledge model is now deprecated."
 msgstr "Ta model znanja je zdaj zastarel."
 
-#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:554
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:562
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:570
 msgid "Delete this project"
 msgstr "Izbriši ta projekt"
 
-#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:556
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:564
 msgid "Deleted projects cannot be recovered."
 msgstr "Izbrisanih projektov ni mogoče obnoviti."
 
@@ -4518,24 +4538,24 @@ msgstr "Prijavite se in dodajte nov dokument."
 msgid "New document"
 msgstr "Nov dokument"
 
-#: engine-wizard/elm/Wizard/Projects/Detail/View.elm:146
+#: engine-wizard/elm/Wizard/Projects/Detail/View.elm:145
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:724
 msgid "Template"
 msgstr "Predloga"
 
-#: engine-wizard/elm/Wizard/Projects/Detail/View.elm:166
+#: engine-wizard/elm/Wizard/Projects/Detail/View.elm:165
 msgid "Add to my projects"
 msgstr "Dodaj v moje projekte"
 
-#: engine-wizard/elm/Wizard/Projects/Detail/View.elm:182
+#: engine-wizard/elm/Wizard/Projects/Detail/View.elm:181
 msgid "Share"
 msgstr "Delite"
 
-#: engine-wizard/elm/Wizard/Projects/Detail/View.elm:224
+#: engine-wizard/elm/Wizard/Projects/Detail/View.elm:223
 msgid "Questionnaire"
 msgstr "Vprašalnik"
 
-#: engine-wizard/elm/Wizard/Projects/Detail/View.elm:292
+#: engine-wizard/elm/Wizard/Projects/Detail/View.elm:291
 msgid "You are not allowed to view this page."
 msgstr "Te strani si ne smete ogledati."
 
@@ -4884,8 +4904,8 @@ msgstr "Najprej morate prebrati %s"
 #: engine-wizard/elm/Wizard/Public/Signup/View.elm:144
 #: engine-wizard/elm/Wizard/Tenants/Create/View.elm:39
 #: engine-wizard/elm/Wizard/Users/Create/View.elm:38
-#: engine-wizard/elm/Wizard/Users/Edit/Components/Profile.elm:216
-#: engine-wizard/elm/Wizard/Users/Edit/Components/Profile.elm:249
+#: engine-wizard/elm/Wizard/Users/Edit/Components/Profile.elm:215
+#: engine-wizard/elm/Wizard/Users/Edit/Components/Profile.elm:248
 #: engine-wizard/elm/Wizard/Users/Index/View.elm:58
 msgid "First name"
 msgstr "Ime"
@@ -4893,16 +4913,16 @@ msgstr "Ime"
 #: engine-wizard/elm/Wizard/Public/Signup/View.elm:145
 #: engine-wizard/elm/Wizard/Tenants/Create/View.elm:40
 #: engine-wizard/elm/Wizard/Users/Create/View.elm:39
-#: engine-wizard/elm/Wizard/Users/Edit/Components/Profile.elm:217
-#: engine-wizard/elm/Wizard/Users/Edit/Components/Profile.elm:250
+#: engine-wizard/elm/Wizard/Users/Edit/Components/Profile.elm:216
+#: engine-wizard/elm/Wizard/Users/Edit/Components/Profile.elm:249
 #: engine-wizard/elm/Wizard/Users/Index/View.elm:59
 msgid "Last name"
 msgstr "Priimek"
 
 #: engine-wizard/elm/Wizard/Public/Signup/View.elm:148
 #: engine-wizard/elm/Wizard/Users/Create/View.elm:40
-#: engine-wizard/elm/Wizard/Users/Edit/Components/Profile.elm:218
-#: engine-wizard/elm/Wizard/Users/Edit/Components/Profile.elm:251
+#: engine-wizard/elm/Wizard/Users/Edit/Components/Profile.elm:217
+#: engine-wizard/elm/Wizard/Users/Edit/Components/Profile.elm:250
 msgid "Affiliation"
 msgstr "Organizacija"
 
@@ -4922,187 +4942,187 @@ msgstr "Ni mogoče potrditi računa v registru DSW."
 msgid "Your email was successfuly confirmed, you can go back to %s."
 msgstr "Vaše e-poštno sporočilo je bilo uspešno potrjeno, lahko se vrnete v %s."
 
-#: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:40
-#: engine-wizard/elm/Wizard/Settings/View.elm:111
+#: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:39
+#: engine-wizard/elm/Wizard/Settings/View.elm:122
 msgid "Authentication"
 msgstr "Preverjanje pristnosti"
 
-#: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:66
+#: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:61
 msgid "Code Length"
 msgstr "Dolžina kode"
 
-#: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:67
-#: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:216
-#: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:258
+#: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:62
+#: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:215
+#: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:257
 msgid "Expiration"
 msgstr "Iztek veljavnosti"
 
-#: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:68
+#: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:63
 msgid "Expiration time of the authentication code in **seconds**."
 msgstr "Čas izteka veljavnosti kode za preverjanje pristnosti v **sekundah**."
 
-#: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:74
+#: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:69
 msgid "Internal"
 msgstr "Notranji"
 
-#: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:75
+#: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:70
 msgid "Registration"
 msgstr "Registracija"
 
-#: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:76
+#: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:71
 msgid "If enabled, users can create new internal accounts directly in the instance."
 msgstr "Če je ta možnost omogočena, lahko uporabniki ustvarijo nove notranje račune neposredno v instanci."
 
-#: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:77
+#: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:72
 msgid "Two-Factor Authentication"
 msgstr "Preverjanje pristnosti z dvostopenjsko avtentikacijo"
 
-#: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:78
+#: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:73
 msgid "If enabled, users first enter a username and password at login, and then they receive a one-time code to confirm the login on their email."
 msgstr "Če je ta možnost omogočena, uporabniki ob prijavi najprej vnesejo uporabniško ime in geslo, nato pa v e-pošto prejmejo enkratno kodo za potrditev prijave."
 
-#: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:87
+#: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:78
 msgid "External"
 msgstr "Zunanja stran"
 
-#: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:88
+#: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:79
 msgid "OpenID Services"
 msgstr "Storitve OpenID"
 
-#: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:88
+#: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:79
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:55
 msgid "Add service"
 msgstr "Dodajanje storitve"
 
-#: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:92
+#: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:83
 msgid "Default role"
 msgstr "Privzeta vloga"
 
-#: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:93
+#: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:84
 msgid "Define the role that is assigned to new users."
 msgstr "Določite vlogo, ki se dodeli novim uporabnikom."
 
-#: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:192
+#: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:183
 msgid "Callback URL"
 msgstr "Povratni naslov URL"
 
-#: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:193
+#: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:184
 msgid "Logout URL"
 msgstr "URL za odjavo"
 
-#: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:195
+#: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:186
 msgid "Client ID"
 msgstr "ID stranke"
 
-#: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:196
+#: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:187
 msgid "Client Secret"
 msgstr "Skrivnost stranke"
 
-#: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:200
+#: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:191
 msgid "Parameters"
 msgstr "Parametri"
 
-#: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:202
+#: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:193
 msgid "Add parameter"
 msgstr "Dodajanje parametra"
 
-#: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:217
+#: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:208
 msgid "Background Color"
 msgstr "Barva ozadja"
 
-#: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:220
+#: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:211
 msgid "Text Color"
 msgstr "Barva besedila"
 
-#: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:226
+#: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:217
 msgid "Button Preview"
 msgstr "Predogled gumba"
 
-#: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:31
-#: engine-wizard/elm/Wizard/Settings/View.elm:118
+#: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:37
+#: engine-wizard/elm/Wizard/Settings/View.elm:135
 msgid "Dashboard & Login Screen"
 msgstr "Nadzorna plošča in prijavni zaslon"
 
-#: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:44
+#: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:52
 msgid "Welcome"
 msgstr "Dobrodošli"
 
-#: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:45
+#: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:53
 msgid "Standard welcome screen."
 msgstr "Standardni pozdravni zaslon."
 
-#: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:51
+#: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:59
 msgid "Role-Based"
 msgstr "Na podlagi vlog"
 
-#: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:52
+#: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:60
 msgid "Relevant content based on user's role."
 msgstr "Ustrezna vsebina glede na vlogo uporabnika."
 
-#: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:66
+#: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:74
 msgid "Login Info"
 msgstr "Informacije o prijavi"
 
-#: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:67
+#: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:75
 msgid "Additional information displayed on the login screen next to the login form."
 msgstr "Dodatne informacije, ki se prikažejo na prijavnem zaslonu poleg obrazca za prijavo."
 
-#: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:75
+#: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:83
 msgid "Sidebar Login Info"
 msgstr "Informacije o prijavi v stransko vrstico"
 
-#: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:76
+#: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:84
 msgid "Additional information displayed on the login screen underneath the login form."
 msgstr "Dodatne informacije, prikazane na prijavnem zaslonu pod obrazcem za prijavo."
 
-#: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:85
+#: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:93
 msgid "Dashboard Style"
 msgstr "Slog armaturne plošče"
 
-#: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:88
-#: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:95
+#: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:96
+#: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:103
 msgid "Announcements"
 msgstr "Obvestila"
 
-#: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:96
+#: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:104
 msgid "Add announcement"
 msgstr "Dodajanje napovedi"
 
-#: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:125
-#: engine-wizard/elm/Wizard/Settings/View.elm:94
+#: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:133
+#: engine-wizard/elm/Wizard/Settings/View.elm:96
 #: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:129
 msgid "Info"
 msgstr "Info"
 
-#: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:126
+#: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:134
 msgid "Warning"
 msgstr "Opozorilo"
 
-#: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:127
+#: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:135
 msgid "Critical"
 msgstr "Kritična"
 
-#: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:138
+#: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:146
 msgid "Remove announcement"
 msgstr "Odstranitev objave"
 
-#: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:143
+#: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:151
 msgid "Level"
 msgstr "Razred"
 
-#: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:144
+#: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:152
 msgid "Content"
 msgstr "Vsebina"
 
-#: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:146
+#: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:154
 msgid "Display on the dashboard after users log in."
 msgstr "Prikaz na nadzorni plošči po prijavi uporabnikov."
 
-#: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:148
+#: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:156
 msgid "Login Screen"
 msgstr "Prijavni zaslon"
 
-#: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:150
+#: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:158
 msgid "Display on the login screen, visible to everybody."
 msgstr "Prikaz na prijavnem zaslonu, ki je viden vsem."
 
@@ -5123,52 +5143,61 @@ msgid "Public Knowledge Models"
 msgstr "Modeli javnega znanja"
 
 #: engine-wizard/elm/Wizard/Settings/KnowledgeModels/View.elm:61
-msgid "If enabled you can define knowledge models that are publicly available for reading."
-msgstr "Če je to omogočeno, lahko določite modele znanja, ki so javno na voljo za branje."
+msgid "If enabled, you can define knowledge models that are publicly available for reading."
+msgstr ""
 
 #: engine-wizard/elm/Wizard/Settings/KnowledgeModels/View.elm:64
 msgid "Integration Config"
 msgstr "Konfiguracija integracije"
 
+#: engine-wizard/elm/Wizard/Settings/KnowledgeModels/View.elm:65
+msgid "Integration config is used to configure [secrets and other properties](https://guide.ds-wizard.org/en/latest/more/development/integration-questions/integration-api.html#secrets-and-other-properties) for integrations in knowledge models."
+msgstr ""
+
 #: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:45
-#: engine-wizard/elm/Wizard/Settings/View.elm:119
+#: engine-wizard/elm/Wizard/Settings/View.elm:139
+msgid "Menu"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:48
+#: engine-wizard/elm/Wizard/Settings/View.elm:142
 msgid "Look & Feel"
 msgstr "Videz"
 
-#: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:69
+#: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:75
 msgid "Application Title"
 msgstr "Naslov aplikacije"
 
-#: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:70
+#: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:76
 msgid "Full name of the DSW instance (displayed, for example, in the browser tab title or before login)."
 msgstr "Polno ime DSW (prikazano na primer v naslovu zavihka brskalnika ali pred prijavo)."
 
-#: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:81
+#: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:87
 msgid "Short Application Title"
 msgstr "Kratek naslov aplikacije"
 
-#: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:82
+#: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:88
 msgid "Short name of the DSW instance (displayed, for example, on top of the navigation bar). Short title can be the same as the application title if it is short enough."
 msgstr "Kratko ime DSW (prikazano na primer na vrhu navigacijske vrstice). Kratek naslov je lahko enak naslovu aplikacije, če je dovolj kratek."
 
-#: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:99
+#: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:105
 msgid "Custom Menu Links"
 msgstr "Povezave v meniju po meri"
 
-#: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:102
+#: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:108
 msgid "Configure additional links in the menu. Choose any free icon from the [Font Awesome](%s), e.g. *fas fa-magic*. Check *New window* if you want to open the link in a new window."
 msgstr "Konfiguracija dodatnih povezav v meniju. Izberite katero koli brezplačno ikono iz [Font Awesome](%s), npr. *fas fa-magic*. Če želite povezavo odpreti v novem oknu, označite *Novo okno*."
 
-#: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:112
+#: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:118
 msgid "Add link"
 msgstr "Dodaj povezavo"
 
-#: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:138
+#: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:144
 msgid "New window"
 msgstr "Novo okno"
 
 #: engine-wizard/elm/Wizard/Settings/Organization/View.elm:25
-#: engine-wizard/elm/Wizard/Settings/View.elm:110
+#: engine-wizard/elm/Wizard/Settings/View.elm:114
 msgid "Organization"
 msgstr "Organizacija"
 
@@ -5193,13 +5222,13 @@ msgid "Unable to get plans."
 msgstr "Ni mogoče pridobiti načrtov."
 
 #: engine-wizard/elm/Wizard/Settings/Plans/View.elm:22
-#: engine-wizard/elm/Wizard/Settings/View.elm:147
+#: engine-wizard/elm/Wizard/Settings/View.elm:173
 #: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:91
 msgid "Plans"
 msgstr "Načrti"
 
 #: engine-wizard/elm/Wizard/Settings/PrivacyAndSupport/View.elm:27
-#: engine-wizard/elm/Wizard/Settings/View.elm:112
+#: engine-wizard/elm/Wizard/Settings/View.elm:123
 msgid "Privacy & Support"
 msgstr "Zasebnost in podpora"
 
@@ -5316,8 +5345,8 @@ msgid "Project Sharing"
 msgstr "Skupna raba projekta"
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:88
-msgid "If enabled, users can choose if project can be shared with people outside of DSW or not. Otherwise, all projects use the *Default Project Sharing*."
-msgstr "Če je ta možnost omogočena, lahko uporabniki izberejo, ali lahko projekt delijo z osebami zunaj DSW ali ne. V nasprotnem primeru se za vse projekte uporablja *privzeta souporaba projekta*."
+msgid "If enabled, users can choose if project can be shared with people outside of the wizard or not. Otherwise, all projects use the *Default Project Sharing*."
+msgstr ""
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:89
 msgid "Default Project Sharing"
@@ -5356,7 +5385,7 @@ msgid "Sign up request failed."
 msgstr "Zahteva za prijavo ni bila uspešna."
 
 #: engine-wizard/elm/Wizard/Settings/Registry/View.elm:45
-#: engine-wizard/elm/Wizard/Settings/View.elm:133
+#: engine-wizard/elm/Wizard/Settings/View.elm:159
 msgid "DSW Registry"
 msgstr "Register DSW"
 
@@ -5389,7 +5418,7 @@ msgid "Registry Sign Up"
 msgstr "Prijava v register"
 
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:40
-#: engine-wizard/elm/Wizard/Settings/View.elm:129
+#: engine-wizard/elm/Wizard/Settings/View.elm:155
 msgid "Document Submission"
 msgstr "Predložitev dokumentov"
 
@@ -5446,15 +5475,15 @@ msgstr "Če je omogočeno, bo datoteka poslana z večdelno zahtevo. V nasprotnem
 msgid "Header"
 msgstr "Naslov"
 
-#: engine-wizard/elm/Wizard/Settings/View.elm:85
+#: engine-wizard/elm/Wizard/Settings/View.elm:87
 msgid "System Settings"
 msgstr "Sistemske nastavitve"
 
-#: engine-wizard/elm/Wizard/Settings/View.elm:88
+#: engine-wizard/elm/Wizard/Settings/View.elm:90
 msgid "User Interface Settings"
 msgstr "Nastavitve uporabniškega vmesnika"
 
-#: engine-wizard/elm/Wizard/Settings/View.elm:91
+#: engine-wizard/elm/Wizard/Settings/View.elm:93
 msgid "Content Settings"
 msgstr "Nastavitve vsebine"
 
@@ -5569,7 +5598,8 @@ msgid "Create user"
 msgstr "Ustvari uporabnika"
 
 #: engine-wizard/elm/Wizard/Users/Create/View.elm:41
-#: engine-wizard/elm/Wizard/Users/Edit/Components/Profile.elm:203
+#: engine-wizard/elm/Wizard/Users/Edit/Components/Profile.elm:202
+#: engine-wizard/elm/Wizard/Users/Index/View.elm:66
 msgid "Role"
 msgstr "Vloga"
 
@@ -5641,91 +5671,91 @@ msgstr "Preklic vseh aktivnih sej"
 msgid "%s on %s"
 msgstr "%s na %s"
 
-#: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:86
+#: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:85
 msgid "Unable to get API keys."
 msgstr "Ni mogoče pridobiti ključev API."
 
-#: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:113
+#: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:112
 msgid "Unable to create API key."
 msgstr "Ni mogoče ustvariti ključa API."
 
-#: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:165
+#: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:164
 msgid "API key could not be deleted."
 msgstr "Ključa API ni bilo mogoče izbrisati."
 
-#: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:174
+#: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:173
 #: engine-wizard/elm/Wizard/Users/Edit/View.elm:89
 msgid "API Keys"
 msgstr "Ključi API"
 
-#: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:185
+#: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:184
 msgid "You can generate an API key for every application you use that needs access to [DSW API](%s)."
 msgstr "Ključ API lahko ustvarite za vsako aplikacijo, ki potrebuje dostop do [DSW API](%s)."
 
-#: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:202
+#: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:201
 msgid "Your new API key"
 msgstr "Vaš novi ključ API"
 
-#: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:203
+#: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:202
 msgid "Make sure to save it, you will not be able to access it again."
 msgstr "Ne pozabite ga shraniti, saj do njega ne boste mogli več dostopati."
 
-#: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:214
-#: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:256
+#: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:213
+#: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:255
 msgid "API Key Name"
 msgstr "Ime ključa API"
 
-#: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:215
+#: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:214
 msgid "Give the API key a name to identify it, such as the name of the application using it or the purpose of the key."
 msgstr "Ključu API dajte ime, da ga boste prepoznali, na primer ime aplikacije, ki ga uporablja, ali namen ključa."
 
-#: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:217
+#: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:216
 msgid "The date when the API key will no longer be valid."
 msgstr "Datum, ko ključ API ne bo več veljaven."
 
-#: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:250
+#: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:249
 msgid "You have no active API keys."
 msgstr "Nimate aktivnih ključev API."
 
-#: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:268
+#: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:267
 msgid "Active API Keys (%s)"
 msgstr "Aktivni ključi API (%s)"
 
-#: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:279
+#: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:278
 msgid "Delete API Key"
 msgstr "Brisanje ključa API"
 
-#: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:281
-#: engine-wizard/elm/Wizard/Users/Edit/Components/AppKeys.elm:172
+#: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:280
+#: engine-wizard/elm/Wizard/Users/Edit/Components/AppKeys.elm:171
 msgid "Are you sure you want to delete %s?"
 msgstr "Ste prepričani, da želite izbrisati %s?"
 
-#: engine-wizard/elm/Wizard/Users/Edit/Components/AppKeys.elm:75
+#: engine-wizard/elm/Wizard/Users/Edit/Components/AppKeys.elm:74
 msgid "Unable to get app keys."
 msgstr "Ni mogoče pridobiti ključev aplikacije."
 
-#: engine-wizard/elm/Wizard/Users/Edit/Components/AppKeys.elm:108
+#: engine-wizard/elm/Wizard/Users/Edit/Components/AppKeys.elm:107
 msgid "App key could not be deleted."
 msgstr "Ključa API ni bilo mogoče izbrisati."
 
-#: engine-wizard/elm/Wizard/Users/Edit/Components/AppKeys.elm:116
+#: engine-wizard/elm/Wizard/Users/Edit/Components/AppKeys.elm:115
 #: engine-wizard/elm/Wizard/Users/Edit/View.elm:99
 msgid "App Keys"
 msgstr "Ključi aplikacij"
 
-#: engine-wizard/elm/Wizard/Users/Edit/Components/AppKeys.elm:121
+#: engine-wizard/elm/Wizard/Users/Edit/Components/AppKeys.elm:120
 msgid "App keys are created when connecting various applications. You can disconnect them by deleting the app key."
 msgstr "Ključi aplikacij se ustvarijo ob povezovanju različnih aplikacij. Odklopite jih lahko tako, da izbrišete ključ aplikacije."
 
-#: engine-wizard/elm/Wizard/Users/Edit/Components/AppKeys.elm:152
+#: engine-wizard/elm/Wizard/Users/Edit/Components/AppKeys.elm:151
 msgid "You have no app keys."
 msgstr "Nimate ključev aplikacij."
 
-#: engine-wizard/elm/Wizard/Users/Edit/Components/AppKeys.elm:158
+#: engine-wizard/elm/Wizard/Users/Edit/Components/AppKeys.elm:157
 msgid "App Key Name"
 msgstr "Ime ključa aplikacije"
 
-#: engine-wizard/elm/Wizard/Users/Edit/Components/AppKeys.elm:170
+#: engine-wizard/elm/Wizard/Users/Edit/Components/AppKeys.elm:169
 msgid "Delete App Key"
 msgstr "Izbriši ključ aplikacije"
 
@@ -5737,54 +5767,54 @@ msgstr "Geslo je bilo uspešno spremenjeno."
 msgid "Password could not be changed."
 msgstr "Gesla ni bilo mogoče spremeniti."
 
-#: engine-wizard/elm/Wizard/Users/Edit/Components/Profile.elm:123
-#: engine-wizard/elm/Wizard/Users/Edit/Components/SubmissionSettings.elm:96
+#: engine-wizard/elm/Wizard/Users/Edit/Components/Profile.elm:122
+#: engine-wizard/elm/Wizard/Users/Edit/Components/SubmissionSettings.elm:95
 msgid "Unable to get the user."
 msgstr "Uporabnika ni mogoče pridobiti."
 
-#: engine-wizard/elm/Wizard/Users/Edit/Components/Profile.elm:143
+#: engine-wizard/elm/Wizard/Users/Edit/Components/Profile.elm:142
 msgid "Profile was successfully updated."
 msgstr "Profil je bil uspešno posodobljen."
 
-#: engine-wizard/elm/Wizard/Users/Edit/Components/Profile.elm:152
+#: engine-wizard/elm/Wizard/Users/Edit/Components/Profile.elm:151
 msgid "Profile could not be saved."
 msgstr "Profila ni bilo mogoče shraniti."
 
-#: engine-wizard/elm/Wizard/Users/Edit/Components/Profile.elm:179
+#: engine-wizard/elm/Wizard/Users/Edit/Components/Profile.elm:178
 #: engine-wizard/elm/Wizard/Users/Edit/View.elm:70
 msgid "Profile"
 msgstr "Profil"
 
-#: engine-wizard/elm/Wizard/Users/Edit/Components/Profile.elm:184
+#: engine-wizard/elm/Wizard/Users/Edit/Components/Profile.elm:183
 msgid "User Image"
 msgstr "Slika uporabnika"
 
-#: engine-wizard/elm/Wizard/Users/Edit/Components/Profile.elm:188
+#: engine-wizard/elm/Wizard/Users/Edit/Components/Profile.elm:187
 msgid "Image is taken from OpenID profile or [Gravatar](https://gravatar.com)."
 msgstr "Slika je vzeta iz profila OpenID ali [Gravatar](https://gravatar.com)."
 
-#: engine-wizard/elm/Wizard/Users/Edit/Components/Profile.elm:235
+#: engine-wizard/elm/Wizard/Users/Edit/Components/Profile.elm:234
 msgid "Your profile is managed elsewhere."
 msgstr "Vaš profil se upravlja drugje."
 
-#: engine-wizard/elm/Wizard/Users/Edit/Components/SubmissionSettings.elm:130
+#: engine-wizard/elm/Wizard/Users/Edit/Components/SubmissionSettings.elm:129
 msgid "Submission settings were successfully updated."
 msgstr "Nastavitve predložitve so bile uspešno posodobljene."
 
-#: engine-wizard/elm/Wizard/Users/Edit/Components/SubmissionSettings.elm:136
+#: engine-wizard/elm/Wizard/Users/Edit/Components/SubmissionSettings.elm:135
 msgid "Submission settings could not be saved."
 msgstr "Nastavitev predložitve ni bilo mogoče shraniti."
 
-#: engine-wizard/elm/Wizard/Users/Edit/Components/SubmissionSettings.elm:156
+#: engine-wizard/elm/Wizard/Users/Edit/Components/SubmissionSettings.elm:155
 msgid "There are no submission services to configure."
 msgstr "Storitev predložitve ni treba konfigurirati."
 
-#: engine-wizard/elm/Wizard/Users/Edit/Components/SubmissionSettings.elm:163
+#: engine-wizard/elm/Wizard/Users/Edit/Components/SubmissionSettings.elm:162
 #: engine-wizard/elm/Wizard/Users/Edit/View.elm:119
 msgid "Submission Settings"
 msgstr "Nastavitve predložitve"
 
-#: engine-wizard/elm/Wizard/Users/Edit/Components/SubmissionSettings.elm:192
+#: engine-wizard/elm/Wizard/Users/Edit/Components/SubmissionSettings.elm:191
 msgid "There is no settings for %s."
 msgstr "Za %s ni nastavitev."
 
@@ -5831,6 +5861,12 @@ msgstr "Ni dovoljeno"
 #: engine-wizard/elm/Wizard/View.elm:154
 msgid "You don't have permission to view this page."
 msgstr "Nimate dovoljenja za ogled te strani."
+
+#~ msgid "If enabled you can define knowledge models that are publicly available for reading."
+#~ msgstr "Če je to omogočeno, lahko določite modele znanja, ki so javno na voljo za branje."
+
+#~ msgid "If enabled, users can choose if project can be shared with people outside of DSW or not. Otherwise, all projects use the *Default Project Sharing*."
+#~ msgstr "Če je ta možnost omogočena, lahko uporabniki izberejo, ali lahko projekt delijo z osebami zunaj DSW ali ne. V nasprotnem primeru se za vse projekte uporablja *privzeta souporaba projekta*."
 
 #~ msgid "From Project Template"
 #~ msgstr "Iz predloge projekta"
