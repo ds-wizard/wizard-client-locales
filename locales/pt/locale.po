@@ -1,17 +1,7 @@
 # Marek Suchánek <marek.suchanek@ds-wizard.org>, 2024.
 # Gil Poiares-Oliveira <gpo@biodata.pt>, 2024.
 msgid ""
-msgstr ""
-"Project-Id-Version: wizard-client:4.2.0\n"
-"POT-Creation-Date: 2024-04-02T10:27:31.995Z \n"
-"PO-Revision-Date: 2024-03-24 05:40+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Portuguese <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-4-0/pt/>\n"
-"Language: pt\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 4.18.2\n"
+msgstr "Project-Id-Version: wizard-client:4.2.0\nPOT-Creation-Date: 2024-04-02T10:27:31.995Z\nPO-Revision-Date: 2024-04-03 09:17+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Portuguese <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-5-0/pt/>\nLanguage: pt\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 4.18.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -1122,6 +1112,7 @@ msgid "This option leads to some follow up questions."
 msgstr "Esta opção leva a algumas perguntas complementares."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3190
+#, fuzzy
 msgid "1 comment"
 msgid_plural "%s comments"
 msgstr[0] ""
@@ -1814,54 +1805,63 @@ msgid "in %s"
 msgstr "em %s"
 
 #: engine-wizard/elm/Wizard/Common/TimeDistance.elm:27
+#, fuzzy
 msgid "less than a minute"
 msgid_plural "less than %s minutes"
 msgstr[0] ""
 msgstr[1] "menos de %s minutos"
 
 #: engine-wizard/elm/Wizard/Common/TimeDistance.elm:41
+#, fuzzy
 msgid "1 minute"
 msgid_plural "%s minutes"
 msgstr[0] ""
 msgstr[1] "%s minutos"
 
 #: engine-wizard/elm/Wizard/Common/TimeDistance.elm:44
+#, fuzzy
 msgid "about 1 hour"
 msgid_plural "about %s hours"
 msgstr[0] ""
 msgstr[1] "cerca de %s horas"
 
 #: engine-wizard/elm/Wizard/Common/TimeDistance.elm:47
+#, fuzzy
 msgid "1 day"
 msgid_plural "%s days"
 msgstr[0] ""
 msgstr[1] "%s dias"
 
 #: engine-wizard/elm/Wizard/Common/TimeDistance.elm:50
+#, fuzzy
 msgid "about 1 month"
 msgid_plural "about %s months"
 msgstr[0] ""
 msgstr[1] "cerca de %s meses"
 
 #: engine-wizard/elm/Wizard/Common/TimeDistance.elm:53
+#, fuzzy
 msgid "1 month"
 msgid_plural "%s months"
 msgstr[0] ""
 msgstr[1] "%s meses"
 
 #: engine-wizard/elm/Wizard/Common/TimeDistance.elm:56
+#, fuzzy
 msgid "about 1 year"
 msgid_plural "about %s years"
 msgstr[0] ""
 msgstr[1] "cerca de %s anos"
 
 #: engine-wizard/elm/Wizard/Common/TimeDistance.elm:59
+#, fuzzy
 msgid "over 1 year"
 msgid_plural "over %s years"
 msgstr[0] ""
 msgstr[1] "mais de %s anos"
 
 #: engine-wizard/elm/Wizard/Common/TimeDistance.elm:62
+#, fuzzy
 msgid "almost 1 year"
 msgid_plural "almost %s years"
 msgstr[0] ""
@@ -5283,12 +5283,14 @@ msgid "Project Tags"
 msgstr "Etiquetas de projeto"
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:519
+#, fuzzy
 msgid "All questions are used"
-msgstr ""
+msgstr "Todas as perguntas são utilizadas"
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:526
+#, fuzzy
 msgid "Filtered by question tags"
-msgstr ""
+msgstr "Filtrado por tags de perguntas"
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:533
 #, fuzzy
@@ -5441,12 +5443,14 @@ msgid "Import status:"
 msgstr "Estado da importação:"
 
 #: engine-wizard/elm/Wizard/Projects/Import/View.elm:90
+#, fuzzy
 msgid "%s questionnaire change will be imported"
 msgid_plural "%s questionnaire changes will be imported"
 msgstr[0] ""
 msgstr[1] "As alterações ao questionário %s serão importadas"
 
 #: engine-wizard/elm/Wizard/Projects/Import/View.elm:108
+#, fuzzy
 msgid "%s error encountered"
 msgid_plural "%s errors encountered"
 msgstr[0] ""
@@ -6125,8 +6129,9 @@ msgid "Public Knowledge Models"
 msgstr "Modelos de conhecimento público"
 
 #: engine-wizard/elm/Wizard/Settings/KnowledgeModels/View.elm:61
+#, fuzzy
 msgid "If enabled, you can define knowledge models that are publicly available for reading."
-msgstr ""
+msgstr "Se ativado, pode definir modelos de conhecimento que estão publicamente disponíveis para leitura."
 
 #: engine-wizard/elm/Wizard/Settings/KnowledgeModels/View.elm:64
 #, fuzzy
@@ -6134,13 +6139,15 @@ msgid "Integration Config"
 msgstr "Configuração da integração"
 
 #: engine-wizard/elm/Wizard/Settings/KnowledgeModels/View.elm:65
+#, fuzzy
 msgid "Integration config is used to configure [secrets and other properties](https://guide.ds-wizard.org/en/latest/more/development/integration-questions/integration-api.html#secrets-and-other-properties) for integrations in knowledge models."
-msgstr ""
+msgstr "A configuração da integração é utilizada para configurar [segredos e outras propriedades] (https://guide.ds-wizard.org/en/latest/more/development/integration-questions/integration-api.html#secrets-and-other-properties) para integrações em modelos de conhecimento."
 
 #: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:45
 #: engine-wizard/elm/Wizard/Settings/View.elm:139
+#, fuzzy
 msgid "Menu"
-msgstr ""
+msgstr "Menu"
 
 #: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:48
 #: engine-wizard/elm/Wizard/Settings/View.elm:142
@@ -6373,8 +6380,9 @@ msgid "Project Sharing"
 msgstr "Partilha de projectos"
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:88
+#, fuzzy
 msgid "If enabled, users can choose if project can be shared with people outside of the wizard or not. Otherwise, all projects use the *Default Project Sharing*."
-msgstr ""
+msgstr "Se estiver ativado, os utilizadores podem escolher se o projeto pode ser partilhado com pessoas fora do assistente ou não. Caso contrário, todos os projectos utilizam a *Partilha de projeto predefinida*."
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:89
 #, fuzzy
