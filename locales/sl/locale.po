@@ -2,17 +2,7 @@
 # Nadja Zlender <nadja.zlender@mf.uni-lj.si>, 2023, 2024.
 # Marek Suchánek <marek.suchanek@ds-wizard.org>, 2024.
 msgid ""
-msgstr ""
-"Project-Id-Version: wizard-client:4.1.0\n"
-"POT-Creation-Date: 2024-04-02T10:27:31.995Z \n"
-"PO-Revision-Date: 2024-03-26 07:23+0000\n"
-"Last-Translator: Nadja Zlender <nadja.zlender@mf.uni-lj.si>\n"
-"Language-Team: Slovenian <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-4-0/sl/>\n"
-"Language: sl\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3;\n"
-"X-Generator: Weblate 4.18.2\n"
+msgstr "Project-Id-Version: wizard-client:4.1.0\nPOT-Creation-Date: 2024-04-02T10:27:31.995Z\nPO-Revision-Date: 2024-04-03 09:17+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Slovenian <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-5-0/sl/>\nLanguage: sl\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3;\nX-Generator: Weblate 4.18.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -4451,12 +4441,14 @@ msgid "Project Tags"
 msgstr "Oznake projekta"
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:519
+#, fuzzy
 msgid "All questions are used"
-msgstr ""
+msgstr "Uporabljena so vsa vprašanja."
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:526
+#, fuzzy
 msgid "Filtered by question tags"
-msgstr ""
+msgstr "Filtriranje po vprašanju oznake"
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:533
 msgid "This knowledge model is now deprecated."
@@ -5143,21 +5135,24 @@ msgid "Public Knowledge Models"
 msgstr "Modeli javnega znanja"
 
 #: engine-wizard/elm/Wizard/Settings/KnowledgeModels/View.elm:61
+#, fuzzy
 msgid "If enabled, you can define knowledge models that are publicly available for reading."
-msgstr ""
+msgstr "Če je to omogočeno, lahko določite modele znanja, ki so javno na voljo za branje."
 
 #: engine-wizard/elm/Wizard/Settings/KnowledgeModels/View.elm:64
 msgid "Integration Config"
 msgstr "Konfiguracija integracije"
 
 #: engine-wizard/elm/Wizard/Settings/KnowledgeModels/View.elm:65
+#, fuzzy
 msgid "Integration config is used to configure [secrets and other properties](https://guide.ds-wizard.org/en/latest/more/development/integration-questions/integration-api.html#secrets-and-other-properties) for integrations in knowledge models."
-msgstr ""
+msgstr "Konfiguracija integracije se uporablja za konfiguracijo [skrivnosti in drugih lastnosti](https://guide.ds-wizard.org/en/latest/more/development/integration-questions/integration-api.html#secrets-and-other-properties) za integracije v modelih znanja."
 
 #: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:45
 #: engine-wizard/elm/Wizard/Settings/View.elm:139
+#, fuzzy
 msgid "Menu"
-msgstr ""
+msgstr "Meni"
 
 #: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:48
 #: engine-wizard/elm/Wizard/Settings/View.elm:142
@@ -5345,8 +5340,9 @@ msgid "Project Sharing"
 msgstr "Skupna raba projekta"
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:88
+#, fuzzy
 msgid "If enabled, users can choose if project can be shared with people outside of the wizard or not. Otherwise, all projects use the *Default Project Sharing*."
-msgstr ""
+msgstr "Če je ta možnost omogočena, lahko uporabniki izberejo, ali lahko projekt delijo z osebami zunaj DSW ali ne. V nasprotnem primeru se za vse projekte uporablja *privzeta souporaba projekta*."
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:89
 msgid "Default Project Sharing"
