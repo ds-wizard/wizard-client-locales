@@ -1,7 +1,7 @@
 # Rob Hooft <rob.hooft@health-ri.nl>, 2023, 2024.
 # Marek Suchánek <marek.suchanek@ds-wizard.org>, 2023, 2024.
 msgid ""
-msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2024-04-02T10:27:31.995Z\nPO-Revision-Date: 2024-04-03 09:17+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Dutch <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-5-0/nl/>\nLanguage: nl\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.18.2\n"
+msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2024-04-02T10:27:31.995Z\nPO-Revision-Date: 2024-04-06 21:41+0000\nLast-Translator: Rob Hooft <rob.hooft@health-ri.nl>\nLanguage-Team: Dutch <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-5-0/nl/>\nLanguage: nl\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.18.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -4420,14 +4420,12 @@ msgid "Project Tags"
 msgstr "Projecttags"
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:519
-#, fuzzy
 msgid "All questions are used"
-msgstr "Alle vragen worden gebruikt."
+msgstr "Alle vragen worden gebruikt"
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:526
-#, fuzzy
 msgid "Filtered by question tags"
-msgstr "Filter op vraagtags"
+msgstr "Gefilterd op vraagtags"
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:533
 msgid "This knowledge model is now deprecated."
@@ -5110,7 +5108,6 @@ msgid "Public Knowledge Models"
 msgstr "Publieke kennismodellen"
 
 #: engine-wizard/elm/Wizard/Settings/KnowledgeModels/View.elm:61
-#, fuzzy
 msgid "If enabled, you can define knowledge models that are publicly available for reading."
 msgstr "Als dit is ingeschakeld kunnen kennismodellen worden gedefinieerd die publiek leesbaar zijn."
 
@@ -5119,13 +5116,11 @@ msgid "Integration Config"
 msgstr "Integratieconfiguratie"
 
 #: engine-wizard/elm/Wizard/Settings/KnowledgeModels/View.elm:65
-#, fuzzy
 msgid "Integration config is used to configure [secrets and other properties](https://guide.ds-wizard.org/en/latest/more/development/integration-questions/integration-api.html#secrets-and-other-properties) for integrations in knowledge models."
-msgstr "Integratie config wordt gebruikt om [geheimen en andere eigenschappen] (https://guide.ds-wizard.org/en/latest/more/development/integration-questions/integration-api.html#secrets-and-other-properties) te configureren voor integraties in kennismodellen."
+msgstr "Integratieconfiguratie wordt gebruikt om [geheimen en andere eigenschappen] (https://guide.ds-wizard.org/en/latest/more/development/integration-questions/integration-api.html#secrets-and-other-properties) te configureren voor integraties in kennismodellen."
 
 #: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:45
 #: engine-wizard/elm/Wizard/Settings/View.elm:139
-#, fuzzy
 msgid "Menu"
 msgstr "Menu"
 
@@ -5315,7 +5310,6 @@ msgid "Project Sharing"
 msgstr "Projectdelen"
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:88
-#, fuzzy
 msgid "If enabled, users can choose if project can be shared with people outside of the wizard or not. Otherwise, all projects use the *Default Project Sharing*."
 msgstr "Als dit is ingeschakeld kunnen gebruikers kiezen of ze een project willen delen met mensen buiten DSW of niet. Als het is uitgeschakeld geldt voor alle projecten de *Default Project Sharing*."
 
