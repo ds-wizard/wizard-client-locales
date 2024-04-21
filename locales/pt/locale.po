@@ -1,7 +1,7 @@
 # Marek Suchánek <marek.suchanek@ds-wizard.org>, 2024.
 # Gil Poiares-Oliveira <gpo@biodata.pt>, 2024.
 msgid ""
-msgstr "Project-Id-Version: wizard-client:4.2.0\nPOT-Creation-Date: 2024-01-02T07:42:43.985Z\nPO-Revision-Date: 2024-02-22 05:40+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Portuguese <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-2-0/pt/>\nLanguage: pt\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 4.18.2\n"
+msgstr "Project-Id-Version: wizard-client:4.2.0\nPOT-Creation-Date: 2024-01-02T07:42:43.985Z\nPO-Revision-Date: 2024-04-22 05:41+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Portuguese <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-2-0/pt/>\nLanguage: pt\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 4.18.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -3791,7 +3791,7 @@ msgstr "Utilize esta secção para configurar o pedido de pesquisa. O serviço q
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1512
 #, fuzzy
 msgid "A URL of the integrated service API that supports the search. Use `${q}` for the actual string that will be filled when users search for items, such as *ht&#8203;tps://example.com/search?q=${q}*."
-msgstr "Um URL da API do serviço integrado que suporta a pesquisa. Utilize `${q}` para a cadeia de caracteres real que será preenchida quando os utilizadores pesquisarem itens, como *https://example.com/search?q=${q}*."
+msgstr "Um URL da API do serviço integrado que suporta a pesquisa. Utilize `${q}` para a cadeia de caracteres real que será preenchida quando os utilizadores pesquisarem itens, como *ht&#8203;tps://example.com/search?q=${q}*."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1517
 #, fuzzy
@@ -3887,7 +3887,7 @@ msgstr "O logótipo é apresentado junto à ligação para o item selecionado no
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1654
 #, fuzzy
 msgid "Props can be used to parametrize the integration for each question. Use this to define the props whose value can be filled on the questions using this integration. The props can then be used in the URL configuration. For example, if you define prop named *type*, you can use it as `${type}`, such as *ht&#8203;tps://example.com/${type}*."
-msgstr "Os adereços podem ser usados para parametrizar a integração para cada pergunta. Utilize esta opção para definir os adereços cujo valor pode ser preenchido nas perguntas que utilizam esta integração. As props podem então ser usadas na configuração do URL. Por exemplo, se você definir uma propriedade chamada *type*, poderá usá-la como `${type}`, como *https://example.com/${type}*."
+msgstr "Os adereços podem ser usados para parametrizar a integração para cada pergunta. Utilize esta opção para definir os adereços cujo valor pode ser preenchido nas perguntas que utilizam esta integração. As props podem então ser usadas na configuração do URL. Por exemplo, se você definir uma propriedade chamada *type*, poderá usá-la como `${type}`, como *ht&#8203;tps://example.com/${type}*."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1658
 #, fuzzy
@@ -6249,7 +6249,7 @@ msgstr "Proprietário do repositório GitHub"
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:58
 #, fuzzy
 msgid "ht&#8203;tps://github.com/**exampleOwner**/exampleRepository"
-msgstr "https://github.com/**exampleOwner**/exampleRepository"
+msgstr "ht&#8203;tps://github.com/**exampleOwner**/exampleRepository"
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:59
 #, fuzzy
@@ -6259,7 +6259,7 @@ msgstr "Nome do repositório GitHub"
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:60
 #, fuzzy
 msgid "ht&#8203;tps://github.com/exampleOwner/**exampleRepository**"
-msgstr "https://github.com/exampleOwner/**exampleRepository**"
+msgstr "ht&#8203;tps://github.com/exampleOwner/**exampleRepository**"
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:61
 #, fuzzy
