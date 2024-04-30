@@ -2,7 +2,7 @@
 # Kryštof Komanec <krystof.komanec@gmail.com>, 2023.
 # Jan Slifka <jan.slifka@ds-wizard.org>, 2023.
 msgid ""
-msgstr "Project-Id-Version: wizard-client:3.17.1\nPOT-Creation-Date: 2024-04-02T10:27:31.995Z\nPO-Revision-Date: 2024-04-03 09:17+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Czech <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-5-0/cs/>\nLanguage: cs\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 4.18.2\n"
+msgstr "Project-Id-Version: wizard-client:3.17.1\nPOT-Creation-Date: 2024-04-02T10:27:31.995Z\nPO-Revision-Date: 2024-05-01 11:41+0000\nLast-Translator: Marek Suchánek <marek.suchanek@ds-wizard.org>\nLanguage-Team: Czech <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-5-0/cs/>\nLanguage: cs\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 4.18.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -4431,14 +4431,12 @@ msgid "Project Tags"
 msgstr "Štítky projektu"
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:519
-#, fuzzy
 msgid "All questions are used"
-msgstr "Používají se všechny otázky."
+msgstr "Všechny otázky jsou použity"
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:526
-#, fuzzy
 msgid "Filtered by question tags"
-msgstr "Filtrovat podle štítků"
+msgstr "Filtrováno podle štítků"
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:533
 msgid "This knowledge model is now deprecated."
@@ -5123,7 +5121,6 @@ msgid "Public Knowledge Models"
 msgstr "Veřejné znalostní modely"
 
 #: engine-wizard/elm/Wizard/Settings/KnowledgeModels/View.elm:61
-#, fuzzy
 msgid "If enabled, you can define knowledge models that are publicly available for reading."
 msgstr "Pokud je povoleno, pak je možné definovat znalostní modely, které jsou veřejně dostupné k procházení."
 
@@ -5132,13 +5129,11 @@ msgid "Integration Config"
 msgstr "Nastavení integrace"
 
 #: engine-wizard/elm/Wizard/Settings/KnowledgeModels/View.elm:65
-#, fuzzy
 msgid "Integration config is used to configure [secrets and other properties](https://guide.ds-wizard.org/en/latest/more/development/integration-questions/integration-api.html#secrets-and-other-properties) for integrations in knowledge models."
 msgstr "Konfigurace integrace slouží ke konfiguraci [tajemství a dalších vlastností](https://guide.ds-wizard.org/en/latest/more/development/integration-questions/integration-api.html#secrets-and-other-properties) pro integrace ve znalostních modelech."
 
 #: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:45
 #: engine-wizard/elm/Wizard/Settings/View.elm:139
-#, fuzzy
 msgid "Menu"
 msgstr "Nabídka"
 
@@ -5328,9 +5323,8 @@ msgid "Project Sharing"
 msgstr "Sdílení projektu"
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:88
-#, fuzzy
 msgid "If enabled, users can choose if project can be shared with people outside of the wizard or not. Otherwise, all projects use the *Default Project Sharing*."
-msgstr "Pokud je povoleno, uživatelé si mohou vybrat, zda je projekt sdílen s lidmi mimo DSW nebo ne. Jinak všechny projekty používají *Výchozí sdílení projektu*."
+msgstr "Pokud je povoleno, uživatelé si mohou vybrat, zda je projekt sdílen s lidmi mimo nebo ne. Jinak všechny projekty používají *Výchozí sdílení projektu*."
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:89
 msgid "Default Project Sharing"
