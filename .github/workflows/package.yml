@@ -12,8 +12,10 @@ jobs:
       matrix:
         locale:
           - cs
+          - de
           - fr
           - nl
+          - sl
           - tr
 
     steps:
