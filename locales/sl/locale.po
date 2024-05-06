@@ -2,7 +2,7 @@
 # Nadja Zlender <nadja.zlender@mf.uni-lj.si>, 2023, 2024.
 # Marek Suchánek <marek.suchanek@ds-wizard.org>, 2024.
 msgid ""
-msgstr "Project-Id-Version: wizard-client:4.1.0\nPOT-Creation-Date: 2024-02-06T08:10:07.424Z\nPO-Revision-Date: 2024-03-26 07:40+0000\nLast-Translator: Nadja Zlender <nadja.zlender@mf.uni-lj.si>\nLanguage-Team: Slovenian <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-3-0/sl/>\nLanguage: sl\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3;\nX-Generator: Weblate 4.18.2\n"
+msgstr "Project-Id-Version: wizard-client:4.1.0\nPOT-Creation-Date: 2024-02-06T08:10:07.424Z\nPO-Revision-Date: 2024-05-07 11:41+0000\nLast-Translator: Nadja Zlender <nadja.zlender@mf.uni-lj.si>\nLanguage-Team: Slovenian <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-3-0/sl/>\nLanguage: sl\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3;\nX-Generator: Weblate 4.18.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -355,7 +355,7 @@ msgstr "%s ne more biti prazno."
 
 #: engine-shared/elm/Shared/Form.elm:29
 msgid "This is not a valid email."
-msgstr "To ni veljaven e-poštni naslov."
+msgstr "E-poštni naslov ni veljaven."
 
 #: engine-shared/elm/Shared/Form.elm:32
 msgid "This is not a valid number."
@@ -617,7 +617,7 @@ msgstr "Skrij vse"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1310
 msgid "Answered by"
-msgstr "Odgovori"
+msgstr "Odgovorjeno s strani"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1315
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:537
@@ -892,7 +892,7 @@ msgstr "Postavka %s"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2877
 msgid "This is not a valid email address."
-msgstr "To ni veljaven e-poštni naslov."
+msgstr "E-poštni naslov ni veljaven."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2882
 msgid "This is not a valid URL."
@@ -2676,7 +2676,7 @@ msgstr "Izberite nov nadrejeni model znanja za %s."
 
 #: engine-wizard/elm/Wizard/KMEditor/Common/UpgradeModal.elm:158
 msgid "New parent knowledge model"
-msgstr "Nov model znanja"
+msgstr "Nov vrhnji model znanja"
 
 #: engine-wizard/elm/Wizard/KMEditor/Common/UpgradeModal.elm:163
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:542
