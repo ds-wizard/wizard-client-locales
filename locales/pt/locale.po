@@ -1,7 +1,7 @@
 # Marek Suchánek <marek.suchanek@ds-wizard.org>, 2024.
 # Gil Poiares-Oliveira <gpo@biodata.pt>, 2024.
 msgid ""
-msgstr "Project-Id-Version: wizard-client:4.2.0\nPOT-Creation-Date: 2024-05-07T07:10:40.159Z\nPO-Revision-Date: 2024-05-07 07:59+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Portuguese <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-6-0/pt/>\nLanguage: pt\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 4.18.2\n"
+msgstr "Project-Id-Version: wizard-client:4.2.0\nPOT-Creation-Date: 2024-05-07T07:10:40.159Z\nPO-Revision-Date: 2024-05-07 12:04+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Portuguese <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-6-0/pt/>\nLanguage: pt\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 4.18.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -1017,6 +1017,7 @@ msgid "This option leads to some follow up questions."
 msgstr "Esta opção leva a algumas perguntas complementares."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3195
+#, fuzzy
 msgid "1 comment"
 msgid_plural "%s comments"
 msgstr[0] ""
@@ -1664,8 +1665,9 @@ msgid "Report Issue"
 msgstr "Emissão de relatório"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:778
+#, fuzzy
 msgid "About %s"
-msgstr ""
+msgstr "Sobre %s"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:815
 #, fuzzy
@@ -1713,54 +1715,63 @@ msgid "in %s"
 msgstr "em %s"
 
 #: engine-wizard/elm/Wizard/Common/TimeDistance.elm:27
+#, fuzzy
 msgid "less than a minute"
 msgid_plural "less than %s minutes"
 msgstr[0] ""
 msgstr[1] "menos de %s minutos"
 
 #: engine-wizard/elm/Wizard/Common/TimeDistance.elm:41
+#, fuzzy
 msgid "1 minute"
 msgid_plural "%s minutes"
 msgstr[0] ""
 msgstr[1] "%s minutos"
 
 #: engine-wizard/elm/Wizard/Common/TimeDistance.elm:44
+#, fuzzy
 msgid "about 1 hour"
 msgid_plural "about %s hours"
 msgstr[0] ""
 msgstr[1] "cerca de %s horas"
 
 #: engine-wizard/elm/Wizard/Common/TimeDistance.elm:47
+#, fuzzy
 msgid "1 day"
 msgid_plural "%s days"
 msgstr[0] ""
 msgstr[1] "%s dias"
 
 #: engine-wizard/elm/Wizard/Common/TimeDistance.elm:50
+#, fuzzy
 msgid "about 1 month"
 msgid_plural "about %s months"
 msgstr[0] ""
 msgstr[1] "cerca de %s meses"
 
 #: engine-wizard/elm/Wizard/Common/TimeDistance.elm:53
+#, fuzzy
 msgid "1 month"
 msgid_plural "%s months"
 msgstr[0] ""
 msgstr[1] "%s meses"
 
 #: engine-wizard/elm/Wizard/Common/TimeDistance.elm:56
+#, fuzzy
 msgid "about 1 year"
 msgid_plural "about %s years"
 msgstr[0] ""
 msgstr[1] "cerca de %s anos"
 
 #: engine-wizard/elm/Wizard/Common/TimeDistance.elm:59
+#, fuzzy
 msgid "over 1 year"
 msgid_plural "over %s years"
 msgstr[0] ""
 msgstr[1] "mais de %s anos"
 
 #: engine-wizard/elm/Wizard/Common/TimeDistance.elm:62
+#, fuzzy
 msgid "almost 1 year"
 msgid_plural "almost %s years"
 msgstr[0] ""
@@ -2079,8 +2090,9 @@ msgid "Import Document Template"
 msgstr "Importar modelo de documento"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ImportDocumentTemplateWidget.elm:19
+#, fuzzy
 msgid "Document templates transform answers from a questionnaire into a document. This document can be anything, from PDF to machine-actionable JSON. You can import existing document templates from [%s](%s/templates) or [develop new ones](%s)."
-msgstr ""
+msgstr "Os modelos de documento transformam as respostas de um questionário num documento. Este documento pode ser qualquer coisa, desde PDF a JSON acionável por máquina. Pode importar modelos de documentos existentes de [%s](%s/templates) ou [desenvolver novos](%s)."
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ImportDocumentTemplateWidget.elm:26
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ImportKnowledgeModelWidget.elm:22
@@ -5163,8 +5175,9 @@ msgid "Default document format"
 msgstr "Formato de documento predefinido"
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:374
+#, fuzzy
 msgid "Other users can use project templates so they don't have to start their new projects from scratch. Project templates follow the same sharing policy as projects, so make sure to share them with users who should use them."
-msgstr ""
+msgstr "Outros utilizadores podem utilizar modelos de projeto para não terem de começar os seus novos projectos do zero. Os modelos de projeto seguem a mesma política de partilha que os projectos, por isso certifique-se de que os partilha com os utilizadores que os devem utilizar."
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:412
 #, fuzzy
@@ -5338,12 +5351,14 @@ msgid "Import status:"
 msgstr "Estado da importação:"
 
 #: engine-wizard/elm/Wizard/Projects/Import/View.elm:90
+#, fuzzy
 msgid "%s questionnaire change will be imported"
 msgid_plural "%s questionnaire changes will be imported"
 msgstr[0] ""
 msgstr[1] "As alterações ao questionário %s serão importadas"
 
 #: engine-wizard/elm/Wizard/Projects/Import/View.elm:108
+#, fuzzy
 msgid "%s error encountered"
 msgid_plural "%s errors encountered"
 msgstr[0] ""
@@ -6032,8 +6047,9 @@ msgid "Integration Config"
 msgstr "Configuração da integração"
 
 #: engine-wizard/elm/Wizard/Settings/KnowledgeModels/View.elm:69
+#, fuzzy
 msgid "Integration config is used to configure [secrets and other properties](%s) for integrations in knowledge models."
-msgstr ""
+msgstr "A configuração de integração é utilizada para configurar [segredos e outras propriedades](%s) para integrações em modelos de conhecimento."
 
 #: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:45
 #: engine-wizard/elm/Wizard/Settings/View.elm:139
