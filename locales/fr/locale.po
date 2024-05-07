@@ -1,18 +1,7 @@
 # Marek Suchánek <marek.suchanek@ds-wizard.org>, 2023.
 # Paulette Lieby <paulette.lieby@france-bioinformatique.fr>, 2023, 2024.
 msgid ""
-msgstr ""
-"Project-Id-Version: wizard-client:3.18.3\n"
-"POT-Creation-Date: 2024-05-07T07:10:40.159Z \n"
-"PO-Revision-Date: 2024-04-04 09:41+0000\n"
-"Last-Translator: Paulette Lieby <paulette.lieby@france-bioinformatique.fr>\n"
-"Language-Team: French <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-5-0/fr/>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 4.18.2\n"
+msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2024-05-07T07:10:40.159Z\nPO-Revision-Date: 2024-05-07 07:59+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: French <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-6-0/fr/>\nLanguage: fr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 4.18.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -1842,10 +1831,7 @@ msgid ""
 "Project is a workspace where you create your DMP. It is based on a knowledge model, which contains knowledge about what should be asked and how based on the research field or organization's needs. You can use document templates to transform the answers into a document. This document can be anything, from PDF to machine-actionable JSON.\n"
 "\n"
 "You can create a new project from a project template that data stewards prepare for you to have an easier start or from scratch where you set up everything yourself."
-msgstr ""
-"Le projet est un espace de travail où vous créez votre PGD, ou plus généralement le questionnaire oú sera renseigné le modèle de connaissances choisi. Le projet est donc basé sur un modèle de connaissances qui décline les questions qui détaillent les renseignements désirés en fonction du domaine de recherche ou des besoins de l'organisation. Vous pouvez utiliser des modèles de documents pour filtrer et transformer les réponses en un document. Beaucoup de types de formats de documents sont disponibles, du PDF au JSON exploitable par une machine.\n"
-"\n"
-"Vous pouvez créer un nouveau projet à partir d'un modèle de projets que les gestionnaires de données préparent pour vous afin de faciliter le démarrage ; vous pouvez aussi créer un nouveau projet à partir de zéro, où vous configurez tout vous-même."
+msgstr "Le projet est un espace de travail où vous créez votre PGD, ou plus généralement le questionnaire oú sera renseigné le modèle de connaissances choisi. Le projet est donc basé sur un modèle de connaissances qui décline les questions qui détaillent les renseignements désirés en fonction du domaine de recherche ou des besoins de l'organisation. Vous pouvez utiliser des modèles de documents pour filtrer et transformer les réponses en un document. Beaucoup de types de formats de documents sont disponibles, du PDF au JSON exploitable par une machine.\n\nVous pouvez créer un nouveau projet à partir d'un modèle de projets que les gestionnaires de données préparent pour vous afin de faciliter le démarrage ; vous pouvez aussi créer un nouveau projet à partir de zéro, où vous configurez tout vous-même."
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ImportDocumentTemplateWidget.elm:16
 #: engine-wizard/elm/Wizard/DocumentTemplates/Import/View.elm:44
@@ -5611,10 +5597,7 @@ msgid ""
 "This is a list of active sessions logged into your account.\n"
 "\n"
 "If you don't recognize any, you should revoke them."
-msgstr ""
-"Il s'agit d'une liste des sessions actives connectées à votre compte.\n"
-"\n"
-"Si vous n'en reconnaissez aucune, vous devriez les révoquer."
+msgstr "Il s'agit d'une liste des sessions actives connectées à votre compte.\n\nSi vous n'en reconnaissez aucune, vous devriez les révoquer."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ActiveSessions.elm:223
 msgid "current"
