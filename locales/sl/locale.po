@@ -3,17 +3,7 @@
 # Marek Suchánek <marek.suchanek@ds-wizard.org>, 2024.
 # Jana Martínková <j.martinkova@outlook.com>, 2024.
 msgid ""
-msgstr ""
-"Project-Id-Version: wizard-client:4.1.0\n"
-"POT-Creation-Date: 2024-05-07T07:10:40.159Z \n"
-"PO-Revision-Date: 2024-05-06 11:17+0000\n"
-"Last-Translator: Jana Martínková <j.martinkova@outlook.com>\n"
-"Language-Team: Slovenian <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-5-0/sl/>\n"
-"Language: sl\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3;\n"
-"X-Generator: Weblate 4.18.2\n"
+msgstr "Project-Id-Version: wizard-client:4.1.0\nPOT-Creation-Date: 2024-05-07T07:10:40.159Z\nPO-Revision-Date: 2024-05-07 07:59+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Slovenian <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-6-0/sl/>\nLanguage: sl\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3;\nX-Generator: Weblate 4.18.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -1863,10 +1853,7 @@ msgid ""
 "Project is a workspace where you create your DMP. It is based on a knowledge model, which contains knowledge about what should be asked and how based on the research field or organization's needs. You can use document templates to transform the answers into a document. This document can be anything, from PDF to machine-actionable JSON.\n"
 "\n"
 "You can create a new project from a project template that data stewards prepare for you to have an easier start or from scratch where you set up everything yourself."
-msgstr ""
-"Projekt je delovni prostor, v katerem ustvarite svoj DMP. Temelji na modelu znanja, ki vsebuje znanje o tem, kaj je treba vprašati in kako glede na raziskovalno področje ali potrebe organizacije. Za preoblikovanje odgovorov v dokument lahko uporabite predloge dokumentov. Ta dokument je lahko kar koli, od PDF do strojno uporabnega JSON.\n"
-"\n"
-"Nov projekt lahko ustvarite iz predloge projekta, ki jo za vas pripravijo upravljavci podatkov, da boste lažje začeli, ali iz nič, kjer vse nastavite sami."
+msgstr "Projekt je delovni prostor, v katerem ustvarite svoj DMP. Temelji na modelu znanja, ki vsebuje znanje o tem, kaj je treba vprašati in kako glede na raziskovalno področje ali potrebe organizacije. Za preoblikovanje odgovorov v dokument lahko uporabite predloge dokumentov. Ta dokument je lahko kar koli, od PDF do strojno uporabnega JSON.\n\nNov projekt lahko ustvarite iz predloge projekta, ki jo za vas pripravijo upravljavci podatkov, da boste lažje začeli, ali iz nič, kjer vse nastavite sami."
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ImportDocumentTemplateWidget.elm:16
 #: engine-wizard/elm/Wizard/DocumentTemplates/Import/View.elm:44
@@ -5636,10 +5623,7 @@ msgid ""
 "This is a list of active sessions logged into your account.\n"
 "\n"
 "If you don't recognize any, you should revoke them."
-msgstr ""
-"To je seznam aktivnih sej, prijavljenih v vaš račun.\n"
-"\n"
-"Če katere od njih ne prepoznate, jo morate preklicati."
+msgstr "To je seznam aktivnih sej, prijavljenih v vaš račun.\n\nČe katere od njih ne prepoznate, jo morate preklicati."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ActiveSessions.elm:223
 msgid "current"
