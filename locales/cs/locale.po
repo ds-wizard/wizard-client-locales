@@ -2,17 +2,7 @@
 # Kryštof Komanec <krystof.komanec@gmail.com>, 2023.
 # Jan Slifka <jan.slifka@ds-wizard.org>, 2023.
 msgid ""
-msgstr ""
-"Project-Id-Version: wizard-client:3.17.1\n"
-"POT-Creation-Date: 2024-05-07T07:10:40.159Z \n"
-"PO-Revision-Date: 2024-05-01 11:41+0000\n"
-"Last-Translator: Marek Suchánek <marek.suchanek@ds-wizard.org>\n"
-"Language-Team: Czech <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-5-0/cs/>\n"
-"Language: cs\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 4.18.2\n"
+msgstr "Project-Id-Version: wizard-client:3.17.1\nPOT-Creation-Date: 2024-05-07T07:10:40.159Z\nPO-Revision-Date: 2024-05-07 07:58+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Czech <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-6-0/cs/>\nLanguage: cs\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 4.18.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -1491,8 +1481,9 @@ msgid "Report Issue"
 msgstr "Nahlásit problém"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:778
+#, fuzzy
 msgid "About %s"
-msgstr ""
+msgstr "O %s"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:815
 msgid "API URL"
@@ -1852,10 +1843,7 @@ msgid ""
 "Project is a workspace where you create your DMP. It is based on a knowledge model, which contains knowledge about what should be asked and how based on the research field or organization's needs. You can use document templates to transform the answers into a document. This document can be anything, from PDF to machine-actionable JSON.\n"
 "\n"
 "You can create a new project from a project template that data stewards prepare for you to have an easier start or from scratch where you set up everything yourself."
-msgstr ""
-"Projekt je místem pro vytváření plánů. Je založen na vybraném znalostním modelu, který obsahuje znalosti o tom, na co se ptát a jak v závislosti na doméně výzkumu či potřebách organizace. Lze využít šablony dokumentů pro transformaci odpovědí z dotazníku na dokument. Dokument může být prakticky cokoliv, od PDF po JSON vhodný pro strojové zpracování. \n"
-" \n"
-"Můžete vytvořit nový projekt z projektové šablony, kterou správci dat připravili pro usnadnění vaší práce, a nebo si sami vše nastavit."
+msgstr "Projekt je místem pro vytváření plánů. Je založen na vybraném znalostním modelu, který obsahuje znalosti o tom, na co se ptát a jak v závislosti na doméně výzkumu či potřebách organizace. Lze využít šablony dokumentů pro transformaci odpovědí z dotazníku na dokument. Dokument může být prakticky cokoliv, od PDF po JSON vhodný pro strojové zpracování. \n \nMůžete vytvořit nový projekt z projektové šablony, kterou správci dat připravili pro usnadnění vaší práce, a nebo si sami vše nastavit."
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ImportDocumentTemplateWidget.elm:16
 #: engine-wizard/elm/Wizard/DocumentTemplates/Import/View.elm:44
@@ -1863,8 +1851,9 @@ msgid "Import Document Template"
 msgstr "Import šablony dokumentů"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ImportDocumentTemplateWidget.elm:19
+#, fuzzy
 msgid "Document templates transform answers from a questionnaire into a document. This document can be anything, from PDF to machine-actionable JSON. You can import existing document templates from [%s](%s/templates) or [develop new ones](%s)."
-msgstr ""
+msgstr "Šablony dokumentů transformují odpovědi z dotazníku do dokumentu. Tímto dokumentem může být cokoli, od PDF až po strojově zpracovatelný JSON. Můžete importovat existující šablony dokumentů z [%s](%s/templates) nebo [vytvořit nové](%s)."
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ImportDocumentTemplateWidget.elm:26
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ImportKnowledgeModelWidget.elm:22
@@ -4433,8 +4422,9 @@ msgid "Default document format"
 msgstr "Výchozí formát dokumentu"
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:374
+#, fuzzy
 msgid "Other users can use project templates so they don't have to start their new projects from scratch. Project templates follow the same sharing policy as projects, so make sure to share them with users who should use them."
-msgstr ""
+msgstr "Ostatní uživatelé mohou používat šablony projektů, aby nemuseli začínat nové projekty od nuly. Šablony projektů se řídí stejnými zásadami sdílení jako projekty, takže je nezapomeňte sdílet s uživateli, kteří je mají používat."
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:412
 msgid "Default document template"
@@ -5144,8 +5134,9 @@ msgid "Integration Config"
 msgstr "Nastavení integrace"
 
 #: engine-wizard/elm/Wizard/Settings/KnowledgeModels/View.elm:69
+#, fuzzy
 msgid "Integration config is used to configure [secrets and other properties](%s) for integrations in knowledge models."
-msgstr ""
+msgstr "Konfigurace integrace slouží ke konfiguraci [tajemství a dalších vlastností](%s) pro integrace ve znalostních modelech."
 
 #: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:45
 #: engine-wizard/elm/Wizard/Settings/View.elm:139
@@ -5623,10 +5614,7 @@ msgid ""
 "This is a list of active sessions logged into your account.\n"
 "\n"
 "If you don't recognize any, you should revoke them."
-msgstr ""
-"Jedná se o seznam aktivních relací přihlášených k vašemu účtu.\n"
-"\n"
-"Pokud některou z nich nepoznáte, měli byste ji zrušit."
+msgstr "Jedná se o seznam aktivních relací přihlášených k vašemu účtu.\n\nPokud některou z nich nepoznáte, měli byste ji zrušit."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ActiveSessions.elm:223
 msgid "current"
