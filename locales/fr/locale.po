@@ -1,7 +1,7 @@
 # Marek Suchánek <marek.suchanek@ds-wizard.org>, 2023.
 # Paulette Lieby <paulette.lieby@france-bioinformatique.fr>, 2023, 2024.
 msgid ""
-msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2024-05-07T07:10:40.159Z\nPO-Revision-Date: 2024-05-07 07:59+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: French <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-6-0/fr/>\nLanguage: fr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 4.18.2\n"
+msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2024-05-07T07:10:40.159Z\nPO-Revision-Date: 2024-05-07 12:04+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: French <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-6-0/fr/>\nLanguage: fr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 4.18.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -1479,8 +1479,9 @@ msgid "Report Issue"
 msgstr "Signaler un problème"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:778
+#, fuzzy
 msgid "About %s"
-msgstr ""
+msgstr "À propos de %s"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:815
 msgid "API URL"
@@ -1839,8 +1840,9 @@ msgid "Import Document Template"
 msgstr "Importer un modèle de documents"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ImportDocumentTemplateWidget.elm:19
+#, fuzzy
 msgid "Document templates transform answers from a questionnaire into a document. This document can be anything, from PDF to machine-actionable JSON. You can import existing document templates from [%s](%s/templates) or [develop new ones](%s)."
-msgstr ""
+msgstr "Les modèles de document transforment les réponses à un questionnaire en un document. Ce document peut être n'importe quoi, du PDF au JSON exploitable par une machine. Vous pouvez importer des modèles de document existants à partir de [%s](%s/templates) ou [en développer de nouveaux](%s)."
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ImportDocumentTemplateWidget.elm:26
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ImportKnowledgeModelWidget.elm:22
@@ -4409,8 +4411,9 @@ msgid "Default document format"
 msgstr "Format de document par défaut"
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:374
+#, fuzzy
 msgid "Other users can use project templates so they don't have to start their new projects from scratch. Project templates follow the same sharing policy as projects, so make sure to share them with users who should use them."
-msgstr ""
+msgstr "Les autres utilisateurs peuvent utiliser les modèles de projet afin de ne pas avoir à commencer leurs nouveaux projets à partir de zéro. Les modèles de projet suivent la même politique de partage que les projets. Veillez donc à les partager avec les utilisateurs qui doivent les utiliser."
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:412
 msgid "Default document template"
@@ -5118,8 +5121,9 @@ msgid "Integration Config"
 msgstr "Configuration de l'intégration"
 
 #: engine-wizard/elm/Wizard/Settings/KnowledgeModels/View.elm:69
+#, fuzzy
 msgid "Integration config is used to configure [secrets and other properties](%s) for integrations in knowledge models."
-msgstr ""
+msgstr "Integration config est utilisé pour configurer [secrets et autres propriétés](%s) pour les intégrations dans les modèles de connaissance."
 
 #: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:45
 #: engine-wizard/elm/Wizard/Settings/View.elm:139
