@@ -58,3 +58,56 @@ jobs:
           artifactContentType: application/zip
           prerelease: ${{ steps.check_prerelease.outputs.is_prerelease }}
           replacesArtifacts: true
+
+  push:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18.x'
+          registry-url: 'https://registry.npmjs.org'
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          node-version: '3.12'
+
+      - name: Extract tag
+        run: |
+          echo "TAG=${GITHUB_REF#refs/*/}" >> $GITHUB_ENV
+
+      - name: Extract version
+        run: |
+          VERSION=$(echo $TAG | sed 's/^v\([0-9]*\.[0-9]*\.[0-9]*\)-.*$/\1/')
+          echo "VERSION=${VERSION}" >> $GITHUB_ENV
+
+      - name: Extract language code
+        run: |
+          LANG=$(echo $TAG | sed 's/^v[0-9]*\.[0-9]*\.[0-9]*-\(.*\)$/\1/')
+          echo "LANG=${LANG}" >> $GITHUB_ENV
+
+      - name: Check locale to release
+        run: |
+          ls -lah locales/$LANG
+
+      - name: Install dependencies
+        run: |
+          npm install @ds-wizard/locale-packager@0.2.0
+          pip install -r scripts/requirements.txt
+
+      - name: Create locale ZIP package
+        run: |
+          npx dsw-locale-packager locales/$LANG -o dsw_${{ env.LANG }}_${{ env.VERSION }}.zip -z
+
+      - name: Push to DSW
+        run: |
+          python scripts/dsw-locales.py clear -y -o dsw -l ${{ env.LANG }}
+          python scripts/dsw-locales.py push dsw_${{ env.LANG }}_${{ env.VERSION }}.zip -e
+        env:
+          DSW_API_URL: ${{ secrets.INTERNAL_DSW_API_URL }}
+          DSW_API_KEY: ${{ secrets.INTERNAL_DSW_API_KEY }}
