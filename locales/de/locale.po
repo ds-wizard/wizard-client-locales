@@ -3,7 +3,7 @@
 # Eric Krüger <eric.krueger.ek@gmail.com>, 2023.
 # timsu100 <tim.surber96@gmail.com>, 2023.
 msgid ""
-msgstr "Project-Id-Version: wizard-client:3.21.0\nPOT-Creation-Date: 2024-05-07T07:10:40.159Z\nPO-Revision-Date: 2024-05-07 07:58+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: German <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-6-0/de/>\nLanguage: de\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.18.2\n"
+msgstr "Project-Id-Version: wizard-client:3.21.0\nPOT-Creation-Date: 2024-05-07T07:10:40.159Z\nPO-Revision-Date: 2024-06-04 08:03+0000\nLast-Translator: Marek Suchánek <marek.suchanek@ds-wizard.org>\nLanguage-Team: German <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-6-0/de/>\nLanguage: de\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.18.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -1481,7 +1481,6 @@ msgid "Report Issue"
 msgstr "Problem melden"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:778
-#, fuzzy
 msgid "About %s"
 msgstr "Über %s"
 
@@ -1842,7 +1841,6 @@ msgid "Import Document Template"
 msgstr "Dokumentvorlage importieren"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ImportDocumentTemplateWidget.elm:19
-#, fuzzy
 msgid "Document templates transform answers from a questionnaire into a document. This document can be anything, from PDF to machine-actionable JSON. You can import existing document templates from [%s](%s/templates) or [develop new ones](%s)."
 msgstr "Dokumentvorlagen wandeln Antworten aus einem Fragebogen in ein Dokument um. Dieses Dokument kann alles sein, von PDF bis zu maschinenverarbeitbarem JSON. Sie können vorhandene Dokumentvorlagen aus [%s](%s/templates) importieren oder [neue entwickeln](%s)."
 
@@ -4413,7 +4411,6 @@ msgid "Default document format"
 msgstr "Standard-Dokumentenformat"
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:374
-#, fuzzy
 msgid "Other users can use project templates so they don't have to start their new projects from scratch. Project templates follow the same sharing policy as projects, so make sure to share them with users who should use them."
 msgstr "Andere Benutzer können Projektvorlagen verwenden, damit sie ihre neuen Projekte nicht von Grund auf neu beginnen müssen. Für Projektvorlagen gelten dieselben Freigabebestimmungen wie für Projekte. Stellen Sie also sicher, dass Sie sie für die Benutzer freigeben, die sie verwenden sollen."
 
@@ -5123,7 +5120,6 @@ msgid "Integration Config"
 msgstr "Integrationskonfiguration"
 
 #: engine-wizard/elm/Wizard/Settings/KnowledgeModels/View.elm:69
-#, fuzzy
 msgid "Integration config is used to configure [secrets and other properties](%s) for integrations in knowledge models."
 msgstr "Integration config wird verwendet, um [Geheimnisse und andere Eigenschaften](%s) für Integrationen in Wissensmodelle zu konfigurieren."
 
