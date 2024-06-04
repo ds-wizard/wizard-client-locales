@@ -1,7 +1,7 @@
 # Pinar Alper <pinarpink@yahoo.com>, 2023.
 # Marek Suchánek <marek.suchanek@ds-wizard.org>, 2023, 2024.
 msgid ""
-msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2024-05-07T07:10:40.159Z\nPO-Revision-Date: 2024-05-07 12:04+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Turkish <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-6-0/tr/>\nLanguage: tr\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.18.2\n"
+msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2024-05-07T07:10:40.159Z\nPO-Revision-Date: 2024-06-04 08:03+0000\nLast-Translator: Marek Suchánek <marek.suchanek@ds-wizard.org>\nLanguage-Team: Turkish <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-6-0/tr/>\nLanguage: tr\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.18.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -1479,7 +1479,6 @@ msgid "Report Issue"
 msgstr "Rapor sorunu"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:778
-#, fuzzy
 msgid "About %s"
 msgstr "Hakkında %s"
 
@@ -1840,7 +1839,6 @@ msgid "Import Document Template"
 msgstr "Belge Şablonunu İçe Aktar"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ImportDocumentTemplateWidget.elm:19
-#, fuzzy
 msgid "Document templates transform answers from a questionnaire into a document. This document can be anything, from PDF to machine-actionable JSON. You can import existing document templates from [%s](%s/templates) or [develop new ones](%s)."
 msgstr "Belge şablonları, bir anketten alınan yanıtları bir belgeye dönüştürür. Bu belge PDF'den makine tarafından işlenebilir JSON'a kadar her şey olabilir. Mevcut belge şablonlarını [%s](%s/templates)'den içe aktarabilir veya [yenilerini geliştirebilirsiniz](%s)."
 
@@ -4411,7 +4409,6 @@ msgid "Default document format"
 msgstr "Varsayılan belge biçimi"
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:374
-#, fuzzy
 msgid "Other users can use project templates so they don't have to start their new projects from scratch. Project templates follow the same sharing policy as projects, so make sure to share them with users who should use them."
 msgstr "Diğer kullanıcılar proje şablonlarını kullanabilir, böylece yeni projelerine sıfırdan başlamak zorunda kalmazlar. Proje şablonları projelerle aynı paylaşım politikasını izler, bu nedenle bunları kullanması gereken kullanıcılarla paylaştığınızdan emin olun."
 
@@ -5121,7 +5118,6 @@ msgid "Integration Config"
 msgstr "Entegrasyon Yapılandırması"
 
 #: engine-wizard/elm/Wizard/Settings/KnowledgeModels/View.elm:69
-#, fuzzy
 msgid "Integration config is used to configure [secrets and other properties](%s) for integrations in knowledge models."
 msgstr "Bütünleştirme yapılandırması, bilgi modellerindeki bütünleştirmeler için [gizli dizileri ve diğer özellikleri] (%s) yapılandırmak için kullanılır."
 
