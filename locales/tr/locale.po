@@ -1,17 +1,7 @@
 # Pinar Alper <pinarpink@yahoo.com>, 2023.
 # Marek Suchánek <marek.suchanek@ds-wizard.org>, 2023, 2024.
 msgid ""
-msgstr ""
-"Project-Id-Version: wizard-client:3.18.3\n"
-"POT-Creation-Date: 2024-06-04T09:14:24.907Z \n"
-"PO-Revision-Date: 2024-06-04 08:03+0000\n"
-"Last-Translator: Marek Suchánek <marek.suchanek@ds-wizard.org>\n"
-"Language-Team: Turkish <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-6-0/tr/>\n"
-"Language: tr\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.18.2\n"
+msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2024-06-04T09:14:24.907Z\nPO-Revision-Date: 2024-06-05 08:13+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Turkish <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-7-0/tr/>\nLanguage: tr\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.18.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -1864,8 +1854,9 @@ msgid "Import Document Template"
 msgstr "Belge Şablonunu İçe Aktar"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ImportDocumentTemplateWidget.elm:19
+#, fuzzy
 msgid "Document templates transform answers from a questionnaire into a document. This document can be anything, from PDF to machine-actionable JSON. You can import existing document templates from [%s](%s) or [develop new ones](%s)."
-msgstr ""
+msgstr "Belge şablonları, bir anketten alınan yanıtları bir belgeye dönüştürür. Bu belge PDF'den makine tarafından işlenebilir JSON'a kadar her şey olabilir. Mevcut belge şablonlarını [%s](%s/templates)'den içe aktarabilir veya [yenilerini geliştirebilirsiniz](%s)."
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ImportDocumentTemplateWidget.elm:26
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ImportKnowledgeModelWidget.elm:22
