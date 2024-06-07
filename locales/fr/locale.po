@@ -1,7 +1,7 @@
 # Marek Suchánek <marek.suchanek@ds-wizard.org>, 2023.
 # Paulette Lieby <paulette.lieby@france-bioinformatique.fr>, 2023, 2024.
 msgid ""
-msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2024-06-04T09:14:24.907Z\nPO-Revision-Date: 2024-06-05 08:13+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: French <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-7-0/fr/>\nLanguage: fr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 4.18.2\n"
+msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2024-06-04T09:14:24.907Z\nPO-Revision-Date: 2024-06-08 12:41+0000\nLast-Translator: Paulette Lieby <paulette.lieby@france-bioinformatique.fr>\nLanguage-Team: French <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-7-0/fr/>\nLanguage: fr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 4.18.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -1854,7 +1854,6 @@ msgid "Import Document Template"
 msgstr "Importer un modèle de documents"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ImportDocumentTemplateWidget.elm:19
-#, fuzzy
 msgid "Document templates transform answers from a questionnaire into a document. This document can be anything, from PDF to machine-actionable JSON. You can import existing document templates from [%s](%s) or [develop new ones](%s)."
 msgstr "Les modèles de document transforment les réponses d'un questionnaire en un document. Le format du document est au choix, du PDF au JSON exploitable par une machine. Vous pouvez importer des modèles de document existants à partir de [%s](%s/templates) ou [en développer de nouveaux](%s)."
 
@@ -3977,7 +3976,7 @@ msgstr "Le questionnaire n'a pas pu être enregistré."
 
 #: engine-wizard/elm/Wizard/Locales/Common/LocaleActionsDropdown.elm:75
 msgid "Set default"
-msgstr "Utiliser le défaut"
+msgstr "Définir comme défaut"
 
 #: engine-wizard/elm/Wizard/Locales/Common/LocaleActionsDropdown.elm:88
 #: engine-wizard/elm/Wizard/ProjectActions/Index/View.elm:83
