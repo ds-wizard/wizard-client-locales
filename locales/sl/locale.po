@@ -3,17 +3,7 @@
 # Marek Suchánek <marek.suchanek@ds-wizard.org>, 2024.
 # Jana Martínková <j.martinkova@outlook.com>, 2024.
 msgid ""
-msgstr ""
-"Project-Id-Version: wizard-client:4.1.0\n"
-"POT-Creation-Date: 2024-07-02T08:00:01.717Z \n"
-"PO-Revision-Date: 2024-06-26 09:32+0000\n"
-"Last-Translator: Jana Martínková <j.martinkova@outlook.com>\n"
-"Language-Team: Slovenian <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-7-0/sl/>\n"
-"Language: sl\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3;\n"
-"X-Generator: Weblate 4.18.2\n"
+msgstr "Project-Id-Version: wizard-client:4.1.0\nPOT-Creation-Date: 2024-07-02T08:00:01.717Z\nPO-Revision-Date: 2024-07-03 09:20+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Slovenian <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-8-0/sl/>\nLanguage: sl\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3;\nX-Generator: Weblate 4.18.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -223,8 +213,9 @@ msgid "Asset \"%s\" was not found in archive."
 msgstr "Sredstvo \"%s\" ni bilo najdeno v arhivu."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:150
+#, fuzzy
 msgid "Invalid credentials."
-msgstr ""
+msgstr "Neveljavne poverilnice."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:156
 msgid "Link is not valid."
@@ -605,8 +596,9 @@ msgid "Unable to get version history."
 msgstr "Ni mogoče pridobiti zgodovine različic."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1144
+#, fuzzy
 msgid "Unable to get comments."
-msgstr ""
+msgstr "Ni mogoče dobiti komentarjev."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1155
 #: engine-wizard/elm/Wizard/ProjectActions/Index/Update.elm:70
@@ -892,20 +884,23 @@ msgid "There are no follow up questions in this phase."
 msgstr "V tej fazi ni nadaljnjih vprašanj."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2869
+#, fuzzy
 msgid "Expand"
-msgstr ""
+msgstr "Razširite"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2874
+#, fuzzy
 msgid "%s %s follow up question"
 msgid_plural "%s %s follow up questions"
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
-msgstr[3] ""
+msgstr[3] "%s %s nadaljnja vprašanja"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2884
+#, fuzzy
 msgid "Collapse"
-msgstr ""
+msgstr "Zbijanje"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2919
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:62
@@ -4267,13 +4262,15 @@ msgid "Public link"
 msgstr "Javna povezava"
 
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:43
+#, fuzzy
 msgid "Anyone with the link can access the project. No login is required."
-msgstr ""
+msgstr "Do projekta lahko dostopa vsak, ki ima povezavo. Prijava ni potrebna."
 
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:47
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:92
+#, fuzzy
 msgid "Private project accessible only by you."
-msgstr ""
+msgstr "Zasebni projekt, ki je dostopen samo vam."
 
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:50
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:614
@@ -4281,57 +4278,65 @@ msgid "Visible by all other logged-in users"
 msgstr "Vidno vsem drugim prijavljenim uporabnikom"
 
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:51
+#, fuzzy
 msgid "Other logged-in users can access the project. No explicit permission is required."
-msgstr ""
+msgstr "Do projekta lahko dostopajo tudi drugi prijavljeni uporabniki. Izrecno dovoljenje ni potrebno."
 
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:61
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:103
+#, fuzzy
 msgid "Shared with %s and %s."
-msgstr ""
+msgstr "V skupni rabi z %s in %s."
 
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:63
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:104
+#, fuzzy
 msgid "%s user"
 msgid_plural "%s users"
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
-msgstr[3] ""
+msgstr[3] "%s uporabnikov"
 
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:66
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:105
+#, fuzzy
 msgid "%s user group"
 msgid_plural "%s user groups"
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
-msgstr[3] ""
+msgstr[3] "%s skupine uporabnikov"
 
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:73
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:109
+#, fuzzy
 msgid "Shared with %s user group."
 msgid_plural "Shared with %s user groups."
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
-msgstr[3] ""
+msgstr[3] "V skupni rabi z %s skupinami uporabnikov."
 
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:80
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:113
+#, fuzzy
 msgid "Shared with %s user."
 msgid_plural "Shared with %s users."
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
-msgstr[3] ""
+msgstr[3] "V skupni rabi z %s uporabniki."
 
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:89
+#, fuzzy
 msgid "Anyone with the link can access the project."
-msgstr ""
+msgstr "Do projekta lahko dostopa vsak, ki ima povezavo."
 
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:95
+#, fuzzy
 msgid "Other logged-in users can access the project."
-msgstr ""
+msgstr "Do projekta lahko dostopajo tudi drugi prijavljeni uporabniki."
 
 #: engine-wizard/elm/Wizard/Projects/Create/Update.elm:109
 msgid "Unable to get selected project template."
@@ -4419,8 +4424,9 @@ msgid "Original Knowledge Model"
 msgstr "Izvirni model znanja"
 
 #: engine-wizard/elm/Wizard/Projects/CreateMigration/View.elm:89
+#, fuzzy
 msgid "Original Version"
-msgstr ""
+msgstr "Izvirna različica"
 
 #: engine-wizard/elm/Wizard/Projects/CreateMigration/View.elm:95
 msgid "New Knowledge Model"
