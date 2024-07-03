@@ -4,7 +4,17 @@
 # timsu100 <tim.surber96@gmail.com>, 2023.
 # Jana Martínková <j.martinkova@outlook.com>, 2024.
 msgid ""
-msgstr "Project-Id-Version: wizard-client:3.21.0\nPOT-Creation-Date: 2024-06-04T09:14:24.907Z\nPO-Revision-Date: 2024-06-26 09:32+0000\nLast-Translator: Jana Martínková <j.martinkova@outlook.com>\nLanguage-Team: German <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-7-0/de/>\nLanguage: de\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.18.2\n"
+msgstr ""
+"Project-Id-Version: wizard-client:3.21.0\n"
+"POT-Creation-Date: 2024-07-02T08:00:01.717Z \n"
+"PO-Revision-Date: 2024-06-26 09:32+0000\n"
+"Last-Translator: Jana Martínková <j.martinkova@outlook.com>\n"
+"Language-Team: German <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-7-0/de/>\n"
+"Language: de\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.18.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -136,7 +146,6 @@ msgid "Visible - View"
 msgstr "Sichtbar - Ansicht"
 
 #: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireVisibility.elm:150
-#: engine-wizard/elm/Wizard/Projects/Common/View.elm:25
 msgid "Other logged-in users can view the project."
 msgstr "Andere eingeloggte Benutzer:innen können das Projekt einsehen."
 
@@ -153,7 +162,6 @@ msgid "Visible - Edit"
 msgstr "Sichtbar - Bearbeiten"
 
 #: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireVisibility.elm:158
-#: engine-wizard/elm/Wizard/Projects/Common/View.elm:22
 msgid "Other logged-in users can edit the project."
 msgstr "Andere eingeloggte Benutzer:innen können das Projekt bearbeiten."
 
@@ -166,188 +174,192 @@ msgid "comment"
 msgstr "Kommentar"
 
 #: engine-shared/elm/Shared/Data/QuestionnairePermission.elm:62
-#: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:511
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:595
 msgid "edit"
 msgstr "bearbeiten"
 
-#: engine-shared/elm/Shared/Error/ServerError.elm:103
+#: engine-shared/elm/Shared/Error/ServerError.elm:111
 msgid "You do not have permission to view this page."
 msgstr "Sie haben keine Erlaubnis, diese Seite zu sehen."
 
-#: engine-shared/elm/Shared/Error/ServerError.elm:111
+#: engine-shared/elm/Shared/Error/ServerError.elm:119
 msgid "Knowledge Model ID is already used."
 msgstr "Die Knowledge Model ID wird bereits verwendet."
 
-#: engine-shared/elm/Shared/Error/ServerError.elm:114
+#: engine-shared/elm/Shared/Error/ServerError.elm:122
 msgid "Knowledge Model already exists."
 msgstr "Das Wissensmodell existiert bereits."
 
-#: engine-shared/elm/Shared/Error/ServerError.elm:117
+#: engine-shared/elm/Shared/Error/ServerError.elm:125
 msgid "Knowledge Model metamodel version is not supported."
 msgstr "Die Metamodell-Version des Wissensmodells wird nicht unterstützt."
 
-#: engine-shared/elm/Shared/Error/ServerError.elm:120
+#: engine-shared/elm/Shared/Error/ServerError.elm:128
 msgid "Document template already exists."
 msgstr "Die Dokumentvorlage existiert bereits."
 
-#: engine-shared/elm/Shared/Error/ServerError.elm:123
+#: engine-shared/elm/Shared/Error/ServerError.elm:131
 msgid "Locale already exists."
 msgstr "Die Lokalisations-Variable existiert bereits."
 
-#: engine-shared/elm/Shared/Error/ServerError.elm:126
-#: engine-shared/elm/Shared/Error/ServerError.elm:142
+#: engine-shared/elm/Shared/Error/ServerError.elm:134
+#: engine-shared/elm/Shared/Error/ServerError.elm:153
 msgid "Email is already used."
 msgstr "E-Mail wird bereits verwendet."
 
-#: engine-shared/elm/Shared/Error/ServerError.elm:129
+#: engine-shared/elm/Shared/Error/ServerError.elm:137
 msgid "New version has to be higher than the previous one."
 msgstr "Die neue Version muss größer sein als die vorherige."
 
-#: engine-shared/elm/Shared/Error/ServerError.elm:132
+#: engine-shared/elm/Shared/Error/ServerError.elm:140
 msgid "\"template.json\" was not found in archive."
 msgstr "\"template.json\" wurde nicht im Archiv gefunden."
 
-#: engine-shared/elm/Shared/Error/ServerError.elm:135
+#: engine-shared/elm/Shared/Error/ServerError.elm:143
 msgid "Error while parsing template.json: \"%s\"."
 msgstr "Fehler beim Parsen von template.json: \"%s\"."
 
-#: engine-shared/elm/Shared/Error/ServerError.elm:138
+#: engine-shared/elm/Shared/Error/ServerError.elm:146
 msgid "Asset \"%s\" was not found in archive."
 msgstr "Asset \"%s\" wurde im Archiv nicht gefunden."
 
-#: engine-shared/elm/Shared/Error/ServerError.elm:145
+#: engine-shared/elm/Shared/Error/ServerError.elm:150
+msgid "Invalid credentials."
+msgstr ""
+
+#: engine-shared/elm/Shared/Error/ServerError.elm:156
 msgid "Link is not valid."
 msgstr "Der Link ist nicht gültig."
 
-#: engine-shared/elm/Shared/Error/ServerError.elm:148
+#: engine-shared/elm/Shared/Error/ServerError.elm:159
 msgid "This email is not connected to any organization."
 msgstr "Diese E-Mail ist nicht mit einer Organisation verbunden."
 
-#: engine-shared/elm/Shared/Error/ServerError.elm:151
+#: engine-shared/elm/Shared/Error/ServerError.elm:162
 msgid "Organization email is already used."
 msgstr "Die E-Mail-Adresse der Organisation wird bereits verwendet."
 
-#: engine-shared/elm/Shared/Error/ServerError.elm:154
+#: engine-shared/elm/Shared/Error/ServerError.elm:165
 msgid "Organization ID is already used."
 msgstr "Die Organisations-ID wird bereits verwendet."
 
-#: engine-shared/elm/Shared/Error/ServerError.elm:157
-#: engine-shared/elm/Shared/Error/ServerError.elm:263
-#: engine-shared/elm/Shared/Error/ServerError.elm:266
+#: engine-shared/elm/Shared/Error/ServerError.elm:168
+#: engine-shared/elm/Shared/Error/ServerError.elm:274
+#: engine-shared/elm/Shared/Error/ServerError.elm:277
 msgid "A hash query param has to be provided."
 msgstr "Es muss ein Hash-Abfrage-Parameter angegeben werden."
 
-#: engine-shared/elm/Shared/Error/ServerError.elm:161
+#: engine-shared/elm/Shared/Error/ServerError.elm:172
 msgid "App ID is already used."
 msgstr "Die App-ID wird bereits verwendet."
 
-#: engine-shared/elm/Shared/Error/ServerError.elm:164
+#: engine-shared/elm/Shared/Error/ServerError.elm:175
 msgid "File with this name already exists."
 msgstr "Datei mit diesem Namen existiert bereits."
 
-#: engine-shared/elm/Shared/Error/ServerError.elm:167
+#: engine-shared/elm/Shared/Error/ServerError.elm:178
 msgid "Authentication Code is not provided."
 msgstr "Authentifizierungscode wurde nicht angegeben."
 
-#: engine-shared/elm/Shared/Error/ServerError.elm:170
+#: engine-shared/elm/Shared/Error/ServerError.elm:181
 msgid "Profile Information from OpenID service is missing."
 msgstr "Es fehlen Profilinformationen vom OpenID-Dienst."
 
-#: engine-shared/elm/Shared/Error/ServerError.elm:173
+#: engine-shared/elm/Shared/Error/ServerError.elm:184
 msgid "Document template cannot be deleted because it is used in some projects or documents."
 msgstr "Die Dokumentvorlage kann nicht gelöscht werden, da sie in einigen Projekten oder Dokumenten verwendet wird."
 
-#: engine-shared/elm/Shared/Error/ServerError.elm:176
+#: engine-shared/elm/Shared/Error/ServerError.elm:187
 msgid "Document template metamodel version is not supported."
 msgstr "Die Version des Metamodells der Dokumentvorlage wird nicht unterstützt."
 
-#: engine-shared/elm/Shared/Error/ServerError.elm:187
-#: engine-shared/elm/Shared/Error/ServerError.elm:224
-#: engine-shared/elm/Shared/Error/ServerError.elm:227
+#: engine-shared/elm/Shared/Error/ServerError.elm:198
+#: engine-shared/elm/Shared/Error/ServerError.elm:235
+#: engine-shared/elm/Shared/Error/ServerError.elm:238
 msgid "Limit of %s reached (current: %s, limit: %s)"
 msgstr "Grenze von %s erreicht (aktuell: %s, Grenze: %s)"
 
-#: engine-shared/elm/Shared/Error/ServerError.elm:188
+#: engine-shared/elm/Shared/Error/ServerError.elm:199
 msgid "storage"
 msgstr "Speicher"
 
-#: engine-shared/elm/Shared/Error/ServerError.elm:195
+#: engine-shared/elm/Shared/Error/ServerError.elm:206
 msgid "users"
 msgstr "Benutzer:innen"
 
-#: engine-shared/elm/Shared/Error/ServerError.elm:198
+#: engine-shared/elm/Shared/Error/ServerError.elm:209
 msgid "active users"
 msgstr "aktive Nutzer:innen"
 
-#: engine-shared/elm/Shared/Error/ServerError.elm:201
+#: engine-shared/elm/Shared/Error/ServerError.elm:212
 msgid "knowledge model editors"
 msgstr "Wissensmodell-Editoren"
 
-#: engine-shared/elm/Shared/Error/ServerError.elm:204
+#: engine-shared/elm/Shared/Error/ServerError.elm:215
 msgid "knowledge models"
 msgstr "Wissensmodelle"
 
-#: engine-shared/elm/Shared/Error/ServerError.elm:207
+#: engine-shared/elm/Shared/Error/ServerError.elm:218
 msgid "projects"
 msgstr "Projekte"
 
-#: engine-shared/elm/Shared/Error/ServerError.elm:210
+#: engine-shared/elm/Shared/Error/ServerError.elm:221
 msgid "document templates"
 msgstr "Dokumentenvorlagen"
 
-#: engine-shared/elm/Shared/Error/ServerError.elm:213
+#: engine-shared/elm/Shared/Error/ServerError.elm:224
 msgid "document template editors"
 msgstr "Dokumentenvorlagen-Editoren"
 
-#: engine-shared/elm/Shared/Error/ServerError.elm:216
+#: engine-shared/elm/Shared/Error/ServerError.elm:227
 msgid "documents"
 msgstr "Dokumente"
 
-#: engine-shared/elm/Shared/Error/ServerError.elm:219
+#: engine-shared/elm/Shared/Error/ServerError.elm:230
 msgid "locales"
 msgstr "Lokalisierung"
 
-#: engine-shared/elm/Shared/Error/ServerError.elm:230
+#: engine-shared/elm/Shared/Error/ServerError.elm:241
 msgid "\"locale.json\" was not found in archive."
 msgstr "\"locale.json\" wurde nicht im Archiv gefunden."
 
-#: engine-shared/elm/Shared/Error/ServerError.elm:233
+#: engine-shared/elm/Shared/Error/ServerError.elm:244
 msgid "Error while parsing locale.json: \"%s\"."
 msgstr "Fehler beim Parsen von locale.json: \"%s\"."
 
-#: engine-shared/elm/Shared/Error/ServerError.elm:236
+#: engine-shared/elm/Shared/Error/ServerError.elm:247
 msgid "File \"%s\" was not found in archive."
 msgstr "Die Datei \"%s\" wurde im Archiv nicht gefunden."
 
-#: engine-shared/elm/Shared/Error/ServerError.elm:239
+#: engine-shared/elm/Shared/Error/ServerError.elm:250
 msgid "The locale not found in Registry"
 msgstr "Die Lokalisierung wurde nicht in der Registry gefunden"
 
-#: engine-shared/elm/Shared/Error/ServerError.elm:242
+#: engine-shared/elm/Shared/Error/ServerError.elm:253
 msgid "Knowledge Model cannot be deleted because it is used in some Projects or Knowledge Model Editors."
 msgstr "Das Wissensmodell kann nicht gelöscht werden, da es in einigen Projekten oder Wissensmodell-Editoren verwendet wird."
 
-#: engine-shared/elm/Shared/Error/ServerError.elm:245
+#: engine-shared/elm/Shared/Error/ServerError.elm:256
 msgid "The Knowledge Model was not found in the Registry."
 msgstr "Das Wissensmodell wurde in der Registry nicht gefunden."
 
-#: engine-shared/elm/Shared/Error/ServerError.elm:248
+#: engine-shared/elm/Shared/Error/ServerError.elm:259
 msgid "Project cannot be deleted because it is used in some project migration."
 msgstr "Das Projekt kann nicht gelöscht werden, da es in einer Projektmigration verwendet wird."
 
-#: engine-shared/elm/Shared/Error/ServerError.elm:251
+#: engine-shared/elm/Shared/Error/ServerError.elm:262
 msgid "The document template was not found in the Registry."
 msgstr "Die Dokumentvorlage wurde nicht in der Registry gefunden."
 
-#: engine-shared/elm/Shared/Error/ServerError.elm:254
+#: engine-shared/elm/Shared/Error/ServerError.elm:265
 msgid "Incorrect email or password"
 msgstr "Falsche E-Mail oder falsches Passwort"
 
-#: engine-shared/elm/Shared/Error/ServerError.elm:257
+#: engine-shared/elm/Shared/Error/ServerError.elm:268
 msgid "Incorrect authentication code"
 msgstr "Falscher Authentifizierungscode"
 
-#: engine-shared/elm/Shared/Error/ServerError.elm:260
+#: engine-shared/elm/Shared/Error/ServerError.elm:271
 msgid "The account is not activated."
 msgstr "Das Konto ist nicht aktiviert."
 
@@ -413,8 +425,9 @@ msgid "Close and Accept"
 msgstr "Schließen und akzeptieren"
 
 #: engine-wizard/elm/Wizard/Common/Components/CopyableCodeBlock.elm:48
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3305
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3542
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:760
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:424
 msgid "Copied!"
 msgstr "Kopiert!"
 
@@ -567,7 +580,7 @@ msgstr "Plan"
 #: engine-wizard/elm/Wizard/Common/Components/PlansList.elm:97
 #: engine-wizard/elm/Wizard/Common/Components/UsageTable.elm:16
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:209
-#: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:457
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:541
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:500
 #: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:197
 #: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:228
@@ -587,167 +600,182 @@ msgstr "Von"
 msgid "To"
 msgstr "An"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:743
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:858
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:867
 msgid "Unable to get version history."
 msgstr "Versionsverlauf kann nicht abgerufen werden."
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1121
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1144
+msgid "Unable to get comments."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1155
+#: engine-wizard/elm/Wizard/ProjectActions/Index/Update.elm:70
+msgid "Unable to get project actions."
+msgstr "Es können keine Projektaktionen abgerufen werden."
+
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1167
+#: engine-wizard/elm/Wizard/ProjectImporters/Index/Update.elm:70
+msgid "Unable to get project importers."
+msgstr "Es können keine Projekt-Importer abgerufen werden."
+
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1313
 msgid "Unable to get type hints."
 msgstr "Es ist nicht möglich, Typ-Hinweise abzurufen."
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1242
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1440
 msgid "project migration"
 msgstr "Projektmigration"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1245
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1443
 msgid "There is an ongoing %s. Finish it before you can continue editing this project."
 msgstr "Es gibt eine laufende %s. Beenden Sie diese, bevor Sie das Projekt weiter bearbeiten können."
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1304
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1502
 msgid "View"
 msgstr "Siehe"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1308
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1506
 #: engine-wizard/elm/Wizard/DocumentTemplates/Detail/View.elm:330
 #: engine-wizard/elm/Wizard/KnowledgeModels/Detail/View.elm:216
 msgid "Show all"
 msgstr "Alle anzeigen"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1311
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1509
 msgid "Hide all"
 msgstr "Alle ausblenden"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1315
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1513
 msgid "Answered by"
 msgstr "Beantwortet von"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1320
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1518
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:542
 #: engine-wizard/elm/Wizard/KMEditor/Editor/View.elm:176
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:397
 msgid "Phases"
 msgstr "Phasen"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1325
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1523
 msgid "Question tags"
 msgstr "Frage-Tags"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1330
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1528
 msgid "Non-desirable questions"
 msgstr "Unerwünschte Fragen"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1335
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1533
 msgid "Metric values"
 msgstr "Metrische Werte"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1351
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1546
 msgid "Import replies"
 msgstr "Antworten importieren"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1373
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1569
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:152
 msgid "Actions"
 msgstr "Aktionen"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1442
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1642
 msgid "TODOs"
 msgstr "TODOs"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1463
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1977
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1978
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3233
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1663
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2183
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2184
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3470
 msgid "Comments"
 msgstr "Kommentare"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1474
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1674
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:322
 msgid "Warnings"
 msgstr "Warnungen"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1488
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1688
 msgid "Version history"
 msgstr "Versionsverlauf"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1522
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1722
 msgid "Action succeeded!"
 msgstr "Aktion gelungen!"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1527
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1727
 msgid "Action failed!"
 msgstr "Aktion gescheitert!"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1540
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1740
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:742
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:795
 #: engine-wizard/elm/Wizard/Common/View/Modal.elm:155
 msgid "OK"
 msgstr "OK"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1599
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1799
 msgid "Current Phase"
 msgstr "Aktuelle Phase"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1658
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1858
 msgid "Select phase"
 msgstr "Phase auswählen"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1780
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1983
 msgid "All TODOs have been completed."
 msgstr "Alle TODOs wurden abgeschlossen."
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1864
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2067
 msgid "Click the %s icon to add new comments to a question."
 msgstr "Klicken Sie auf das Symbol %s, um neue Kommentare zu einer Frage hinzuzufügen."
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1896
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2102
 msgid "Editor notes are only visible to project Editors and Owners."
 msgstr "Bearbeitungsnotizen sind nur für Projektbearbeitende und -verantwortliche sichtbar."
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1913
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2119
 msgid "View resolved comments"
 msgstr "Gelöste Kommentare anzeigen"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1929
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2135
 msgid "Comment"
 msgstr "Kommentar"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1930
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2136
 msgid "Create a new comment..."
 msgstr "Einen neuen Kommentar erstellen..."
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1989
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1990
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2195
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2196
 msgid "Editor notes"
 msgstr "Bearbeitungsnotiz"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2004
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2210
 msgid "Delete this comment thread?"
 msgstr "Diesen Kommentar-Thread löschen?"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2017
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2223
 msgid "Reply"
 msgstr "Antwort"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2018
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2224
 msgid "Reply..."
 msgstr "Antwort..."
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2063
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2121
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2269
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2327
 #: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:58
 #: engine-wizard/elm/Wizard/Users/Index/View.elm:147
 msgid "Edit"
 msgstr "Bearbeiten"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2068
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2249
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2276
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2274
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2455
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2482
 #: engine-wizard/elm/Wizard/Common/View/FormActions.elm:23
 #: engine-wizard/elm/Wizard/Common/View/FormActions.elm:31
 #: engine-wizard/elm/Wizard/Common/View/FormActions.elm:39
 #: engine-wizard/elm/Wizard/Common/View/Modal.elm:109
-#: engine-wizard/elm/Wizard/Documents/Index/View.elm:380
+#: engine-wizard/elm/Wizard/Documents/Index/View.elm:391
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/FileEditor.elm:1281
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/FileEditor/AssetUploadModal.elm:266
 #: engine-wizard/elm/Wizard/DocumentTemplates/Import/FileImport/View.elm:72
@@ -755,30 +783,30 @@ msgstr "Bearbeiten"
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2238
 #: engine-wizard/elm/Wizard/KnowledgeModels/Import/FileImport/View.elm:76
 #: engine-wizard/elm/Wizard/Locales/Import/FileImport/View.elm:72
-#: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:395
+#: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:393
 #: engine-wizard/elm/Wizard/Projects/Import/View.elm:119
 #: engine-wizard/elm/Wizard/Settings/Registry/View.elm:122
 msgid "Cancel"
 msgstr "Abbrechen"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2079
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2285
 msgid "Delete this comment?"
 msgstr "Diesen Kommentar löschen?"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2103
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2309
 msgid "Resolve comment thread"
 msgstr "Kommentar-Thread auflösen"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2113
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2319
 msgid "Reopen"
 msgstr "erneut öffnen"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2131
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2275
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2781
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2337
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2481
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3018
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire/DeleteVersionModal.elm:131
-#: engine-wizard/elm/Wizard/Documents/Index/View.elm:227
-#: engine-wizard/elm/Wizard/Documents/Index/View.elm:340
+#: engine-wizard/elm/Wizard/Documents/Index/View.elm:238
+#: engine-wizard/elm/Wizard/Documents/Index/View.elm:351
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/FileEditor.elm:955
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/FileEditor.elm:1305
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Index/View.elm:98
@@ -799,8 +827,8 @@ msgstr "erneut öffnen"
 #: engine-wizard/elm/Wizard/Locales/Index/View.elm:189
 #: engine-wizard/elm/Wizard/Projects/Common/DeleteProjectModal/View.elm:36
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings/DeleteModal.elm:123
-#: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:240
-#: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:355
+#: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:238
+#: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:353
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:671
 #: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:271
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:284
@@ -810,173 +838,189 @@ msgstr "erneut öffnen"
 msgid "Delete"
 msgstr "Löschen"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2168
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2374
 msgid "edited"
 msgstr "bearbeitet"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2189
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire/History.elm:519
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2395
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire/History.elm:520
 msgid "Anonymous user"
 msgstr "Anonymer Benutzer:in"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2325
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2531
 msgid "This chapter contains no questions."
 msgstr "Dieses Kapitel enthält keine Fragen."
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2335
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2761
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2541
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2998
 msgid "There are no questions in this phase."
 msgstr "In dieser Phase gibt es keine Fragen."
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2389
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2595
 msgid "Previous Chapter"
 msgstr "Vorheriges Kapitel"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2394
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2600
 msgid "Next Chapter"
 msgstr "Nächstes Kapitel"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2499
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2705
 msgid "anonymous user"
 msgstr "anonyme:r Benutzer:in"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2511
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2717
 msgid "Answered %s by %s."
 msgstr "Beantwortet %s von %s."
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2536
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2742
 msgid "This question has been answered"
 msgstr "Diese Frage wurde bereits beantwortet"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2539
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2745
 msgid "This question should be answered now"
 msgstr "Diese Frage sollte jetzt beantwortet werden"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2542
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2748
 msgid "This question can be answered later"
 msgstr "Diese Frage kann später beantwortet werden"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2614
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2820
 msgid "Clear answer"
 msgstr "Antwort löschen"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2647
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2853
 msgid "There are no follow up questions in this phase."
 msgstr "In dieser Phase gibt es keine Folgefragen."
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2682
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2869
+msgid "Expand"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2874
+msgid "%s %s follow up question"
+msgid_plural "%s %s follow up questions"
+msgstr[0] ""
+msgstr[1] ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2884
+msgid "Collapse"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2919
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:62
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/TreeInput.elm:101
 msgid "Expand all"
 msgstr "Alle erweitern"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2689
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2926
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:66
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/TreeInput.elm:108
 msgid "Collapse all"
 msgstr "Alle einklappen"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2705
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2942
 msgid "There are no answers yet."
 msgstr "Es liegen noch keine Antworten vor."
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2729
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2966
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/FileEditor.elm:906
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:636
-#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:505
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:497
 #: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:211
 msgid "Add"
 msgstr "hinzufügen"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2753
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2990
 msgid "This item contains no questions."
 msgstr "Dieser Artikel enthält keine Fragen."
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2794
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3031
 msgid "Move Up"
 msgstr "Nach oben"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2807
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3044
 msgid "Move Down"
 msgstr "Nach unten bewegen"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2816
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3053
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire/NavigationTree.elm:251
 msgid "Item %s"
 msgstr "Artikel %s"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2911
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3148
 msgid "This is not a valid email address."
 msgstr "Dies ist keine gültige E-Mail Adresse."
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2916
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3153
 msgid "This is not a valid URL."
 msgstr "Dies ist keine gültige URL."
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2924
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3161
 msgid "This is not a valid color."
 msgstr "Dies ist keine gültige Farbe."
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2965
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3202
 msgid "Select"
 msgstr "Auswählen"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3036
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3273
 msgid "There are no results for your search."
 msgstr "Es gibt keine Ergebnisse für Ihre Suche."
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3045
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3282
 #: engine-wizard/elm/Wizard/Common/Components/TypeHintInput.elm:283
+#: engine-wizard/elm/Wizard/Common/View/ActionResultBlock.elm:61
 #: engine-wizard/elm/Wizard/Common/View/Flash.elm:41
 #: engine-wizard/elm/Wizard/Common/View/Page.elm:40
 msgid "Loading..."
 msgstr "Laden..."
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3167
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3404
 msgid "This option leads to some follow up questions."
 msgstr "Diese Option wirft einige Folgefragen auf."
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3224
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3461
 msgid "1 comment"
 msgid_plural "%s comments"
 msgstr[0] "1 Kommentar"
 msgstr[1] "%s Kommentare"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3258
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3495
 msgid "TODO"
 msgstr "TODO"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3259
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3496
 msgid "Remove TODO"
 msgstr "TODO entfernen"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3269
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3506
 msgid "Add TODO"
 msgstr "TODO hinzufügen"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3291
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3528
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire/FeedbackModal.elm:147
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:98
 msgid "Feedback"
 msgstr "Rückmeldung"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3308
-#: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:555
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3545
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:446
+#: engine-wizard/elm/Wizard/Projects/Detail/View.elm:210
 msgid "Copy link"
 msgstr "Link kopieren"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3321
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3558
 msgid "Remove Item"
 msgstr "Artikel entfernen"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3322
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3559
 msgid "Are you sure you want to remove this item?"
 msgstr "Sind Sie sicher, dass Sie diesen Artikel entfernen möchten?"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3325
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3562
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:362
-#: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:425
-#: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:493
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:509
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:577
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:179
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:100
 msgid "Remove"
@@ -1030,8 +1074,9 @@ msgid "You can follow the GitHub %s."
 msgstr "Sie können auf GitHub %s folgen."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire/FeedbackModal.elm:141
-#: engine-wizard/elm/Wizard/Documents/Index/View.elm:364
-#: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:379
+#: engine-wizard/elm/Wizard/Documents/Index/View.elm:375
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:406
+#: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:377
 #: engine-wizard/elm/Wizard/Settings/Registry/View.elm:102
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:207
 msgid "Done"
@@ -1101,54 +1146,54 @@ msgstr "Titel"
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1957
 #: engine-wizard/elm/Wizard/KMEditor/Publish/View.elm:80
 #: engine-wizard/elm/Wizard/Locales/Create/View.elm:47
-#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:409
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:401
 #: engine-wizard/elm/Wizard/Settings/Organization/View.elm:47
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:105
 msgid "Description"
 msgstr "Beschreibung"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire/History.elm:168
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire/History.elm:169
 msgid "Named versions only"
 msgstr "Nur benannte Versionen"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire/History.elm:286
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire/History.elm:287
 msgid "Rename this version"
 msgstr "Diese Version umbenennen"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire/History.elm:295
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire/History.elm:296
 msgid "Delete this version"
 msgstr "Diese Version löschen"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire/History.elm:307
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire/History.elm:308
 msgid "Name this version"
 msgstr "Benennen Sie diese Version"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire/History.elm:323
-#: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:211
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire/History.elm:324
+#: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:209
 msgid "View questionnaire"
 msgstr "Fragebogen ansehen"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire/History.elm:332
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire/History.elm:333
 msgid "Create document"
 msgstr "Dokument erstellen"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire/History.elm:350
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire/History.elm:351
 msgid "Revert to this version"
 msgstr "Zu dieser Version zurückkehren"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire/History.elm:485
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire/History.elm:486
 msgid "Cleared reply of"
 msgstr "Gelöschte Antwort von"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire/History.elm:494
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire/History.elm:495
 msgid "Unset phase"
 msgstr "Unbestimmte Phase"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire/History.elm:502
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire/History.elm:503
 msgid "Unknown phase"
 msgstr "Unbekannte Phase"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire/History.elm:504
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire/History.elm:505
 msgid "Set phase to %s"
 msgstr "Phase auf %s setzen"
 
@@ -1193,8 +1238,8 @@ msgstr "Kapitel"
 #: engine-wizard/elm/Wizard/ProjectActions/Index/View.elm:45
 #: engine-wizard/elm/Wizard/ProjectImporters/Index/View.elm:44
 #: engine-wizard/elm/Wizard/Projects/Create/View.elm:52
-#: engine-wizard/elm/Wizard/Projects/Detail/Components/NewDocument.elm:306
-#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:408
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/NewDocument.elm:307
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:400
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:103
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:130
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:203
@@ -1218,14 +1263,13 @@ msgstr "Version umbenennen"
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Create/View.elm:78
 #: engine-wizard/elm/Wizard/KMEditor/Create/View.elm:82
 #: engine-wizard/elm/Wizard/KMEditor/Publish/View.elm:59
-#: engine-wizard/elm/Wizard/Projects/CreateMigration/View.elm:102
+#: engine-wizard/elm/Wizard/Projects/CreateMigration/View.elm:98
 msgid "New version"
 msgstr "Neue Fassung"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire/VersionModal.elm:173
 #: engine-wizard/elm/Wizard/Common/View/FormActions.elm:75
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/View.elm:74
-#: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:356
 #: engine-wizard/elm/Wizard/Public/ForgottenPasswordConfirmation/View.elm:45
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:40
 #: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:40
@@ -1243,7 +1287,7 @@ msgstr "Neue Fassung"
 msgid "Save"
 msgstr "Speichern"
 
-#: engine-wizard/elm/Wizard/Common/Components/QuestionnaireVersionTag.elm:20
+#: engine-wizard/elm/Wizard/Common/Components/QuestionnaireVersionTag.elm:19
 msgid "Current"
 msgstr "Aktuell"
 
@@ -1269,25 +1313,20 @@ msgstr "Sitzung Abgelaufen"
 msgid "Your session has expired. You need to log in again."
 msgstr "Ihre Sitzung ist abgelaufen. Sie müssen sich erneut anmelden."
 
-#: engine-wizard/elm/Wizard/Common/Components/SummaryReport.elm:81
-#: engine-wizard/elm/Wizard/Projects/Detail/Components/NewDocument.elm:156
-msgid "Unable to get the summary report."
-msgstr "Es ist nicht möglich die Zusammenfassung zu erhalten."
-
-#: engine-wizard/elm/Wizard/Common/Components/SummaryReport.elm:104
+#: engine-wizard/elm/Wizard/Common/Components/SummaryReport.elm:52
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:96
 msgid "Summary Report"
 msgstr "Zusammenfassender Bericht"
 
-#: engine-wizard/elm/Wizard/Common/Components/SummaryReport.elm:189
+#: engine-wizard/elm/Wizard/Common/Components/SummaryReport.elm:133
 msgid "Answered: %s/%s"
 msgstr "Beantwortet: %s/%s"
 
-#: engine-wizard/elm/Wizard/Common/Components/SummaryReport.elm:192
+#: engine-wizard/elm/Wizard/Common/Components/SummaryReport.elm:136
 msgid "Answered (current phase): %s/%s"
 msgstr "Beantwortet (aktuelle Phase): %s/%s"
 
-#: engine-wizard/elm/Wizard/Common/Components/SummaryReport.elm:222
+#: engine-wizard/elm/Wizard/Common/Components/SummaryReport.elm:162
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:525
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:517
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:382
@@ -1295,16 +1334,16 @@ msgstr "Beantwortet (aktuelle Phase): %s/%s"
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1447
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1485
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1523
-#: engine-wizard/elm/Wizard/Projects/Detail/View.elm:232
+#: engine-wizard/elm/Wizard/Projects/Detail/View.elm:260
 msgid "Metrics"
 msgstr "Metriken"
 
-#: engine-wizard/elm/Wizard/Common/Components/SummaryReport.elm:223
+#: engine-wizard/elm/Wizard/Common/Components/SummaryReport.elm:163
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:512
 msgid "Measure"
 msgstr "Maßnahme"
 
-#: engine-wizard/elm/Wizard/Common/Components/SummaryReport.elm:278
+#: engine-wizard/elm/Wizard/Common/Components/SummaryReport.elm:218
 msgid "Metrics explanation"
 msgstr "Erläuterung der Metriken"
 
@@ -1313,7 +1352,7 @@ msgid "No results matching your search were found."
 msgstr "Es wurden keine Ergebnisse zu Ihrer Suche gefunden."
 
 #: engine-wizard/elm/Wizard/Common/Components/TypeHintInput/TypeHintItem.elm:100
-#: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:409
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:493
 msgid "private"
 msgstr "privat"
 
@@ -1359,7 +1398,7 @@ msgstr "Projekte"
 #: engine-wizard/elm/Wizard/Common/Components/UsageTable.elm:23
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:165
 #: engine-wizard/elm/Wizard/Documents/Index/View.elm:75
-#: engine-wizard/elm/Wizard/Projects/Detail/View.elm:250
+#: engine-wizard/elm/Wizard/Projects/Detail/View.elm:278
 msgid "Documents"
 msgstr "Dokumente"
 
@@ -1436,8 +1475,8 @@ msgstr "Administration"
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/PublishModal.elm:116
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/Settings.elm:183
 #: engine-wizard/elm/Wizard/KMEditor/Editor/View.elm:203
-#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:323
-#: engine-wizard/elm/Wizard/Projects/Detail/View.elm:259
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:315
+#: engine-wizard/elm/Wizard/Projects/Detail/View.elm:287
 #: engine-wizard/elm/Wizard/Registry/RegistrySignupConfirmation/View.elm:32
 msgid "Settings"
 msgstr "Einstellungen"
@@ -1593,44 +1632,40 @@ msgstr[1] "fast %s Jahre"
 msgid "You have unsaved changes."
 msgstr "Sie haben ungesicherte Änderungen."
 
-#: engine-wizard/elm/Wizard/Common/View/FormGroup.elm:63
+#: engine-wizard/elm/Wizard/Common/View/FormGroup.elm:62
 msgid "(optional)"
 msgstr "(optional)"
 
-#: engine-wizard/elm/Wizard/Common/View/FormGroup.elm:261
-msgid "Only PDF documents are enabled in this instance."
-msgstr "In diesem Fall werden nur PDF-Dokumente aktiviert."
-
-#: engine-wizard/elm/Wizard/Common/View/FormGroup.elm:475
+#: engine-wizard/elm/Wizard/Common/View/FormGroup.elm:460
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:222
 msgid "You can use Markdown and see the result in the preview tab."
 msgstr "Sie können Markdown verwenden und das Ergebnis auf dem Reiter Vorschau sehen."
 
-#: engine-wizard/elm/Wizard/Common/View/FormGroup.elm:485
+#: engine-wizard/elm/Wizard/Common/View/FormGroup.elm:470
 msgid "You can use HTML or Markdown and see the result in the preview tab."
 msgstr "Sie können HTML oder Markdown verwenden und das Ergebnis auf dem Vorschaureiter sehen."
 
-#: engine-wizard/elm/Wizard/Common/View/FormGroup.elm:561
+#: engine-wizard/elm/Wizard/Common/View/FormGroup.elm:546
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:208
-#: engine-wizard/elm/Wizard/Projects/Common/QuestionnaireEditFormQuestionnairePermType.elm:63
+#: engine-wizard/elm/Wizard/Projects/Common/QuestionnaireShareFormMemberPermType.elm:63
 msgid "Editor"
 msgstr "Bearbeiter:in"
 
-#: engine-wizard/elm/Wizard/Common/View/FormGroup.elm:569
+#: engine-wizard/elm/Wizard/Common/View/FormGroup.elm:554
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:372
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/View.elm:140
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:216
 #: engine-wizard/elm/Wizard/KMEditor/Editor/View.elm:194
 #: engine-wizard/elm/Wizard/KnowledgeModels/Common/KnowledgeModelActionsDropdown.elm:61
-#: engine-wizard/elm/Wizard/Projects/Detail/View.elm:241
+#: engine-wizard/elm/Wizard/Projects/Detail/View.elm:269
 msgid "Preview"
 msgstr "Vorschau"
 
-#: engine-wizard/elm/Wizard/Common/View/FormGroup.elm:776
+#: engine-wizard/elm/Wizard/Common/View/FormGroup.elm:761
 msgid "Suggestions: "
 msgstr "Vorschläge: "
 
-#: engine-wizard/elm/Wizard/Common/View/FormGroup.elm:795
+#: engine-wizard/elm/Wizard/Common/View/FormGroup.elm:780
 msgid "The version number is in format X.Y.Z. Increasing number Z indicates only some fixes, number Y minor changes, and number X indicates a major change."
 msgstr "Die Versionsnummer hat das Format X.Y.Z. Die Erhöhung der Zahl Z bedeutet nur einige Korrekturen, die Zahl Y kleinere Änderungen und die Zahl X eine größere Änderung."
 
@@ -1668,10 +1703,10 @@ msgid "Log In"
 msgstr "Einloggen"
 
 #: engine-wizard/elm/Wizard/Common/View/Page.elm:48
-#: engine-wizard/elm/Wizard/Documents/Index/View.elm:264
-#: engine-wizard/elm/Wizard/Documents/Index/View.elm:282
-#: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:276
-#: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:294
+#: engine-wizard/elm/Wizard/Documents/Index/View.elm:275
+#: engine-wizard/elm/Wizard/Documents/Index/View.elm:293
+#: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:274
+#: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:292
 msgid "Error"
 msgstr "Fehler"
 
@@ -1727,8 +1762,8 @@ msgstr "Nutzungsstatistiken können nicht abgerufen werden."
 #: engine-wizard/elm/Wizard/KMEditor/Create/Update.elm:152
 #: engine-wizard/elm/Wizard/KnowledgeModels/Index/Update.elm:110
 #: engine-wizard/elm/Wizard/KnowledgeModels/Preview/Update.elm:59
-#: engine-wizard/elm/Wizard/Projects/CreateMigration/Update.elm:251
-#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:234
+#: engine-wizard/elm/Wizard/Projects/CreateMigration/Update.elm:253
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:231
 #: engine-wizard/elm/Wizard/Projects/Index/Update.elm:228
 #: engine-wizard/elm/Wizard/Projects/Index/Update.elm:259
 msgid "Unable to get Knowledge Models."
@@ -1738,7 +1773,7 @@ msgstr "Es können keine Wissensmodelle abgerufen werden."
 #: engine-wizard/elm/Wizard/Dashboard/Dashboards/DataStewardDashboard.elm:71
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Index/Update.elm:85
 #: engine-wizard/elm/Wizard/DocumentTemplates/Index/Update.elm:114
-#: engine-wizard/elm/Wizard/Projects/Detail/Components/NewDocument.elm:225
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/NewDocument.elm:226
 #: engine-wizard/elm/Wizard/Settings/Submission/Update.elm:40
 msgid "Unable to get document templates."
 msgstr "Es können keine Dokumentvorlagen abgerufen werden."
@@ -1818,8 +1853,8 @@ msgstr "Das Wissensmodell ist eine baumähnliche Struktur, die das Wissen darüb
 #: engine-wizard/elm/Wizard/Locales/Create/View.elm:59
 #: engine-wizard/elm/Wizard/Locales/Index/View.elm:157
 #: engine-wizard/elm/Wizard/Projects/Create/View.elm:56
-#: engine-wizard/elm/Wizard/Projects/CreateMigration/View.elm:108
-#: engine-wizard/elm/Wizard/Projects/Detail/Components/NewDocument.elm:289
+#: engine-wizard/elm/Wizard/Projects/CreateMigration/View.elm:104
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/NewDocument.elm:290
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:80
 #: engine-wizard/elm/Wizard/Tenants/Create/View.elm:28
 #: engine-wizard/elm/Wizard/Tenants/Index/View.elm:115
@@ -2007,56 +2042,56 @@ msgstr "Erstellt"
 msgid "Click to download the document"
 msgstr "Klicken Sie zum Herunterladen des Dokuments"
 
-#: engine-wizard/elm/Wizard/Documents/Index/View.elm:191
+#: engine-wizard/elm/Wizard/Documents/Index/View.elm:202
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/FileEditor.elm:1209
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Preview.elm:304
-#: engine-wizard/elm/Wizard/Projects/Detail/Components/Preview.elm:168
-#: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:188
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/Preview.elm:169
+#: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:186
 msgid "Download"
 msgstr "Herunterladen"
 
-#: engine-wizard/elm/Wizard/Documents/Index/View.elm:203
-#: engine-wizard/elm/Wizard/Documents/Index/View.elm:368
-#: engine-wizard/elm/Wizard/Documents/Index/View.elm:376
-#: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:200
-#: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:383
-#: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:391
+#: engine-wizard/elm/Wizard/Documents/Index/View.elm:214
+#: engine-wizard/elm/Wizard/Documents/Index/View.elm:379
+#: engine-wizard/elm/Wizard/Documents/Index/View.elm:387
+#: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:198
+#: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:381
+#: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:389
 msgid "Submit"
 msgstr "Einreichen"
 
-#: engine-wizard/elm/Wizard/Documents/Index/View.elm:215
-#: engine-wizard/elm/Wizard/Documents/Index/View.elm:300
-#: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:228
-#: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:312
+#: engine-wizard/elm/Wizard/Documents/Index/View.elm:226
+#: engine-wizard/elm/Wizard/Documents/Index/View.elm:311
+#: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:226
+#: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:310
 msgid "View error"
 msgstr "Fehler anzeigen"
 
-#: engine-wizard/elm/Wizard/Documents/Index/View.elm:250
-#: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:263
+#: engine-wizard/elm/Wizard/Documents/Index/View.elm:261
+#: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:261
 msgid "Queued"
 msgstr "Warteschlange"
 
-#: engine-wizard/elm/Wizard/Documents/Index/View.elm:256
-#: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:269
+#: engine-wizard/elm/Wizard/Documents/Index/View.elm:267
+#: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:267
 msgid "In Progress"
 msgstr "In Arbeit"
 
-#: engine-wizard/elm/Wizard/Documents/Index/View.elm:275
-#: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:287
+#: engine-wizard/elm/Wizard/Documents/Index/View.elm:286
+#: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:285
 msgid "Submitting"
 msgstr "Einreichung"
 
-#: engine-wizard/elm/Wizard/Documents/Index/View.elm:279
-#: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:291
+#: engine-wizard/elm/Wizard/Documents/Index/View.elm:290
+#: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:289
 msgid "Submitted"
 msgstr "Eingereicht"
 
-#: engine-wizard/elm/Wizard/Documents/Index/View.elm:294
-#: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:306
+#: engine-wizard/elm/Wizard/Documents/Index/View.elm:305
+#: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:304
 msgid "View submission"
 msgstr "Ansicht Einreichung"
 
-#: engine-wizard/elm/Wizard/Documents/Index/View.elm:332
+#: engine-wizard/elm/Wizard/Documents/Index/View.elm:343
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/FileEditor.elm:1301
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Index/View.elm:138
 #: engine-wizard/elm/Wizard/DocumentTemplates/Detail/View.elm:354
@@ -2065,47 +2100,47 @@ msgstr "Ansicht Einreichung"
 #: engine-wizard/elm/Wizard/Locales/Detail/View.elm:236
 #: engine-wizard/elm/Wizard/Projects/Common/DeleteProjectModal/View.elm:26
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings/DeleteModal.elm:113
-#: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:345
+#: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:343
 msgid "Are you sure you want to permanently delete %s?"
 msgstr "Sind Sie sicher, dass Sie %s dauerhaft löschen wollen?"
 
-#: engine-wizard/elm/Wizard/Documents/Index/View.elm:336
-#: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:351
+#: engine-wizard/elm/Wizard/Documents/Index/View.elm:347
+#: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:349
 msgid "Delete document"
 msgstr "Dokument löschen"
 
-#: engine-wizard/elm/Wizard/Documents/Index/View.elm:405
-#: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:420
+#: engine-wizard/elm/Wizard/Documents/Index/View.elm:416
+#: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:418
 msgid "There are no submission services configured for this type of document."
 msgstr "Für diese Art von Dokumenten sind keine Einreichungsdienste konfiguriert."
 
-#: engine-wizard/elm/Wizard/Documents/Index/View.elm:421
-#: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:436
+#: engine-wizard/elm/Wizard/Documents/Index/View.elm:432
+#: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:434
 msgid "You can find it here: "
 msgstr "Sie können es hier finden: "
 
-#: engine-wizard/elm/Wizard/Documents/Index/View.elm:431
-#: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:446
+#: engine-wizard/elm/Wizard/Documents/Index/View.elm:442
+#: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:444
 msgid "The document was successfully submitted."
 msgstr "Das Dokument wurde erfolgreich übermittelt."
 
-#: engine-wizard/elm/Wizard/Documents/Index/View.elm:438
-#: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:453
+#: engine-wizard/elm/Wizard/Documents/Index/View.elm:449
+#: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:451
 msgid "The document submission failed."
 msgstr "Die Übermittlung des Dokuments ist fehlgeschlagen."
 
-#: engine-wizard/elm/Wizard/Documents/Index/View.elm:453
-#: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:468
+#: engine-wizard/elm/Wizard/Documents/Index/View.elm:464
+#: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:466
 msgid "Submit %s"
 msgstr "Übermitteln %s"
 
-#: engine-wizard/elm/Wizard/Documents/Index/View.elm:485
-#: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:500
+#: engine-wizard/elm/Wizard/Documents/Index/View.elm:496
+#: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:498
 msgid "Document error"
 msgstr "Fehler im Dokument"
 
-#: engine-wizard/elm/Wizard/Documents/Index/View.elm:507
-#: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:522
+#: engine-wizard/elm/Wizard/Documents/Index/View.elm:518
+#: engine-wizard/elm/Wizard/Projects/Detail/Documents/View.elm:520
 msgid "Submission error"
 msgstr "Fehler bei der Übermittlung"
 
@@ -2224,7 +2259,7 @@ msgid "Or just drop them here"
 msgstr "Oder werfen Sie sie einfach hier ein"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Preview.elm:201
-#: engine-wizard/elm/Wizard/Projects/Detail/Components/Preview.elm:104
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/Preview.elm:105
 msgid "Unable to get the document preview."
 msgstr "Die Dokumentenvorschau kann nicht angezeigt werden."
 
@@ -2234,12 +2269,12 @@ msgid "Open project"
 msgstr "Offenes Projekt"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Preview.elm:256
-#: engine-wizard/elm/Wizard/Projects/CreateMigration/View.elm:87
+#: engine-wizard/elm/Wizard/Projects/CreateMigration/View.elm:83
 msgid "Project"
 msgstr "Projekt"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Preview.elm:260
-#: engine-wizard/elm/Wizard/Projects/Detail/Components/NewDocument.elm:314
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/NewDocument.elm:315
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:140
 msgid "Format"
 msgstr "Format"
@@ -2253,12 +2288,12 @@ msgid "Select project and format you want to preview."
 msgstr "Wählen Sie das Projekt und das Format aus, das Sie in der Vorschau anzeigen möchten."
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Preview.elm:298
-#: engine-wizard/elm/Wizard/Projects/Detail/Components/Preview.elm:162
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/Preview.elm:163
 msgid "Download preview"
 msgstr "Vorschau herunterladen"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Preview.elm:300
-#: engine-wizard/elm/Wizard/Projects/Detail/Components/Preview.elm:164
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/Preview.elm:165
 msgid "The document format cannot be displayed in the web browser. You can still download and view it."
 msgstr "Das Dokumentformat kann im Webbrowser nicht angezeigt werden. Sie können es dennoch herunterladen und ansehen."
 
@@ -2544,7 +2579,7 @@ msgid "Metamodel"
 msgstr "Metamodell"
 
 #: engine-wizard/elm/Wizard/DocumentTemplates/Detail/View.elm:224
-#: engine-wizard/elm/Wizard/Projects/Detail/Components/NewDocument.elm:348
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/NewDocument.elm:349
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:137
 msgid "Document Template"
 msgstr "Dokumentvorlage"
@@ -2678,7 +2713,7 @@ msgid "New parent knowledge model"
 msgstr "Neues übergeordnetes Wissensmodell"
 
 #: engine-wizard/elm/Wizard/KMEditor/Common/UpgradeModal.elm:163
-#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:550
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:542
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:635
 msgid "Create migration"
 msgstr "Migration erstellen"
@@ -2866,7 +2901,7 @@ msgstr "Keine weiteren Warnungen."
 #: engine-wizard/elm/Wizard/KnowledgeModels/Detail/View.elm:178
 #: engine-wizard/elm/Wizard/Projects/Create/View.elm:95
 #: engine-wizard/elm/Wizard/Projects/Create/View.elm:195
-#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:539
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:531
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:578
 msgid "Knowledge Model"
 msgstr "Wissensmodell"
@@ -3548,7 +3583,7 @@ msgid "Parent Knowledge Model"
 msgstr "Eltern-Wissensmodell"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/Settings.elm:236
-#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:558
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:550
 msgid "Danger Zone"
 msgstr "Gefahrenzone"
 
@@ -3566,9 +3601,9 @@ msgstr "Es gibt noch keine Frage-Tags, erstellen Sie diese zuerst."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Update.elm:151
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Update.elm:341
-#: engine-wizard/elm/Wizard/Projects/Detail/Update.elm:127
-#: engine-wizard/elm/Wizard/Projects/Detail/Update.elm:207
-#: engine-wizard/elm/Wizard/Projects/Detail/Update.elm:231
+#: engine-wizard/elm/Wizard/Projects/Detail/Update.elm:114
+#: engine-wizard/elm/Wizard/Projects/Detail/Update.elm:225
+#: engine-wizard/elm/Wizard/Projects/Detail/Update.elm:249
 msgid "Some changes are still saving."
 msgstr "Einige Änderungen werden noch gespeichert."
 
@@ -3577,29 +3612,29 @@ msgid "Unable to get the knowledge model editor."
 msgstr "Der Wissensmodell-Editor kann nicht aufgerufen werden."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/View.elm:49
-#: engine-wizard/elm/Wizard/Projects/Detail/View.elm:60
+#: engine-wizard/elm/Wizard/Projects/Detail/View.elm:63
 msgid "Disconnected"
 msgstr "Getrennt"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/View.elm:51
-#: engine-wizard/elm/Wizard/Projects/Detail/View.elm:62
+#: engine-wizard/elm/Wizard/Projects/Detail/View.elm:65
 msgid "You have been disconnected, try to refresh the page."
 msgstr "Die Verbindung wurde unterbrochen. Versuchen Sie, die Seite zu aktualisieren."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/View.elm:52
 #: engine-wizard/elm/Wizard/KMEditor/Editor/View.elm:65
-#: engine-wizard/elm/Wizard/Projects/Detail/View.elm:63
-#: engine-wizard/elm/Wizard/Projects/Detail/View.elm:76
+#: engine-wizard/elm/Wizard/Projects/Detail/View.elm:66
+#: engine-wizard/elm/Wizard/Projects/Detail/View.elm:79
 msgid "Refresh"
 msgstr "Aktualisieren"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/View.elm:62
-#: engine-wizard/elm/Wizard/Projects/Detail/View.elm:73
+#: engine-wizard/elm/Wizard/Projects/Detail/View.elm:76
 msgid "Oops!"
 msgstr "Huch!"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/View.elm:64
-#: engine-wizard/elm/Wizard/Projects/Detail/View.elm:75
+#: engine-wizard/elm/Wizard/Projects/Detail/View.elm:78
 msgid "Something went wrong, try to refresh the page."
 msgstr "Etwas ist schief gelaufen, versuchen Sie, die Seite zu aktualisieren."
 
@@ -3888,7 +3923,7 @@ msgid "Fork KM"
 msgstr "Abzweig des Wissensmodell"
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Common/KnowledgeModelActionsDropdown.elm:109
-#: engine-wizard/elm/Wizard/KnowledgeModels/Preview/View.elm:59
+#: engine-wizard/elm/Wizard/KnowledgeModels/Preview/View.elm:64
 msgid "Create project"
 msgstr "Projekt erstellen"
 
@@ -3971,9 +4006,9 @@ msgid "Questionnaire could not be created."
 msgstr "Der Fragebogen konnte nicht erstellt werden."
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Preview/Update.elm:140
-#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:195
-#: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:315
-#: engine-wizard/elm/Wizard/Projects/Detail/Update.elm:746
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:192
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:343
+#: engine-wizard/elm/Wizard/Projects/Detail/Update.elm:780
 msgid "Questionnaire could not be saved."
 msgstr "Der Fragebogen konnte nicht gespeichert werden."
 
@@ -4122,10 +4157,6 @@ msgstr "Sie können die Projektaktion nicht ändern."
 msgid "Project action was changed successfully."
 msgstr "Die Projektaktion wurde erfolgreich geändert."
 
-#: engine-wizard/elm/Wizard/ProjectActions/Index/Update.elm:70
-msgid "Unable to get project actions."
-msgstr "Es können keine Projektaktionen abgerufen werden."
-
 #: engine-wizard/elm/Wizard/ProjectActions/Index/View.elm:26
 msgid "Project Actions"
 msgstr "Projekt-Aktionen"
@@ -4150,10 +4181,6 @@ msgstr "Der Projekt-Importer kann nicht geändert werden."
 #: engine-wizard/elm/Wizard/ProjectImporters/Index/Update.elm:47
 msgid "Project importer was changed successfully."
 msgstr "Der Projekt-Importer wurde erfolgreich geändert."
-
-#: engine-wizard/elm/Wizard/ProjectImporters/Index/Update.elm:70
-msgid "Unable to get project importers."
-msgstr "Es können keine Projekt-Importer abgerufen werden."
 
 #: engine-wizard/elm/Wizard/ProjectImporters/Index/View.elm:25
 msgid "Project Importers"
@@ -4201,25 +4228,81 @@ msgstr "Das Projekt konnte nicht gelöscht werden."
 msgid "Delete Project"
 msgstr "Projekt löschen"
 
-#: engine-wizard/elm/Wizard/Projects/Common/QuestionnaireEditFormQuestionnairePermType.elm:61
+#: engine-wizard/elm/Wizard/Projects/Common/QuestionnaireShareFormMemberPermType.elm:61
 msgid "Viewer"
 msgstr "Betrachter"
 
-#: engine-wizard/elm/Wizard/Projects/Common/QuestionnaireEditFormQuestionnairePermType.elm:62
+#: engine-wizard/elm/Wizard/Projects/Common/QuestionnaireShareFormMemberPermType.elm:62
 msgid "Commenter"
 msgstr "Kommentator"
 
-#: engine-wizard/elm/Wizard/Projects/Common/QuestionnaireEditFormQuestionnairePermType.elm:64
+#: engine-wizard/elm/Wizard/Projects/Common/QuestionnaireShareFormMemberPermType.elm:64
 msgid "Owner"
 msgstr "Eigentümer:in"
 
-#: engine-wizard/elm/Wizard/Projects/Common/View.elm:33
-msgid "Anyone with the link can edit the project."
-msgstr "Jeder, der den Link hat, kann das Projekt bearbeiten."
+#: engine-wizard/elm/Wizard/Projects/Common/View.elm:42
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:643
+msgid "Public link"
+msgstr "Öffentlicher Link"
 
-#: engine-wizard/elm/Wizard/Projects/Common/View.elm:36
-msgid "Anyone with the link can view the project."
-msgstr "Jeder, der den Link hat, kann sich das Projekt ansehen."
+#: engine-wizard/elm/Wizard/Projects/Common/View.elm:43
+msgid "Anyone with the link can access the project. No login is required."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Common/View.elm:47
+#: engine-wizard/elm/Wizard/Projects/Common/View.elm:92
+msgid "Private project accessible only by you."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Common/View.elm:50
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:614
+msgid "Visible by all other logged-in users"
+msgstr "Sichtbar für alle anderen eingeloggten Benutzer"
+
+#: engine-wizard/elm/Wizard/Projects/Common/View.elm:51
+msgid "Other logged-in users can access the project. No explicit permission is required."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Common/View.elm:61
+#: engine-wizard/elm/Wizard/Projects/Common/View.elm:103
+msgid "Shared with %s and %s."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Common/View.elm:63
+#: engine-wizard/elm/Wizard/Projects/Common/View.elm:104
+msgid "%s user"
+msgid_plural "%s users"
+msgstr[0] ""
+msgstr[1] ""
+
+#: engine-wizard/elm/Wizard/Projects/Common/View.elm:66
+#: engine-wizard/elm/Wizard/Projects/Common/View.elm:105
+msgid "%s user group"
+msgid_plural "%s user groups"
+msgstr[0] ""
+msgstr[1] ""
+
+#: engine-wizard/elm/Wizard/Projects/Common/View.elm:73
+#: engine-wizard/elm/Wizard/Projects/Common/View.elm:109
+msgid "Shared with %s user group."
+msgid_plural "Shared with %s user groups."
+msgstr[0] ""
+msgstr[1] ""
+
+#: engine-wizard/elm/Wizard/Projects/Common/View.elm:80
+#: engine-wizard/elm/Wizard/Projects/Common/View.elm:113
+msgid "Shared with %s user."
+msgid_plural "Shared with %s users."
+msgstr[0] ""
+msgstr[1] ""
+
+#: engine-wizard/elm/Wizard/Projects/Common/View.elm:89
+msgid "Anyone with the link can access the project."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Projects/Common/View.elm:95
+msgid "Other logged-in users can access the project."
+msgstr ""
 
 #: engine-wizard/elm/Wizard/Projects/Create/Update.elm:109
 msgid "Unable to get selected project template."
@@ -4245,7 +4328,7 @@ msgstr "Es ist nicht möglich, Frage-Tags für das Wissensmodell zu erhalten."
 
 #: engine-wizard/elm/Wizard/Projects/Create/View.elm:83
 #: engine-wizard/elm/Wizard/Projects/Create/View.elm:175
-#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:373
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:365
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:88
 msgid "Project Template"
 msgstr "Projektvorlage"
@@ -4266,108 +4349,112 @@ msgstr "Projektvorlagen sind vorbereitete Projekte mit Wissensmodellen, Frage-Ta
 msgid "Knowledge models are templates for questionnaires. You can select question tags now and configure the document template and other settings later."
 msgstr "Wissensmodelle sind Vorlagen für Fragebögen. Sie können jetzt Frage-Tags auswählen und die Dokumentvorlage und andere Einstellungen später konfigurieren."
 
-#: engine-wizard/elm/Wizard/Projects/CreateMigration/Update.elm:111
-#: engine-wizard/elm/Wizard/Projects/Detail/Update.elm:566
+#: engine-wizard/elm/Wizard/Projects/CreateMigration/Update.elm:113
+#: engine-wizard/elm/Wizard/Projects/Detail/Update.elm:171
 #: engine-wizard/elm/Wizard/Projects/Import/Update.elm:68
 #: engine-wizard/elm/Wizard/Projects/Import/Update.elm:108
 msgid "Unable to get the project."
 msgstr "Projekt konnte nicht abgerufen werden."
 
-#: engine-wizard/elm/Wizard/Projects/CreateMigration/Update.elm:127
-#: engine-wizard/elm/Wizard/Projects/CreateMigration/Update.elm:143
+#: engine-wizard/elm/Wizard/Projects/CreateMigration/Update.elm:129
+#: engine-wizard/elm/Wizard/Projects/CreateMigration/Update.elm:145
 msgid "Unable to get the knowledge model."
 msgstr "Das Wissensmodell konnte nicht abgerufen werden."
 
-#: engine-wizard/elm/Wizard/Projects/CreateMigration/Update.elm:223
+#: engine-wizard/elm/Wizard/Projects/CreateMigration/Update.elm:225
 msgid "Project migration could not be created."
 msgstr "Die Projektmigration konnte nicht erstellt werden."
 
-#: engine-wizard/elm/Wizard/Projects/CreateMigration/Update.elm:237
+#: engine-wizard/elm/Wizard/Projects/CreateMigration/Update.elm:239
 msgid "Unable to get question tags for the Knowledge Model."
 msgstr "Es ist nicht möglich, Frage-Tags für das Wissensmodell zu erhalten."
 
-#: engine-wizard/elm/Wizard/Projects/CreateMigration/View.elm:56
+#: engine-wizard/elm/Wizard/Projects/CreateMigration/View.elm:52
 msgid "Original question tags"
 msgstr "Original-Frage-Tags"
 
-#: engine-wizard/elm/Wizard/Projects/CreateMigration/View.elm:81
+#: engine-wizard/elm/Wizard/Projects/CreateMigration/View.elm:77
 msgid "Select Knowledge Model first"
 msgstr "Zuerst Wissensmodell auswählen"
 
-#: engine-wizard/elm/Wizard/Projects/CreateMigration/View.elm:84
+#: engine-wizard/elm/Wizard/Projects/CreateMigration/View.elm:80
 msgid "Create Migration"
 msgstr "Migration erstellen"
 
-#: engine-wizard/elm/Wizard/Projects/CreateMigration/View.elm:85
+#: engine-wizard/elm/Wizard/Projects/CreateMigration/View.elm:81
 msgid "A new Project is created for the migration. The original will remain unchanged until the migration is finished."
 msgstr "Für die Migration wird ein neues Projekt erstellt. Das Original bleibt unverändert, bis die Migration abgeschlossen ist."
 
-#: engine-wizard/elm/Wizard/Projects/CreateMigration/View.elm:92
+#: engine-wizard/elm/Wizard/Projects/CreateMigration/View.elm:88
 msgid "Original Knowledge Model"
 msgstr "Ursprüngliches Wissensmodell"
 
-#: engine-wizard/elm/Wizard/Projects/CreateMigration/View.elm:93
-msgid "Original version"
-msgstr "Originalfassung"
+#: engine-wizard/elm/Wizard/Projects/CreateMigration/View.elm:89
+msgid "Original Version"
+msgstr ""
 
-#: engine-wizard/elm/Wizard/Projects/CreateMigration/View.elm:99
+#: engine-wizard/elm/Wizard/Projects/CreateMigration/View.elm:95
 msgid "New Knowledge Model"
 msgstr "Neues Wissensmodell"
 
-#: engine-wizard/elm/Wizard/Projects/Detail/Components/NewDocument.elm:170
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/NewDocument.elm:157
+msgid "Unable to get the summary report."
+msgstr "Es ist nicht möglich die Zusammenfassung zu erhalten."
+
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/NewDocument.elm:171
 msgid "Unable to get questionnaire event."
 msgstr "Fragebogen-Ereignis kann nicht abgerufen werden."
 
-#: engine-wizard/elm/Wizard/Projects/Detail/Components/NewDocument.elm:246
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/NewDocument.elm:247
 msgid "Document could not be created."
 msgstr "Das Dokument konnte nicht erstellt werden."
 
-#: engine-wizard/elm/Wizard/Projects/Detail/Components/NewDocument.elm:283
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/NewDocument.elm:284
 msgid "New Document"
 msgstr "Neues Dokument"
 
-#: engine-wizard/elm/Wizard/Projects/Detail/Components/NewDocument.elm:331
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/NewDocument.elm:332
 msgid "Create for current version"
 msgstr "Anlegen für aktuelle Version"
 
-#: engine-wizard/elm/Wizard/Projects/Detail/Components/NewDocument.elm:336
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/NewDocument.elm:337
 msgid "You are creating a document for a project version from %s"
 msgstr "Sie erstellen ein Dokument für eine Projektversion von %s"
 
-#: engine-wizard/elm/Wizard/Projects/Detail/Components/Preview.elm:181
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/Preview.elm:182
 msgid "Log in to set a default document template and format."
 msgstr "Melden Sie sich an, um eine Standarddokumentvorlage und ein Standardformat festzulegen."
 
-#: engine-wizard/elm/Wizard/Projects/Detail/Components/Preview.elm:185
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/Preview.elm:186
 msgid "Before you can use preview you need to set a default document template and format."
 msgstr "Bevor Sie die Vorschau verwenden können, müssen Sie eine Standarddokumentvorlage und ein Standardformat festlegen."
 
-#: engine-wizard/elm/Wizard/Projects/Detail/Components/Preview.elm:190
-#: engine-wizard/elm/Wizard/Projects/Detail/Components/Preview.elm:222
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/Preview.elm:191
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/Preview.elm:223
 msgid "Go to settings"
 msgstr "Zu den Einstellungen wechseln"
 
-#: engine-wizard/elm/Wizard/Projects/Detail/Components/Preview.elm:197
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/Preview.elm:198
 msgid "Ask the Project owner to set a default document template and format."
 msgstr "Bitten Sie den Projekteigentümer, eine Standarddokumentvorlage und ein Standardformat festzulegen."
 
-#: engine-wizard/elm/Wizard/Projects/Detail/Components/Preview.elm:202
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/Preview.elm:203
 msgid "Default document template is not set."
 msgstr "Die Standarddokumentvorlage ist nicht eingestellt."
 
-#: engine-wizard/elm/Wizard/Projects/Detail/Components/Preview.elm:213
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/Preview.elm:214
 msgid "Log in to update the default document template."
 msgstr "Melden Sie sich an, um die Standarddokumentvorlage zu aktualisieren."
 
-#: engine-wizard/elm/Wizard/Projects/Detail/Components/Preview.elm:217
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/Preview.elm:218
 msgid "Before you can use preview you need to update the default document template."
 msgstr "Bevor Sie die Vorschau verwenden können, müssen Sie die Standarddokumentvorlage aktualisieren."
 
-#: engine-wizard/elm/Wizard/Projects/Detail/Components/Preview.elm:229
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/Preview.elm:230
 msgid "Ask the Project owner to update the default document template."
 msgstr "Bitten Sie den Projekteigentümer, die Standarddokumentvorlage zu aktualisieren."
 
-#: engine-wizard/elm/Wizard/Projects/Detail/Components/Preview.elm:234
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/Preview.elm:235
 msgid "Default document template is no longer supported."
 msgstr "Die Standarddokumentvorlage wird nicht mehr unterstützt."
 
@@ -4399,54 +4486,54 @@ msgstr "Fragebogen zurücksetzen"
 msgid "Revert"
 msgstr "Zurücksetzen"
 
-#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:277
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:274
 #: engine-wizard/elm/Wizard/Projects/Index/Update.elm:181
 msgid "Unable to get project tags."
 msgstr "Es können keine Projekt-Tags abgerufen werden."
 
-#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:349
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:341
 msgid "This document template is no longer supported."
 msgstr "Diese Dokumentvorlage wird nicht mehr unterstützt."
 
-#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:352
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:344
 msgid "This document template is now deprecated."
 msgstr "Diese Dokumentvorlage ist jetzt veraltet."
 
-#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:365
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:357
 msgid "Default document format"
 msgstr "Standard-Dokumentenformat"
 
-#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:374
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:366
 msgid "Other users can use project templates so they don't have to start their new projects from scratch. Project templates follow the same sharing policy as projects, so make sure to share them with users who should use them."
 msgstr "Andere Benutzer können Projektvorlagen verwenden, damit sie ihre neuen Projekte nicht von Grund auf neu beginnen müssen. Für Projektvorlagen gelten dieselben Freigabebestimmungen wie für Projekte. Stellen Sie also sicher, dass Sie sie für die Benutzer freigeben, die sie verwenden sollen."
 
-#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:412
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:404
 msgid "Default document template"
 msgstr "Standard-Dokumentenvorlage"
 
-#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:430
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:422
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:257
 msgid "Project Tags"
 msgstr "Projekt-Tags"
 
-#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:519
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:511
 msgid "All questions are used"
 msgstr "Alle Fragen werden verwendet"
 
-#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:526
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:518
 msgid "Filtered by question tags"
 msgstr "Nach Frage-Tags filtern"
 
-#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:533
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:525
 msgid "This knowledge model is now deprecated."
 msgstr "Dieses Wissensmodell ist jetzt veraltet."
 
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:554
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:562
-#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:570
 msgid "Delete this project"
 msgstr "Dieses Projekt löschen"
 
-#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:564
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:556
 msgid "Deleted projects cannot be recovered."
 msgstr "Gelöschte Projekte können nicht wiederhergestellt werden."
 
@@ -4458,48 +4545,40 @@ msgstr "Der Fragebogen wurde erfolgreich gelöscht."
 msgid "Questionnaire could not be deleted."
 msgstr "Der Fragebogen konnte nicht gelöscht werden."
 
-#: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:172
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:190
 #: engine-wizard/elm/Wizard/Projects/Index/Update.elm:188
 #: engine-wizard/elm/Wizard/Projects/Index/Update.elm:219
 #: engine-wizard/elm/Wizard/Users/Index/Update.elm:82
 msgid "Unable to get users."
 msgstr "Es können keine Benutzer abgerufen werden."
 
-#: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:196
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:214
 msgid "Unable to get user groups."
 msgstr "Es können keine Benutzergruppen abgerufen werden."
 
-#: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:352
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:401
 msgid "Share Project"
 msgstr "Projekt teilen"
 
-#: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:372
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:456
 msgid "Add user group"
 msgstr "Benutzergruppe hinzufügen"
 
-#: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:381
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:465
 msgid "User Groups"
 msgstr "Benutzergruppen"
 
-#: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:441
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:525
 msgid "Add users"
 msgstr "Benutzer hinzufügen"
 
-#: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:525
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:609
 msgid "Other logged-in users can %s the project."
 msgstr "Andere eingeloggte Benutzer können das Projekt %s."
 
-#: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:530
-msgid "Visible by all other logged-in users"
-msgstr "Sichtbar für alle anderen eingeloggten Benutzer"
-
-#: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:568
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:638
 msgid "Anyone with the link can %s the project."
 msgstr "Jeder, der den Link hat, kann das Projekt %s."
-
-#: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:573
-msgid "Public link"
-msgstr "Öffentlicher Link"
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Documents/Update.elm:108
 msgid "Document was successfully deleted."
@@ -4517,24 +4596,24 @@ msgstr "Melden Sie sich an, um ein neues Dokument hinzuzufügen."
 msgid "New document"
 msgstr "Neues Dokument"
 
-#: engine-wizard/elm/Wizard/Projects/Detail/View.elm:145
+#: engine-wizard/elm/Wizard/Projects/Detail/View.elm:153
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:717
 msgid "Template"
 msgstr "Vorlage"
 
-#: engine-wizard/elm/Wizard/Projects/Detail/View.elm:165
+#: engine-wizard/elm/Wizard/Projects/Detail/View.elm:173
 msgid "Add to my projects"
 msgstr "Zu meinen Projekten hinzufügen"
 
-#: engine-wizard/elm/Wizard/Projects/Detail/View.elm:181
+#: engine-wizard/elm/Wizard/Projects/Detail/View.elm:198
 msgid "Share"
 msgstr "Teilen"
 
-#: engine-wizard/elm/Wizard/Projects/Detail/View.elm:223
+#: engine-wizard/elm/Wizard/Projects/Detail/View.elm:251
 msgid "Questionnaire"
 msgstr "Fragebogen"
 
-#: engine-wizard/elm/Wizard/Projects/Detail/View.elm:291
+#: engine-wizard/elm/Wizard/Projects/Detail/View.elm:319
 msgid "You are not allowed to view this page."
 msgstr "Sie sind nicht berechtigt, diese Seite zu sehen."
 
@@ -4653,63 +4732,63 @@ msgstr "Es ist nicht möglich, die Projektmigration abzurufen."
 msgid "Unable to save migration."
 msgstr "Die Migration kann nicht gespeichert werden."
 
-#: engine-wizard/elm/Wizard/Projects/Migration/View.elm:37
+#: engine-wizard/elm/Wizard/Projects/Migration/View.elm:36
 msgid "Finalize migration"
 msgstr "Migration abschließen"
 
-#: engine-wizard/elm/Wizard/Projects/Migration/View.elm:47
+#: engine-wizard/elm/Wizard/Projects/Migration/View.elm:46
 msgid "No changes to review"
 msgstr "Keine Änderungen zur Überprüfung"
 
-#: engine-wizard/elm/Wizard/Projects/Migration/View.elm:49
+#: engine-wizard/elm/Wizard/Projects/Migration/View.elm:48
 msgid "There are no changes affecting your answers."
 msgstr "Es gibt keine Änderungen, die Ihre Antworten betreffen."
 
-#: engine-wizard/elm/Wizard/Projects/Migration/View.elm:50
+#: engine-wizard/elm/Wizard/Projects/Migration/View.elm:49
 msgid "You can safely finalize the migration."
 msgstr "Sie können die Migration sicher abschließen."
 
-#: engine-wizard/elm/Wizard/Projects/Migration/View.elm:87
+#: engine-wizard/elm/Wizard/Projects/Migration/View.elm:86
 msgid "Source KM"
 msgstr "Ausgangswissensmodell"
 
-#: engine-wizard/elm/Wizard/Projects/Migration/View.elm:91
+#: engine-wizard/elm/Wizard/Projects/Migration/View.elm:90
 msgid "Target KM"
 msgstr "Ziel-Wissensmodell"
 
-#: engine-wizard/elm/Wizard/Projects/Migration/View.elm:123
+#: engine-wizard/elm/Wizard/Projects/Migration/View.elm:122
 msgid "Change already resolved"
 msgstr "Änderung bereits aufgelöst"
 
-#: engine-wizard/elm/Wizard/Projects/Migration/View.elm:125
+#: engine-wizard/elm/Wizard/Projects/Migration/View.elm:124
 msgid "Undo"
 msgstr "Rückgängig machen"
 
-#: engine-wizard/elm/Wizard/Projects/Migration/View.elm:130
+#: engine-wizard/elm/Wizard/Projects/Migration/View.elm:129
 msgid "Resolve"
 msgstr "Auflösen"
 
-#: engine-wizard/elm/Wizard/Projects/Migration/View.elm:138
+#: engine-wizard/elm/Wizard/Projects/Migration/View.elm:137
 msgid "Resolve all"
 msgstr "Alle auflösen"
 
-#: engine-wizard/elm/Wizard/Projects/Migration/View.elm:142
+#: engine-wizard/elm/Wizard/Projects/Migration/View.elm:141
 msgid "Resolved changes %s/%s"
 msgstr "Gelöste Änderungen %s/%s"
 
-#: engine-wizard/elm/Wizard/Projects/Migration/View.elm:189
+#: engine-wizard/elm/Wizard/Projects/Migration/View.elm:188
 msgid "New Question"
 msgstr "Neue Frage"
 
-#: engine-wizard/elm/Wizard/Projects/Migration/View.elm:192
+#: engine-wizard/elm/Wizard/Projects/Migration/View.elm:191
 msgid "Question Changed"
 msgstr "Frage Geändert"
 
-#: engine-wizard/elm/Wizard/Projects/Migration/View.elm:195
+#: engine-wizard/elm/Wizard/Projects/Migration/View.elm:194
 msgid "Moved Question"
 msgstr "Verschobene Frage"
 
-#: engine-wizard/elm/Wizard/Projects/Migration/View.elm:199
+#: engine-wizard/elm/Wizard/Projects/Migration/View.elm:198
 msgid "Resolved"
 msgstr "Aufgelöst"
 
@@ -5836,6 +5915,18 @@ msgstr "Nicht erlaubt"
 #: engine-wizard/elm/Wizard/View.elm:154
 msgid "You don't have permission to view this page."
 msgstr "Sie haben nicht die Erlaubnis, diese Seite zu sehen."
+
+#~ msgid "Only PDF documents are enabled in this instance."
+#~ msgstr "In diesem Fall werden nur PDF-Dokumente aktiviert."
+
+#~ msgid "Anyone with the link can edit the project."
+#~ msgstr "Jeder, der den Link hat, kann das Projekt bearbeiten."
+
+#~ msgid "Anyone with the link can view the project."
+#~ msgstr "Jeder, der den Link hat, kann sich das Projekt ansehen."
+
+#~ msgid "Original version"
+#~ msgstr "Originalfassung"
 
 #~ msgid "Document templates transform answers from a questionnaire into a document. This document can be anything, from PDF to machine-actionable JSON. You can import existing document templates from [%s](%s/templates) or [develop new ones](%s)."
 #~ msgstr "Dokumentvorlagen wandeln Antworten aus einem Fragebogen in ein Dokument um. Dieses Dokument kann alles sein, von PDF bis zu maschinenverarbeitbarem JSON. Sie können vorhandene Dokumentvorlagen aus [%s](%s/templates) importieren oder [neue entwickeln](%s)."
