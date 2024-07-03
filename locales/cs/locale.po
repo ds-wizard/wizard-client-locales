@@ -3,7 +3,7 @@
 # Jan Slifka <jan.slifka@ds-wizard.org>, 2023.
 # Jana Martínková <j.martinkova@outlook.com>, 2024.
 msgid ""
-msgstr "Project-Id-Version: wizard-client:3.17.1\nPOT-Creation-Date: 2024-07-02T08:00:01.717Z\nPO-Revision-Date: 2024-07-03 09:20+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Czech <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-8-0/cs/>\nLanguage: cs\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 4.18.2\n"
+msgstr "Project-Id-Version: wizard-client:3.17.1\nPOT-Creation-Date: 2024-07-02T08:00:01.717Z\nPO-Revision-Date: 2024-07-04 13:42+0000\nLast-Translator: Jana Martínková <j.martinkova@outlook.com>\nLanguage-Team: Czech <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-8-0/cs/>\nLanguage: cs\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 4.18.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -213,9 +213,8 @@ msgid "Asset \"%s\" was not found in archive."
 msgstr "Soubor \"%s\" nebyl nalezen v archivu."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:150
-#, fuzzy
 msgid "Invalid credentials."
-msgstr "Neplatné pověření."
+msgstr "Neplatné přihlašovací údaje."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:156
 msgid "Link is not valid."
@@ -596,7 +595,6 @@ msgid "Unable to get version history."
 msgstr "Nelze získat historii verzí."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1144
-#, fuzzy
 msgid "Unable to get comments."
 msgstr "Nelze získat komentáře."
 
@@ -884,20 +882,17 @@ msgid "There are no follow up questions in this phase."
 msgstr "V této fázi nejsou žádné navazující otázky."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2869
-#, fuzzy
 msgid "Expand"
 msgstr "Rozbalit"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2874
-#, fuzzy
 msgid "%s %s follow up question"
 msgid_plural "%s %s follow up questions"
 msgstr[0] "%s %s doplňující otázka"
-msgstr[1] ""
+msgstr[1] "%s %s doplňující otázky"
 msgstr[2] "%s %s doplňující otázky"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2884
-#, fuzzy
 msgid "Collapse"
 msgstr "Sbalit"
 
@@ -4251,13 +4246,11 @@ msgid "Public link"
 msgstr "Veřejný odkaz"
 
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:43
-#, fuzzy
 msgid "Anyone with the link can access the project. No login is required."
 msgstr "Přístup k projektu má každý, kdo má odkaz. Přihlášení není nutné."
 
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:47
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:92
-#, fuzzy
 msgid "Private project accessible only by you."
 msgstr "Soukromý projekt přístupný pouze vám."
 
@@ -4267,59 +4260,51 @@ msgid "Visible by all other logged-in users"
 msgstr "Viditelný pro všechny přihlášené uživatele"
 
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:51
-#, fuzzy
 msgid "Other logged-in users can access the project. No explicit permission is required."
 msgstr "Ostatní přihlášení uživatelé mají k projektu přístup. Není vyžadováno žádné výslovné povolení."
 
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:61
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:103
-#, fuzzy
 msgid "Shared with %s and %s."
 msgstr "Sdílené s %s a %s."
 
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:63
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:104
-#, fuzzy
 msgid "%s user"
 msgid_plural "%s users"
-msgstr[0] "%s uživatel"
-msgstr[1] ""
-msgstr[2] "%s uživatelů"
+msgstr[0] "uživatelem %s"
+msgstr[1] "%s uživateli"
+msgstr[2] "%s uživateli"
 
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:66
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:105
-#, fuzzy
 msgid "%s user group"
 msgid_plural "%s user groups"
-msgstr[0] "%s skupina uživatelů"
-msgstr[1] ""
-msgstr[2] "%s skupin uživatelů"
+msgstr[0] "skupinou uživatelů %s"
+msgstr[1] "skupinami uživatelů %s"
+msgstr[2] "skupinami uživatelů %s"
 
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:73
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:109
-#, fuzzy
 msgid "Shared with %s user group."
 msgid_plural "Shared with %s user groups."
 msgstr[0] "Sdíleno se skupinou uživatelů %s."
-msgstr[1] ""
+msgstr[1] "Sdíleno se skupinami uživatelů %s."
 msgstr[2] "Sdíleno se skupinami uživatelů %s."
 
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:80
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:113
-#, fuzzy
 msgid "Shared with %s user."
 msgid_plural "Shared with %s users."
 msgstr[0] "Sdíleno s uživatelem %s."
-msgstr[1] ""
+msgstr[1] "Sdíleno s %s uživateli."
 msgstr[2] "Sdíleno s %s uživateli."
 
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:89
-#, fuzzy
 msgid "Anyone with the link can access the project."
 msgstr "Přístup k projektu má každý, kdo má odkaz."
 
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:95
-#, fuzzy
 msgid "Other logged-in users can access the project."
 msgstr "Ostatní přihlášení uživatelé mají k projektu přístup."
 
@@ -4409,7 +4394,6 @@ msgid "Original Knowledge Model"
 msgstr "Původní znalostní model"
 
 #: engine-wizard/elm/Wizard/Projects/CreateMigration/View.elm:89
-#, fuzzy
 msgid "Original Version"
 msgstr "Původní verze"
 
