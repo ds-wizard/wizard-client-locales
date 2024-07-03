@@ -1,17 +1,7 @@
 # Marek Suchánek <marek.suchanek@ds-wizard.org>, 2024.
 # Gil Poiares-Oliveira <gpo@biodata.pt>, 2024.
 msgid ""
-msgstr ""
-"Project-Id-Version: wizard-client:4.2.0\n"
-"POT-Creation-Date: 2024-07-02T08:00:01.717Z \n"
-"PO-Revision-Date: 2024-07-03 09:14+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Portuguese <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-8-0/pt/>\n"
-"Language: pt\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 4.18.2\n"
+msgstr "Project-Id-Version: wizard-client:4.2.0\nPOT-Creation-Date: 2024-07-02T08:00:01.717Z\nPO-Revision-Date: 2024-07-03 09:20+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Portuguese <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-8-0/pt/>\nLanguage: pt\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 4.18.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -221,8 +211,9 @@ msgid "Asset \"%s\" was not found in archive."
 msgstr "O recurso \"%s\" não foi encontrado no arquivo."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:150
+#, fuzzy
 msgid "Invalid credentials."
-msgstr ""
+msgstr "Credenciais inválidas."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:156
 msgid "Link is not valid."
@@ -604,8 +595,9 @@ msgid "Unable to get version history."
 msgstr "Não foi possível obter o histórico de versões."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1144
+#, fuzzy
 msgid "Unable to get comments."
-msgstr ""
+msgstr "Não é possível obter comentários."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1155
 #: engine-wizard/elm/Wizard/ProjectActions/Index/Update.elm:70
@@ -893,18 +885,21 @@ msgid "There are no follow up questions in this phase."
 msgstr "Não há perguntas complementares nesta fase."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2869
+#, fuzzy
 msgid "Expand"
-msgstr ""
+msgstr "Expandir"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2874
+#, fuzzy
 msgid "%s %s follow up question"
 msgid_plural "%s %s follow up questions"
 msgstr[0] ""
-msgstr[1] ""
+msgstr[1] "%s %s perguntas complementares"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2884
+#, fuzzy
 msgid "Collapse"
-msgstr ""
+msgstr "Colapso"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2919
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:62
@@ -4590,13 +4585,15 @@ msgid "Public link"
 msgstr "Ligação pública"
 
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:43
+#, fuzzy
 msgid "Anyone with the link can access the project. No login is required."
-msgstr ""
+msgstr "Qualquer pessoa com a ligação pode aceder ao projeto. Não é necessário iniciar sessão."
 
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:47
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:92
+#, fuzzy
 msgid "Private project accessible only by you."
-msgstr ""
+msgstr "Projeto privado acessível apenas a si."
 
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:50
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:614
@@ -4605,49 +4602,57 @@ msgid "Visible by all other logged-in users"
 msgstr "Visível para todos os outros utilizadores com sessão iniciada"
 
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:51
+#, fuzzy
 msgid "Other logged-in users can access the project. No explicit permission is required."
-msgstr ""
+msgstr "Outros utilizadores com sessão iniciada podem aceder ao projeto. Não é necessária qualquer autorização explícita."
 
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:61
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:103
+#, fuzzy
 msgid "Shared with %s and %s."
-msgstr ""
+msgstr "Partilhado com %s e %s."
 
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:63
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:104
+#, fuzzy
 msgid "%s user"
 msgid_plural "%s users"
 msgstr[0] ""
-msgstr[1] ""
+msgstr[1] "%s utilizadores"
 
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:66
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:105
+#, fuzzy
 msgid "%s user group"
 msgid_plural "%s user groups"
 msgstr[0] ""
-msgstr[1] ""
+msgstr[1] "%s grupos de utilizadores"
 
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:73
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:109
+#, fuzzy
 msgid "Shared with %s user group."
 msgid_plural "Shared with %s user groups."
 msgstr[0] ""
-msgstr[1] ""
+msgstr[1] "Partilhado com %s grupos de utilizadores."
 
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:80
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:113
+#, fuzzy
 msgid "Shared with %s user."
 msgid_plural "Shared with %s users."
 msgstr[0] ""
-msgstr[1] ""
+msgstr[1] "Partilhado com %s utilizadores."
 
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:89
+#, fuzzy
 msgid "Anyone with the link can access the project."
-msgstr ""
+msgstr "Qualquer pessoa com a ligação pode aceder ao projeto."
 
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:95
+#, fuzzy
 msgid "Other logged-in users can access the project."
-msgstr ""
+msgstr "Outros utilizadores com sessão iniciada podem aceder ao projeto."
 
 #: engine-wizard/elm/Wizard/Projects/Create/Update.elm:109
 #, fuzzy
@@ -4754,8 +4759,9 @@ msgid "Original Knowledge Model"
 msgstr "Modelo de conhecimento original"
 
 #: engine-wizard/elm/Wizard/Projects/CreateMigration/View.elm:89
+#, fuzzy
 msgid "Original Version"
-msgstr ""
+msgstr "Versão original"
 
 #: engine-wizard/elm/Wizard/Projects/CreateMigration/View.elm:95
 #, fuzzy
@@ -5060,12 +5066,14 @@ msgid "Import status:"
 msgstr "Estado da importação:"
 
 #: engine-wizard/elm/Wizard/Projects/Import/View.elm:90
+#, fuzzy
 msgid "%s questionnaire change will be imported"
 msgid_plural "%s questionnaire changes will be imported"
 msgstr[0] ""
 msgstr[1] "As alterações ao questionário %s serão importadas"
 
 #: engine-wizard/elm/Wizard/Projects/Import/View.elm:108
+#, fuzzy
 msgid "%s error encountered"
 msgid_plural "%s errors encountered"
 msgstr[0] ""
