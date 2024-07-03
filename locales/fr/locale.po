@@ -1,7 +1,7 @@
 # Marek Suchánek <marek.suchanek@ds-wizard.org>, 2023.
 # Paulette Lieby <paulette.lieby@france-bioinformatique.fr>, 2023, 2024.
 msgid ""
-msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2024-02-06T08:10:07.424Z\nPO-Revision-Date: 2024-06-08 12:41+0000\nLast-Translator: Paulette Lieby <paulette.lieby@france-bioinformatique.fr>\nLanguage-Team: French <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-3-0/fr/>\nLanguage: fr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 4.18.2\n"
+msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2024-02-06T08:10:07.424Z\nPO-Revision-Date: 2024-07-04 13:42+0000\nLast-Translator: Paulette Lieby <paulette.lieby@france-bioinformatique.fr>\nLanguage-Team: French <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-3-0/fr/>\nLanguage: fr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 4.18.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -842,7 +842,7 @@ msgstr "Réponse à %s par %s."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2526
 msgid "This question has been answered"
-msgstr "Cette question a été répondue"
+msgstr "Cette question a été renseignée"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2529
 msgid "This question should be answered now"
@@ -3326,7 +3326,7 @@ msgstr "Réponse"
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1867
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1936
 msgid "Label"
-msgstr "Étiquette"
+msgstr "Label"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1701
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1389
