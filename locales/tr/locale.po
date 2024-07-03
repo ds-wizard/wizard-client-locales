@@ -2,17 +2,7 @@
 # Marek Suchánek <marek.suchanek@ds-wizard.org>, 2023, 2024.
 # Jana Martínková <j.martinkova@outlook.com>, 2024.
 msgid ""
-msgstr ""
-"Project-Id-Version: wizard-client:3.18.3\n"
-"POT-Creation-Date: 2024-07-02T08:00:01.717Z \n"
-"PO-Revision-Date: 2024-06-26 09:32+0000\n"
-"Last-Translator: Jana Martínková <j.martinkova@outlook.com>\n"
-"Language-Team: Turkish <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-7-0/tr/>\n"
-"Language: tr\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.18.2\n"
+msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2024-07-02T08:00:01.717Z\nPO-Revision-Date: 2024-07-03 09:20+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Turkish <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-8-0/tr/>\nLanguage: tr\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.18.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -222,8 +212,9 @@ msgid "Asset \"%s\" was not found in archive."
 msgstr "Varlık \"%s\" arşivde bulunamadı."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:150
+#, fuzzy
 msgid "Invalid credentials."
-msgstr ""
+msgstr "Geçersiz kimlik bilgileri."
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:156
 msgid "Link is not valid."
@@ -604,8 +595,9 @@ msgid "Unable to get version history."
 msgstr "Sürüm geçmişi alınamıyor."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1144
+#, fuzzy
 msgid "Unable to get comments."
-msgstr ""
+msgstr "Yorum alınamıyor."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1155
 #: engine-wizard/elm/Wizard/ProjectActions/Index/Update.elm:70
@@ -891,18 +883,21 @@ msgid "There are no follow up questions in this phase."
 msgstr "Bu aşamada herhangi bir takip sorusu bulunmamaktadır."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2869
+#, fuzzy
 msgid "Expand"
-msgstr ""
+msgstr "Genişlet"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2874
+#, fuzzy
 msgid "%s %s follow up question"
 msgid_plural "%s %s follow up questions"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "s %s takip sorusu"
+msgstr[1] "s %s takip soruları"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2884
+#, fuzzy
 msgid "Collapse"
-msgstr ""
+msgstr "Çöküş"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2919
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:62
@@ -4244,13 +4239,15 @@ msgid "Public link"
 msgstr "Genel bağlantı"
 
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:43
+#, fuzzy
 msgid "Anyone with the link can access the project. No login is required."
-msgstr ""
+msgstr "Bağlantıya sahip olan herkes projeye erişebilir. Oturum açmaya gerek yoktur."
 
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:47
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:92
+#, fuzzy
 msgid "Private project accessible only by you."
-msgstr ""
+msgstr "Sadece sizin erişebileceğiniz özel bir proje."
 
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:50
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:614
@@ -4258,49 +4255,57 @@ msgid "Visible by all other logged-in users"
 msgstr "Oturum açmış diğer tüm kullanıcılar tarafından görülebilir"
 
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:51
+#, fuzzy
 msgid "Other logged-in users can access the project. No explicit permission is required."
-msgstr ""
+msgstr "Oturum açmış diğer kullanıcılar projeye erişebilir. Açık bir izin gerekmez."
 
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:61
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:103
+#, fuzzy
 msgid "Shared with %s and %s."
-msgstr ""
+msgstr "s ve %s ile paylaşıldı."
 
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:63
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:104
+#, fuzzy
 msgid "%s user"
 msgid_plural "%s users"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "s kullanıcı"
+msgstr[1] "s kullanıcıları"
 
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:66
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:105
+#, fuzzy
 msgid "%s user group"
 msgid_plural "%s user groups"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "s kullanıcı grubu"
+msgstr[1] "s kullanıcı grupları"
 
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:73
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:109
+#, fuzzy
 msgid "Shared with %s user group."
 msgid_plural "Shared with %s user groups."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "s kullanıcı grubu ile paylaşıldı."
+msgstr[1] "s kullanıcı gruplarıyla paylaşıldı."
 
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:80
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:113
+#, fuzzy
 msgid "Shared with %s user."
 msgid_plural "Shared with %s users."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "s kullanıcısı ile paylaşıldı."
+msgstr[1] "s kullanıcıları ile paylaşıldı."
 
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:89
+#, fuzzy
 msgid "Anyone with the link can access the project."
-msgstr ""
+msgstr "Bağlantıya sahip olan herkes projeye erişebilir."
 
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:95
+#, fuzzy
 msgid "Other logged-in users can access the project."
-msgstr ""
+msgstr "Oturum açmış diğer kullanıcılar projeye erişebilir."
 
 #: engine-wizard/elm/Wizard/Projects/Create/Update.elm:109
 msgid "Unable to get selected project template."
@@ -4388,8 +4393,9 @@ msgid "Original Knowledge Model"
 msgstr "Orijinal Bilgi Modeli"
 
 #: engine-wizard/elm/Wizard/Projects/CreateMigration/View.elm:89
+#, fuzzy
 msgid "Original Version"
-msgstr ""
+msgstr "Orijinal versiyon"
 
 #: engine-wizard/elm/Wizard/Projects/CreateMigration/View.elm:95
 msgid "New Knowledge Model"
