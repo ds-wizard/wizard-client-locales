@@ -1,7 +1,7 @@
 # Marek Suchánek <marek.suchanek@ds-wizard.org>, 2024.
 # Gil Poiares-Oliveira <gpo@biodata.pt>, 2024.
 msgid ""
-msgstr "Project-Id-Version: wizard-client:4.2.0\nPOT-Creation-Date: 2024-03-05T08:27:08.112Z\nPO-Revision-Date: 2024-07-02 21:42+0000\nLast-Translator: Gil Poiares-Oliveira <gpo@biodata.pt>\nLanguage-Team: Portuguese <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-4-0/pt/>\nLanguage: pt\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 4.18.2\n"
+msgstr "Project-Id-Version: wizard-client:4.2.0\nPOT-Creation-Date: 2024-03-05T08:27:08.112Z\nPO-Revision-Date: 2024-07-24 05:43+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Portuguese <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-4-0/pt/>\nLanguage: pt\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 4.18.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -2415,7 +2415,7 @@ msgstr "Há mudanças que não são salvas."
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Update.elm:142
 #, fuzzy
 msgid "Unable to get document template"
-msgstr "Não é possível obter um modelo de documento"
+msgstr "Não é possível obter modelos de documento."
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/View.elm:90
 #, fuzzy
@@ -2680,7 +2680,7 @@ msgstr "Do ficheiro"
 #: engine-wizard/elm/Wizard/DocumentTemplates/Index/Update.elm:58
 #, fuzzy
 msgid "Document template could not be updated."
-msgstr "Não foi possível atualizar o modelo de documento."
+msgstr "Não foi possível criar um modelo de documento."
 
 #: engine-wizard/elm/Wizard/DocumentTemplates/Index/View.elm:117
 #, fuzzy
@@ -4577,7 +4577,7 @@ msgstr "Não é possível obter modelos de projectos."
 #: engine-wizard/elm/Wizard/Projects/Create/Update.elm:277
 #, fuzzy
 msgid "Unable to get knowledge models."
-msgstr "Não é possível obter modelos de conhecimento."
+msgstr "Não é possível obter os modelos de conhecimento."
 
 #: engine-wizard/elm/Wizard/Projects/Create/Update.elm:240
 #, fuzzy
