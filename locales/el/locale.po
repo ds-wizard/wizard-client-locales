@@ -1,6 +1,6 @@
 # Jana Martínková <j.martinkova@outlook.com>, 2024.
 msgid ""
-msgstr "Project-Id-Version: wizard-client:4.9.0\nPOT-Creation-Date: 2024-08-06T07:10:13.804Z\nPO-Revision-Date: 2024-08-06 12:55+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Greek <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-9-0/el/>\nLanguage: el\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.18.2\n"
+msgstr "Project-Id-Version: wizard-client:4.9.0\nPOT-Creation-Date: 2024-08-06T07:10:13.804Z\nPO-Revision-Date: 2024-08-06 12:56+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Greek <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-9-0/el/>\nLanguage: el\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.18.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 #, fuzzy
@@ -3971,7 +3971,7 @@ msgstr "Χρησιμοποιήστε αυτήν την ενότητα για ν�
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1517
 #, fuzzy
 msgid "A URL of the integrated service API that supports the search. Use `${q}` for the actual string that will be filled when users search for items, such as *ht&#8203;tps://example.com/search?q=${q}*."
-msgstr "Μια διεύθυνση URL της ολοκληρωμένης υπηρεσίας API που υποστηρίζει την αναζήτηση. Χρησιμοποιήστε `${q}` για την πραγματική συμβολοσειρά που θα συμπληρώνεται όταν οι χρήστες αναζητούν στοιχεία, όπως *ht&#8203;tps://example.com/search?q=${q}*."
+msgstr "Μια διεύθυνση URL της ολοκληρωμένης υπηρεσίας API που υποστηρίζει την αναζήτηση. Χρησιμοποιήστε `${q}` για την πραγματική συμβολοσειρά που θα συμπληρώνεται όταν οι χρήστες αναζητούν στοιχεία, όπως *https://example.com/search?q=${q}*."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1522
 #, fuzzy
