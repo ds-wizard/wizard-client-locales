@@ -4067,7 +4067,7 @@ msgstr "Το λογότυπο εμφανίζεται δίπλα στο σύνδ�
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1659
 #, fuzzy
 msgid "Props can be used to parametrize the integration for each question. Use this to define the props whose value can be filled on the questions using this integration. The props can then be used in the URL configuration. For example, if you define prop named *type*, you can use it as `${type}`, such as *ht&#8203;tps://example.com/${type}*."
-msgstr "Τα στηρίγματα μπορούν να χρησιμοποιηθούν για την παραμετροποίηση της ολοκλήρωσης για κάθε ερώτηση. Χρησιμοποιήστε το για να ορίσετε τα στηρίγματα των οποίων η τιμή μπορεί να συμπληρωθεί στις ερωτήσεις που χρησιμοποιούν αυτή την ολοκλήρωση. Τα στηρίγματα μπορούν στη συνέχεια να χρησιμοποιηθούν στη διαμόρφωση της διεύθυνσης URL. Για παράδειγμα, αν ορίσετε το prop με όνομα *type*, μπορείτε να το χρησιμοποιήσετε ως `${type}`, όπως *ht&#8203;tps://example.com/${type}*."
+msgstr "Τα στηρίγματα μπορούν να χρησιμοποιηθούν για την παραμετροποίηση της ολοκλήρωσης για κάθε ερώτηση. Χρησιμοποιήστε το για να ορίσετε τα στηρίγματα των οποίων η τιμή μπορεί να συμπληρωθεί στις ερωτήσεις που χρησιμοποιούν αυτή την ολοκλήρωση. Τα στηρίγματα μπορούν στη συνέχεια να χρησιμοποιηθούν στη διαμόρφωση της διεύθυνσης URL. Για παράδειγμα, αν ορίσετε το prop με όνομα *type*, μπορείτε να το χρησιμοποιήσετε ως `${type}`, όπως *https://example.com/${type}*."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1663
 #, fuzzy
