@@ -1,17 +1,7 @@
 # Marek Suchánek <marek.suchanek@ds-wizard.org>, 2024.
 # Gil Poiares-Oliveira <gpo@biodata.pt>, 2024.
 msgid ""
-msgstr ""
-"Project-Id-Version: wizard-client:4.2.0\n"
-"POT-Creation-Date: 2024-08-06T07:10:13.804Z \n"
-"PO-Revision-Date: 2024-07-28 05:43+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Portuguese <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-8-0/pt/>\n"
-"Language: pt\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 4.18.2\n"
+msgstr "Project-Id-Version: wizard-client:4.2.0\nPOT-Creation-Date: 2024-08-06T07:10:13.804Z\nPO-Revision-Date: 2024-08-06 12:31+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Portuguese <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-9-0/pt/>\nLanguage: pt\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 4.18.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -413,8 +403,9 @@ msgid "Unable to get comments."
 msgstr "Não é possível obter comentários."
 
 #: engine-wizard/elm/Wizard/Comments/View.elm:24
+#, fuzzy
 msgid "Assigned Comments"
-msgstr ""
+msgstr "Comentários atribuídos"
 
 #: engine-wizard/elm/Wizard/Comments/View.elm:34
 #: engine-wizard/elm/Wizard/Comments/View.elm:70
@@ -424,20 +415,24 @@ msgid "Resolved"
 msgstr "Resolvido"
 
 #: engine-wizard/elm/Wizard/Comments/View.elm:36
+#, fuzzy
 msgid "Resolved only"
-msgstr ""
+msgstr "Resolvido apenas"
 
 #: engine-wizard/elm/Wizard/Comments/View.elm:37
+#, fuzzy
 msgid "Unresolved only"
-msgstr ""
+msgstr "Apenas não resolvido"
 
 #: engine-wizard/elm/Wizard/Comments/View.elm:46
+#, fuzzy
 msgid "No comments have been assigned to you."
-msgstr ""
+msgstr "Não lhe foram atribuídos comentários."
 
 #: engine-wizard/elm/Wizard/Comments/View.elm:54
+#, fuzzy
 msgid "Search comments..."
-msgstr ""
+msgstr "Procurar comentários..."
 
 #: engine-wizard/elm/Wizard/Comments/View.elm:56
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Preview.elm:256
@@ -774,8 +769,9 @@ msgid "Click the %s icon to add new comments to a question."
 msgstr "Clique no ícone %s para adicionar novos comentários a uma pergunta."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2268
+#, fuzzy
 msgid "View resolved comments (%s)"
-msgstr ""
+msgstr "Ver comentários resolvidos (%s)"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2301
 msgid "Editor notes are only visible to project Editors and Owners."
@@ -807,12 +803,14 @@ msgid "Reply..."
 msgstr "Resposta.."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2457
+#, fuzzy
 msgid "Assigned to you"
-msgstr ""
+msgstr "Atribuído a si"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2462
+#, fuzzy
 msgid "Assigned to %s"
-msgstr ""
+msgstr "Atribuído a %s"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2514
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2597
@@ -851,8 +849,9 @@ msgid "Resolve comment thread"
 msgstr "Resolver fio de comentários"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2581
+#, fuzzy
 msgid "Remove assignment"
-msgstr ""
+msgstr "Remover atribuição"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2589
 msgid "Reopen"
@@ -955,6 +954,7 @@ msgid "Expand"
 msgstr "Expandir"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3146
+#, fuzzy
 msgid "%s %s follow up question"
 msgid_plural "%s %s follow up questions"
 msgstr[0] ""
@@ -4705,6 +4705,7 @@ msgstr "Partilhado com %s e %s."
 
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:63
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:104
+#, fuzzy
 msgid "%s user"
 msgid_plural "%s users"
 msgstr[0] ""
@@ -4712,6 +4713,7 @@ msgstr[1] "%s utilizadores"
 
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:66
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:105
+#, fuzzy
 msgid "%s user group"
 msgid_plural "%s user groups"
 msgstr[0] ""
@@ -4719,6 +4721,7 @@ msgstr[1] "%s grupos de utilizadores"
 
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:73
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:109
+#, fuzzy
 msgid "Shared with %s user group."
 msgid_plural "Shared with %s user groups."
 msgstr[0] ""
@@ -4726,6 +4729,7 @@ msgstr[1] "Partilhado com %s grupos de utilizadores."
 
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:80
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:113
+#, fuzzy
 msgid "Shared with %s user."
 msgid_plural "Shared with %s users."
 msgstr[0] ""
@@ -5145,12 +5149,14 @@ msgid "Import status:"
 msgstr "Estado da importação:"
 
 #: engine-wizard/elm/Wizard/Projects/Import/View.elm:90
+#, fuzzy
 msgid "%s questionnaire change will be imported"
 msgid_plural "%s questionnaire changes will be imported"
 msgstr[0] ""
 msgstr[1] "As alterações ao questionário %s serão importadas"
 
 #: engine-wizard/elm/Wizard/Projects/Import/View.elm:108
+#, fuzzy
 msgid "%s error encountered"
 msgid_plural "%s errors encountered"
 msgstr[0] ""
