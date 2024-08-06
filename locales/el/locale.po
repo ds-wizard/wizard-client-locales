@@ -6504,7 +6504,7 @@ msgstr "Όνομα αποθετηρίου GitHub"
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:60
 #, fuzzy
 msgid "ht&#8203;tps://github.com/exampleOwner/**exampleRepository**"
-msgstr "ht&#8203;tps://github.com/exampleOwner/**exampleRepository**"
+msgstr "https://github.com/exampleOwner/**exampleRepository**"
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:61
 #, fuzzy
