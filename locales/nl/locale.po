@@ -2,17 +2,7 @@
 # Marek Suchánek <marek.suchanek@ds-wizard.org>, 2023, 2024.
 # Jana Martínková <j.martinkova@outlook.com>, 2024.
 msgid ""
-msgstr ""
-"Project-Id-Version: wizard-client:3.18.3\n"
-"POT-Creation-Date: 2024-08-06T07:10:13.804Z \n"
-"PO-Revision-Date: 2024-07-05 19:42+0000\n"
-"Last-Translator: Rob Hooft <rob.hooft@health-ri.nl>\n"
-"Language-Team: Dutch <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-8-0/nl/>\n"
-"Language: nl\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.18.2\n"
+msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2024-08-06T07:10:13.804Z\nPO-Revision-Date: 2024-08-06 12:34+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Dutch <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-9-0/nl/>\nLanguage: nl\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.18.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -412,8 +402,9 @@ msgid "Unable to get comments."
 msgstr "Kan geen opmerkingen ophalen."
 
 #: engine-wizard/elm/Wizard/Comments/View.elm:24
+#, fuzzy
 msgid "Assigned Comments"
-msgstr ""
+msgstr "Toegewezen Opmerkingen"
 
 #: engine-wizard/elm/Wizard/Comments/View.elm:34
 #: engine-wizard/elm/Wizard/Comments/View.elm:70
@@ -422,20 +413,24 @@ msgid "Resolved"
 msgstr "Opgelost"
 
 #: engine-wizard/elm/Wizard/Comments/View.elm:36
+#, fuzzy
 msgid "Resolved only"
-msgstr ""
+msgstr "Alleen opgelost"
 
 #: engine-wizard/elm/Wizard/Comments/View.elm:37
+#, fuzzy
 msgid "Unresolved only"
-msgstr ""
+msgstr "Alleen onopgelost"
 
 #: engine-wizard/elm/Wizard/Comments/View.elm:46
+#, fuzzy
 msgid "No comments have been assigned to you."
-msgstr ""
+msgstr "Er zijn geen opmerkingen aan u toegewezen."
 
 #: engine-wizard/elm/Wizard/Comments/View.elm:54
+#, fuzzy
 msgid "Search comments..."
-msgstr ""
+msgstr "Reacties zoeken..."
 
 #: engine-wizard/elm/Wizard/Comments/View.elm:56
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Preview.elm:256
@@ -768,8 +763,9 @@ msgid "Click the %s icon to add new comments to a question."
 msgstr "Klik op het %s pictogram om nieuwe commentaren toe te voegen aan een vraag."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2268
+#, fuzzy
 msgid "View resolved comments (%s)"
-msgstr ""
+msgstr "Opgeloste opmerkingen bekijken (%s)"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2301
 msgid "Editor notes are only visible to project Editors and Owners."
@@ -801,12 +797,14 @@ msgid "Reply..."
 msgstr "Antwoord…"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2457
+#, fuzzy
 msgid "Assigned to you"
-msgstr ""
+msgstr "Aan jou toegewezen"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2462
+#, fuzzy
 msgid "Assigned to %s"
-msgstr ""
+msgstr "Toegewezen aan %s"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2514
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2597
@@ -845,8 +843,9 @@ msgid "Resolve comment thread"
 msgstr "Markeer commentaarconversatie als opgelost"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2581
+#, fuzzy
 msgid "Remove assignment"
-msgstr ""
+msgstr "Opdracht verwijderen"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2589
 msgid "Reopen"
@@ -1263,12 +1262,14 @@ msgid "Unable to get users."
 msgstr "Kan gebruikers niet ophalen."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire/UserSuggestionDropdown.elm:150
+#, fuzzy
 msgid "No users found."
-msgstr ""
+msgstr "Geen gebruikers gevonden"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire/UserSuggestionDropdown.elm:170
+#, fuzzy
 msgid "Assign comment thread"
-msgstr ""
+msgstr "Commentaardraad toewijzen"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire/UserSuggestionDropdown.elm:179
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:448
@@ -1577,8 +1578,9 @@ msgid "Edit profile"
 msgstr "Wijzig profielinformatie"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:670
+#, fuzzy
 msgid "Assigned comments"
-msgstr ""
+msgstr "Toegewezen opmerkingen"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:680
 msgid "Log out"
@@ -1858,8 +1860,9 @@ msgstr "Kan documentsjablonen niet ophalen."
 #: engine-wizard/elm/Wizard/Dashboard/Dashboards/AdminDashboard.elm:138
 #: engine-wizard/elm/Wizard/Dashboard/Dashboards/DataStewardDashboard.elm:116
 #: engine-wizard/elm/Wizard/Dashboard/Dashboards/ResearcherDashboard.elm:117
+#, fuzzy
 msgid "Unable to get assigned comments."
-msgstr ""
+msgstr "Kan geen toegewezen opmerkingen krijgen."
 
 #: engine-wizard/elm/Wizard/Dashboard/Dashboards/ResearcherDashboard.elm:107
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Preview.elm:138
@@ -1884,8 +1887,9 @@ msgid "Add OpenID"
 msgstr "Voeg OpenID toe"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/AssignedComments.elm:42
+#, fuzzy
 msgid "Unresolved Assigned Comments"
-msgstr ""
+msgstr "Onopgeloste toegewezen opmerkingen"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/AssignedComments.elm:48
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/RecentProjectsWidget.elm:46
