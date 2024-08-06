@@ -1,16 +1,6 @@
 # Remedios Melero <rmelero@iata.csic.es>, 2023.
 msgid ""
-msgstr ""
-"Project-Id-Version: wizard-client:3.18.3\n"
-"POT-Creation-Date: 2024-08-06T07:10:13.804Z \n"
-"PO-Revision-Date: 2024-07-03 09:20+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Spanish <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-8-0/es/>\n"
-"Language: es\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.18.2\n"
+msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2024-08-06T07:10:13.804Z\nPO-Revision-Date: 2024-08-06 12:34+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Spanish <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-9-0/es/>\nLanguage: es\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.18.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -430,8 +420,9 @@ msgid "Unable to get comments."
 msgstr "No se pueden recibir comentarios."
 
 #: engine-wizard/elm/Wizard/Comments/View.elm:24
+#, fuzzy
 msgid "Assigned Comments"
-msgstr ""
+msgstr "Comentarios asignados"
 
 #: engine-wizard/elm/Wizard/Comments/View.elm:34
 #: engine-wizard/elm/Wizard/Comments/View.elm:70
@@ -441,20 +432,24 @@ msgid "Resolved"
 msgstr "Resuelto"
 
 #: engine-wizard/elm/Wizard/Comments/View.elm:36
+#, fuzzy
 msgid "Resolved only"
-msgstr ""
+msgstr "Resuelto sólo"
 
 #: engine-wizard/elm/Wizard/Comments/View.elm:37
+#, fuzzy
 msgid "Unresolved only"
-msgstr ""
+msgstr "Sólo sin resolver"
 
 #: engine-wizard/elm/Wizard/Comments/View.elm:46
+#, fuzzy
 msgid "No comments have been assigned to you."
-msgstr ""
+msgstr "No se le ha asignado ningún comentario."
 
 #: engine-wizard/elm/Wizard/Comments/View.elm:54
+#, fuzzy
 msgid "Search comments..."
-msgstr ""
+msgstr "Buscar comentarios..."
 
 #: engine-wizard/elm/Wizard/Comments/View.elm:56
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Preview.elm:256
@@ -820,8 +815,9 @@ msgid "Click the %s icon to add new comments to a question."
 msgstr "Haga clic en el icono %s para añadir nuevos comentarios a una pregunta."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2268
+#, fuzzy
 msgid "View resolved comments (%s)"
-msgstr ""
+msgstr "Ver comentarios resueltos (%s)"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2301
 #, fuzzy
@@ -860,12 +856,14 @@ msgid "Reply..."
 msgstr "Responder..."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2457
+#, fuzzy
 msgid "Assigned to you"
-msgstr ""
+msgstr "Asignado a usted"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2462
+#, fuzzy
 msgid "Assigned to %s"
-msgstr ""
+msgstr "Asignado a %s"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2514
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2597
@@ -907,8 +905,9 @@ msgid "Resolve comment thread"
 msgstr "Resolver el hilo de comentarios"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2581
+#, fuzzy
 msgid "Remove assignment"
-msgstr ""
+msgstr "Eliminar asignación"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2589
 #, fuzzy
@@ -1395,12 +1394,14 @@ msgid "Unable to get users."
 msgstr "No se pueden obtener usuarios."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire/UserSuggestionDropdown.elm:150
+#, fuzzy
 msgid "No users found."
-msgstr ""
+msgstr "No se han encontrado usuarios."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire/UserSuggestionDropdown.elm:170
+#, fuzzy
 msgid "Assign comment thread"
-msgstr ""
+msgstr "Asignar hilo de comentarios"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire/UserSuggestionDropdown.elm:179
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:448
@@ -1753,8 +1754,9 @@ msgid "Edit profile"
 msgstr "Editar perfil"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:670
+#, fuzzy
 msgid "Assigned comments"
-msgstr ""
+msgstr "Comentarios asignados"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:680
 #, fuzzy
@@ -2084,8 +2086,9 @@ msgstr "No se pueden obtener plantillas de documentos."
 #: engine-wizard/elm/Wizard/Dashboard/Dashboards/AdminDashboard.elm:138
 #: engine-wizard/elm/Wizard/Dashboard/Dashboards/DataStewardDashboard.elm:116
 #: engine-wizard/elm/Wizard/Dashboard/Dashboards/ResearcherDashboard.elm:117
+#, fuzzy
 msgid "Unable to get assigned comments."
-msgstr ""
+msgstr "No se pueden obtener comentarios asignados."
 
 #: engine-wizard/elm/Wizard/Dashboard/Dashboards/ResearcherDashboard.elm:107
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Preview.elm:138
@@ -2115,8 +2118,9 @@ msgid "Add OpenID"
 msgstr "Añadir OpenID"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/AssignedComments.elm:42
+#, fuzzy
 msgid "Unresolved Assigned Comments"
-msgstr ""
+msgstr "Comentarios asignados no resueltos"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/AssignedComments.elm:48
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/RecentProjectsWidget.elm:46
