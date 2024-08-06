@@ -1275,12 +1275,14 @@ msgid "Unable to get users."
 msgstr "Não é possível obter utilizadores."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire/UserSuggestionDropdown.elm:150
+#, fuzzy
 msgid "No users found."
-msgstr ""
+msgstr "Não foram encontrados utilizadores."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire/UserSuggestionDropdown.elm:170
+#, fuzzy
 msgid "Assign comment thread"
-msgstr ""
+msgstr "Atribuir linha de comentários"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire/UserSuggestionDropdown.elm:179
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:448
@@ -1590,8 +1592,9 @@ msgid "Edit profile"
 msgstr "Editar perfil"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:670
+#, fuzzy
 msgid "Assigned comments"
-msgstr ""
+msgstr "Observações atribuídas"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:680
 msgid "Log out"
@@ -1871,8 +1874,9 @@ msgstr "Não é possível obter modelos de documento."
 #: engine-wizard/elm/Wizard/Dashboard/Dashboards/AdminDashboard.elm:138
 #: engine-wizard/elm/Wizard/Dashboard/Dashboards/DataStewardDashboard.elm:116
 #: engine-wizard/elm/Wizard/Dashboard/Dashboards/ResearcherDashboard.elm:117
+#, fuzzy
 msgid "Unable to get assigned comments."
-msgstr ""
+msgstr "Não é possível obter comentários atribuídos."
 
 #: engine-wizard/elm/Wizard/Dashboard/Dashboards/ResearcherDashboard.elm:107
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Preview.elm:138
@@ -1897,8 +1901,9 @@ msgid "Add OpenID"
 msgstr "Adicionar OpenID"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/AssignedComments.elm:42
+#, fuzzy
 msgid "Unresolved Assigned Comments"
-msgstr ""
+msgstr "Comentários atribuídos não resolvidos"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/AssignedComments.elm:48
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/RecentProjectsWidget.elm:46
