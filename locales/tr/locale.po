@@ -2,7 +2,17 @@
 # Marek Suchánek <marek.suchanek@ds-wizard.org>, 2023, 2024.
 # Jana Martínková <j.martinkova@outlook.com>, 2024.
 msgid ""
-msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2024-07-02T08:00:01.717Z\nPO-Revision-Date: 2024-08-05 09:23+0000\nLast-Translator: Jana Martínková <j.martinkova@outlook.com>\nLanguage-Team: Turkish <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-8-0/tr/>\nLanguage: tr\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.18.2\n"
+msgstr ""
+"Project-Id-Version: wizard-client:3.18.3\n"
+"POT-Creation-Date: 2024-08-06T07:10:13.804Z \n"
+"PO-Revision-Date: 2024-08-05 09:23+0000\n"
+"Last-Translator: Jana Martínková <j.martinkova@outlook.com>\n"
+"Language-Team: Turkish <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-8-0/tr/>\n"
+"Language: tr\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.18.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -396,6 +406,50 @@ msgstr "Bu zayıf bir parola."
 msgid "Comma (,) is not allowed in project tags."
 msgstr "Proje etiketlerinde virgül (,) kullanılmasına izin verilmez."
 
+#: engine-wizard/elm/Wizard/Comments/Update.elm:35
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1248
+msgid "Unable to get comments."
+msgstr "Yorum alınamıyor."
+
+#: engine-wizard/elm/Wizard/Comments/View.elm:24
+msgid "Assigned Comments"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Comments/View.elm:34
+#: engine-wizard/elm/Wizard/Comments/View.elm:70
+#: engine-wizard/elm/Wizard/Projects/Migration/View.elm:198
+msgid "Resolved"
+msgstr "Çözüldü"
+
+#: engine-wizard/elm/Wizard/Comments/View.elm:36
+msgid "Resolved only"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Comments/View.elm:37
+msgid "Unresolved only"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Comments/View.elm:46
+msgid "No comments have been assigned to you."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Comments/View.elm:54
+msgid "Search comments..."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Comments/View.elm:56
+#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Preview.elm:256
+#: engine-wizard/elm/Wizard/Projects/CreateMigration/View.elm:83
+msgid "Project"
+msgstr "Proje"
+
+#: engine-wizard/elm/Wizard/Comments/View.elm:57
+#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Index/View.elm:53
+#: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:71
+#: engine-wizard/elm/Wizard/Projects/Index/View.elm:132
+msgid "Updated"
+msgstr "Güncellenmiş"
+
 #: engine-wizard/elm/Wizard/Common/Components/CookieConsent.elm:27
 msgid "Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use. "
 msgstr "Gizlilik ve Çerezler: Bu sitede çerezler kullanılmaktadır. Bu web sitesini kullanmaya devam ederek, bunların kullanımını kabul etmiş olursunuz. "
@@ -413,14 +467,14 @@ msgid "Close and Accept"
 msgstr "Kapat ve Kabul Et"
 
 #: engine-wizard/elm/Wizard/Common/Components/CopyableCodeBlock.elm:48
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3542
-#: engine-wizard/elm/Wizard/Common/Menu/View.elm:760
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3814
+#: engine-wizard/elm/Wizard/Common/Menu/View.elm:768
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:424
 msgid "Copied!"
 msgstr "Kopyalandı!"
 
 #: engine-wizard/elm/Wizard/Common/Components/CopyableCodeBlock.elm:61
-#: engine-wizard/elm/Wizard/Common/Menu/View.elm:771
+#: engine-wizard/elm/Wizard/Common/Menu/View.elm:779
 msgid "Copy"
 msgstr "Anlaşıldı"
 
@@ -461,88 +515,89 @@ msgid "No data"
 msgstr "Veri yok"
 
 #: engine-wizard/elm/Wizard/Common/Components/Listing/View.elm:544
+#: engine-wizard/elm/Wizard/Dashboard/Widgets/AssignedComments.elm:67
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/RecentProjectsWidget.elm:64
 msgid "Updated %s"
 msgstr "Güncellendi %s"
 
-#: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:44
-#: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:54
+#: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:51
+#: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:61
 msgid "Anonymous Cat"
 msgstr "İsimsiz Kedi"
 
-#: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:55
+#: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:62
 msgid "Anonymous Crow"
 msgstr "İsimsiz Karga"
 
-#: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:56
+#: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:63
 msgid "Anonymous Dog"
 msgstr "İsimsiz Köpek"
 
-#: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:57
+#: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:64
 msgid "Anonymous Dove"
 msgstr "İsimsiz Güvercin"
 
-#: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:58
+#: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:65
 msgid "Anonymous Dragon"
 msgstr "İsimsiz Ejderha"
 
-#: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:59
+#: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:66
 msgid "Anonymous Fish"
 msgstr "İsimsiz Balık"
 
-#: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:60
+#: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:67
 msgid "Anonymous Frog"
 msgstr "İsimsiz Kurbağa"
 
-#: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:61
+#: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:68
 msgid "Anonymous Hippo"
 msgstr "İsimsiz Hippo"
 
-#: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:62
+#: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:69
 msgid "Anonymous Horse"
 msgstr "İsimsiz At"
 
-#: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:63
+#: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:70
 msgid "Anonymous Kiwi"
 msgstr "İsimsiz Kivi"
 
-#: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:64
+#: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:71
 msgid "Anonymous Otter"
 msgstr "İsimsiz Su Samuru"
 
-#: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:65
+#: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:72
 msgid "Anonymous Spider"
 msgstr "İsimsiz Örümcek"
 
-#: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:66
+#: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:73
 msgid "Anonymous Pig"
 msgstr "İsimsiz Domuz"
 
-#: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:67
+#: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:74
 msgid "Anonymous Bug"
 msgstr "İsimsiz Böcek"
 
-#: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:68
+#: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:75
 msgid "Anonymous Wizard"
 msgstr "İsimsiz Büyücü"
 
-#: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:69
+#: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:76
 msgid "Anonymous Ghost"
 msgstr "İsimsiz Hayalet"
 
-#: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:70
+#: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:77
 msgid "Anonymous Robot"
 msgstr "İsimsiz Robot"
 
-#: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:71
+#: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:78
 msgid "Anonymous Snowman"
 msgstr "İsimsiz Kardan Adam"
 
-#: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:72
+#: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:79
 msgid "Anonymous Tree"
 msgstr "İsimsiz Ağaç"
 
-#: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:73
+#: engine-wizard/elm/Wizard/Common/Components/OnlineUser.elm:80
 msgid "Anonymous Cowboy"
 msgstr "İsimsiz Kovboy"
 
@@ -588,177 +643,181 @@ msgstr "Kimden"
 msgid "To"
 msgstr "Kime"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:858
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:867
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:909
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:918
 msgid "Unable to get version history."
 msgstr "Sürüm geçmişi alınamıyor."
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1144
-msgid "Unable to get comments."
-msgstr "Yorum alınamıyor."
-
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1155
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1259
 #: engine-wizard/elm/Wizard/ProjectActions/Index/Update.elm:70
 msgid "Unable to get project actions."
 msgstr "Proje eylemleri alınamıyor."
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1167
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1271
 #: engine-wizard/elm/Wizard/ProjectImporters/Index/Update.elm:70
 msgid "Unable to get project importers."
 msgstr "Proje içe aktarıcılar alınamıyor."
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1313
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1463
 msgid "Unable to get type hints."
 msgstr "Yazım ipuçları alınamıyor."
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1440
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1595
 msgid "project migration"
 msgstr "proje geçişi"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1443
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1598
 msgid "There is an ongoing %s. Finish it before you can continue editing this project."
 msgstr "Devam eden bir %s var. Bu projeyi düzenlemeye devam edebilmek için önce onu bitirin."
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1502
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1657
 msgid "View"
 msgstr "Görüntüle"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1506
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1661
 #: engine-wizard/elm/Wizard/DocumentTemplates/Detail/View.elm:330
 #: engine-wizard/elm/Wizard/KnowledgeModels/Detail/View.elm:216
 msgid "Show all"
 msgstr "Hepsini göster"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1509
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1664
 msgid "Hide all"
 msgstr "Tümünü gizle"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1513
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1668
 msgid "Answered by"
 msgstr "Cevaplayan"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1518
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1673
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:542
 #: engine-wizard/elm/Wizard/KMEditor/Editor/View.elm:176
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:397
 msgid "Phases"
 msgstr "Aşamalar"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1523
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1678
 msgid "Question tags"
 msgstr "Soru etiketleri"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1528
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1683
 msgid "Non-desirable questions"
 msgstr "İstenmeyen sorular"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1533
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1688
 msgid "Metric values"
 msgstr "Metrik değerler"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1546
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1701
 msgid "Import replies"
 msgstr "Yanıtları içe aktar"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1569
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1724
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:152
 msgid "Actions"
 msgstr "Eylemler"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1642
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1797
 msgid "TODOs"
 msgstr "Yapılacaklar"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1663
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2183
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2184
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3470
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1818
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2394
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2395
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3742
 msgid "Comments"
 msgstr "Yorumlar"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1674
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1829
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:322
 msgid "Warnings"
 msgstr "Uyarılar"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1688
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1843
 msgid "Version history"
 msgstr "Sürüm geçmişi"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1722
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1877
 msgid "Action succeeded!"
 msgstr "Eylem başarılı oldu!"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1727
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1882
 msgid "Action failed!"
 msgstr "Eylem başarısız oldu!"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1740
-#: engine-wizard/elm/Wizard/Common/Menu/View.elm:742
-#: engine-wizard/elm/Wizard/Common/Menu/View.elm:795
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1895
+#: engine-wizard/elm/Wizard/Common/Menu/View.elm:750
+#: engine-wizard/elm/Wizard/Common/Menu/View.elm:803
 #: engine-wizard/elm/Wizard/Common/View/Modal.elm:155
 msgid "OK"
 msgstr "TAMAM."
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1799
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1954
 msgid "Current Phase"
 msgstr "Mevcut Aşama"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1858
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2013
 msgid "Select phase"
 msgstr "Aşama seçiniz"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1983
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2138
 msgid "All TODOs have been completed."
 msgstr "Tüm yapılacaklar tamamlanmıştır."
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2067
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2248
 msgid "Click the %s icon to add new comments to a question."
 msgstr "Bir soruya yeni yorumlar eklemek için %s simgesine tıklayın."
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2102
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2268
+msgid "View resolved comments (%s)"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2301
 msgid "Editor notes are only visible to project Editors and Owners."
 msgstr "Editör notları yalnızca proje Editörleri ve Sahipleri tarafından görülebilir."
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2119
-msgid "View resolved comments"
-msgstr "Çözülen yorumları görüntüle"
-
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2135
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2326
 msgid "Comment"
 msgstr "Yorum yap"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2136
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2327
 msgid "Create a new comment..."
 msgstr "Yeni bir yorum oluşturun..."
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2195
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2196
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2407
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2408
 msgid "Editor notes"
 msgstr "Editör notları"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2210
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2426
 msgid "Delete this comment thread?"
 msgstr "Bu yorum dizisini silelim mi?"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2223
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2439
 msgid "Reply"
 msgstr "Yanıtla"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2224
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2440
 msgid "Reply..."
 msgstr "Yanıtla..."
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2269
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2327
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2457
+msgid "Assigned to you"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2462
+msgid "Assigned to %s"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2514
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2597
 #: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:58
 #: engine-wizard/elm/Wizard/Users/Index/View.elm:147
 msgid "Edit"
 msgstr "Düzenle"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2274
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2455
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2482
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2519
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2727
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2754
 #: engine-wizard/elm/Wizard/Common/View/FormActions.elm:23
 #: engine-wizard/elm/Wizard/Common/View/FormActions.elm:31
 #: engine-wizard/elm/Wizard/Common/View/FormActions.elm:39
@@ -777,21 +836,25 @@ msgstr "Düzenle"
 msgid "Cancel"
 msgstr "İptal et"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2285
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2530
 msgid "Delete this comment?"
 msgstr "Bu yorumu sileyim mi?"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2309
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2554
 msgid "Resolve comment thread"
 msgstr "Yorum dizisini çözümle"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2319
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2581
+msgid "Remove assignment"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2589
 msgid "Reopen"
 msgstr "Yeniden Aç"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2337
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2481
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3018
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2607
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2753
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3290
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire/DeleteVersionModal.elm:131
 #: engine-wizard/elm/Wizard/Documents/Index/View.elm:238
 #: engine-wizard/elm/Wizard/Documents/Index/View.elm:351
@@ -826,91 +889,91 @@ msgstr "Yeniden Aç"
 msgid "Delete"
 msgstr "Sil"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2374
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2645
 msgid "edited"
 msgstr "düzenlenmiş"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2395
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2666
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire/History.elm:520
 msgid "Anonymous user"
 msgstr "İsimsiz kullanıcı"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2531
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2803
 msgid "This chapter contains no questions."
 msgstr "Bu bölümde soru bulunmamaktadır."
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2541
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2998
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2813
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3270
 msgid "There are no questions in this phase."
 msgstr "Bu aşamada soru bulunmamaktadır."
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2595
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2867
 msgid "Previous Chapter"
 msgstr "Önceki Bölüm"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2600
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2872
 msgid "Next Chapter"
 msgstr "Sonraki Bölüm"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2705
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2977
 msgid "anonymous user"
 msgstr "isimsiz kullanıcı"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2717
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2989
 msgid "Answered %s by %s."
 msgstr "%s %s tarafından cevaplandı."
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2742
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3014
 msgid "This question has been answered"
 msgstr "Bu soru yanıtlandı"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2745
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3017
 msgid "This question should be answered now"
 msgstr "Bu soru şimdi cevaplanmalıdır"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2748
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3020
 msgid "This question can be answered later"
 msgstr "Bu soru daha sonra cevaplanabilir"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2820
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3092
 msgid "Clear answer"
 msgstr "Cevabı temizle"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2853
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3125
 msgid "There are no follow up questions in this phase."
 msgstr "Bu aşamada herhangi bir takip sorusu bulunmamaktadır."
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2869
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3141
 msgid "Expand"
 msgstr "Genişlet"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2874
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3146
 msgid "%s %s follow up question"
 msgid_plural "%s %s follow up questions"
 msgstr[0] "%s %s takip sorusu"
 msgstr[1] "%s %s takip soruları"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2884
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3156
 msgid "Collapse"
 msgstr "Çöküş"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2919
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3191
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:62
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/TreeInput.elm:101
 msgid "Expand all"
 msgstr "Tümünü genişlet"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2926
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3198
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:66
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/TreeInput.elm:108
 msgid "Collapse all"
 msgstr "Tümünü daralt"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2942
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3214
 msgid "There are no answers yet."
 msgstr "Henüz cevap yok."
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2966
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3238
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/FileEditor.elm:906
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:636
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:497
@@ -918,44 +981,44 @@ msgstr "Henüz cevap yok."
 msgid "Add"
 msgstr "Ekle"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2990
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3262
 msgid "This item contains no questions."
 msgstr "Bu ürün soru içermemektedir."
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3031
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3303
 msgid "Move Up"
 msgstr "Yukarı taşı"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3044
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3316
 msgid "Move Down"
 msgstr "Aşağı Taşı"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3053
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3325
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire/NavigationTree.elm:251
 msgid "Item %s"
 msgstr "Öğe %s"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3148
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3420
 msgid "This is not a valid email address."
 msgstr "Bu geçerli bir e-posta adresi değil."
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3153
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3425
 msgid "This is not a valid URL."
 msgstr "Bu geçerli bir URL değil."
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3161
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3433
 msgid "This is not a valid color."
 msgstr "Bu geçerli bir renk değil."
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3202
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3474
 msgid "Select"
 msgstr "Seç"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3273
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3545
 msgid "There are no results for your search."
 msgstr "Aramanız için sonuç yok."
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3282
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3554
 #: engine-wizard/elm/Wizard/Common/Components/TypeHintInput.elm:283
 #: engine-wizard/elm/Wizard/Common/View/ActionResultBlock.elm:61
 #: engine-wizard/elm/Wizard/Common/View/Flash.elm:41
@@ -963,49 +1026,49 @@ msgstr "Aramanız için sonuç yok."
 msgid "Loading..."
 msgstr "Yükleniyor..."
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3404
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3676
 msgid "This option leads to some follow up questions."
 msgstr "Bu seçenek bazı takip sorularına yol açmaktadır."
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3461
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3733
 msgid "1 comment"
 msgid_plural "%s comments"
 msgstr[0] "1 yorum"
 msgstr[1] ""
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3495
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3767
 msgid "TODO"
 msgstr "Yapılacak"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3496
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3768
 msgid "Remove TODO"
 msgstr "Yapılacağı kaldır"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3506
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3778
 msgid "Add TODO"
 msgstr "Yapılacak ekle"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3528
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3800
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire/FeedbackModal.elm:147
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:98
 msgid "Feedback"
 msgstr "Geri bildirim"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3545
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3817
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:446
-#: engine-wizard/elm/Wizard/Projects/Detail/View.elm:210
+#: engine-wizard/elm/Wizard/Projects/Detail/View.elm:214
 msgid "Copy link"
 msgstr "Bağlantıyı kopyala"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3558
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3830
 msgid "Remove Item"
 msgstr "Eşyayı Kaldır"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3559
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3831
 msgid "Are you sure you want to remove this item?"
 msgstr "Bu öğeyi kaldırmak istediğinizden emin misiniz?"
 
-#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3562
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3834
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:362
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:509
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:577
@@ -1191,6 +1254,28 @@ msgstr "Aşamayı %s olarak ayarla"
 msgid "Chapters"
 msgstr "Bölümler"
 
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire/UserSuggestionDropdown.elm:106
+#: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:190
+#: engine-wizard/elm/Wizard/Projects/Index/Update.elm:189
+#: engine-wizard/elm/Wizard/Projects/Index/Update.elm:220
+#: engine-wizard/elm/Wizard/Users/Index/Update.elm:82
+msgid "Unable to get users."
+msgstr "Kullanıcılara ulaşılamıyor."
+
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire/UserSuggestionDropdown.elm:150
+msgid "No users found."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire/UserSuggestionDropdown.elm:170
+msgid "Assign comment thread"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Components/Questionnaire/UserSuggestionDropdown.elm:179
+#: engine-wizard/elm/Wizard/Projects/Index/View.elm:448
+#: engine-wizard/elm/Wizard/Users/Index/View.elm:56
+msgid "Search users..."
+msgstr "Arama kullanıcıları..."
+
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire/VersionModal.elm:156
 #: engine-wizard/elm/Wizard/Documents/Index/View.elm:115
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Create/View.elm:88
@@ -1322,7 +1407,7 @@ msgstr "Yanıtlandı (geçerli aşama): %s/%s"
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1447
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1485
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1523
-#: engine-wizard/elm/Wizard/Projects/Detail/View.elm:260
+#: engine-wizard/elm/Wizard/Projects/Detail/View.elm:264
 msgid "Metrics"
 msgstr "Metrikler"
 
@@ -1386,7 +1471,7 @@ msgstr "Projeler"
 #: engine-wizard/elm/Wizard/Common/Components/UsageTable.elm:23
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:165
 #: engine-wizard/elm/Wizard/Documents/Index/View.elm:75
-#: engine-wizard/elm/Wizard/Projects/Detail/View.elm:278
+#: engine-wizard/elm/Wizard/Projects/Detail/View.elm:282
 msgid "Documents"
 msgstr "Belgeler"
 
@@ -1401,12 +1486,12 @@ msgid "Storage"
 msgstr "Depolama"
 
 #: engine-wizard/elm/Wizard/Common/Menu/Update.elm:43
-#: engine-wizard/elm/Wizard/Common/Menu/View.elm:826
+#: engine-wizard/elm/Wizard/Common/Menu/View.elm:834
 msgid "Client"
 msgstr "Müşteri"
 
 #: engine-wizard/elm/Wizard/Common/Menu/Update.elm:44
-#: engine-wizard/elm/Wizard/Common/Menu/View.elm:827
+#: engine-wizard/elm/Wizard/Common/Menu/View.elm:835
 msgid "Server"
 msgstr "Sunucu"
 
@@ -1416,7 +1501,7 @@ msgstr "Yapı bilgisi alınamıyor"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:76
 #: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:34
-#: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:153
+#: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:160
 #: engine-wizard/elm/Wizard/Settings/View.elm:132
 msgid "Dashboard"
 msgstr "Gösterge Tablosu"
@@ -1464,7 +1549,7 @@ msgstr "Yönetim"
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/Settings.elm:183
 #: engine-wizard/elm/Wizard/KMEditor/Editor/View.elm:203
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:315
-#: engine-wizard/elm/Wizard/Projects/Detail/View.elm:287
+#: engine-wizard/elm/Wizard/Projects/Detail/View.elm:291
 #: engine-wizard/elm/Wizard/Registry/RegistrySignupConfirmation/View.elm:32
 msgid "Settings"
 msgstr "Ayarlar"
@@ -1482,7 +1567,7 @@ msgid "Your session expires in %s"
 msgstr "Oturumunuzun süresi %s içinde doluyor"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:644
-#: engine-wizard/elm/Wizard/Common/Menu/View.elm:903
+#: engine-wizard/elm/Wizard/Common/Menu/View.elm:911
 msgid "Change language"
 msgstr "Dili değiştir"
 
@@ -1491,48 +1576,52 @@ msgstr "Dili değiştir"
 msgid "Edit profile"
 msgstr "Profili düzenle"
 
-#: engine-wizard/elm/Wizard/Common/Menu/View.elm:672
+#: engine-wizard/elm/Wizard/Common/Menu/View.elm:670
+msgid "Assigned comments"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Common/Menu/View.elm:680
 msgid "Log out"
 msgstr "Oturumu kapat"
 
-#: engine-wizard/elm/Wizard/Common/Menu/View.elm:681
-#: engine-wizard/elm/Wizard/Common/Menu/View.elm:781
+#: engine-wizard/elm/Wizard/Common/Menu/View.elm:689
+#: engine-wizard/elm/Wizard/Common/Menu/View.elm:789
 msgid "About"
 msgstr "Hakkında"
 
-#: engine-wizard/elm/Wizard/Common/Menu/View.elm:690
+#: engine-wizard/elm/Wizard/Common/Menu/View.elm:698
 msgid "Report issue"
 msgstr "Rapor sorunu"
 
-#: engine-wizard/elm/Wizard/Common/Menu/View.elm:707
+#: engine-wizard/elm/Wizard/Common/Menu/View.elm:715
 msgid "Collapse sidebar"
 msgstr "Kenar çubuğunu daralt"
 
-#: engine-wizard/elm/Wizard/Common/Menu/View.elm:722
+#: engine-wizard/elm/Wizard/Common/Menu/View.elm:730
 msgid "If you find any problem, you can report an issue here:"
 msgstr "Herhangi bir sorun bulursanız, buradan bir sorun bildirebilirsiniz:"
 
-#: engine-wizard/elm/Wizard/Common/Menu/View.elm:734
+#: engine-wizard/elm/Wizard/Common/Menu/View.elm:742
 msgid "You can also write us an email to %s."
 msgstr "Bize %s adresine bir e-posta da yazabilirsiniz."
 
-#: engine-wizard/elm/Wizard/Common/Menu/View.elm:738
+#: engine-wizard/elm/Wizard/Common/Menu/View.elm:746
 msgid "Report Issue"
 msgstr "Rapor sorunu"
 
-#: engine-wizard/elm/Wizard/Common/Menu/View.elm:778
+#: engine-wizard/elm/Wizard/Common/Menu/View.elm:786
 msgid "About %s"
 msgstr "Hakkında %s"
 
-#: engine-wizard/elm/Wizard/Common/Menu/View.elm:815
+#: engine-wizard/elm/Wizard/Common/Menu/View.elm:823
 msgid "API URL"
 msgstr "API URL'SI"
 
-#: engine-wizard/elm/Wizard/Common/Menu/View.elm:816
+#: engine-wizard/elm/Wizard/Common/Menu/View.elm:824
 msgid "API Docs"
 msgstr "API Dokümanları"
 
-#: engine-wizard/elm/Wizard/Common/Menu/View.elm:854
+#: engine-wizard/elm/Wizard/Common/Menu/View.elm:862
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/PublishModal.elm:137
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:255
 #: engine-wizard/elm/Wizard/DocumentTemplates/Detail/View.elm:219
@@ -1544,11 +1633,11 @@ msgstr "API Dokümanları"
 msgid "Version"
 msgstr "Versiyon"
 
-#: engine-wizard/elm/Wizard/Common/Menu/View.elm:858
+#: engine-wizard/elm/Wizard/Common/Menu/View.elm:866
 msgid "Built at"
 msgstr "Şu adreste inşa edilmiştir"
 
-#: engine-wizard/elm/Wizard/Common/Menu/View.elm:883
+#: engine-wizard/elm/Wizard/Common/Menu/View.elm:891
 #: engine-wizard/elm/Wizard/Locales/Detail/View.elm:49
 #: engine-wizard/elm/Wizard/Locales/Index/View.elm:74
 msgid "default"
@@ -1645,7 +1734,7 @@ msgstr "Editör"
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:216
 #: engine-wizard/elm/Wizard/KMEditor/Editor/View.elm:194
 #: engine-wizard/elm/Wizard/KnowledgeModels/Common/KnowledgeModelActionsDropdown.elm:61
-#: engine-wizard/elm/Wizard/Projects/Detail/View.elm:269
+#: engine-wizard/elm/Wizard/Projects/Detail/View.elm:273
 msgid "Preview"
 msgstr "Önizleme"
 
@@ -1739,26 +1828,26 @@ msgstr "Bu bilgi modeli için herhangi bir soru etiketi bulunmamaktadır."
 msgid "All questions are used."
 msgstr "Tüm sorular kullanılmıştır."
 
-#: engine-wizard/elm/Wizard/Dashboard/Dashboards/AdminDashboard.elm:81
+#: engine-wizard/elm/Wizard/Dashboard/Dashboards/AdminDashboard.elm:109
 #: engine-wizard/elm/Wizard/Settings/Usage/Update.elm:24
 msgid "Unable to get usage."
 msgstr "Kullanılamıyor."
 
-#: engine-wizard/elm/Wizard/Dashboard/Dashboards/AdminDashboard.elm:90
-#: engine-wizard/elm/Wizard/Dashboard/Dashboards/DataStewardDashboard.elm:61
+#: engine-wizard/elm/Wizard/Dashboard/Dashboards/AdminDashboard.elm:118
+#: engine-wizard/elm/Wizard/Dashboard/Dashboards/DataStewardDashboard.elm:96
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Create/Update.elm:157
 #: engine-wizard/elm/Wizard/KMEditor/Create/Update.elm:152
 #: engine-wizard/elm/Wizard/KnowledgeModels/Index/Update.elm:110
 #: engine-wizard/elm/Wizard/KnowledgeModels/Preview/Update.elm:59
 #: engine-wizard/elm/Wizard/Projects/CreateMigration/Update.elm:253
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:231
-#: engine-wizard/elm/Wizard/Projects/Index/Update.elm:228
-#: engine-wizard/elm/Wizard/Projects/Index/Update.elm:259
+#: engine-wizard/elm/Wizard/Projects/Index/Update.elm:229
+#: engine-wizard/elm/Wizard/Projects/Index/Update.elm:260
 msgid "Unable to get Knowledge Models."
 msgstr "Bilgi Modelleri alınamıyor."
 
-#: engine-wizard/elm/Wizard/Dashboard/Dashboards/AdminDashboard.elm:100
-#: engine-wizard/elm/Wizard/Dashboard/Dashboards/DataStewardDashboard.elm:71
+#: engine-wizard/elm/Wizard/Dashboard/Dashboards/AdminDashboard.elm:128
+#: engine-wizard/elm/Wizard/Dashboard/Dashboards/DataStewardDashboard.elm:106
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Index/Update.elm:85
 #: engine-wizard/elm/Wizard/DocumentTemplates/Index/Update.elm:114
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/NewDocument.elm:226
@@ -1766,9 +1855,15 @@ msgstr "Bilgi Modelleri alınamıyor."
 msgid "Unable to get document templates."
 msgstr "Belge şablonları alınamıyor."
 
-#: engine-wizard/elm/Wizard/Dashboard/Dashboards/ResearcherDashboard.elm:72
+#: engine-wizard/elm/Wizard/Dashboard/Dashboards/AdminDashboard.elm:138
+#: engine-wizard/elm/Wizard/Dashboard/Dashboards/DataStewardDashboard.elm:116
+#: engine-wizard/elm/Wizard/Dashboard/Dashboards/ResearcherDashboard.elm:117
+msgid "Unable to get assigned comments."
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Dashboard/Dashboards/ResearcherDashboard.elm:107
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Preview.elm:138
-#: engine-wizard/elm/Wizard/Projects/Index/Update.elm:325
+#: engine-wizard/elm/Wizard/Projects/Index/Update.elm:326
 msgid "Unable to get projects."
 msgstr "Projeler alınamıyor."
 
@@ -1787,6 +1882,15 @@ msgstr "OpenID, yeni bir parola oluşturmadan diğer hizmetlerde oturum açmak i
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/AddOpenIDWidget.elm:17
 msgid "Add OpenID"
 msgstr "OpenID ekleyin"
+
+#: engine-wizard/elm/Wizard/Dashboard/Widgets/AssignedComments.elm:42
+msgid "Unresolved Assigned Comments"
+msgstr ""
+
+#: engine-wizard/elm/Wizard/Dashboard/Widgets/AssignedComments.elm:48
+#: engine-wizard/elm/Wizard/Dashboard/Widgets/RecentProjectsWidget.elm:46
+msgid "View all"
+msgstr "Tümünü görüntüle"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/ConfigureLookAndFeelWidget.elm:13
 msgid "Configure Look & Feel"
@@ -1942,10 +2046,6 @@ msgstr "Bazı belge şablonları için güncellemeler mevcuttur."
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/RecentProjectsWidget.elm:43
 msgid "Recent Projects"
 msgstr "Son Projeler"
-
-#: engine-wizard/elm/Wizard/Dashboard/Widgets/RecentProjectsWidget.elm:46
-msgid "View all"
-msgstr "Tümünü görüntüle"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/RecentProjectsWidget.elm:74
 msgid "You have no projects yet, start by creating some."
@@ -2256,11 +2356,6 @@ msgstr "Belge önizlemesi alınamıyor."
 msgid "Open project"
 msgstr "Açık proje"
 
-#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Preview.elm:256
-#: engine-wizard/elm/Wizard/Projects/CreateMigration/View.elm:83
-msgid "Project"
-msgstr "Proje"
-
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Preview.elm:260
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/NewDocument.elm:315
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:140
@@ -2457,12 +2552,6 @@ msgstr "Yeni bir belge şablonunu içe aktarmak için \"İçe Aktar\" düğmesin
 #: engine-wizard/elm/Wizard/Locales/Index/View.elm:58
 msgid "Search..."
 msgstr "Arama..."
-
-#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Index/View.elm:53
-#: engine-wizard/elm/Wizard/KMEditor/Index/View.elm:71
-#: engine-wizard/elm/Wizard/Projects/Index/View.elm:132
-msgid "Updated"
-msgstr "Güncellenmiş"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Index/View.elm:66
 #: engine-wizard/elm/Wizard/DocumentTemplates/Index/View.elm:87
@@ -3589,9 +3678,9 @@ msgstr "Soru etiketleri yok, önce onları oluşturun."
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Update.elm:151
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Update.elm:341
-#: engine-wizard/elm/Wizard/Projects/Detail/Update.elm:114
-#: engine-wizard/elm/Wizard/Projects/Detail/Update.elm:225
-#: engine-wizard/elm/Wizard/Projects/Detail/Update.elm:249
+#: engine-wizard/elm/Wizard/Projects/Detail/Update.elm:115
+#: engine-wizard/elm/Wizard/Projects/Detail/Update.elm:226
+#: engine-wizard/elm/Wizard/Projects/Detail/Update.elm:250
 msgid "Some changes are still saving."
 msgstr "Bazı değişiklikler hala kaydediliyor."
 
@@ -3996,7 +4085,7 @@ msgstr "Anket oluşturulamadı."
 #: engine-wizard/elm/Wizard/KnowledgeModels/Preview/Update.elm:140
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:192
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:343
-#: engine-wizard/elm/Wizard/Projects/Detail/Update.elm:780
+#: engine-wizard/elm/Wizard/Projects/Detail/Update.elm:799
 msgid "Questionnaire could not be saved."
 msgstr "Anket kaydedilemedi."
 
@@ -4338,9 +4427,9 @@ msgid "Knowledge models are templates for questionnaires. You can select questio
 msgstr "Bilgi modelleri soru formları için şablonlardır. Soru etiketlerini şimdi seçebilir, belge şablonunu ve diğer ayarları daha sonra yapılandırabilirsiniz."
 
 #: engine-wizard/elm/Wizard/Projects/CreateMigration/Update.elm:113
-#: engine-wizard/elm/Wizard/Projects/Detail/Update.elm:171
-#: engine-wizard/elm/Wizard/Projects/Import/Update.elm:68
-#: engine-wizard/elm/Wizard/Projects/Import/Update.elm:108
+#: engine-wizard/elm/Wizard/Projects/Detail/Update.elm:172
+#: engine-wizard/elm/Wizard/Projects/Import/Update.elm:67
+#: engine-wizard/elm/Wizard/Projects/Import/Update.elm:107
 msgid "Unable to get the project."
 msgstr "Proje alınamıyor."
 
@@ -4475,7 +4564,7 @@ msgid "Revert"
 msgstr "Geri Dön"
 
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:274
-#: engine-wizard/elm/Wizard/Projects/Index/Update.elm:181
+#: engine-wizard/elm/Wizard/Projects/Index/Update.elm:182
 msgid "Unable to get project tags."
 msgstr "Proje etiketleri alınamıyor."
 
@@ -4533,13 +4622,6 @@ msgstr "Anket başarıyla silindi."
 msgid "Questionnaire could not be deleted."
 msgstr "Soru formu silinemedi."
 
-#: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:190
-#: engine-wizard/elm/Wizard/Projects/Index/Update.elm:188
-#: engine-wizard/elm/Wizard/Projects/Index/Update.elm:219
-#: engine-wizard/elm/Wizard/Users/Index/Update.elm:82
-msgid "Unable to get users."
-msgstr "Kullanıcılara ulaşılamıyor."
-
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:214
 msgid "Unable to get user groups."
 msgstr "Kullanıcı grupları alınamıyor."
@@ -4584,32 +4666,32 @@ msgstr "Yeni bir belge eklemek için oturum açın."
 msgid "New document"
 msgstr "Yeni belge"
 
-#: engine-wizard/elm/Wizard/Projects/Detail/View.elm:153
+#: engine-wizard/elm/Wizard/Projects/Detail/View.elm:157
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:717
 msgid "Template"
 msgstr "Şablon"
 
-#: engine-wizard/elm/Wizard/Projects/Detail/View.elm:173
+#: engine-wizard/elm/Wizard/Projects/Detail/View.elm:177
 msgid "Add to my projects"
 msgstr "Projelerime ekle"
 
-#: engine-wizard/elm/Wizard/Projects/Detail/View.elm:198
+#: engine-wizard/elm/Wizard/Projects/Detail/View.elm:202
 msgid "Share"
 msgstr "Paylaş"
 
-#: engine-wizard/elm/Wizard/Projects/Detail/View.elm:251
+#: engine-wizard/elm/Wizard/Projects/Detail/View.elm:255
 msgid "Questionnaire"
 msgstr "Anket"
 
-#: engine-wizard/elm/Wizard/Projects/Detail/View.elm:319
+#: engine-wizard/elm/Wizard/Projects/Detail/View.elm:323
 msgid "You are not allowed to view this page."
 msgstr "Bu sayfayı görüntülemenize izin verilmiyor."
 
-#: engine-wizard/elm/Wizard/Projects/Import/Update.elm:99
+#: engine-wizard/elm/Wizard/Projects/Import/Update.elm:98
 msgid "Unable to get importer."
 msgstr "İthalatçı alınamıyor."
 
-#: engine-wizard/elm/Wizard/Projects/Import/Update.elm:188
+#: engine-wizard/elm/Wizard/Projects/Import/Update.elm:187
 msgid "Questionnaire changes could not be saved."
 msgstr "Anket değişiklikleri kaydedilemedi."
 
@@ -4653,11 +4735,11 @@ msgstr "İçe aktarılacak değişiklik yok"
 msgid "Added item"
 msgstr "Eklenen öğe"
 
-#: engine-wizard/elm/Wizard/Projects/Index/Update.elm:295
+#: engine-wizard/elm/Wizard/Projects/Index/Update.elm:296
 msgid "Project migration was successfully canceled."
 msgstr "Proje geçişi başarıyla iptal edildi."
 
-#: engine-wizard/elm/Wizard/Projects/Index/Update.elm:302
+#: engine-wizard/elm/Wizard/Projects/Index/Update.elm:303
 msgid "Project migration could not be deleted."
 msgstr "Proje geçişi silinemedi."
 
@@ -4698,11 +4780,6 @@ msgstr "Bilgi modellerini arayın..."
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:355
 msgid "No knowledge models found"
 msgstr "Bilgi modeli bulunamadı"
-
-#: engine-wizard/elm/Wizard/Projects/Index/View.elm:448
-#: engine-wizard/elm/Wizard/Users/Index/View.elm:56
-msgid "Search users..."
-msgstr "Arama kullanıcıları..."
 
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:488
 msgid "No users found"
@@ -4775,10 +4852,6 @@ msgstr "Soru Değişti"
 #: engine-wizard/elm/Wizard/Projects/Migration/View.elm:194
 msgid "Moved Question"
 msgstr "Taşınan Soru"
-
-#: engine-wizard/elm/Wizard/Projects/Migration/View.elm:198
-msgid "Resolved"
-msgstr "Çözüldü"
 
 #: engine-wizard/elm/Wizard/Public/Auth/Update.elm:65
 #: engine-wizard/elm/Wizard/Public/Auth/Update.elm:95
@@ -5117,54 +5190,54 @@ msgstr "Kenar Çubuğu Giriş Bilgileri"
 msgid "Additional information displayed on the login screen underneath the login form."
 msgstr "Oturum açma ekranında oturum açma formunun altında görüntülenen ek bilgiler."
 
-#: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:93
-msgid "Dashboard Style"
-msgstr "Gösterge Tablosu Stili"
-
-#: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:96
-#: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:103
+#: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:98
+#: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:105
 msgid "Announcements"
 msgstr "Duyurular"
 
-#: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:104
+#: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:106
 msgid "Add announcement"
 msgstr "Duyuru ekle"
 
-#: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:133
+#: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:115
+msgid "Dashboard Style"
+msgstr "Gösterge Tablosu Stili"
+
+#: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:140
 #: engine-wizard/elm/Wizard/Settings/View.elm:96
 #: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:129
 msgid "Info"
 msgstr "Bilgi"
 
-#: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:134
+#: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:141
 msgid "Warning"
 msgstr "Uyarı"
 
-#: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:135
+#: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:142
 msgid "Critical"
 msgstr "Kritik"
 
-#: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:146
+#: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:153
 msgid "Remove announcement"
 msgstr "Duyuruyu kaldırın"
 
-#: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:151
+#: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:158
 msgid "Level"
 msgstr "Seviye"
 
-#: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:152
+#: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:159
 msgid "Content"
 msgstr "İçerik"
 
-#: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:154
+#: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:161
 msgid "Display on the dashboard after users log in."
 msgstr "Kullanıcılar oturum açtıktan sonra gösterge tablosunda görüntülenir."
 
-#: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:156
+#: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:163
 msgid "Login Screen"
 msgstr "Giriş Ekranı"
 
-#: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:158
+#: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:165
 msgid "Display on the login screen, visible to everybody."
 msgstr "Herkesin görebileceği şekilde giriş ekranında görüntülenir."
 
@@ -5888,21 +5961,24 @@ msgstr "Aşağıdaki kullanıcıyı kalıcı olarak silmek istediğinizden emin 
 msgid "Delete user"
 msgstr "Kullanıcı sil"
 
-#: engine-wizard/elm/Wizard/View.elm:143
+#: engine-wizard/elm/Wizard/View.elm:149
 msgid "Not Found"
 msgstr "Bulunamadı"
 
-#: engine-wizard/elm/Wizard/View.elm:144
+#: engine-wizard/elm/Wizard/View.elm:150
 msgid "The page you are looking for was not found."
 msgstr "Aradığınız sayfa bulunamadı."
 
-#: engine-wizard/elm/Wizard/View.elm:153
+#: engine-wizard/elm/Wizard/View.elm:159
 msgid "Not Allowed"
 msgstr "İzin Verilmedi"
 
-#: engine-wizard/elm/Wizard/View.elm:154
+#: engine-wizard/elm/Wizard/View.elm:160
 msgid "You don't have permission to view this page."
 msgstr "Bu sayfayı görüntülemek için izniniz yok."
+
+#~ msgid "View resolved comments"
+#~ msgstr "Çözülen yorumları görüntüle"
 
 #~ msgid "Only PDF documents are enabled in this instance."
 #~ msgstr "Bu durumda yalnızca PDF belgeleri etkinleştirilir."
