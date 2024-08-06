@@ -3,7 +3,7 @@
 # Jan Slifka <jan.slifka@ds-wizard.org>, 2023.
 # Jana Martínková <j.martinkova@outlook.com>, 2024.
 msgid ""
-msgstr "Project-Id-Version: wizard-client:3.17.1\nPOT-Creation-Date: 2024-08-06T07:10:13.804Z\nPO-Revision-Date: 2024-08-06 12:34+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Czech <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-9-0/cs/>\nLanguage: cs\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 4.18.2\n"
+msgstr "Project-Id-Version: wizard-client:3.17.1\nPOT-Creation-Date: 2024-08-06T07:10:13.804Z\nPO-Revision-Date: 2024-08-06 12:55+0000\nLast-Translator: Jana Martínková <j.martinkova@outlook.com>\nLanguage-Team: Czech <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-9-0/cs/>\nLanguage: cs\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 4.18.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -403,7 +403,6 @@ msgid "Unable to get comments."
 msgstr "Nelze získat komentáře."
 
 #: engine-wizard/elm/Wizard/Comments/View.elm:24
-#, fuzzy
 msgid "Assigned Comments"
 msgstr "Přiřazené komentáře"
 
@@ -414,22 +413,18 @@ msgid "Resolved"
 msgstr "Vyřešeno"
 
 #: engine-wizard/elm/Wizard/Comments/View.elm:36
-#, fuzzy
 msgid "Resolved only"
-msgstr "Vyřešeno pouze"
+msgstr "Pouze vyřešené"
 
 #: engine-wizard/elm/Wizard/Comments/View.elm:37
-#, fuzzy
 msgid "Unresolved only"
 msgstr "Pouze nevyřešené"
 
 #: engine-wizard/elm/Wizard/Comments/View.elm:46
-#, fuzzy
 msgid "No comments have been assigned to you."
 msgstr "Nebyly vám přiřazeny žádné komentáře."
 
 #: engine-wizard/elm/Wizard/Comments/View.elm:54
-#, fuzzy
 msgid "Search comments..."
 msgstr "Vyhledávání komentářů..."
 
@@ -764,7 +759,6 @@ msgid "Click the %s icon to add new comments to a question."
 msgstr "Klikněte na ikonu %s pro přidání nových komentářů k otázce."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2268
-#, fuzzy
 msgid "View resolved comments (%s)"
 msgstr "Zobrazit vyřešené komentáře (%s)"
 
@@ -798,14 +792,12 @@ msgid "Reply..."
 msgstr "Odpověď..."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2457
-#, fuzzy
 msgid "Assigned to you"
 msgstr "Přiřazeno vám"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2462
-#, fuzzy
 msgid "Assigned to %s"
-msgstr "Přiřazeno k %s"
+msgstr "Přiřazeno %s"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2514
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2597
@@ -844,9 +836,8 @@ msgid "Resolve comment thread"
 msgstr "Vyřešit vlákno komentářů"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2581
-#, fuzzy
 msgid "Remove assignment"
-msgstr "Odstranění přiřazení"
+msgstr "Odebrat přiřazení"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2589
 msgid "Reopen"
@@ -1265,14 +1256,12 @@ msgid "Unable to get users."
 msgstr "Nelze získat uživatele."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire/UserSuggestionDropdown.elm:150
-#, fuzzy
 msgid "No users found."
-msgstr "Nenalezeni žádní uživatelé"
+msgstr "Nenalezeni žádní uživatelé."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire/UserSuggestionDropdown.elm:170
-#, fuzzy
 msgid "Assign comment thread"
-msgstr "Přiřazení vlákna komentáře"
+msgstr "Přiřadit vlákno komentáře"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire/UserSuggestionDropdown.elm:179
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:448
@@ -1581,7 +1570,6 @@ msgid "Edit profile"
 msgstr "Upravit profil"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:670
-#, fuzzy
 msgid "Assigned comments"
 msgstr "Přiřazené komentáře"
 
@@ -1872,7 +1860,6 @@ msgstr "Nelze získat šablony dokumentů."
 #: engine-wizard/elm/Wizard/Dashboard/Dashboards/AdminDashboard.elm:138
 #: engine-wizard/elm/Wizard/Dashboard/Dashboards/DataStewardDashboard.elm:116
 #: engine-wizard/elm/Wizard/Dashboard/Dashboards/ResearcherDashboard.elm:117
-#, fuzzy
 msgid "Unable to get assigned comments."
 msgstr "Nelze získat přiřazené komentáře."
 
@@ -1899,9 +1886,8 @@ msgid "Add OpenID"
 msgstr "Přidat OpenID"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/AssignedComments.elm:42
-#, fuzzy
 msgid "Unresolved Assigned Comments"
-msgstr "Nevyřešené přiřazené připomínky"
+msgstr "Nevyřešené přiřazené komentáře"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/AssignedComments.elm:48
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/RecentProjectsWidget.elm:46
