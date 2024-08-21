@@ -1,7 +1,7 @@
 # Jana Martínková <j.martinkova@outlook.com>, 2024.
 # Georgia Koutentaki <koutegeo@cvut.cz>, 2024.
 msgid ""
-msgstr "Project-Id-Version: wizard-client:4.9.0\nPOT-Creation-Date: 2024-08-06T07:10:13.804Z\nPO-Revision-Date: 2024-08-17 09:44+0000\nLast-Translator: Georgia Koutentaki <koutegeo@cvut.cz>\nLanguage-Team: Greek <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-9-0/el/>\nLanguage: el\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.18.2\n"
+msgstr "Project-Id-Version: wizard-client:4.9.0\nPOT-Creation-Date: 2024-08-06T07:10:13.804Z\nPO-Revision-Date: 2024-08-22 16:44+0000\nLast-Translator: Georgia Koutentaki <koutegeo@cvut.cz>\nLanguage-Team: Greek <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-9-0/el/>\nLanguage: el\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.18.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -4022,7 +4022,6 @@ msgid "Importing the package failed."
 msgstr "Η εισαγωγή του πακέτου απέτυχε."
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/Import/OwlImport/View.elm:46
-#, fuzzy
 msgid "Previous Package ID"
 msgstr "Αναγνωριστικό προηγούμενο πακέτου"
 
@@ -5397,7 +5396,6 @@ msgid "GitHub Repository Owner"
 msgstr "Ιδιοκτήτης αποθετηρίου GitHub"
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:58
-#, fuzzy
 msgid "ht&#8203;tps://github.com/**exampleOwner**/exampleRepository"
 msgstr "https://github.com/**exampleOwner**/exampleRepository"
 
@@ -5406,7 +5404,6 @@ msgid "GitHub Repository Name"
 msgstr "Όνομα αποθετηρίου GitHub"
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:60
-#, fuzzy
 msgid "ht&#8203;tps://github.com/exampleOwner/**exampleRepository**"
 msgstr "https://github.com/exampleOwner/**exampleRepository**"
 
@@ -5546,7 +5543,6 @@ msgid "User Properties"
 msgstr "Ιδιότητες χρήστη"
 
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:113
-#, fuzzy
 msgid "You can create properties that can be set by each user in their profile. Then, you can use these properties in the request settings. For example, if you want each user to use their own authorization token, you can create a property called `Token` and use it in request headers as `${Token}`. Users will be able to set the token in their profile settings."
 msgstr "Μπορείτε να δημιουργήσετε ιδιότητες που μπορούν να οριστούν από κάθε χρήστη στο προφίλ του. Στη συνέχεια, μπορείτε να χρησιμοποιήσετε αυτές τις ιδιότητες στις ρυθμίσεις αιτήσεων. Για παράδειγμα, αν θέλετε κάθε χρήστης να χρησιμοποιεί το δικό του διακριτικό εξουσιοδότησης, μπορείτε να δημιουργήσετε μια ιδιότητα που ονομάζεται `Token` και να τη χρησιμοποιήσετε στις επικεφαλίδες των αιτήσεων ως `${Token}`. Οι χρήστες θα μπορούν να ορίσουν το token στις ρυθμίσεις του προφίλ τους."
 
