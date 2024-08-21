@@ -1,7 +1,7 @@
-# Rob Hooft <rob.hooft@health-ri.nl>, 2023.
+# Rob Hooft <rob.hooft@health-ri.nl>, 2023, 2024.
 # Marek Suchánek <marek.suchanek@ds-wizard.org>, 2023.
 msgid ""
-msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2023-12-05T17:37:11.441Z\nPO-Revision-Date: 2023-12-20 12:20+0000\nLast-Translator: Rob Hooft <rob.hooft@health-ri.nl>\nLanguage-Team: Dutch <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-1-0/nl/>\nLanguage: nl\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.18.2\n"
+msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2023-12-05T17:37:11.441Z\nPO-Revision-Date: 2024-08-22 16:44+0000\nLast-Translator: Rob Hooft <rob.hooft@health-ri.nl>\nLanguage-Team: Dutch <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-1-0/nl/>\nLanguage: nl\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.18.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -110,7 +110,7 @@ msgstr "Becommentariëren met de link"
 
 #: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireSharing.elm:144
 msgid "Anyone on the internet with the link can view and comment."
-msgstr "Iedereen op het internet met de link kan becommentariëren."
+msgstr "Iedereen op het internet met de link kan opmerkingen plaatsen."
 
 #: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireSharing.elm:147
 msgid "Edit with the link"
@@ -139,11 +139,11 @@ msgstr "Andere gebruikers die zijn aangemeld kunnen het project zien."
 
 #: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireVisibility.elm:153
 msgid "Visible - Comment"
-msgstr "Zichtbaar - Becommentariëren"
+msgstr "Zichtbaar - Opmerkingen plaatsen"
 
 #: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireVisibility.elm:154
 msgid "Other logged-in users can view and comment the project."
-msgstr "Andere gebruikers die zijn aangemeld kunnen het project zien en becommentariëren."
+msgstr "Andere gebruikers die zijn aangemeld kunnen het project zien en opmerkingen plaatsen."
 
 #: engine-shared/elm/Shared/Data/Questionnaire/QuestionnaireVisibility.elm:157
 msgid "Visible - Edit"
@@ -160,7 +160,7 @@ msgstr "bekijken"
 
 #: engine-shared/elm/Shared/Data/QuestionnairePermission.elm:61
 msgid "comment"
-msgstr "becommentariëer"
+msgstr "plaats opmerking"
 
 #: engine-shared/elm/Shared/Data/QuestionnairePermission.elm:62
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:511
@@ -639,7 +639,7 @@ msgstr "TODOs"
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1971
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3199
 msgid "Comments"
-msgstr "Commentaren"
+msgstr "Opmerkingen"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1469
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:317
@@ -672,7 +672,7 @@ msgstr "Alle TODOs zijn klaar."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1858
 msgid "Click the %s icon to add new comments to a question."
-msgstr "Klik op het %s pictogram om nieuwe commentaren toe te voegen aan een vraag."
+msgstr "Klik op het %s pictogram om nieuwe opmerkingen toe te voegen aan een vraag."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1890
 msgid "Editor notes are only visible to project Editors and Owners."
@@ -684,11 +684,11 @@ msgstr "Bekijk opgeloste commentaren"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1922
 msgid "Comment"
-msgstr "Commentaar"
+msgstr "Opmerking"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1923
 msgid "Create a new comment..."
-msgstr "Maak een nieuw commentaar…"
+msgstr "Maak een nieuwe opmerking…"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1982
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1983
@@ -697,7 +697,7 @@ msgstr "Redactienotities"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1997
 msgid "Delete this comment thread?"
-msgstr "Verwijder deze commentaarconversatie?"
+msgstr "Verwijder deze opmerkingen?"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2010
 msgid "Reply"
@@ -737,11 +737,11 @@ msgstr "Annuleer"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2069
 msgid "Delete this comment?"
-msgstr "Verwijder dit commentaar?"
+msgstr "Verwijder deze opmerking?"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2093
 msgid "Resolve comment thread"
-msgstr "Markeer commentaarconversatie als opgelost"
+msgstr "Markeer opmerkingen als opgelost"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2103
 msgid "Reopen"
@@ -900,8 +900,8 @@ msgstr "Deze optie leidt naar enkele vervolgvragen."
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3190
 msgid "1 comment"
 msgid_plural "%s comments"
-msgstr[0] "1 commentaar"
-msgstr[1] "%s commentaren"
+msgstr[0] "1 opmerking"
+msgstr[1] "%s opmerkingen"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3224
 msgid "TODO"
