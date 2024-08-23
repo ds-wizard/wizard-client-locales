@@ -1,7 +1,7 @@
 # Marek Suchánek <marek.suchanek@ds-wizard.org>, 2024.
 # Gil Poiares-Oliveira <gpo@biodata.pt>, 2024.
 msgid ""
-msgstr "Project-Id-Version: wizard-client:4.2.0\nPOT-Creation-Date: 2024-03-05T08:27:08.112Z\nPO-Revision-Date: 2024-07-24 05:43+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Portuguese <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-4-0/pt/>\nLanguage: pt\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 4.18.2\n"
+msgstr "Project-Id-Version: wizard-client:4.2.0\nPOT-Creation-Date: 2024-03-05T08:27:08.112Z\nPO-Revision-Date: 2024-08-24 05:44+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Portuguese <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-4-0/pt/>\nLanguage: pt\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 4.18.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -5853,7 +5853,7 @@ msgstr "Token de acesso"
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:62
 #, fuzzy
 msgid "[Personal Access Token](https://help.github.com/en/github/authenticating-to-github/creating-a-personal-access-token-for-the-command-line) for GitHub account creating the issues. Make sure to select **public_repo** scope if the repository is public or **repo** if it is private. We recommend creating a bot account with the access to the feedback repository instead of using your own GitHub account."
-msgstr "[Personal Access Token](https://help.github.com/en/github/authenticating-to-github/creating-a-personal-access-token-for-the-command-line) para a conta GitHub que está a criar os problemas. Certifique-se de que selecciona o âmbito **public_repo** se o repositório for público ou **repo** se for privado. Recomendamos a criação de uma conta de bot com acesso ao repositório de feedback em vez de usar a sua própria conta do GitHub."
+msgstr "[Personal Access Token](https://help.github.com/en/github/authenticating-to-github/creating-a-personal-access-token-for-the-command-line) para a conta GitHub que está a criar os problemas. Certifique-se de que seleciona o âmbito **public_repo** se o repositório for público ou **repo** se for privado. Recomendamos a criação de uma conta de bot com acesso ao repositório de feedback em vez de usar a sua própria conta do GitHub."
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:74
 #, fuzzy
@@ -6005,7 +6005,7 @@ msgstr "Formatos suportados"
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:108
 #, fuzzy
 msgid "Select document templates and formats that can be submitted using this submission service."
-msgstr "Seleccione os modelos e formatos de documentos que podem ser apresentados através deste serviço de apresentação."
+msgstr "Selecione os modelos e formatos de documentos que podem ser apresentados através deste serviço de apresentação."
 
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:112
 #, fuzzy
