@@ -1,7 +1,7 @@
 # Jana Martínková <j.martinkova@outlook.com>, 2024.
 # Georgia Koutentaki <koutegeo@cvut.cz>, 2024.
 msgid ""
-msgstr "Project-Id-Version: wizard-client:4.9.0\nPOT-Creation-Date: 2024-08-06T07:10:13.804Z\nPO-Revision-Date: 2024-08-22 16:44+0000\nLast-Translator: Georgia Koutentaki <koutegeo@cvut.cz>\nLanguage-Team: Greek <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-9-0/el/>\nLanguage: el\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.18.2\n"
+msgstr "Project-Id-Version: wizard-client:4.9.0\nPOT-Creation-Date: 2024-08-06T07:10:13.804Z\nPO-Revision-Date: 2024-08-24 08:44+0000\nLast-Translator: Georgia Koutentaki <koutegeo@cvut.cz>\nLanguage-Team: Greek <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-9-0/el/>\nLanguage: el\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.18.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -5412,7 +5412,6 @@ msgid "Access Token"
 msgstr "Token πρόσβασης"
 
 #: engine-wizard/elm/Wizard/Settings/Projects/View.elm:62
-#, fuzzy
 msgid "[Personal Access Token](https://help.github.com/en/github/authenticating-to-github/creating-a-personal-access-token-for-the-command-line) for GitHub account creating the issues. Make sure to select **public_repo** scope if the repository is public or **repo** if it is private. We recommend creating a bot account with the access to the feedback repository instead of using your own GitHub account."
 msgstr "[Personal Access Token](https://help.github.com/en/github/authenticating-to-github/creating-a-personal-access-token-for-the-command-line) για το λογαριασμό GitHub που δημιουργεί τα θέματα. Βεβαιωθείτε ότι έχετε επιλέξει την εμβέλεια **public_repo** αν το αποθετήριο είναι δημόσιο ή **repo** αν είναι ιδιωτικό. Συνιστούμε να δημιουργήσετε έναν λογαριασμό bot με πρόσβαση στο αποθετήριο ανατροφοδότησης αντί να χρησιμοποιήσετε τον δικό σας λογαριασμό GitHub."
 
@@ -5588,12 +5587,10 @@ msgid "Content Settings"
 msgstr "Ρυθμίσεις περιεχομένου"
 
 #: engine-wizard/elm/Wizard/Tenants/Create/Update.elm:63
-#, fuzzy
 msgid "Tenant could not be created."
 msgstr "Ο ενοικιαστής δεν μπόρεσε να δημιουργηθεί."
 
 #: engine-wizard/elm/Wizard/Tenants/Create/View.elm:23
-#, fuzzy
 msgid "Create tenant"
 msgstr "Δημιουργία ενοικιαστή"
 
@@ -5601,19 +5598,16 @@ msgstr "Δημιουργία ενοικιαστή"
 #: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:123
 #: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:168
 #: engine-wizard/elm/Wizard/Tenants/Index/View.elm:70
-#, fuzzy
 msgid "Tenant ID"
 msgstr "Αναγνωριστικό ενοικιαστή"
 
 #: engine-wizard/elm/Wizard/Tenants/Detail/Update.elm:36
-#, fuzzy
 msgid "Unable to get tenant."
-msgstr "Αδύνατον να βρείτε ενοικιαστή."
+msgstr "Αδύνατον να βρεθεί ενοικιαστής."
 
 #: engine-wizard/elm/Wizard/Tenants/Detail/Update.elm:126
-#, fuzzy
 msgid "Tenant could not be saved."
-msgstr "Ο ενοικιαστής δεν μπορούσε να σωθεί."
+msgstr "Ο ενοικιαστής δεν μπόρεσε να σωθεί."
 
 #: engine-wizard/elm/Wizard/Tenants/Detail/Update.elm:168
 msgid "Plan could not be created."
