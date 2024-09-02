@@ -3,7 +3,7 @@
 # Jan Slifka <jan.slifka@ds-wizard.org>, 2023.
 # Jana Martínková <j.martinkova@outlook.com>, 2024.
 msgid ""
-msgstr "Project-Id-Version: wizard-client:3.17.1\nPOT-Creation-Date: 2024-08-06T07:10:13.804Z\nPO-Revision-Date: 2024-08-06 12:55+0000\nLast-Translator: Jana Martínková <j.martinkova@outlook.com>\nLanguage-Team: Czech <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-9-0/cs/>\nLanguage: cs\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 4.18.2\n"
+msgstr "Project-Id-Version: wizard-client:3.17.1\nPOT-Creation-Date: 2024-08-06T07:10:13.804Z\nPO-Revision-Date: 2024-09-02 07:33+0000\nLast-Translator: Jana Martínková <j.martinkova@outlook.com>\nLanguage-Team: Czech <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-9-0/cs/>\nLanguage: cs\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 4.18.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -4351,32 +4351,32 @@ msgstr "Sdílené s %s a %s."
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:104
 msgid "%s user"
 msgid_plural "%s users"
-msgstr[0] "uživatelem %s"
-msgstr[1] "%s uživateli"
-msgstr[2] "%s uživateli"
+msgstr[0] "%s uživatel"
+msgstr[1] "%s uživatelé"
+msgstr[2] "%s uživatelů"
 
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:66
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:105
 msgid "%s user group"
 msgid_plural "%s user groups"
-msgstr[0] "skupinou uživatelů %s"
-msgstr[1] "skupinami uživatelů %s"
-msgstr[2] "skupinami uživatelů %s"
+msgstr[0] "%s skupina uživatelů"
+msgstr[1] "%s skupiny uživatelů"
+msgstr[2] "%s skupin uživatelů"
 
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:73
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:109
 msgid "Shared with %s user group."
 msgid_plural "Shared with %s user groups."
-msgstr[0] "Sdíleno se skupinou uživatelů %s."
-msgstr[1] "Sdíleno se skupinami uživatelů %s."
-msgstr[2] "Sdíleno se skupinami uživatelů %s."
+msgstr[0] "Sdíleno s %s skupinou uživatelů."
+msgstr[1] "Sdíleno se %s skupinami uživatelů."
+msgstr[2] "Sdíleno s %s skupinami uživatelů."
 
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:80
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:113
 msgid "Shared with %s user."
 msgid_plural "Shared with %s users."
-msgstr[0] "Sdíleno s uživatelem %s."
-msgstr[1] "Sdíleno s %s uživateli."
+msgstr[0] "Sdíleno s %s uživatelem."
+msgstr[1] "Sdíleno se %s uživateli."
 msgstr[2] "Sdíleno s %s uživateli."
 
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:89
