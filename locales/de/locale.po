@@ -4,7 +4,7 @@
 # timsu100 <tim.surber96@gmail.com>, 2023.
 # Jana Martínková <j.martinkova@outlook.com>, 2024.
 msgid ""
-msgstr "Project-Id-Version: wizard-client:3.21.0\nPOT-Creation-Date: 2024-08-06T07:10:13.804Z\nPO-Revision-Date: 2024-08-06 12:34+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: German <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-9-0/de/>\nLanguage: de\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.18.2\n"
+msgstr "Project-Id-Version: wizard-client:3.21.0\nPOT-Creation-Date: 2024-08-06T07:10:13.804Z\nPO-Revision-Date: 2024-09-02 07:33+0000\nLast-Translator: Jana Martínková <j.martinkova@outlook.com>\nLanguage-Team: German <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-9-0/de/>\nLanguage: de\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.18.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -404,7 +404,6 @@ msgid "Unable to get comments."
 msgstr "Sie können keine Kommentare erhalten."
 
 #: engine-wizard/elm/Wizard/Comments/View.elm:24
-#, fuzzy
 msgid "Assigned Comments"
 msgstr "Zugewiesene Kommentare"
 
@@ -415,22 +414,18 @@ msgid "Resolved"
 msgstr "Aufgelöst"
 
 #: engine-wizard/elm/Wizard/Comments/View.elm:36
-#, fuzzy
 msgid "Resolved only"
 msgstr "Nur aufgelöst"
 
 #: engine-wizard/elm/Wizard/Comments/View.elm:37
-#, fuzzy
 msgid "Unresolved only"
 msgstr "Nur ungelöst"
 
 #: engine-wizard/elm/Wizard/Comments/View.elm:46
-#, fuzzy
 msgid "No comments have been assigned to you."
 msgstr "Es wurden Ihnen keine Kommentare zugewiesen."
 
 #: engine-wizard/elm/Wizard/Comments/View.elm:54
-#, fuzzy
 msgid "Search comments..."
 msgstr "Kommentare suchen..."
 
@@ -765,7 +760,6 @@ msgid "Click the %s icon to add new comments to a question."
 msgstr "Klicken Sie auf das Symbol %s, um neue Kommentare zu einer Frage hinzuzufügen."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2268
-#, fuzzy
 msgid "View resolved comments (%s)"
 msgstr "Gelöste Kommentare anzeigen (%s)"
 
@@ -799,12 +793,10 @@ msgid "Reply..."
 msgstr "Antwort..."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2457
-#, fuzzy
 msgid "Assigned to you"
 msgstr "Ihnen zugewiesen"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2462
-#, fuzzy
 msgid "Assigned to %s"
 msgstr "Zugewiesen an %s"
 
@@ -845,7 +837,6 @@ msgid "Resolve comment thread"
 msgstr "Kommentar-Thread auflösen"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2581
-#, fuzzy
 msgid "Remove assignment"
 msgstr "Zuordnung entfernen"
 
@@ -1264,12 +1255,10 @@ msgid "Unable to get users."
 msgstr "Es können keine Benutzer abgerufen werden."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire/UserSuggestionDropdown.elm:150
-#, fuzzy
 msgid "No users found."
-msgstr "Keine Benutzer:in gefunden"
+msgstr "Keine Benutzer gefunden."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire/UserSuggestionDropdown.elm:170
-#, fuzzy
 msgid "Assign comment thread"
 msgstr "Kommentar-Thread zuweisen"
 
@@ -1580,7 +1569,6 @@ msgid "Edit profile"
 msgstr "Profil bearbeiten"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:670
-#, fuzzy
 msgid "Assigned comments"
 msgstr "Zugewiesene Kommentare"
 
@@ -1862,7 +1850,6 @@ msgstr "Es können keine Dokumentvorlagen abgerufen werden."
 #: engine-wizard/elm/Wizard/Dashboard/Dashboards/AdminDashboard.elm:138
 #: engine-wizard/elm/Wizard/Dashboard/Dashboards/DataStewardDashboard.elm:116
 #: engine-wizard/elm/Wizard/Dashboard/Dashboards/ResearcherDashboard.elm:117
-#, fuzzy
 msgid "Unable to get assigned comments."
 msgstr "Es ist nicht möglich, zugewiesene Kommentare zu erhalten."
 
@@ -1889,7 +1876,6 @@ msgid "Add OpenID"
 msgstr "OpenID hinzufügen"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/AssignedComments.elm:42
-#, fuzzy
 msgid "Unresolved Assigned Comments"
 msgstr "Ungelöste zugewiesene Kommentare"
 
