@@ -3,7 +3,7 @@
 # Marek Suchánek <marek.suchanek@ds-wizard.org>, 2024.
 # Jana Martínková <j.martinkova@outlook.com>, 2024.
 msgid ""
-msgstr "Project-Id-Version: wizard-client:4.1.0\nPOT-Creation-Date: 2024-08-06T07:10:13.804Z\nPO-Revision-Date: 2024-08-06 12:34+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Slovenian <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-9-0/sl/>\nLanguage: sl\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3;\nX-Generator: Weblate 4.18.2\n"
+msgstr "Project-Id-Version: wizard-client:4.1.0\nPOT-Creation-Date: 2024-08-06T07:10:13.804Z\nPO-Revision-Date: 2024-09-02 07:33+0000\nLast-Translator: Jana Martínková <j.martinkova@outlook.com>\nLanguage-Team: Slovenian <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-9-0/sl/>\nLanguage: sl\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3;\nX-Generator: Weblate 4.18.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -403,7 +403,6 @@ msgid "Unable to get comments."
 msgstr "Ni mogoče dobiti komentarjev."
 
 #: engine-wizard/elm/Wizard/Comments/View.elm:24
-#, fuzzy
 msgid "Assigned Comments"
 msgstr "Dodeljene opombe"
 
@@ -414,22 +413,18 @@ msgid "Resolved"
 msgstr "Rešeno"
 
 #: engine-wizard/elm/Wizard/Comments/View.elm:36
-#, fuzzy
 msgid "Resolved only"
 msgstr "Rešeno samo"
 
 #: engine-wizard/elm/Wizard/Comments/View.elm:37
-#, fuzzy
 msgid "Unresolved only"
 msgstr "Samo nerešeno"
 
 #: engine-wizard/elm/Wizard/Comments/View.elm:46
-#, fuzzy
 msgid "No comments have been assigned to you."
 msgstr "Ni vam bil dodeljen noben komentar."
 
 #: engine-wizard/elm/Wizard/Comments/View.elm:54
-#, fuzzy
 msgid "Search comments..."
 msgstr "Iskanje komentarjev..."
 
@@ -764,7 +759,6 @@ msgid "Click the %s icon to add new comments to a question."
 msgstr "Če želite dodati nove komentarje k vprašanju, kliknite ikono %s."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2268
-#, fuzzy
 msgid "View resolved comments (%s)"
 msgstr "Prikaži rešene komentarje (%s)"
 
@@ -798,12 +792,10 @@ msgid "Reply..."
 msgstr "Odgovori..."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2457
-#, fuzzy
 msgid "Assigned to you"
 msgstr "Dodeljeno vam je"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2462
-#, fuzzy
 msgid "Assigned to %s"
 msgstr "Dodeljeno %s"
 
@@ -844,7 +836,6 @@ msgid "Resolve comment thread"
 msgstr "Rešiti nit komentarjev"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2581
-#, fuzzy
 msgid "Remove assignment"
 msgstr "Odstranitev dodelitve"
 
@@ -1267,12 +1258,10 @@ msgid "Unable to get users."
 msgstr "Ni mogoče pridobiti uporabnikov."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire/UserSuggestionDropdown.elm:150
-#, fuzzy
 msgid "No users found."
-msgstr "Ni bilo najdenih uporabnikov"
+msgstr "Ni bilo najdenih uporabnikov."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire/UserSuggestionDropdown.elm:170
-#, fuzzy
 msgid "Assign comment thread"
 msgstr "Dodelite nit komentarja"
 
@@ -1583,7 +1572,6 @@ msgid "Edit profile"
 msgstr "Urejanje profila"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:670
-#, fuzzy
 msgid "Assigned comments"
 msgstr "Dodeljeni komentarji"
 
@@ -1883,7 +1871,6 @@ msgstr "Ni mogoče pridobiti predlog dokumentov."
 #: engine-wizard/elm/Wizard/Dashboard/Dashboards/AdminDashboard.elm:138
 #: engine-wizard/elm/Wizard/Dashboard/Dashboards/DataStewardDashboard.elm:116
 #: engine-wizard/elm/Wizard/Dashboard/Dashboards/ResearcherDashboard.elm:117
-#, fuzzy
 msgid "Unable to get assigned comments."
 msgstr "Ni mogoče dobiti dodeljenih komentarjev."
 
@@ -1910,7 +1897,6 @@ msgid "Add OpenID"
 msgstr "Dodajanje storitve OpenID"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/AssignedComments.elm:42
-#, fuzzy
 msgid "Unresolved Assigned Comments"
 msgstr "Nerešene dodeljene pripombe"
 
