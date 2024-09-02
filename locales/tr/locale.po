@@ -2,7 +2,7 @@
 # Marek Suchánek <marek.suchanek@ds-wizard.org>, 2023, 2024.
 # Jana Martínková <j.martinkova@outlook.com>, 2024.
 msgid ""
-msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2024-08-06T07:10:13.804Z\nPO-Revision-Date: 2024-08-06 12:34+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Turkish <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-9-0/tr/>\nLanguage: tr\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.18.2\n"
+msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2024-08-06T07:10:13.804Z\nPO-Revision-Date: 2024-09-02 07:33+0000\nLast-Translator: Jana Martínková <j.martinkova@outlook.com>\nLanguage-Team: Turkish <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-9-0/tr/>\nLanguage: tr\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.18.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -402,7 +402,6 @@ msgid "Unable to get comments."
 msgstr "Yorum alınamıyor."
 
 #: engine-wizard/elm/Wizard/Comments/View.elm:24
-#, fuzzy
 msgid "Assigned Comments"
 msgstr "Atanmış Yorumlar"
 
@@ -413,22 +412,18 @@ msgid "Resolved"
 msgstr "Çözüldü"
 
 #: engine-wizard/elm/Wizard/Comments/View.elm:36
-#, fuzzy
 msgid "Resolved only"
 msgstr "Sadece çözüldü"
 
 #: engine-wizard/elm/Wizard/Comments/View.elm:37
-#, fuzzy
 msgid "Unresolved only"
 msgstr "Yalnızca çözülmemiş"
 
 #: engine-wizard/elm/Wizard/Comments/View.elm:46
-#, fuzzy
 msgid "No comments have been assigned to you."
 msgstr "Size herhangi bir yorum atanmadı."
 
 #: engine-wizard/elm/Wizard/Comments/View.elm:54
-#, fuzzy
 msgid "Search comments..."
 msgstr "Yorumları ara..."
 
@@ -763,7 +758,6 @@ msgid "Click the %s icon to add new comments to a question."
 msgstr "Bir soruya yeni yorumlar eklemek için %s simgesine tıklayın."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2268
-#, fuzzy
 msgid "View resolved comments (%s)"
 msgstr "Çözümlenen yorumları görüntüle (%s)"
 
@@ -797,14 +791,12 @@ msgid "Reply..."
 msgstr "Yanıtla..."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2457
-#, fuzzy
 msgid "Assigned to you"
 msgstr "Size atandı"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2462
-#, fuzzy
 msgid "Assigned to %s"
-msgstr "s'ye atandı"
+msgstr "%s'ye atandı"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2514
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2597
@@ -843,7 +835,6 @@ msgid "Resolve comment thread"
 msgstr "Yorum dizisini çözümle"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:2581
-#, fuzzy
 msgid "Remove assignment"
 msgstr "Görevi kaldır"
 
@@ -1262,12 +1253,10 @@ msgid "Unable to get users."
 msgstr "Kullanıcılara ulaşılamıyor."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire/UserSuggestionDropdown.elm:150
-#, fuzzy
 msgid "No users found."
-msgstr "Kullanıcı bulunamadı"
+msgstr "Kullanıcı bulunamadı."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire/UserSuggestionDropdown.elm:170
-#, fuzzy
 msgid "Assign comment thread"
 msgstr "Yorum dizisi atama"
 
@@ -1578,7 +1567,6 @@ msgid "Edit profile"
 msgstr "Profili düzenle"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:670
-#, fuzzy
 msgid "Assigned comments"
 msgstr "Atanmış yorumlar"
 
@@ -1860,7 +1848,6 @@ msgstr "Belge şablonları alınamıyor."
 #: engine-wizard/elm/Wizard/Dashboard/Dashboards/AdminDashboard.elm:138
 #: engine-wizard/elm/Wizard/Dashboard/Dashboards/DataStewardDashboard.elm:116
 #: engine-wizard/elm/Wizard/Dashboard/Dashboards/ResearcherDashboard.elm:117
-#, fuzzy
 msgid "Unable to get assigned comments."
 msgstr "Atanmış yorumlar alınamıyor."
 
@@ -1887,7 +1874,6 @@ msgid "Add OpenID"
 msgstr "OpenID ekleyin"
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/AssignedComments.elm:42
-#, fuzzy
 msgid "Unresolved Assigned Comments"
 msgstr "Çözülmemiş Atanmış Yorumlar"
 
