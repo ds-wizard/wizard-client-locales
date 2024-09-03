@@ -156,16 +156,16 @@ msgstr "Ostatní přihlášení uživatelé mohou upravovat projekt."
 
 #: engine-shared/elm/Shared/Data/QuestionnairePermission.elm:60
 msgid "view"
-msgstr "zobrazení"
+msgstr "zobrazit"
 
 #: engine-shared/elm/Shared/Data/QuestionnairePermission.elm:61
 msgid "comment"
-msgstr "komentování"
+msgstr "komentovat"
 
 #: engine-shared/elm/Shared/Data/QuestionnairePermission.elm:62
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:595
 msgid "edit"
-msgstr "upravování"
+msgstr "upravovat"
 
 #: engine-shared/elm/Shared/Error/ServerError.elm:111
 msgid "You do not have permission to view this page."
@@ -4309,15 +4309,15 @@ msgstr "Odstranit projekt"
 
 #: engine-wizard/elm/Wizard/Projects/Common/QuestionnaireShareFormMemberPermType.elm:61
 msgid "Viewer"
-msgstr "Zobrazit"
+msgstr "Prohlížejicí"
 
 #: engine-wizard/elm/Wizard/Projects/Common/QuestionnaireShareFormMemberPermType.elm:62
 msgid "Commenter"
-msgstr "Komentovat"
+msgstr "Komentátor"
 
 #: engine-wizard/elm/Wizard/Projects/Common/QuestionnaireShareFormMemberPermType.elm:64
 msgid "Owner"
-msgstr "Spravovat"
+msgstr "Vlastník"
 
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:42
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:643
