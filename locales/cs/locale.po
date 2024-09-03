@@ -3,7 +3,7 @@
 # Jan Slifka <jan.slifka@ds-wizard.org>, 2023.
 # Jana Martínková <j.martinkova@outlook.com>, 2024.
 msgid ""
-msgstr "Project-Id-Version: wizard-client:3.17.1\nPOT-Creation-Date: 2024-09-03T07:17:36.540Z\nPO-Revision-Date: 2024-09-03 09:02+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Czech <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-10-0/cs/>\nLanguage: cs\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 4.18.2\n"
+msgstr "Project-Id-Version: wizard-client:3.17.1\nPOT-Creation-Date: 2024-09-03T07:17:36.540Z\nPO-Revision-Date: 2024-09-03 09:06+0000\nLast-Translator: Jana Martínková <j.martinkova@outlook.com>\nLanguage-Team: Czech <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-10-0/cs/>\nLanguage: cs\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 4.18.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -168,7 +168,6 @@ msgid "edit"
 msgstr "upravování"
 
 #: engine-shared/elm/Shared/Data/QuestionnaireQuestionnaire.elm:416
-#, fuzzy
 msgid "Item"
 msgstr "Položka"
 
@@ -1018,17 +1017,14 @@ msgid "Loading..."
 msgstr "Načítání..."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3674
-#, fuzzy
 msgid "- select -"
 msgstr "- vybrat -"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3681
-#, fuzzy
 msgid "Go to item"
 msgstr "Přejít na položku"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3694
-#, fuzzy
 msgid "The selected item was deleted."
 msgstr "Vybraná položka byla odstraněna."
 
