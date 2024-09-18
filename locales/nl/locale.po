@@ -2,7 +2,7 @@
 # Marek Suchánek <marek.suchanek@ds-wizard.org>, 2023, 2024.
 # Jana Martínková <j.martinkova@outlook.com>, 2024.
 msgid ""
-msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2024-09-03T07:17:36.540Z\nPO-Revision-Date: 2024-09-03 09:02+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Dutch <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-10-0/nl/>\nLanguage: nl\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.18.2\n"
+msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2024-09-03T07:17:36.540Z\nPO-Revision-Date: 2024-09-19 13:45+0000\nLast-Translator: Rob Hooft <rob.hooft@health-ri.nl>\nLanguage-Team: Dutch <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-10-0/nl/>\nLanguage: nl\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.18.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -167,7 +167,6 @@ msgid "edit"
 msgstr "bewerk"
 
 #: engine-shared/elm/Shared/Data/QuestionnaireQuestionnaire.elm:416
-#, fuzzy
 msgid "Item"
 msgstr "Item"
 
@@ -1016,17 +1015,14 @@ msgid "Loading..."
 msgstr "Laden…"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3674
-#, fuzzy
 msgid "- select -"
 msgstr "- selecteren -"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3681
-#, fuzzy
 msgid "Go to item"
 msgstr "Ga naar item"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3694
-#, fuzzy
 msgid "The selected item was deleted."
 msgstr "Het geselecteerde item is verwijderd."
 
@@ -1065,9 +1061,8 @@ msgid "Copy link"
 msgstr "Kopieer link"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3950
-#, fuzzy
 msgid "There are some item select questions using this item:"
-msgstr "Er zijn enkele item select-vragen die dit item gebruiken:"
+msgstr "Er zijn enkele item-selectie-vragen die dit item gebruiken:"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3961
 msgid "Remove Item"
@@ -1837,7 +1832,6 @@ msgid "Filter by question tags"
 msgstr "Filter op vraagtags"
 
 #: engine-wizard/elm/Wizard/Common/View/Tag.elm:158
-#, fuzzy
 msgid "No need to choose question tags for this knowledge model."
 msgstr "Voor dit kennismodel hoef je geen vraagtags te kiezen."
 
@@ -2908,15 +2902,13 @@ msgstr "Expert zonder naam"
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:336
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:624
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:444
-#, fuzzy
 msgid "Untitled resource collection"
-msgstr "Verzameling bronnen zonder titel"
+msgstr "Bronnenverzameling zonder titel"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:339
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1970
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2144
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:458
-#, fuzzy
 msgid "Untitled resource page"
 msgstr "Bronpagina zonder titel"
 
@@ -2945,9 +2937,8 @@ msgid "No choices for multi-choice question"
 msgstr "Geen keuzes voor een meer-selectie vraag"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:986
-#, fuzzy
 msgid "No list question selected for item select question"
-msgstr "Geen lijstvraag geselecteerd voor item selecteren vraag"
+msgstr "Geen \"lijst\"-vraag geselecteerd als vraag voor item selecteren"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:1013
 msgid "Empty label for answer"
@@ -2958,9 +2949,8 @@ msgid "Empty label for choice"
 msgstr "Keuze zonder label"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:1052
-#, fuzzy
 msgid "No resource page selected for resource page reference"
-msgstr "Geen bronpagina geselecteerd voor bronpagina referentie"
+msgstr "Geen bronpagina geselecteerd voor bronpagina-referentie"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:1059
 msgid "Empty URL for URL reference"
@@ -3011,19 +3001,16 @@ msgid "Empty widget URL for integration"
 msgstr "Lege widget-URL voor integratie"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:1185
-#, fuzzy
 msgid "Empty title for resource collection"
 msgstr "Lege titel voor bronnenverzameling"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:1206
-#, fuzzy
 msgid "Empty title for resource page"
 msgstr "Lege titel voor bronpagina"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:1216
-#, fuzzy
 msgid "Empty content for resource page"
-msgstr "Lege inhoud voor resourcepagina"
+msgstr "Geen inhoud voor bronnenpagina"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:374
 msgid "There are no more warnings."
@@ -3075,14 +3062,12 @@ msgid "Add integration"
 msgstr "Voeg integratie toe"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:616
-#, fuzzy
 msgid "Resource Collections"
 msgstr "Bronnenverzamelingen"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:625
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:158
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:322
-#, fuzzy
 msgid "Add resource collection"
 msgstr "Bronnenverzameling toevoegen"
 
@@ -3145,7 +3130,6 @@ msgid "Multi-Choice"
 msgstr "Meer-selecties"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:820
-#, fuzzy
 msgid "Item Select"
 msgstr "Item kiezen"
 
@@ -3320,24 +3304,20 @@ msgid "Add choice"
 msgstr "Voeg keuze toe"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1176
-#, fuzzy
 msgid "- select list question -"
-msgstr "- selecteer lijst vraag -"
+msgstr "- selecteer een \"lijst\"-vraag -"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1181
-#, fuzzy
 msgid "List Question"
-msgstr "Lijst Vraag"
+msgstr "\"Lijst\"-Vraag"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1194
-#, fuzzy
 msgid "Go to list question"
-msgstr "Ga naar lijst vraag"
+msgstr "Ga naar \"lijst\"-vraag"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1209
-#, fuzzy
 msgid "Item select questions using this list question"
-msgstr "Item selecteert vragen met behulp van deze lijst vraag"
+msgstr "Itemselectie-vragen die deze \"lijst\"-vraag gebruiken"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1257
 msgid "Metric"
@@ -3610,32 +3590,28 @@ msgid "Reference Type"
 msgstr "Referentietype"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1987
-#, fuzzy
 msgid "- select resource page -"
-msgstr "- selecteer pagina met bronnen -"
+msgstr "- selecteer bronnenpagina -"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2060
 msgid "Expert"
 msgstr "Expert"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2117
-#, fuzzy
 msgid "Resource Collection"
-msgstr "Collectie Hulpbronnen"
+msgstr "Bronnenverzameling"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2136
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:2128
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:2157
-#, fuzzy
 msgid "Resource Pages"
-msgstr "Resourcepagina"
+msgstr "Bronnenpagina's"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2145
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:437
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:338
-#, fuzzy
 msgid "Add resource page"
-msgstr "Pagina met bronnen toevoegen"
+msgstr "Bronnenpagina toevoegen"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2197
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:2172
@@ -3646,9 +3622,8 @@ msgid "Content"
 msgstr "Inhoud"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2237
-#, fuzzy
 msgid "Questions using this resource page"
-msgstr "Vragen over deze pagina"
+msgstr "Vragen die naar deze bronnenpagina verwijzen"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2244
 msgid "The knowledge model entity you are trying to open does not exist."
@@ -3689,14 +3664,12 @@ msgid "Are you sure you want to delete this integration?"
 msgstr "Weet je zeker dat je deze integratie wilt verwijderen?"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2404
-#, fuzzy
 msgid "Are you sure you want to delete this resource collection?"
 msgstr "Weet je zeker dat je deze bronnenverzameling wilt verwijderen?"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2411
-#, fuzzy
 msgid "Are you sure you want to delete this resource page?"
-msgstr "Weet je zeker dat je deze bronpagina wilt verwijderen?"
+msgstr "Weet je zeker dat je deze bronnenpagina wilt verwijderen?"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2418
 msgid "Are you sure you want to delete this answer?"
@@ -4030,24 +4003,20 @@ msgid "Delete expert"
 msgstr "Verwijder expert"
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:327
-#, fuzzy
 msgid "Edit resource collection"
 msgstr "Bronnenverzameling bewerken"
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:333
-#, fuzzy
 msgid "Delete resource collection"
 msgstr "Bronnenverzameling verwijderen"
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:343
-#, fuzzy
 msgid "Edit resource page"
-msgstr "Bronpagina bewerken"
+msgstr "Bronnenpagina bewerken"
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:349
-#, fuzzy
 msgid "Delete resource page"
-msgstr "Bronpagina verwijderen"
+msgstr "Bronnenpagina verwijderen"
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:355
 msgid "Move question"
@@ -4074,9 +4043,8 @@ msgstr "Verplaats expert"
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1817
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1886
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1955
-#, fuzzy
 msgid "Resource Page UUID"
-msgstr "UUID van bronpagina"
+msgstr "UUID van de bronnenpagina"
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1712
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1778
@@ -4254,9 +4222,8 @@ msgid "Questionnaire could not be saved."
 msgstr "Vragenlijst kon niet worden opgeslagen."
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/ResourcePage/Update.elm:27
-#, fuzzy
 msgid "Unable to get resource page."
-msgstr "Kan bronpagina niet ophalen."
+msgstr "Kan bronnenpagina niet ophalen."
 
 #: engine-wizard/elm/Wizard/Locales/Common/LocaleActionsDropdown.elm:75
 msgid "Set default"
