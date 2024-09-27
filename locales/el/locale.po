@@ -1,7 +1,7 @@
 # Jana Martínková <j.martinkova@outlook.com>, 2024.
 # Georgia Koutentaki <koutegeo@cvut.cz>, 2024.
 msgid ""
-msgstr "Project-Id-Version: wizard-client:4.9.0\nPOT-Creation-Date: 2024-09-03T07:17:36.540Z\nPO-Revision-Date: 2024-09-03 09:02+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Greek <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-10-0/el/>\nLanguage: el\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.18.2\n"
+msgstr "Project-Id-Version: wizard-client:4.9.0\nPOT-Creation-Date: 2024-09-03T07:17:36.540Z\nPO-Revision-Date: 2024-09-27 08:55+0000\nLast-Translator: Georgia Koutentaki <koutegeo@cvut.cz>\nLanguage-Team: Greek <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-10-0/el/>\nLanguage: el\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.18.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -166,7 +166,6 @@ msgid "edit"
 msgstr "επεξεργασία"
 
 #: engine-shared/elm/Shared/Data/QuestionnaireQuestionnaire.elm:416
-#, fuzzy
 msgid "Item"
 msgstr "Στοιχείο"
 
@@ -1015,17 +1014,14 @@ msgid "Loading..."
 msgstr "Φόρτωση..."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3674
-#, fuzzy
 msgid "- select -"
 msgstr "- επιλέξτε -"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3681
-#, fuzzy
 msgid "Go to item"
 msgstr "Πηγαίνετε στο στοιχείο"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3694
-#, fuzzy
 msgid "The selected item was deleted."
 msgstr "Το επιλεγμένο στοιχείο διαγράφηκε."
 
@@ -1064,9 +1060,8 @@ msgid "Copy link"
 msgstr "Αντιγραφή συνδέσμου"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3950
-#, fuzzy
 msgid "There are some item select questions using this item:"
-msgstr "Υπάρχουν ορισμένες ερωτήσεις επιλογής αντικειμένου που χρησιμοποιούν αυτό το αντικείμενο:"
+msgstr "Υπάρχουν ορισμένες ερωτήσεις επιλογής στοιχείου που χρησιμοποιούν αυτό το στοιχείο:"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3961
 msgid "Remove Item"
@@ -1836,7 +1831,6 @@ msgid "Filter by question tags"
 msgstr "Φίλτρο με ετικέτες ερωτήσεων"
 
 #: engine-wizard/elm/Wizard/Common/View/Tag.elm:158
-#, fuzzy
 msgid "No need to choose question tags for this knowledge model."
 msgstr "Δεν χρειάζεται να επιλέξετε ετικέτες ερωτήσεων για αυτό το μοντέλο γνώσης."
 
@@ -2907,7 +2901,6 @@ msgstr "Ειδικός χωρίς τίτλο"
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:336
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:624
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:444
-#, fuzzy
 msgid "Untitled resource collection"
 msgstr "Συλλογή πόρων χωρίς τίτλο"
 
@@ -2915,7 +2908,6 @@ msgstr "Συλλογή πόρων χωρίς τίτλο"
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1970
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2144
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:458
-#, fuzzy
 msgid "Untitled resource page"
 msgstr "Σελίδα πόρων χωρίς τίτλο"
 
@@ -2944,9 +2936,8 @@ msgid "No choices for multi-choice question"
 msgstr "Δεν υπάρχουν επιλογές για την ερώτηση πολλαπλών επιλογών"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:986
-#, fuzzy
 msgid "No list question selected for item select question"
-msgstr "Δεν έχει επιλεγεί ερώτηση λίστας για ερώτηση επιλογής στοιχείου"
+msgstr "Δεν έχει επιλεγεί \"ερώτηση λίστας\" για την ερώτηση επιλογής στοιχείου"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:1013
 msgid "Empty label for answer"
@@ -2957,9 +2948,8 @@ msgid "Empty label for choice"
 msgstr "Κενή ετικέτα για την επιλογή"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:1052
-#, fuzzy
 msgid "No resource page selected for resource page reference"
-msgstr "Δεν έχει επιλεγεί σελίδα πόρου για αναφορά σελίδας πόρου"
+msgstr "Δεν έχει επιλεγεί σελίδα πόρου για την αναφορά σελίδας πόρου"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:1059
 msgid "Empty URL for URL reference"
@@ -3010,17 +3000,14 @@ msgid "Empty widget URL for integration"
 msgstr "Εκκαθάριση διεύθυνσης widget URL για ενσωμάτωση"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:1185
-#, fuzzy
 msgid "Empty title for resource collection"
 msgstr "Κενός τίτλος για τη συλλογή πόρων"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:1206
-#, fuzzy
 msgid "Empty title for resource page"
 msgstr "Κενός τίτλος για τη σελίδα πόρων"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:1216
-#, fuzzy
 msgid "Empty content for resource page"
 msgstr "Κενό περιεχόμενο για τη σελίδα πόρων"
 
@@ -3074,14 +3061,12 @@ msgid "Add integration"
 msgstr "Προσθήκη ενοποίησης"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:616
-#, fuzzy
 msgid "Resource Collections"
 msgstr "Συλλογές πόρων"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:625
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:158
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:322
-#, fuzzy
 msgid "Add resource collection"
 msgstr "Προσθήκη συλλογής πόρων"
 
@@ -3144,7 +3129,6 @@ msgid "Multi-Choice"
 msgstr "Πολλαπλή επιλογή"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:820
-#, fuzzy
 msgid "Item Select"
 msgstr "Επιλογή στοιχείου"
 
@@ -3319,24 +3303,20 @@ msgid "Add choice"
 msgstr "Προσθήκη επιλογής"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1176
-#, fuzzy
 msgid "- select list question -"
 msgstr "- επιλέξτε ερώτηση λίστας -"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1181
-#, fuzzy
 msgid "List Question"
 msgstr "Ερώτηση λίστας"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1194
-#, fuzzy
 msgid "Go to list question"
-msgstr "Πηγαίνετε στην ερώτηση της λίστας"
+msgstr "Πηγαίνετε στην ερώτηση λίστας"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1209
-#, fuzzy
 msgid "Item select questions using this list question"
-msgstr "Στοιχείο επιλέξτε ερωτήσεις χρησιμοποιώντας αυτόν τον κατάλογο ερώτηση"
+msgstr "Ερωτήσεις επιλογής στοιχείου που χρησιμοποιούν αυτη τη λίστα ερώτησεων"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1257
 msgid "Metric"
@@ -3609,7 +3589,6 @@ msgid "Reference Type"
 msgstr "Τύπος παραπομπής"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1987
-#, fuzzy
 msgid "- select resource page -"
 msgstr "- επιλέξτε σελίδα πόρων -"
 
@@ -3618,21 +3597,18 @@ msgid "Expert"
 msgstr "Ειδικός"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2117
-#, fuzzy
 msgid "Resource Collection"
 msgstr "Συλλογή πόρων"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2136
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:2128
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:2157
-#, fuzzy
 msgid "Resource Pages"
 msgstr "Σελίδες πόρων"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2145
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:437
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:338
-#, fuzzy
 msgid "Add resource page"
 msgstr "Προσθήκη σελίδας πόρων"
 
@@ -3645,9 +3621,8 @@ msgid "Content"
 msgstr "Περιεχόμενο"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2237
-#, fuzzy
 msgid "Questions using this resource page"
-msgstr "Ερωτήσεις για τη χρήση αυτής της σελίδας πόρων"
+msgstr "Ερωτήσεις που χρησιμοποιούν αυτή τη σελίδα πόρων"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2244
 msgid "The knowledge model entity you are trying to open does not exist."
@@ -3688,12 +3663,10 @@ msgid "Are you sure you want to delete this integration?"
 msgstr "Είστε σίγουροι ότι θέλετε να διαγράψετε αυτή την ενσωμάτωση;"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2404
-#, fuzzy
 msgid "Are you sure you want to delete this resource collection?"
 msgstr "Είστε σίγουροι ότι θέλετε να διαγράψετε αυτή τη συλλογή πόρων;"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2411
-#, fuzzy
 msgid "Are you sure you want to delete this resource page?"
 msgstr "Είστε σίγουροι ότι θέλετε να διαγράψετε αυτή τη σελίδα πόρων;"
 
@@ -4029,22 +4002,18 @@ msgid "Delete expert"
 msgstr "Διαγραφή ειδικού"
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:327
-#, fuzzy
 msgid "Edit resource collection"
 msgstr "Επεξεργασία συλλογής πόρων"
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:333
-#, fuzzy
 msgid "Delete resource collection"
 msgstr "Διαγραφή συλλογής πόρων"
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:343
-#, fuzzy
 msgid "Edit resource page"
 msgstr "Επεξεργασία σελίδας πόρων"
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:349
-#, fuzzy
 msgid "Delete resource page"
 msgstr "Διαγραφή σελίδας πόρων"
 
@@ -4073,7 +4042,6 @@ msgstr "Μετακίνηση ειδικού"
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1817
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1886
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1955
-#, fuzzy
 msgid "Resource Page UUID"
 msgstr "UUID σελίδας πόρου"
 
@@ -4253,7 +4221,6 @@ msgid "Questionnaire could not be saved."
 msgstr "Το ερωτηματολόγιο δεν μπόρεσε να αποθηκευτεί."
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/ResourcePage/Update.elm:27
-#, fuzzy
 msgid "Unable to get resource page."
 msgstr "Δεν είναι δυνατή η λήψη της σελίδας πόρων."
 
