@@ -2,7 +2,7 @@
 # Marek Suchánek <marek.suchanek@ds-wizard.org>, 2023, 2024.
 # Jana Martínková <j.martinkova@outlook.com>, 2024.
 msgid ""
-msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2024-09-03T07:17:36.540Z\nPO-Revision-Date: 2024-09-03 09:06+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Turkish <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-10-0/tr/>\nLanguage: tr\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.18.2\n"
+msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2024-09-03T07:17:36.540Z\nPO-Revision-Date: 2024-09-27 08:55+0000\nLast-Translator: Jana Martínková <j.martinkova@outlook.com>\nLanguage-Team: Turkish <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-10-0/tr/>\nLanguage: tr\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.18.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -167,7 +167,6 @@ msgid "edit"
 msgstr "düzenle"
 
 #: engine-shared/elm/Shared/Data/QuestionnaireQuestionnaire.elm:416
-#, fuzzy
 msgid "Item"
 msgstr "Öğe"
 
@@ -1016,17 +1015,14 @@ msgid "Loading..."
 msgstr "Yükleniyor..."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3674
-#, fuzzy
 msgid "- select -"
 msgstr "- seçin -"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3681
-#, fuzzy
 msgid "Go to item"
 msgstr "Öğeye git"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3694
-#, fuzzy
 msgid "The selected item was deleted."
 msgstr "Seçilen öğe silindi."
 
@@ -1065,7 +1061,6 @@ msgid "Copy link"
 msgstr "Bağlantıyı kopyala"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3950
-#, fuzzy
 msgid "There are some item select questions using this item:"
 msgstr "Bu öğeyi kullanan bazı öğe seçme soruları vardır:"
 
@@ -1837,7 +1832,6 @@ msgid "Filter by question tags"
 msgstr "Soru etiketlerine göre filtrele"
 
 #: engine-wizard/elm/Wizard/Common/View/Tag.elm:158
-#, fuzzy
 msgid "No need to choose question tags for this knowledge model."
 msgstr "Bu bilgi modeli için soru etiketi seçmeye gerek yoktur."
 
@@ -2908,7 +2902,6 @@ msgstr "İsimsiz uzman"
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:336
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:624
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:444
-#, fuzzy
 msgid "Untitled resource collection"
 msgstr "İsimsiz kaynak koleksiyonu"
 
@@ -2916,7 +2909,6 @@ msgstr "İsimsiz kaynak koleksiyonu"
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1970
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2144
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:458
-#, fuzzy
 msgid "Untitled resource page"
 msgstr "İsimsiz kaynak sayfası"
 
@@ -2945,7 +2937,6 @@ msgid "No choices for multi-choice question"
 msgstr "Çoktan seçmeli soru için seçenek yok"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:986
-#, fuzzy
 msgid "No list question selected for item select question"
 msgstr "Öğe seçme sorusu için liste sorusu seçilmedi"
 
@@ -2958,7 +2949,6 @@ msgid "Empty label for choice"
 msgstr "Seçim için boş etiket"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:1052
-#, fuzzy
 msgid "No resource page selected for resource page reference"
 msgstr "Kaynak sayfası referansı için kaynak sayfası seçilmemiş"
 
@@ -3011,17 +3001,14 @@ msgid "Empty widget URL for integration"
 msgstr "Entegrasyon için boş widget URL'si"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:1185
-#, fuzzy
 msgid "Empty title for resource collection"
 msgstr "Kaynak koleksiyonu için boş başlık"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:1206
-#, fuzzy
 msgid "Empty title for resource page"
 msgstr "Kaynak sayfası için boş başlık"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:1216
-#, fuzzy
 msgid "Empty content for resource page"
 msgstr "Kaynak sayfası için boş içerik"
 
@@ -3075,14 +3062,12 @@ msgid "Add integration"
 msgstr "Entegrasyon ekleyin"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:616
-#, fuzzy
 msgid "Resource Collections"
 msgstr "Kaynak Koleksiyonları"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:625
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:158
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:322
-#, fuzzy
 msgid "Add resource collection"
 msgstr "Kaynak koleksiyonu ekleme"
 
@@ -3145,7 +3130,6 @@ msgid "Multi-Choice"
 msgstr "Çoklu Seçim"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:820
-#, fuzzy
 msgid "Item Select"
 msgstr "Ürün Seçimi"
 
@@ -3320,22 +3304,18 @@ msgid "Add choice"
 msgstr "Seçim ekleyin"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1176
-#, fuzzy
 msgid "- select list question -"
 msgstr "- liste sorusu seç -"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1181
-#, fuzzy
 msgid "List Question"
 msgstr "Liste Sorusu"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1194
-#, fuzzy
 msgid "Go to list question"
 msgstr "Liste sorusuna git"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1209
-#, fuzzy
 msgid "Item select questions using this list question"
 msgstr "Bu liste sorusunu kullanarak madde seçme soruları"
 
@@ -3610,7 +3590,6 @@ msgid "Reference Type"
 msgstr "Referans Tipi"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1987
-#, fuzzy
 msgid "- select resource page -"
 msgstr "- kaynak sayfasını seçin -"
 
@@ -3619,21 +3598,18 @@ msgid "Expert"
 msgstr "Uzman"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2117
-#, fuzzy
 msgid "Resource Collection"
 msgstr "Kaynak Koleksiyonu"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2136
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:2128
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:2157
-#, fuzzy
 msgid "Resource Pages"
 msgstr "Kaynak Sayfası"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2145
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Tree.elm:437
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:338
-#, fuzzy
 msgid "Add resource page"
 msgstr "Kaynak sayfası ekle"
 
@@ -3646,7 +3622,6 @@ msgid "Content"
 msgstr "İçerik"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2237
-#, fuzzy
 msgid "Questions using this resource page"
 msgstr "Bu kaynak sayfasını kullanan sorular"
 
@@ -3689,12 +3664,10 @@ msgid "Are you sure you want to delete this integration?"
 msgstr "Bu entegrasyonu silmek istediğinizden emin misiniz?"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2404
-#, fuzzy
 msgid "Are you sure you want to delete this resource collection?"
 msgstr "Bu kaynak koleksiyonunu silmek istediğinizden emin misiniz?"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:2411
-#, fuzzy
 msgid "Are you sure you want to delete this resource page?"
 msgstr "Bu kaynak sayfasını silmek istediğinizden emin misiniz?"
 
@@ -4030,22 +4003,18 @@ msgid "Delete expert"
 msgstr "Uzmanı sil"
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:327
-#, fuzzy
 msgid "Edit resource collection"
 msgstr "Kaynak koleksiyonunu düzenleme"
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:333
-#, fuzzy
 msgid "Delete resource collection"
 msgstr "Kaynak koleksiyonunu silme"
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:343
-#, fuzzy
 msgid "Edit resource page"
 msgstr "Kaynak sayfasını düzenleme"
 
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:349
-#, fuzzy
 msgid "Delete resource page"
 msgstr "Kaynak sayfasını sil"
 
@@ -4074,7 +4043,6 @@ msgstr "Uzman taşıyın"
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1817
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1886
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1955
-#, fuzzy
 msgid "Resource Page UUID"
 msgstr "Kaynak Sayfası UUID"
 
@@ -4254,7 +4222,6 @@ msgid "Questionnaire could not be saved."
 msgstr "Anket kaydedilemedi."
 
 #: engine-wizard/elm/Wizard/KnowledgeModels/ResourcePage/Update.elm:27
-#, fuzzy
 msgid "Unable to get resource page."
 msgstr "Kaynak sayfası alınamıyor."
 
