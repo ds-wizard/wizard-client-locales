@@ -3,7 +3,7 @@
 # Jan Slifka <jan.slifka@ds-wizard.org>, 2023.
 # Jana Martínková <j.martinkova@outlook.com>, 2024.
 msgid ""
-msgstr "Project-Id-Version: wizard-client:3.17.1\nPOT-Creation-Date: 2024-10-01T07:40:19.213Z\nPO-Revision-Date: 2024-10-01 13:35+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Czech <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-11-0/cs/>\nLanguage: cs\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 4.18.2\n"
+msgstr "Project-Id-Version: wizard-client:3.17.1\nPOT-Creation-Date: 2024-10-01T07:40:19.213Z\nPO-Revision-Date: 2024-10-02 14:46+0000\nLast-Translator: Jana Martínková <j.martinkova@outlook.com>\nLanguage-Team: Czech <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-11-0/cs/>\nLanguage: cs\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Generator: Weblate 4.18.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -1739,12 +1739,10 @@ msgstr "(volitelné)"
 
 #: engine-wizard/elm/Wizard/Common/View/FormGroup.elm:462
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:261
-#, fuzzy
 msgid "You can use %s and see the result in the preview tab."
 msgstr "Můžete použít %s a výsledek si prohlédnout na kartě náhledu."
 
 #: engine-wizard/elm/Wizard/Common/View/FormGroup.elm:472
-#, fuzzy
 msgid "You can use HTML or %s and see the result in the preview tab."
 msgstr "Můžete použít HTML nebo %s a výsledek si prohlédnout na kartě náhledu."
 
@@ -2670,7 +2668,6 @@ msgid "There is a newer version (%s) available."
 msgstr "Je dostupná novější verze (%s)."
 
 #: engine-wizard/elm/Wizard/DocumentTemplates/Detail/View.elm:189
-#, fuzzy
 msgid "This document template is not supported in the current version."
 msgstr "Tato šablona dokumentu není v aktuální verzi podporována."
 
@@ -4317,9 +4314,8 @@ msgid "Disabled"
 msgstr "Zakázáno"
 
 #: engine-wizard/elm/Wizard/Locales/Detail/View.elm:159
-#, fuzzy
 msgid "Wizard Version"
-msgstr "Verze průvodce"
+msgstr "Wizard verze"
 
 #: engine-wizard/elm/Wizard/Locales/Detail/View.elm:171
 msgid "Locale"
@@ -5952,9 +5948,8 @@ msgid "API Keys"
 msgstr "Klíče API"
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:184
-#, fuzzy
 msgid "You can generate an API key for every application you use that needs access to the [API](%s)."
-msgstr "Klíč API můžete vygenerovat pro každou používanou aplikaci, která potřebuje přístup k [DSW API](%s)."
+msgstr "API klíč můžete vygenerovat pro každou používanou aplikaci, která potřebuje přístup k [API](%s)."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:201
 msgid "Your new API key"
