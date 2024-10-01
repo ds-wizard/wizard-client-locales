@@ -1,17 +1,7 @@
 # Marek Suchánek <marek.suchanek@ds-wizard.org>, 2024.
 # Gil Poiares-Oliveira <gpo@biodata.pt>, 2024.
 msgid ""
-msgstr ""
-"Project-Id-Version: wizard-client:4.2.0\n"
-"POT-Creation-Date: 2024-10-01T07:40:19.213Z \n"
-"PO-Revision-Date: 2024-09-03 09:02+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Portuguese <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-10-0/pt/>\n"
-"Language: pt\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 4.18.2\n"
+msgstr "Project-Id-Version: wizard-client:4.2.0\nPOT-Creation-Date: 2024-10-01T07:40:19.213Z\nPO-Revision-Date: 2024-10-01 13:35+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Portuguese <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-11-0/pt/>\nLanguage: pt\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 4.18.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -968,6 +958,7 @@ msgid "Expand"
 msgstr "Expandir"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3142
+#, fuzzy
 msgid "%s %s follow up question"
 msgid_plural "%s %s follow up questions"
 msgstr[0] ""
@@ -1767,12 +1758,14 @@ msgstr "(opcional)"
 
 #: engine-wizard/elm/Wizard/Common/View/FormGroup.elm:462
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:261
+#, fuzzy
 msgid "You can use %s and see the result in the preview tab."
-msgstr ""
+msgstr "Pode utilizar %s e ver o resultado no separador de pré-visualização."
 
 #: engine-wizard/elm/Wizard/Common/View/FormGroup.elm:472
+#, fuzzy
 msgid "You can use HTML or %s and see the result in the preview tab."
-msgstr ""
+msgstr "Pode utilizar HTML ou %s e ver o resultado no separador de pré-visualização."
 
 #: engine-wizard/elm/Wizard/Common/View/FormGroup.elm:548
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:247
@@ -2747,8 +2740,9 @@ msgid "There is a newer version (%s) available."
 msgstr "Está disponível uma versão mais recente (%s)."
 
 #: engine-wizard/elm/Wizard/DocumentTemplates/Detail/View.elm:189
+#, fuzzy
 msgid "This document template is not supported in the current version."
-msgstr ""
+msgstr "Este modelo de documento não é suportado na versão atual."
 
 #: engine-wizard/elm/Wizard/DocumentTemplates/Detail/View.elm:218
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1517
@@ -4673,8 +4667,9 @@ msgid "Disabled"
 msgstr "Desativado"
 
 #: engine-wizard/elm/Wizard/Locales/Detail/View.elm:159
+#, fuzzy
 msgid "Wizard Version"
-msgstr ""
+msgstr "Versão Wizard"
 
 #: engine-wizard/elm/Wizard/Locales/Detail/View.elm:171
 #, fuzzy
@@ -4897,6 +4892,7 @@ msgstr "Partilhado com %s e %s."
 
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:63
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:104
+#, fuzzy
 msgid "%s user"
 msgid_plural "%s users"
 msgstr[0] ""
@@ -4904,6 +4900,7 @@ msgstr[1] "%s utilizadores"
 
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:66
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:105
+#, fuzzy
 msgid "%s user group"
 msgid_plural "%s user groups"
 msgstr[0] ""
@@ -4911,6 +4908,7 @@ msgstr[1] "%s grupos de utilizadores"
 
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:73
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:109
+#, fuzzy
 msgid "Shared with %s user group."
 msgid_plural "Shared with %s user groups."
 msgstr[0] ""
@@ -4918,6 +4916,7 @@ msgstr[1] "Partilhado com %s grupos de utilizadores."
 
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:80
 #: engine-wizard/elm/Wizard/Projects/Common/View.elm:113
+#, fuzzy
 msgid "Shared with %s user."
 msgid_plural "Shared with %s users."
 msgstr[0] ""
@@ -5345,12 +5344,14 @@ msgid "Import status:"
 msgstr "Estado da importação:"
 
 #: engine-wizard/elm/Wizard/Projects/Import/View.elm:90
+#, fuzzy
 msgid "%s questionnaire change will be imported"
 msgid_plural "%s questionnaire changes will be imported"
 msgstr[0] ""
 msgstr[1] "As alterações ao questionário %s serão importadas"
 
 #: engine-wizard/elm/Wizard/Projects/Import/View.elm:108
+#, fuzzy
 msgid "%s error encountered"
 msgid_plural "%s errors encountered"
 msgstr[0] ""
@@ -6670,8 +6671,9 @@ msgid "API Keys"
 msgstr "Chaves da API"
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:184
+#, fuzzy
 msgid "You can generate an API key for every application you use that needs access to the [API](%s)."
-msgstr ""
+msgstr "Pode gerar uma chave de API para cada aplicação utilizada que necessite de acesso à [API](%s)."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:201
 #, fuzzy
