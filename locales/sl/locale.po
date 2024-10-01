@@ -3,17 +3,7 @@
 # Marek Suchánek <marek.suchanek@ds-wizard.org>, 2024.
 # Jana Martínková <j.martinkova@outlook.com>, 2024.
 msgid ""
-msgstr ""
-"Project-Id-Version: wizard-client:4.1.0\n"
-"POT-Creation-Date: 2024-10-01T07:40:19.213Z \n"
-"PO-Revision-Date: 2024-09-27 08:55+0000\n"
-"Last-Translator: Jana Martínková <j.martinkova@outlook.com>\n"
-"Language-Team: Slovenian <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-10-0/sl/>\n"
-"Language: sl\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3;\n"
-"X-Generator: Weblate 4.18.2\n"
+msgstr "Project-Id-Version: wizard-client:4.1.0\nPOT-Creation-Date: 2024-10-01T07:40:19.213Z\nPO-Revision-Date: 2024-10-01 13:35+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Slovenian <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-11-0/sl/>\nLanguage: sl\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3;\nX-Generator: Weblate 4.18.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -1760,12 +1750,14 @@ msgstr "(neobvezno)"
 
 #: engine-wizard/elm/Wizard/Common/View/FormGroup.elm:462
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:261
+#, fuzzy
 msgid "You can use %s and see the result in the preview tab."
-msgstr ""
+msgstr "Uporabite lahko %s in si rezultat ogledate v zavihku za predogled."
 
 #: engine-wizard/elm/Wizard/Common/View/FormGroup.elm:472
+#, fuzzy
 msgid "You can use HTML or %s and see the result in the preview tab."
-msgstr ""
+msgstr "Uporabite lahko HTML ali %s in si rezultat ogledate v zavihku za predogled."
 
 #: engine-wizard/elm/Wizard/Common/View/FormGroup.elm:548
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:247
@@ -2689,8 +2681,9 @@ msgid "There is a newer version (%s) available."
 msgstr "Na voljo je novejša različica (%s)."
 
 #: engine-wizard/elm/Wizard/DocumentTemplates/Detail/View.elm:189
+#, fuzzy
 msgid "This document template is not supported in the current version."
-msgstr ""
+msgstr "Ta predloga dokumenta v trenutni različici ni podprta."
 
 #: engine-wizard/elm/Wizard/DocumentTemplates/Detail/View.elm:218
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1517
@@ -4335,8 +4328,9 @@ msgid "Disabled"
 msgstr "Onemogočeno"
 
 #: engine-wizard/elm/Wizard/Locales/Detail/View.elm:159
+#, fuzzy
 msgid "Wizard Version"
-msgstr ""
+msgstr "Različica čarovnika"
 
 #: engine-wizard/elm/Wizard/Locales/Detail/View.elm:171
 msgid "Locale"
@@ -5975,8 +5969,9 @@ msgid "API Keys"
 msgstr "Ključi API"
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:184
+#, fuzzy
 msgid "You can generate an API key for every application you use that needs access to the [API](%s)."
-msgstr ""
+msgstr "Ključ API lahko ustvarite za vsako aplikacijo, ki potrebuje dostop do [DSW API](%s)."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:201
 msgid "Your new API key"
