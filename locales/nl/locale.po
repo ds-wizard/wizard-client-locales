@@ -2,7 +2,17 @@
 # Marek Suchánek <marek.suchanek@ds-wizard.org>, 2023, 2024.
 # Jana Martínková <j.martinkova@outlook.com>, 2024.
 msgid ""
-msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2024-09-03T07:17:36.540Z\nPO-Revision-Date: 2024-09-19 13:45+0000\nLast-Translator: Rob Hooft <rob.hooft@health-ri.nl>\nLanguage-Team: Dutch <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-10-0/nl/>\nLanguage: nl\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.18.2\n"
+msgstr ""
+"Project-Id-Version: wizard-client:3.18.3\n"
+"POT-Creation-Date: 2024-10-01T07:40:19.213Z \n"
+"PO-Revision-Date: 2024-09-19 13:45+0000\n"
+"Last-Translator: Rob Hooft <rob.hooft@health-ri.nl>\n"
+"Language-Team: Dutch <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-10-0/nl/>\n"
+"Language: nl\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.18.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -469,13 +479,13 @@ msgstr "Sluiten en accepteren"
 
 #: engine-wizard/elm/Wizard/Common/Components/CopyableCodeBlock.elm:48
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3905
-#: engine-wizard/elm/Wizard/Common/Menu/View.elm:768
+#: engine-wizard/elm/Wizard/Common/Menu/View.elm:785
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:424
 msgid "Copied!"
 msgstr "Gekopieerd!"
 
 #: engine-wizard/elm/Wizard/Common/Components/CopyableCodeBlock.elm:61
-#: engine-wizard/elm/Wizard/Common/Menu/View.elm:779
+#: engine-wizard/elm/Wizard/Common/Menu/View.elm:796
 msgid "Copy"
 msgstr "Kopieer"
 
@@ -738,8 +748,8 @@ msgid "Action failed!"
 msgstr "Actie mislukt!"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:1880
-#: engine-wizard/elm/Wizard/Common/Menu/View.elm:750
-#: engine-wizard/elm/Wizard/Common/Menu/View.elm:803
+#: engine-wizard/elm/Wizard/Common/Menu/View.elm:767
+#: engine-wizard/elm/Wizard/Common/Menu/View.elm:820
 #: engine-wizard/elm/Wizard/Common/View/Modal.elm:155
 msgid "OK"
 msgstr "OK"
@@ -968,7 +978,7 @@ msgstr "Er zijn nog geen antwoorden."
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3234
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/FileEditor.elm:906
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:673
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:677
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/Settings.elm:497
 #: engine-wizard/elm/Wizard/Tenants/Detail/View.elm:211
 msgid "Add"
@@ -1073,7 +1083,7 @@ msgid "Are you sure you want to remove this item?"
 msgstr "Weet je zeker dat je dit item wilt verwijderen?"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire.elm:3968
-#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:362
+#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:398
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:509
 #: engine-wizard/elm/Wizard/Projects/Detail/Components/ShareModal.elm:577
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:179
@@ -1187,7 +1197,7 @@ msgstr "Titel"
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire/FeedbackModal.elm:184
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire/VersionModal.elm:157
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/PublishModal.elm:135
-#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:266
+#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:283
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1284
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1340
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1392
@@ -1292,11 +1302,11 @@ msgstr "Doorzoek gebruikers…"
 #: engine-wizard/elm/Wizard/Documents/Index/View.elm:115
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Create/View.elm:88
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/PublishModal.elm:134
-#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:265
-#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:353
-#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:393
-#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:420
-#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:441
+#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:282
+#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:389
+#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:448
+#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:476
+#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:497
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Index/View.elm:51
 #: engine-wizard/elm/Wizard/DocumentTemplates/Index/View.elm:73
 #: engine-wizard/elm/Wizard/KMEditor/Create/View.elm:92
@@ -1354,7 +1364,7 @@ msgstr "Nieuwe versie"
 
 #: engine-wizard/elm/Wizard/Common/Components/Questionnaire/VersionModal.elm:173
 #: engine-wizard/elm/Wizard/Common/View/FormActions.elm:75
-#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/View.elm:74
+#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/View.elm:80
 #: engine-wizard/elm/Wizard/Public/ForgottenPasswordConfirmation/View.elm:45
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:40
 #: engine-wizard/elm/Wizard/Settings/DashboardAndLoginScreen/View.elm:40
@@ -1386,7 +1396,7 @@ msgstr "Uw sessie verloopt in minder dan %s minuten. Log opnieuw in om deze te v
 
 #: engine-wizard/elm/Wizard/Common/Components/SessionModal.elm:39
 #: engine-wizard/elm/Wizard/Common/Components/SessionModal.elm:63
-#: engine-wizard/elm/Wizard/Common/Menu/View.elm:584
+#: engine-wizard/elm/Wizard/Common/Menu/View.elm:601
 msgid "Log in again"
 msgstr "Opnieuw inloggen"
 
@@ -1413,7 +1423,7 @@ msgstr "Beantwoord (in huidige fase): %s/%s"
 
 #: engine-wizard/elm/Wizard/Common/Components/SummaryReport.elm:162
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:548
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:554
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:558
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:421
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1435
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:1486
@@ -1424,7 +1434,7 @@ msgid "Metrics"
 msgstr "Statistieken"
 
 #: engine-wizard/elm/Wizard/Common/Components/SummaryReport.elm:163
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:549
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:553
 msgid "Measure"
 msgstr "Meting"
 
@@ -1452,7 +1462,7 @@ msgstr "Kennismodel Editors"
 
 #: engine-wizard/elm/Wizard/Common/Components/UsageTable.elm:19
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:92
-#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:239
+#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:256
 #: engine-wizard/elm/Wizard/KnowledgeModels/Index/View.elm:29
 #: engine-wizard/elm/Wizard/Projects/Index/View.elm:367
 #: engine-wizard/elm/Wizard/Settings/KnowledgeModels/View.elm:30
@@ -1498,12 +1508,12 @@ msgid "Storage"
 msgstr "Opslag"
 
 #: engine-wizard/elm/Wizard/Common/Menu/Update.elm:43
-#: engine-wizard/elm/Wizard/Common/Menu/View.elm:834
+#: engine-wizard/elm/Wizard/Common/Menu/View.elm:851
 msgid "Client"
 msgstr "Client"
 
 #: engine-wizard/elm/Wizard/Common/Menu/Update.elm:44
-#: engine-wizard/elm/Wizard/Common/Menu/View.elm:835
+#: engine-wizard/elm/Wizard/Common/Menu/View.elm:852
 msgid "Server"
 msgstr "Server"
 
@@ -1556,7 +1566,7 @@ msgstr "Administratie"
 
 #: engine-wizard/elm/Wizard/Common/Menu/View.elm:200
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/PublishModal.elm:125
-#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/View.elm:149
+#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/View.elm:155
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/PublishModal.elm:116
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/Settings.elm:183
 #: engine-wizard/elm/Wizard/KMEditor/Editor/View.elm:203
@@ -1566,76 +1576,76 @@ msgstr "Administratie"
 msgid "Settings"
 msgstr "Instellingen"
 
-#: engine-wizard/elm/Wizard/Common/Menu/View.elm:321
+#: engine-wizard/elm/Wizard/Common/Menu/View.elm:338
 msgid "Switch to"
 msgstr "Overschakelen naar"
 
-#: engine-wizard/elm/Wizard/Common/Menu/View.elm:325
+#: engine-wizard/elm/Wizard/Common/Menu/View.elm:342
 msgid "More"
 msgstr "Meer"
 
-#: engine-wizard/elm/Wizard/Common/Menu/View.elm:577
+#: engine-wizard/elm/Wizard/Common/Menu/View.elm:594
 msgid "Your session expires in %s"
 msgstr "Uw sessie verloopt in %s"
 
-#: engine-wizard/elm/Wizard/Common/Menu/View.elm:644
-#: engine-wizard/elm/Wizard/Common/Menu/View.elm:911
+#: engine-wizard/elm/Wizard/Common/Menu/View.elm:661
+#: engine-wizard/elm/Wizard/Common/Menu/View.elm:928
 msgid "Change language"
 msgstr "Wijzig de taal"
 
-#: engine-wizard/elm/Wizard/Common/Menu/View.elm:662
+#: engine-wizard/elm/Wizard/Common/Menu/View.elm:679
 #: engine-wizard/elm/Wizard/Users/Edit/Components/Profile.elm:239
 msgid "Edit profile"
 msgstr "Wijzig profielinformatie"
 
-#: engine-wizard/elm/Wizard/Common/Menu/View.elm:670
+#: engine-wizard/elm/Wizard/Common/Menu/View.elm:687
 msgid "Assigned comments"
 msgstr "Toegewezen opmerkingen"
 
-#: engine-wizard/elm/Wizard/Common/Menu/View.elm:680
+#: engine-wizard/elm/Wizard/Common/Menu/View.elm:697
 msgid "Log out"
 msgstr "Log uit"
 
-#: engine-wizard/elm/Wizard/Common/Menu/View.elm:689
-#: engine-wizard/elm/Wizard/Common/Menu/View.elm:789
+#: engine-wizard/elm/Wizard/Common/Menu/View.elm:706
+#: engine-wizard/elm/Wizard/Common/Menu/View.elm:806
 msgid "About"
 msgstr "Over"
 
-#: engine-wizard/elm/Wizard/Common/Menu/View.elm:698
+#: engine-wizard/elm/Wizard/Common/Menu/View.elm:715
 msgid "Report issue"
 msgstr "Rapporteer een issue"
 
-#: engine-wizard/elm/Wizard/Common/Menu/View.elm:715
+#: engine-wizard/elm/Wizard/Common/Menu/View.elm:732
 msgid "Collapse sidebar"
 msgstr "Zijbalk inklappen"
 
-#: engine-wizard/elm/Wizard/Common/Menu/View.elm:730
+#: engine-wizard/elm/Wizard/Common/Menu/View.elm:747
 msgid "If you find any problem, you can report an issue here:"
 msgstr "Als u een probleem vindt, kunt u dat hier melden:"
 
-#: engine-wizard/elm/Wizard/Common/Menu/View.elm:742
+#: engine-wizard/elm/Wizard/Common/Menu/View.elm:759
 msgid "You can also write us an email to %s."
 msgstr "Je kunt ons ook een e-mail sturen aan %s."
 
-#: engine-wizard/elm/Wizard/Common/Menu/View.elm:746
+#: engine-wizard/elm/Wizard/Common/Menu/View.elm:763
 msgid "Report Issue"
 msgstr "Rapporteer een Issue"
 
-#: engine-wizard/elm/Wizard/Common/Menu/View.elm:786
+#: engine-wizard/elm/Wizard/Common/Menu/View.elm:803
 msgid "About %s"
 msgstr "Over %s"
 
-#: engine-wizard/elm/Wizard/Common/Menu/View.elm:823
+#: engine-wizard/elm/Wizard/Common/Menu/View.elm:840
 msgid "API URL"
 msgstr "API URL"
 
-#: engine-wizard/elm/Wizard/Common/Menu/View.elm:824
+#: engine-wizard/elm/Wizard/Common/Menu/View.elm:841
 msgid "API Docs"
 msgstr "API Documentatie"
 
-#: engine-wizard/elm/Wizard/Common/Menu/View.elm:862
+#: engine-wizard/elm/Wizard/Common/Menu/View.elm:879
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/PublishModal.elm:137
-#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:255
+#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:272
 #: engine-wizard/elm/Wizard/DocumentTemplates/Detail/View.elm:219
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/PublishModal.elm:128
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/Settings.elm:165
@@ -1645,11 +1655,11 @@ msgstr "API Documentatie"
 msgid "Version"
 msgstr "Versie"
 
-#: engine-wizard/elm/Wizard/Common/Menu/View.elm:866
+#: engine-wizard/elm/Wizard/Common/Menu/View.elm:883
 msgid "Built at"
 msgstr "Gebouwd om"
 
-#: engine-wizard/elm/Wizard/Common/Menu/View.elm:891
+#: engine-wizard/elm/Wizard/Common/Menu/View.elm:908
 #: engine-wizard/elm/Wizard/Locales/Detail/View.elm:49
 #: engine-wizard/elm/Wizard/Locales/Index/View.elm:74
 msgid "default"
@@ -1721,61 +1731,61 @@ msgstr[1] "bijna %s jaar"
 msgid "You have unsaved changes."
 msgstr "Je hebt niet opgeslagen veranderingen."
 
-#: engine-wizard/elm/Wizard/Common/View/FormGroup.elm:62
+#: engine-wizard/elm/Wizard/Common/View/FormGroup.elm:64
 msgid "(optional)"
 msgstr "(optioneel)"
 
-#: engine-wizard/elm/Wizard/Common/View/FormGroup.elm:460
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:259
-msgid "You can use Markdown and see the result in the preview tab."
-msgstr "Je kunt Markdown gebruiken en het resultaat in de voorbeeld-tab bekijken."
+#: engine-wizard/elm/Wizard/Common/View/FormGroup.elm:462
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:261
+msgid "You can use %s and see the result in the preview tab."
+msgstr ""
 
-#: engine-wizard/elm/Wizard/Common/View/FormGroup.elm:470
-msgid "You can use HTML or Markdown and see the result in the preview tab."
-msgstr "U kunt HTML of Markdown gebruiken en het resultaat zien in het voorbeeldtabblad."
+#: engine-wizard/elm/Wizard/Common/View/FormGroup.elm:472
+msgid "You can use HTML or %s and see the result in the preview tab."
+msgstr ""
 
-#: engine-wizard/elm/Wizard/Common/View/FormGroup.elm:546
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:245
+#: engine-wizard/elm/Wizard/Common/View/FormGroup.elm:548
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:247
 #: engine-wizard/elm/Wizard/Projects/Common/QuestionnaireShareFormMemberPermType.elm:63
 msgid "Editor"
 msgstr "Editor"
 
-#: engine-wizard/elm/Wizard/Common/View/FormGroup.elm:554
-#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:372
-#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/View.elm:140
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:253
+#: engine-wizard/elm/Wizard/Common/View/FormGroup.elm:556
+#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:409
+#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/View.elm:146
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:255
 #: engine-wizard/elm/Wizard/KMEditor/Editor/View.elm:194
 #: engine-wizard/elm/Wizard/KnowledgeModels/Common/KnowledgeModelActionsDropdown.elm:61
 #: engine-wizard/elm/Wizard/Projects/Detail/View.elm:298
 msgid "Preview"
 msgstr "Voorbeeld"
 
-#: engine-wizard/elm/Wizard/Common/View/FormGroup.elm:761
+#: engine-wizard/elm/Wizard/Common/View/FormGroup.elm:763
 msgid "Suggestions: "
 msgstr "Suggesties: "
 
-#: engine-wizard/elm/Wizard/Common/View/FormGroup.elm:780
+#: engine-wizard/elm/Wizard/Common/View/FormGroup.elm:782
 msgid "The version number is in format X.Y.Z. Increasing number Z indicates only some fixes, number Y minor changes, and number X indicates a major change."
 msgstr "Het versienummer heeft de vorm X.Y.Z. Voor kleine correcties verhoog Z, voor kleine veranderingen verhoog Y, en voor grote veranderingen verhoog X."
 
-#: engine-wizard/elm/Wizard/Common/View/Layout.elm:35
-#: engine-wizard/elm/Wizard/Common/View/Layout.elm:43
+#: engine-wizard/elm/Wizard/Common/View/Layout.elm:36
+#: engine-wizard/elm/Wizard/Common/View/Layout.elm:44
 msgid "Configuration Error"
 msgstr "Configuratiefout"
 
-#: engine-wizard/elm/Wizard/Common/View/Layout.elm:37
+#: engine-wizard/elm/Wizard/Common/View/Layout.elm:38
 msgid "Application is not configured correctly and cannot run."
 msgstr "De applicatie is niet correct geconfigureerd en werkt niet."
 
-#: engine-wizard/elm/Wizard/Common/View/Layout.elm:38
+#: engine-wizard/elm/Wizard/Common/View/Layout.elm:39
 msgid "Please, contact the administrator."
 msgstr "Neem alstublieft contact op met de beheerder."
 
-#: engine-wizard/elm/Wizard/Common/View/Layout.elm:97
+#: engine-wizard/elm/Wizard/Common/View/Layout.elm:98
 msgid "Go to App"
 msgstr "Ga naar App"
 
-#: engine-wizard/elm/Wizard/Common/View/Layout.elm:109
+#: engine-wizard/elm/Wizard/Common/View/Layout.elm:110
 #: engine-wizard/elm/Wizard/Public/Signup/View.elm:44
 #: engine-wizard/elm/Wizard/Public/Signup/View.elm:47
 #: engine-wizard/elm/Wizard/Settings/Registry/View.elm:78
@@ -1784,7 +1794,7 @@ msgstr "Ga naar App"
 msgid "Sign Up"
 msgstr "Registreer"
 
-#: engine-wizard/elm/Wizard/Common/View/Layout.elm:119
+#: engine-wizard/elm/Wizard/Common/View/Layout.elm:120
 #: engine-wizard/elm/Wizard/Public/Login/View.elm:92
 #: engine-wizard/elm/Wizard/Public/Login/View.elm:114
 #: engine-wizard/elm/Wizard/Public/Login/View.elm:128
@@ -2405,7 +2415,7 @@ msgstr "Controleer de metadata van het documentsjabloon voordat u publiceert. U 
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/PublishModal.elm:131
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/PublishModal.elm:143
-#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/View.elm:108
+#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/View.elm:114
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/PublishModal.elm:122
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/PublishModal.elm:134
 #: engine-wizard/elm/Wizard/KMEditor/Editor/View.elm:127
@@ -2415,12 +2425,12 @@ msgid "Publish"
 msgstr "Publiceer"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/PublishModal.elm:136
-#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:267
+#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:284
 msgid "Template ID"
 msgstr "Sjabloon ID"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/PublishModal.elm:138
-#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:269
+#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:286
 #: engine-wizard/elm/Wizard/DocumentTemplates/Detail/View.elm:221
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/PublishModal.elm:129
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/Settings.elm:190
@@ -2432,7 +2442,7 @@ msgid "License"
 msgstr "Licentie"
 
 #: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/PublishModal.elm:139
-#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:270
+#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:287
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/PublishModal.elm:130
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/Settings.elm:191
 #: engine-wizard/elm/Wizard/KMEditor/Publish/View.elm:82
@@ -2440,21 +2450,21 @@ msgstr "Licentie"
 msgid "Readme"
 msgstr "Readme"
 
-#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:203
+#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:208
 msgid "Unable to save document template"
 msgstr "Kan documentsjabloon niet opslaan"
 
-#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:238
+#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:255
 msgid "General"
 msgstr "Algemeen"
 
-#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:240
-#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:328
+#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:257
+#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:344
 #: engine-wizard/elm/Wizard/DocumentTemplates/Detail/View.elm:242
 msgid "Formats"
 msgstr "Formaten"
 
-#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:283
+#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:300
 #: engine-wizard/elm/Wizard/KnowledgeModels/Import/OwlImport/View.elm:43
 #: engine-wizard/elm/Wizard/Settings/KnowledgeModels/View.elm:48
 #: engine-wizard/elm/Wizard/Settings/Organization/View.elm:48
@@ -2462,7 +2472,7 @@ msgstr "Formaten"
 msgid "Organization ID"
 msgstr "Organisatie-ID"
 
-#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:284
+#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:301
 #: engine-wizard/elm/Wizard/KMEditor/Create/View.elm:93
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/PublishModal.elm:127
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/Settings.elm:188
@@ -2473,58 +2483,58 @@ msgstr "Organisatie-ID"
 msgid "Knowledge Model ID"
 msgstr "Kennismodel-ID"
 
-#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:285
+#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:302
 #: engine-wizard/elm/Wizard/Settings/KnowledgeModels/View.elm:50
 msgid "Min Version"
 msgstr "Oudste toegestane versie"
 
-#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:286
+#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:303
 #: engine-wizard/elm/Wizard/Settings/KnowledgeModels/View.elm:51
 msgid "Max Version"
 msgstr "Laatste toegestane versie"
 
-#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:291
+#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:308
 msgid "Allowed Knowledge Models"
 msgstr "Toegestane kennismodellen"
 
-#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:291
+#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:308
 #: engine-wizard/elm/Wizard/Settings/KnowledgeModels/View.elm:55
 msgid "Add knowledge model"
 msgstr "Kennismodel toevoegen"
 
-#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:328
+#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:344
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:109
 msgid "Add format"
 msgstr "Formaat toevoegen"
 
-#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:368
+#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:405
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:200
 #: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:138
 #: engine-wizard/elm/Wizard/Settings/LookAndFeel/View.elm:164
 msgid "Icon"
 msgstr "Pictogram"
 
-#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:375
+#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:412
 msgid "Steps"
 msgstr "Stappen"
 
-#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:375
+#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:412
 msgid "Add step"
 msgstr "Stap toevoegen"
 
-#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:405
+#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:461
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:815
 msgid "Options"
 msgstr "Opties"
 
-#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:407
+#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:463
 msgid "Add option"
 msgstr "Optie toevoegen"
 
-#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:421
-#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:444
+#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:477
+#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:500
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:817
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:401
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:405
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:240
 #: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:263
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:253
@@ -2532,24 +2542,30 @@ msgstr "Optie toevoegen"
 msgid "Value"
 msgstr "Waarde"
 
-#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Update.elm:59
-#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Update.elm:95
+#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Components/Settings.elm:521
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1721
+#: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:158
+msgid "Quick setup"
+msgstr "Snelle setup"
+
+#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Update.elm:62
+#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Update.elm:98
 msgid "There are unsaved changes."
 msgstr "Niet alle veranderingen zijn opgeslagen."
 
-#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Update.elm:142
+#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/Update.elm:145
 msgid "Unable to get document template"
 msgstr "Kan documentsjabloon niet ophalen"
 
-#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/View.elm:90
+#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/View.elm:96
 msgid "Discard"
 msgstr "Gooi weg"
 
-#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/View.elm:94
+#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/View.elm:100
 msgid "unsaved changes"
 msgstr "Niet-opgeslagen wijzigingen"
 
-#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/View.elm:131
+#: engine-wizard/elm/Wizard/DocumentTemplateEditors/Editor/View.elm:137
 msgid "Files"
 msgstr "Bestanden"
 
@@ -2650,8 +2666,8 @@ msgid "There is a newer version (%s) available."
 msgstr "Er is een nieuwere versie (%s) beschikbaar."
 
 #: engine-wizard/elm/Wizard/DocumentTemplates/Detail/View.elm:189
-msgid "This document template is not supported in this version of DSW."
-msgstr "Dit documentsjabloon wordt niet ondersteund in deze versie van DSW."
+msgid "This document template is not supported in the current version."
+msgstr ""
 
 #: engine-wizard/elm/Wizard/DocumentTemplates/Detail/View.elm:218
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1517
@@ -3480,11 +3496,6 @@ msgstr "Definieert de URL die wijst naar het geselecteerde item. Gebruik `${id}`
 msgid "No questions"
 msgstr "Geen vragen"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1721
-#: engine-wizard/elm/Wizard/Settings/Authentication/View.elm:158
-msgid "Quick setup"
-msgstr "Snelle setup"
-
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1737
 msgid "This integration was created from a template and now differs."
 msgstr "Deze integratie is gemaakt vanuit een sjabloon en verschilt daar nu van."
@@ -3695,32 +3706,32 @@ msgstr "Let op!"
 msgid "Select a new parent"
 msgstr "Kies een nieuwe ouder"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:393
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:397
 msgid "Key"
 msgstr "Sleutel"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:425
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:429
 msgid "Add annotation"
 msgstr "Voeg annotatie toe"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:429
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:433
 #: engine-wizard/elm/Wizard/KMEditor/Migration/View.elm:2458
 msgid "Annotations"
 msgstr "Annotaties"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:548
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:552
 msgid "Weight"
 msgstr "Gewicht"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:724
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:728
 msgid "Header Name"
 msgstr "Kopnaam"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:733
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:737
 msgid "Header Value"
 msgstr "Headerwaarde"
 
-#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:754
+#: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:758
 #: engine-wizard/elm/Wizard/Settings/Submission/View.elm:229
 msgid "Add header"
 msgstr "Kop toevoegen"
@@ -4301,8 +4312,8 @@ msgid "Disabled"
 msgstr "Uitgeschakeld"
 
 #: engine-wizard/elm/Wizard/Locales/Detail/View.elm:159
-msgid "DSW Version"
-msgstr "DSW-versie"
+msgid "Wizard Version"
+msgstr ""
 
 #: engine-wizard/elm/Wizard/Locales/Detail/View.elm:171
 msgid "Locale"
@@ -5929,8 +5940,8 @@ msgid "API Keys"
 msgstr "API Sleutels"
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:184
-msgid "You can generate an API key for every application you use that needs access to [DSW API](%s)."
-msgstr "U kunt een API-sleutel genereren voor elke toepassing die u gebruikt en die toegang nodig heeft tot [DSW API](%s)."
+msgid "You can generate an API key for every application you use that needs access to the [API](%s)."
+msgstr ""
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:201
 msgid "Your new API key"
@@ -6101,6 +6112,21 @@ msgstr "Niet toegestaan"
 #: engine-wizard/elm/Wizard/View.elm:160
 msgid "You don't have permission to view this page."
 msgstr "Je hebt geen toestemming deze pagina te bekijken."
+
+#~ msgid "You can use Markdown and see the result in the preview tab."
+#~ msgstr "Je kunt Markdown gebruiken en het resultaat in de voorbeeld-tab bekijken."
+
+#~ msgid "You can use HTML or Markdown and see the result in the preview tab."
+#~ msgstr "U kunt HTML of Markdown gebruiken en het resultaat zien in het voorbeeldtabblad."
+
+#~ msgid "This document template is not supported in this version of DSW."
+#~ msgstr "Dit documentsjabloon wordt niet ondersteund in deze versie van DSW."
+
+#~ msgid "DSW Version"
+#~ msgstr "DSW-versie"
+
+#~ msgid "You can generate an API key for every application you use that needs access to [DSW API](%s)."
+#~ msgstr "U kunt een API-sleutel genereren voor elke toepassing die u gebruikt en die toegang nodig heeft tot [DSW API](%s)."
 
 #~ msgid "Empty short UUID for page reference"
 #~ msgstr "Lege korte UUID als paginareferentie"
