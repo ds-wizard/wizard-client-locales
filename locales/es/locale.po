@@ -1,16 +1,6 @@
 # Remedios Melero <rmelero@iata.csic.es>, 2023.
 msgid ""
-msgstr ""
-"Project-Id-Version: wizard-client:3.18.3\n"
-"POT-Creation-Date: 2024-10-01T07:40:19.213Z \n"
-"PO-Revision-Date: 2024-09-30 04:46+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Spanish <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-10-0/es/>\n"
-"Language: es\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.18.2\n"
+msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2024-10-01T07:40:19.213Z\nPO-Revision-Date: 2024-10-01 13:35+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Spanish <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-11-0/es/>\nLanguage: es\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.18.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -1955,12 +1945,14 @@ msgstr "(opcional)"
 
 #: engine-wizard/elm/Wizard/Common/View/FormGroup.elm:462
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:261
+#, fuzzy
 msgid "You can use %s and see the result in the preview tab."
-msgstr ""
+msgstr "Puede utilizar %s y ver el resultado en la pestaña de vista previa."
 
 #: engine-wizard/elm/Wizard/Common/View/FormGroup.elm:472
+#, fuzzy
 msgid "You can use HTML or %s and see the result in the preview tab."
-msgstr ""
+msgstr "Puede utilizar HTML o %s y ver el resultado en la pestaña de vista previa."
 
 #: engine-wizard/elm/Wizard/Common/View/FormGroup.elm:548
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor/Input.elm:247
@@ -3052,8 +3044,9 @@ msgid "There is a newer version (%s) available."
 msgstr "Hay una versión más reciente (%s) disponible."
 
 #: engine-wizard/elm/Wizard/DocumentTemplates/Detail/View.elm:189
+#, fuzzy
 msgid "This document template is not supported in the current version."
-msgstr ""
+msgstr "Este modelo de documento no es compatible con la versión actual."
 
 #: engine-wizard/elm/Wizard/DocumentTemplates/Detail/View.elm:218
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Components/KMEditor.elm:1517
@@ -5020,8 +5013,9 @@ msgid "Disabled"
 msgstr "Deshabilitado"
 
 #: engine-wizard/elm/Wizard/Locales/Detail/View.elm:159
+#, fuzzy
 msgid "Wizard Version"
-msgstr ""
+msgstr "Versión para magos"
 
 #: engine-wizard/elm/Wizard/Locales/Detail/View.elm:171
 #, fuzzy
@@ -7005,8 +6999,9 @@ msgid "API Keys"
 msgstr "Claves API"
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:184
+#, fuzzy
 msgid "You can generate an API key for every application you use that needs access to the [API](%s)."
-msgstr ""
+msgstr "Puede generar una clave API para cada aplicación que utilice y que necesite acceder a la [API](%s)."
 
 #: engine-wizard/elm/Wizard/Users/Edit/Components/ApiKeys.elm:201
 #, fuzzy
