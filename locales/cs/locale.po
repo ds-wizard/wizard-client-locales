@@ -2103,7 +2103,7 @@ msgstr "Jako správce dat připravujete znalostní modely, šablony dokumentů a
 
 #: engine-wizard/elm/Wizard/Dashboard/Widgets/WelcomeWidget.elm:27
 msgid "As a researcher, you create and collaborate on data management plans."
-msgstr "Jako výzkumník vytváření a spolupracujete na projektech."
+msgstr "Jako výzkumník můžete vytvářet a spolupracovat na projektech."
 
 #: engine-wizard/elm/Wizard/Documents/Index/Update.elm:96
 #: engine-wizard/elm/Wizard/Documents/Index/Update.elm:244
