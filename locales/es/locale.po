@@ -1,6 +1,6 @@
 # Remedios Melero <rmelero@iata.csic.es>, 2023.
 msgid ""
-msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2024-10-01T07:40:19.213Z\nPO-Revision-Date: 2024-10-01 13:35+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Spanish <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-11-0/es/>\nLanguage: es\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.18.2\n"
+msgstr "Project-Id-Version: wizard-client:3.18.3\nPOT-Creation-Date: 2024-10-01T07:40:19.213Z\nPO-Revision-Date: 2024-10-15 07:01+0000\nLast-Translator: Anonymous <noreply@weblate.org>\nLanguage-Team: Spanish <https://localize.ds-wizard.org/projects/wizard-client/wizard-client-4-11-0/es/>\nLanguage: es\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.18.2\n"
 
 #: engine-shared/elm/Shared/Auth/Role.elm:29
 msgid "Admin"
@@ -3384,7 +3384,7 @@ msgstr "No hay opciones para las preguntas multirrespuesta"
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:986
 #, fuzzy
 msgid "No list question selected for item select question"
-msgstr "No se ha seleccionado ninguna pregunta de lista para la pregunta de selección de elementos"
+msgstr "No se ha seleccionado ninguna pregunta de la lista para la pregunta de selección de elementos"
 
 #: engine-wizard/elm/Wizard/KMEditor/Editor/Common/EditorBranch.elm:1013
 #, fuzzy
