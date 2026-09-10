@@ -7,7 +7,7 @@
 # Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>, 2026.
 # Chia-Hsun Wong <wanally@gmail.com>, 2026.
 msgid ""
-msgstr "Project-Id-Version: wizard-client:4.18.0\nPOT-Creation-Date: 2026-09-01T08:16:55.466Z\nPO-Revision-Date: 2026-09-01 11:41+0000\nLast-Translator: Weblate <noreply-mt-weblate@weblate.org>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/dsw-4-34/client/zh_Hant/>\nLanguage: zh_Hant\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\n"
+msgstr "Project-Id-Version: wizard-client:4.18.0\nPOT-Creation-Date: 2026-09-01T08:16:55.466Z\nPO-Revision-Date: 2026-09-11 04:12+0000\nLast-Translator: Cheng-Jen Lee <cjlee@iis.sinica.edu.tw>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/dsw-4-34/client/zh_Hant/>\nLanguage: zh_Hant\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\n"
 
 #: app-wizard/elm/Wizard/Api/Models/KnowledgeModel/Integration.elm:99
 #: app-wizard/elm/Wizard/Pages/KMEditor/Editor/Components/KMEditor.elm:1944
@@ -587,9 +587,8 @@ msgid "Experts"
 msgstr "專家"
 
 #: app-wizard/elm/Wizard/Components/KMComparison.elm:763
-#, fuzzy
 msgid "Follow-up Questions"
-msgstr "跟進式提問"
+msgstr "延伸問題"
 
 #: app-wizard/elm/Wizard/Components/KMComparison.elm:952
 #: app-wizard/elm/Wizard/Pages/KMEditor/Editor/Components/KMEditor.elm:3087
@@ -1654,7 +1653,7 @@ msgstr "展開"
 #: app-wizard/elm/Wizard/Components/Questionnaire/Components/QuestionnaireContent.elm:1513
 msgid "%s %s follow up question"
 msgid_plural "%s %s follow up questions"
-msgstr[0] "%s %s 後續問題"
+msgstr[0] "%s %s 延伸問題"
 
 #: app-wizard/elm/Wizard/Components/Questionnaire/Components/QuestionnaireContent.elm:1526
 #: app-wizard/elm/Wizard/Components/Questionnaire/Components/QuestionnaireContent.elm:2836
@@ -2161,7 +2160,7 @@ msgstr "我們會引導您建立自己的資料管理方案。"
 
 #: app-wizard/elm/Wizard/Pages/Dashboard/Update.elm:46
 msgid "Welcome to Data Stewardship Wizard"
-msgstr "歡迎使用資料管理精靈 (Data Stewardship Wizard)"
+msgstr "歡迎使用資料管家精靈 (Data Stewardship Wizard)"
 
 #: app-wizard/elm/Wizard/Pages/Dashboard/Update.elm:59
 msgid "Create and manage your data management plans here."
@@ -3776,7 +3775,7 @@ msgstr ""
 
 #: app-wizard/elm/Wizard/Pages/KMEditor/Editor/Components/KMEditor.elm:2664
 msgid "Follow-Up Questions"
-msgstr "跟進式提問"
+msgstr "延伸問題"
 
 #: app-wizard/elm/Wizard/Pages/KMEditor/Editor/Components/KMEditor.elm:2810
 #: app-wizard/elm/Wizard/Pages/KMEditor/Migration/View.elm:1690
