@@ -7,7 +7,7 @@
 # Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>, 2026.
 # Chia-Hsun Wong <wanally@gmail.com>, 2026.
 msgid ""
-msgstr "Project-Id-Version: wizard-client:4.18.0\nPOT-Creation-Date: 2026-09-01T08:16:55.466Z\nPO-Revision-Date: 2026-09-11 04:12+0000\nLast-Translator: Cheng-Jen Lee <cjlee@iis.sinica.edu.tw>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/dsw-4-34/client/zh_Hant/>\nLanguage: zh_Hant\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\n"
+msgstr "Project-Id-Version: wizard-client:4.18.0\nPOT-Creation-Date: 2026-09-01T08:16:55.466Z\nPO-Revision-Date: 2026-09-11 15:41+0000\nLast-Translator: Chia-Hsun Wong <wanally@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/dsw-4-34/client/zh_Hant/>\nLanguage: zh_Hant\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\n"
 
 #: app-wizard/elm/Wizard/Api/Models/KnowledgeModel/Integration.elm:99
 #: app-wizard/elm/Wizard/Pages/KMEditor/Editor/Components/KMEditor.elm:1944
@@ -559,7 +559,7 @@ msgstr "答案"
 
 #: app-wizard/elm/Wizard/Components/KMComparison.elm:557
 msgid "Item Template Questions"
-msgstr ""
+msgstr "項目模版問題"
 
 #: app-wizard/elm/Wizard/Components/KMComparison.elm:568
 #: app-wizard/elm/Wizard/Pages/KMEditor/Editor/Components/KMEditor.elm:1539
@@ -609,6 +609,7 @@ msgstr "章節"
 #: app-wizard/elm/Wizard/Components/Questionnaire/Components/SearchRightPanel.elm:203
 #: app-wizard/elm/Wizard/Pages/KMEditor/Editor/Components/KMEditor.elm:1190
 #: app-wizard/elm/Wizard/Pages/KMEditor/Editor/Components/KMEditor.elm:2938
+#, fuzzy
 msgid "Question"
 msgstr "問題"
 
@@ -671,27 +672,27 @@ msgstr "資源匯集"
 
 #: app-wizard/elm/Wizard/Components/KMComparison/SidePanel.elm:150
 msgid "Added"
-msgstr ""
+msgstr "已新增"
 
 #: app-wizard/elm/Wizard/Components/KMComparison/SidePanel.elm:153
 msgid "Removed"
-msgstr ""
+msgstr "已移除"
 
 #: app-wizard/elm/Wizard/Components/KMComparison/SidePanel.elm:156
 msgid "Changed"
-msgstr ""
+msgstr "已變更"
 
 #: app-wizard/elm/Wizard/Components/KMComparison/SidePanel.elm:159
 msgid "No Change"
-msgstr ""
+msgstr "未變更"
 
 #: app-wizard/elm/Wizard/Components/KMComparison/SidePanel.elm:166
 msgid "UUID"
-msgstr ""
+msgstr "UUID"
 
 #: app-wizard/elm/Wizard/Components/KMComparison/SidePanel.elm:204
 msgid "Click to copy"
-msgstr ""
+msgstr "點擊即可複製"
 
 #: app-wizard/elm/Wizard/Components/KMComparison/SidePanel.elm:225
 #: app-wizard/elm/Wizard/Components/KMComparison/SidePanel.elm:237
@@ -769,7 +770,7 @@ msgstr "檔案類型"
 #: app-wizard/elm/Wizard/Components/KMComparison/SidePanel.elm:349
 #: app-wizard/elm/Wizard/Components/KMComparison/SidePanel.elm:576
 msgid "Max Size"
-msgstr ""
+msgstr "大小上限"
 
 #: app-wizard/elm/Wizard/Components/KMComparison/SidePanel.elm:358
 #: app-wizard/elm/Wizard/Components/KMComparison/SidePanel.elm:584
@@ -1718,7 +1719,7 @@ msgstr ""
 
 #: app-wizard/elm/Wizard/Components/Questionnaire/Components/QuestionnaireContent.elm:2550
 msgid "Plugin error."
-msgstr ""
+msgstr "外掛 (Plugin) 錯誤。"
 
 #: app-wizard/elm/Wizard/Components/Questionnaire/Components/QuestionnaireContent.elm:2625
 msgid "There are no results for your search."
@@ -1742,7 +1743,7 @@ msgstr "下移"
 
 #: app-wizard/elm/Wizard/Components/Questionnaire/Components/QuestionnaireContent.elm:2813
 msgid "All questions in this item are hidden by the current view settings."
-msgstr ""
+msgstr "目前檢視設定已隱藏此項目中的所有問題。"
 
 #: app-wizard/elm/Wizard/Components/Questionnaire/Components/QuestionnaireContent.elm:2816
 msgid "This item contains no questions."
@@ -1952,7 +1953,7 @@ msgstr "新版本"
 
 #: app-wizard/elm/Wizard/Components/Questionnaire/Components/WarningsRightPanel.elm:45
 msgid "All warnings have been resolved!"
-msgstr ""
+msgstr "所有警告都已解決！"
 
 #: app-wizard/elm/Wizard/Components/Questionnaire/Importer.elm:88
 msgid "Question not found at: %s"
@@ -1960,15 +1961,16 @@ msgstr "此處找不到該問題：%s"
 
 #: app-wizard/elm/Wizard/Components/Questionnaire/Importer.elm:91
 msgid "Unexpected reply type at: %s"
-msgstr ""
+msgstr "未預期的回覆類型：%s"
 
 #: app-wizard/elm/Wizard/Components/Questionnaire/Importer.elm:94
 msgid "Unexpected answer UUID \"%s\" at: %s"
-msgstr ""
+msgstr "未預期的答案 UUID \"%s\"：%s"
 
 #: app-wizard/elm/Wizard/Components/Questionnaire/QuestionnaireVirtualization.elm:587
+#, fuzzy
 msgid "Ch. %s: "
-msgstr ""
+msgstr "Ch. %s: "
 
 #: app-wizard/elm/Wizard/Components/QuestionnaireVersionTag.elm:19
 msgid "Current"
