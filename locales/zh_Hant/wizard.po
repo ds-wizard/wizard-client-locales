@@ -7,7 +7,7 @@
 # Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>, 2026.
 # Chia-Hsun Wong <wanally@gmail.com>, 2026.
 msgid ""
-msgstr "Project-Id-Version: wizard-client:4.18.0\nPOT-Creation-Date: 2026-09-01T08:16:55.466Z\nPO-Revision-Date: 2026-09-11 15:41+0000\nLast-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/dsw-4-34/client/zh_Hant/>\nLanguage: zh_Hant\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\n"
+msgstr "Project-Id-Version: wizard-client:4.18.0\nPOT-Creation-Date: 2026-09-01T08:16:55.466Z\nPO-Revision-Date: 2026-09-11 15:41+0000\nLast-Translator: Chia-Hsun Wong <wanally@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://localize.ds-wizard.org/projects/dsw-4-34/client/zh_Hant/>\nLanguage: zh_Hant\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.17.1\n"
 
 #: app-wizard/elm/Wizard/Api/Models/KnowledgeModel/Integration.elm:99
 #: app-wizard/elm/Wizard/Pages/KMEditor/Editor/Components/KMEditor.elm:1944
@@ -796,7 +796,7 @@ msgstr "類型"
 #: app-wizard/elm/Wizard/Components/KMComparison/SidePanel.elm:368
 #: app-wizard/elm/Wizard/Components/KMComparison/SidePanel.elm:594
 msgid "Required Phase"
-msgstr ""
+msgstr "必要階段"
 
 #: app-wizard/elm/Wizard/Components/KMComparison/SidePanel.elm:610
 #: app-wizard/elm/Wizard/Components/KMComparison/SidePanel.elm:622
@@ -1402,7 +1402,7 @@ msgstr "確定要刪除這個評論嗎？"
 
 #: app-wizard/elm/Wizard/Components/Questionnaire/Components/CommentsRightPanel.elm:919
 msgid "Copy link to comment thread"
-msgstr ""
+msgstr "複製留言串連結"
 
 #: app-wizard/elm/Wizard/Components/Questionnaire/Components/CommentsRightPanel.elm:941
 msgid "Resolve comment thread"
